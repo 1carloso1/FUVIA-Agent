@@ -1,0 +1,34 @@
+# --- Secretos y Configuración ---
+.env
+
+# --- Entornos Virtuales de Python ---
+venv/
+.venv/
+env/
+bin/
+lib/
+include/
+
+# --- Datos y PDFs (Archivos pesados) ---
+# Ignoramos todas tus carpetas de datos para no saturar Git
+data/
+data_cleaned/
+data_corrupted/
+
+# --- Base de Datos Vectorial ---
+# No se sube la DB local, se regenera con el script de ingesta
+chroma_db/
+
+# --- Archivos temporales de Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# --- Logs y Debugging ---
+*.log
+ingest.log
+
+# --- Archivos de sistema ---
+.DS_Store
+Thumbs.db
