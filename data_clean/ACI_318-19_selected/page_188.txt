@@ -1,0 +1,40 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 188/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+[COMMENTARY] for timely identification of either compliance or the need for corrective action. A complete record of testing allows the concrete producer to reliably establish appropriate mixture proportions for future work.
+
+[CODE] 26.12.2 Frequency of testing
+
+[COMMENTARY] R26.12.2 Frequency of testing
+
+[CODE] 26.12.2.1 Compliance requirements:
+[CODE] (a) Samples for preparing strength-test specimens of each concrete mixture placed each day shall be taken in accor-
+dance with (1) through (3): (1) At least once a day. (2) At least once for each 150 yd? of concrete. (3) At least once for each 5000 ft? of surface area for slabs or walls. (b) On a given project, if total volume of concrete is such that frequency of testing would provide fewer than five strength tests for a given concrete mixture, strength test
+specimens shall be made from at least five randomly selected batches or from each batch if fewer than five batches are used. (c) If the total quantity of a given concrete mixture is less
+than 50 yd°, strength tests are not required if evidence of satisfactory strength is submitted to and approved by the building official. (d) For shotcrete, prepare a shotcrete test panel for each mixture and each nozzle operator at least once per day or for every 50 yd? placed, whichever results in the greater
+number of panels.
+
+[COMMENTARY] R26.12.2.1(a) Concrete samples for preparing strength- test specimens are to be taken on a strictly random basis if they are to measure properly the acceptability of the concrete. To be representative within the period of place- ment, the choice of sampling times, or the concrete batches to be sampled, is to be made on the basis of chance alone. Batches are not sampled on the basis of appearance, conve- nience, or another possibly biased criterion, because the statistical analyses will lose their validity. ASTM D3665 describes procedures for random selection of the batches to be tested. Specimens for one strength test (as defined in 26.12.1.1(a)) are to be made from a single batch, and ASTM
+C172 requires that the sample be taken only after all adjust-
+ments to the batch are made. In calculating surface area, only one side of the slab or wall is considered. Criterion (3) will require more frequent sampling than once for each 150 yd? placed if average wall or slab thickness is less than 9-3/4 in.
+
+[CODE] 26.12.3 Acceptance criteria for standard-cured specimens
+
+[COMMENTARY] R26.12.3 Acceptance criteriafor standard-cured specimens
+
+[CODE] 26.12.3.1 Compliance requirements:
+
+[COMMENTARY] R26.12.3.1 Evaluation and acceptance of the concrete can be determined as test results are received during the course of the Work. Strength tests failing to meet these criteria will occur occasionally, with a probability of approximately once in 100 tests (ACI 214R) even though concrete strength and uniformity are satisfactory. Allowance should be made for such statistically expected variations in deciding whether the strength being produced is adequate. The strength accep- tance criteria of 26.12.3.1(a) apply to test results from either
+4x 8 in. or 6 x 12 in. test cylinders permitted in 26.12.1.1(a).
+The average difference (Carino et al. 1994) between test results obtained by the two specimen sizes is not considered to be significant in design.
+
+[CODE] (a) Strength level of a concrete mixture shall be acceptable if (1) and (2) are satisfied: (1) Every average of any three consecutive strength tests equals or exceeds f,'. (2) No strength test falls below f,' by more than 500 psi if f.' is 5000 psi or less; or by more than 0.10f,' if f.’ exceeds 5000 psi.
+[CODE] (b) If either of the requirements of 26.12.3.1(a) is not satis- fied, steps shall be taken to increase subsequent strength tests.
+
+[COMMENTARY] R26.12.3.1(b) The steps taken to increase the values of subsequent strength tests will depend on the particular circum- stances but could include one or more of (a) through (g):
+[COMMENTARY] (a) Increase in cementitious materials content; (b) Reduction in or better control of water content; (c) Use of a water-reducing admixture to improve the dispersion of cementitious materials;
+
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

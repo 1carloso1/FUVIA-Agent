@@ -1,0 +1,62 @@
+[DOCUMENT: ACI_211.4R-08]
+[PAGE: 7/23]
+[LAYOUT: continuous]
+============================================================
+ACI COMMITTEE REPORT
+211.4R-8
+Table 6.2—Suggested maximum-size coarse
+aggregate
+
+Table 6.4—First estimate of mixing water requirement and air content of freshly
+mixed concrete based on using fine
+aggregate with 35% voids
+
+Suggested maximum-size coarse
+Required concrete strength, psi
+aggregate, in.
+<9000 3/4 to 1 >9000 3/8 to 1/2"
+
+Mixing water, lb/yd>” Maximum-size coatse aggregate, in.
+
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: compressive strength f'c requirements.]
+“When using HRWRA and selected coarse aggregate, concrete compressive strengths
+in the range of 9000 to 12,000 psi can be attained using larger-than-recommended
+nominal maximum-size coarse aggregates of up to I in.
+
+Slump, in. 3/8 1/2 3/4 1 1 to2 310 295 285 280 2to3 320 310 295 290 3 to4 330 320 305 300 Entrapped air content 3 (2.5) |2.5 (2.0)"} 2 (.5)* ] 1.5 (L.0yF
+
+Table 6.3—Recommended volume of coarse
+aggregate per unit volume of concrete Optimum coarse aggregate contents for nominal maximum sizes of
+aggregates to be used with fine aggregates with fineness modulus of 2.5 to 3.2 Nominal maximum size, in. 3/8 1/2 3/4 1 Fractional volume’ of oven-dry-
+rodded coarse aggregate (VCA) 0.65 0.68 0.72 0.75 “Volumes are based on aggregates in oven-dry-rodded condition as described in
+ASTM C29/C29M for unit mass or bulk density of aggregates.
+
+“Values given must be adjusted for fine aggregates with voids other than 35% using Eq. (6-3).
+‘Mixtures made using HRWRA.
+[TABLE: Table 6.3—Recommended volume of coarse]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; air content requirements; particle size distribution limits by sieve size; chemical admixture type classification and performance requirements.]
+the aggregate; the quantity of cement; the amount of fly ash; and the type of chemical admixture used. Therefore, the
+most effective way to determine the best proportions for a given set of ingredients is through the process of trial batching. If an HRWRA is used, the water content in this admixture is calculated to be a part of the w/cm. Table 6.4 gives estimates of required mixing water for high-strength concrete made with 3/8 to 1 in. maximum-size aggregates before adding any chemical admixture. Also given are the corresponding estimated values for entrapped air content. These quantities of mixing water are maximums for reasonably well-shaped, clean, angular coarse aggregates, well-graded within the limits of ASTM C33. Because particle shape and surface texture of a fine aggregate can significantly influence its voids content, mixing water requirements may be different from the values given. The void content of a fine aggregate may be calculated using Eq. (6-2)
+
+Because this slump is chemically induced and not the result of added water, traditional slump limits do not apply. The required concrete strength to use in the trial mixture procedure should be determined using the guidelines provided in Chapter 2. 6.2.3.2 Step 2: Select maximum size of aggregate—Based
+on strength requirements, the recommended nominal
+maximum sizes for coarse aggregates are given in Table 6.2. Also, ACI 318 states the maximum size of an aggregate should not exceed 1/5 of the narrowest dimension between sides of forms, 1/3 of the depth of slabs or concrete element, nor 3/4 of the minimum clear spacing between individual rein- forcing bars, bundles of bars, or prestressing tendons or ducts. 6.2.3.3 Step 3: Select optimum coarse aggregate content—
+The optimum content of the coarse aggregate depends on its strength, potential characteristics, and maximum size. In proportioning normal-strength concrete mixtures, the
+optimum content of coarse aggregate is given as a function of the maximum size and fineness modulus of the fine aggregate. High-strength concrete mixtures, however, have a high content of cementitious material and thus are not so dependent on the fine aggregate to supply fines for lubrication
+and consolidation of the fresh concrete. The recommended coarse aggregate contents, expressed as a fraction of the bulk density, are given in Table 6.3 as a function of nominal maximum size. The values given in Table 6.3 are recommended for use with fine aggregates
+having fineness modulus values from 2.5 to 3.2. Once the coarse aggregate content has been chosen from Table 6.3, the required mass of the coarse aggregate per cubic yard of concrete can be calculated using Eq. (6-1)
+
+relative density x 62.
+Void content V, % = (1 — x 100 (6-2)
+bulk density
+Whena fine aggregate with a void content other than 35% is used, an adjustment is made to the recommended mixing water content. This adjustment (the amount to be added or reduced) may be calculated using Eq. (6-3)
+Mixing water adjustment, Ib/yd? = (V—35)x8 (6-3)
+[TABLE: Table 6.2. Also, ACI 318 states the maximum size of an aggre]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits.]
+The use of Eq. (6-3) results in a water adjustment of 8 Ib/yd? of concrete for each 1% deviation from 35% void content. 6.2.3.5 Step 5: Select w/cm—The w/cm is calculated by dividing the mass of the mixing water by the combined mass of the cement and fly ash (and other cementitious materials). In Table 6.5, recommended maximum w/cm is given as a function of maximum-size aggregate to achieve different compressive strengths at either 28 or 56 days. The use of an
+HRWRA generally increases the compressive strength of concrete. The w/cm values given in Table 6.5 are for concrete made with and without HRWRA. The committee is aware of high-strength concrete proportioned without the use of HRWRA, however, the use
+
+Mass of coarse aggregate = VCA x bulk density x 27 (6-1)
+where VCA is the fractional volume from Table 6.3. 6.2.3.4 Step 4: Estimate mixing water and air content—
+The quantity of water per unit volume of concrete required to produce a given slump is dependent on many factors, including the maximum size, particle shape, and grading of

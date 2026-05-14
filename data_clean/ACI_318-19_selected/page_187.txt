@@ -1,0 +1,47 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 187/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 9: CONSTRUCTION 549
+
+
+[COMMENTARY] of specimens representing a strength test should be the
+same for each concrete mixture. The cylinder size should be
+agreed upon by the owner, licensed design professional, and testing agency before construction. Testing three instead of two 4 x 8 in. cylinders preserves the confidence level of the average strength because 4 x 8 in. cylin- ders tend to have approximately 20 percent higher within-test variability than 6 x 12 in. cylinders (Carino et al. 1994), Representative concrete samples for making strength- test specimens are obtained from concrete as delivered to the project site. For example, samples of concrete delivered in a truck mixer would be obtained from the truck chute at discharge. ASTM C172 provides requirements for sampling concrete from different equipment used in the production or transportation of concrete. Note that the term “strength test” does not apply to results
+of tests on cylinders field cured in or on the structure as
+described in ASTM C31, nor does it apply to results of tests
+on cylinders from laboratory trial batches.
+[COMMENTARY] oo Construction
+
+[CODE] (b) For shotcrete, a strength test shall be the average strength of at least three 3 in. nominal diameter cores
+taken from a test panel prepared in accordance with ASTM
+C1140 and tested at 28 days from time of placement or at test age designated for f.". (c) The testing agency performing acceptance testing shall
+comply with ASTM C1077.
+
+[COMMENTARY] R26.12.1.1(c) ASTM C1077 defines the duties, respon- sibilities, and minimum technical requirements of testing
+agency personnel and defines the technical requirements for equipment used in testing concrete and concrete aggre- gates. Agencies that test cylinders or cores to determine
+compliance with Code requirements should be accredited or inspected for conformance to the requirements of ASTM
+C1077 by a recognized evaluation authority.
+[COMMENTARY] R26.12.1.1(d) Technicians can become certified through testing and training programs that include written and
+performance examinations. Field technicians in charge of sampling concrete; testing for slump, density (unit weight), yield, air content, and temperature; and making and curing test specimens should be certified in accordance with the
+ACI Concrete Field Testing Technician—Grade 1 Certifica- tion Program (ACI CPP 610.1-18) or an equivalent program
+meeting the requirements of ASTM C1077.
+
+[CODE] (d) Certified field testing technicians shall perform tests
+on fresh concrete at the job site, prepare specimens for standard curing, prepare specimens for field curing, if required, and record the temperature of the fresh concrete
+when preparing specimens for strength tests.
+
+[COMMENTARY] R26.12.1.1(e) Concrete laboratory testing technicians
+performing strength testing should be certified in accor-
+dance with the ACI Concrete Strength Testing Technician Certification Program (ACI CPP 620.2-12) or an equivalent
+program meeting the requirements of ASTM C1077.
+
+[CODE] (e) Certified laboratory technicians shall perform required laboratory tests.
+
+[COMMENTARY] R26.12.1.1(f) The Code requires testing reports to be distributed to the parties responsible for the design, construc- tion, and approval of the Work. Such distribution of test reports should be indicated in contracts for inspection and testing services. Prompt distribution of testing reports allows
+
+[CODE] (f) All reports of acceptance tests shall be provided to the licensed design professional, contractor, concrete producer, and, if requested, to the owner and the building official.
+
+[COMMENTARY] aci*
+_
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

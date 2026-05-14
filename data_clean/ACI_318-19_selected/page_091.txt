@@ -1,0 +1,50 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 91/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 5: EARTHQUAKE RESISTANCE 307
+
+
+[COMMENTARY] because of the uncertainty in moment distributions along the height and the need for confinement of lap splices subjected to stress reversals (Sivakumar et al. 1983).
+[COMMENTARY] _ Seismic
+
+[CODE] 18.7.4.3 Over column clear height, longitudinal reinforce-
+ment shall be selected such that 1.25¢, < @,,/2.
+
+[COMMENTARY] R18.7.4.3 Bond splitting failure along longitudinal bars within the clear column height may occur under earthquake
+demands (Ichinose 1995; Sokoli and Ghannoum 2016). Splitting can be controlled by restricting longitudinal bar size, increasing the amount of transverse reinforcement, or increasing concrete strength, all of which reduce the devel-
+opment length of longitudinal bars (£3) over column clear height (¢,,). Increasing the ratio of column-to-beam moment strength at joints can reduce the inelastic demands on longi- tudinal bars in columns under earthquake demands.
+
+[CODE] 18.7.4.4 Mechanical splices shall conform to 18.2.7 and
+welded splices shall conform to 18.2.8. Lap splices shall be permitted only within the center half of the member length, shall be designed as tension lap splices, and shall be enclosed within transverse reinforcement in accordance with 18.7.5.2
+and 18.7.5.3.
+[CODE] 18.7.5 Transverse reinforcement
+
+[COMMENTARY] R18.7.5 Transverse reinforcement
+[COMMENTARY] This section is concerned with confining the concrete and providing lateral support to the longitudinal reinforcement.
+
+[CODE] 18.7.5.1 Transverse reinforcement required in 18.7.5.2
+through 18.7.5.4 shall be provided over a length f, from each joint face and on both sides of any section where flexural yielding is likely to occur as a result of lateral displacements
+beyond the elastic range of behavior. Length @, shall be at least the greatest of (a) through (c):
+
+[COMMENTARY] R18.7.5.1 This section stipulates a minimum length over
+which to provide closely-spaced transverse reinforcement at the column ends, where flexural yielding normally occurs.
+Research results indicate that the length should be increased
+by 50 percent or more in locations, such as the base of a building, where axial loads and flexural demands may be especially high (Watson et al. 1994),
+
+[CODE] (a) The depth of the column at the joint face or at the section where flexural yielding is likely to occur (b) One-sixth of the clear span of the column (c) 18 in.
+[CODE] 18.7.5.2 Transverse reinforcement shall be in accordance with (a) through (f):
+
+[COMMENTARY] R18.7.5.2 Sections 18.7.5.2 and 18.7.5.3 provide require-
+ments for configuration of transverse reinforcement for
+columns and joints of special moment frames. Figure R18.7.5.2 shows an example of transverse reinforcement
+provided by one hoop and three crossties. Crossties with a 90-degree hook are not as effective as either crossties
+with 135-degree hooks or hoops in providing confinement.
+For lower values of P,/A,f-' and lower concrete compres- sive strengths, crossties with 90-degree hooks are adequate if the ends are alternated along the length and around the perimeter of the column. For higher values of P,/Agf,', for
+which compression-controlled behavior is expected, and for higher compressive strengths, for which behavior tends to be more brittle, the improved confinement provided by
+having corners of hoops or seismic hooks supporting all
+
+[CODE] (a) Transverse reinforcement shall comprise either single or overlapping spirals, circular hoops, or single or over- lapping rectilinear hoops with or without crossties. (b) Bends of rectilinear hoops and crossties shall engage peripheral longitudinal reinforcing bars. (c) Crossties of the same or smaller bar size as the hoops shall be permitted, subject to the limitation of 25.7.2.2. Consecutive crossties shall be alternated end for end along the longitudinal reinforcement and around the perimeter of the cross section.
+
+[COMMENTARY] acl}
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

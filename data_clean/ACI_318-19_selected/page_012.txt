@@ -1,0 +1,43 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 12/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] equivalent concrete stress corresponding to nominal
+two-way shear strength of slab or footing, psi
+[CODE] Vn =
+[CODE] equivalent concrete stress corresponding to nominal
+two-way shear strength provided by reinforcement,
+psi
+maximum factored two-way shear stress calculated
+around the perimeter of a given critical section, psi
+[CODE] Vs =
+[CODE] Vu =
+[CODE] factored shear stress on the slab critical section for
+two-way action, from the controlling load combi- nation, without moment transfer, psi
+
+[COMMENTARY] shear force acting on anchor or anchor group, Ib
+= maximum shear force that can be applied parallel to the edge, Ib
+maximum shear force that can be applied perpen- dicular to the edge, lb
+
+[CODE] basic concrete breakout strength in shear of a single
+anchor in cracked concrete, lb
+nominal bearing strength of a shear lug in direction of shear, lb
+= nominal shear strength provided by concrete, lb nominal concrete breakout strength in shear of a single anchor, lb
+= nominal concrete breakout strength in shear of a group of anchors, Ib
+= nominal concrete breakout strength in shear of attachment with shear lugs, lb
+nominal shear strength provided by concrete where diagonal cracking results from combined shear and
+moment, Ib
+nominal concrete pryout strength of a single anchor, Ib
+= nominal concrete pryout strength of a group of anchors, lb
+nominal shear strength provided by concrete where diagonal cracking results from high principal tensile stress in web, Ib shear force at section due to unfactored dead load, Ib design shear force for load combinations including earthquake effects, Ib factored shear force at section due to externally applied loads occurring simultaneously with Mina, Ib
+nominal shear strength, Ib
+nominal horizontal shear strength, Ib
+= vertical component of effective prestress force at section, lb
+nominal shear strength provided by shear reinforce- ment, Ib
+nominal shear strength of a single anchor or indi- vidual anchor in a group of anchors as governed by the steel strength, Ib
+= factored shear force at section, lb
+= factored shear force applied to a single anchor or group of anchors, Ib
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

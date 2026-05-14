@@ -1,0 +1,50 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 41/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 3: MEMBERS 135
+
+
+
+[CODE] zone by an amount equal to M,/(0.9df,), where M,, occurs
+simultaneously with 7, at that section, except that the longitudinal reinforcement area shall not be less than the
+minimum required in 9.6.4.
+
+[COMMENTARY] allowing a reduction in the longitudinal torsional reinforce-
+ment required in the compression zone.
+
+[CODE] 9.5.4.6 For solid sections with an aspect ratio h/b, > 3, it shall be permitted to use an alternative design procedure,
+provided the adequacy of the procedure has been shown by analysis and substantial agreement with results of compre- hensive tests. The minimum reinforcement requirements of 9.6.4 need not be satisfied, but the detailing requirements of 9.7.5 and 9.7.6.3 apply.
+
+[COMMENTARY] R9.5.4.6 An example of an alternative design that satisfies this provision can be found in Zia and Hsu (2004), which has
+been extensively and successfully used for design of precast, prestressed concrete spandrel beams with h/b, >3 and closed stirrups. The seventh edition of the PCI Design Handbook
+(PCI MNL-120) describes the procedure of Zia and Hsu (2004). This procedure was experimentally verified by the tests described in Klein (1986).
+
+[CODE] 9.5.4.7 For solid precast sections with an aspect ratio h/b,
+> 4.5, it shall be permitted to use an alternative design proce- dure and open web reinforcement, provided the adequacy
+of the procedure and reinforcement have been shown by analysis and substantial agreement with results of compre- hensive tests. The minimum reinforcement requirements of 9.6.4 and detailing requirements of 9.7.5 and 9.7.6.3 need not be satisfied.
+
+[COMMENTARY] R9.5.4.7 The experimental results described in Lucier et al. (2011a) demonstrate that properly designed open web reinforcement is a safe and effective alternative to traditional closed stirrups for precast spandrels with h/b, > 4.5. Lucier et al. (2011b) presents a design procedure that satisfies this
+[COMMENTARY] O) Beams
+[COMMENTARY] provision for slender spandrels and describes the limited conditions to which the procedure applies.
+[COMMENTARY] R9.6—Reinforcement limits R9.6.1 Minimum flexural reinforcement in nonprestressed
+beams
+
+[CODE] 9.6—Reinforcement limits 9.6.1 Minimum flexural reinforcement in nonprestressed
+beams
+[CODE] 9.6.1.1 A minimum area of flexural reinforcement, Agmin, shall be provided at every section where tension reinforce-
+ment is required by analysis.
+
+[COMMENTARY] R9.6.1.1 This provision is intended to result in flexural strength exceeding the cracking strength by a margin. The objective is to produce a beam that will be able to sustain loading after the onset of flexural cracking, with visible cracking and deflection, thereby warning of possible over- load. Beams with less reinforcement may sustain sudden failure with the onset of flexural cracking. In practice, this provision only controls reinforcement design for beams which, for architectural or other reasons, are larger in cross section than required for strength. With a small amount of tension reinforcement required for strength, the calculated moment strength of a reinforced concrete section using cracked section analysis becomes less than that of the corresponding unreinforced concrete section calculated from its modulus of rupture. Failure in such a case could occur at first cracking and without warning. To prevent
+such a failure, a minimum amount of tension reinforcement is required in both positive and negative moment regions.
+
+[CODE] 9.6.1.2 As min Shall be the larger of (a) and (b), except as provided in 9.6.1.3. For a statically determinate beam with a flange in tension, the value of b, shall be the smaller of by
+and 2b,,. The value of f, shall be limited to a maximum of
+80,000 psi. (a) WE na
+
+[COMMENTARY] R9.6.1.2 If the flange of a section is in tension, the amount of tension reinforcement needed to make the strength of the reinforced section equal that of the unreinforced section is approximately twice that for a rectangular section or that of a flanged section with the flange in compression. A larger
+amount of minimum tension reinforcement is particularly necessary in cantilevers and other statically determinate
+beams where there is no possibility for redistribution of moments.
+[COMMENTARY] aci=
+I
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

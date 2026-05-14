@@ -1,0 +1,28 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 70/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] 286 ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] 18.2.1.2 All members shall satisfy Chapters 1 to 17 and 19 to 26. Structures assigned to SDC B, C, D, E, or F also shall satisfy 18.2.1.3 through 18.2.1.7, as applicable. Where
+Chapter 18 conflicts with other chapters of this Code,
+Chapter 18 shall govern.
+
+[COMMENTARY] Chapter 18 in addition to all other applicable requirements
+of this Code. Sections 18.2.1.3 through 18.2.1.5 identify those parts of
+Chapter 18 that apply to the building based on its assigned
+SDC, regardless of the vertical elements of the seismic- force-resisting system. ASCE/SEI 7 defines the permissible vertical elements of the seismic-force-resisting system and applies where adopted. The remaining commentary of R18.2
+summarizes the intent of ACI 318 regarding which vertical elements should be permissible in a building considering its SDC. Section 18.2.1.6 defines the requirements for the vertical elements of the seismic-force-resisting system. The design and detailing requirements should be compat- ible with the level of inelastic response assumed in the calcu- lation of the design earthquake forces. The terms “ordinary,” “imtermediate,” and “special” are used to facilitate this compatibility. For any given structural element or system, the terms “ordinary,” “intermediate,” and “special,” refer to increasing requirements for detailing and proportioning, with expectations of increased deformation capacity. Struc- tures assigned to SDC B are not expected to be subjected to strong ground motion, but instead are expected to expe- rience low levels of ground motion at long time intervals. This Code provides some requirements for beam-column ordinary moment frames to improve deformation capacity. Structures assigned to SDC C may be subjected to moder- ately strong ground motion. The designated seismic-force- resisting system typically comprises some combination of ordinary cast-in-place structural walls, intermediate precast structural walls, and intermediate moment frames. The general building code also may contain provisions for use of other seismic-force-resisting systems in SDC C. Provi- sion 18.2.1.6 defines requirements for whatever system is selected. Structures assigned to SDC D, E, or F may be subjected to strong ground motion. It is the intent of ACI Committee 318 that the seismic-force-resisting system of structural concrete buildings assigned to SDC D, E, or F be provided by special
+moment frames, special structural walls, or a combination
+of the two. In addition to 18.2.2 through 18.2.8, these struc- tures also are required to satisfy requirements for continuous inspection (26.13.1.3), diaphragms and trusses (18.12), foun- dations (18.13), and gravity-load-resisting elements that are not designated as part of the seismic-force-resisting system (18.14). These provisions have been developed to provide the structure with adequate deformation capacity for the high demands expected for these seismic design categories. The general building code may also permit the use of inter- mediate moment frames as part of dual systems for some buildings assigned to SDC D, E, or F. It is not the intent
+of ACI Committee 318 to recommend the use of interme- diate moment frames as part of moment-resisting frame or dual systems in SDC D, E, or F. The general building code
+may also permit substantiated alternative or nonprescriptive designs or, with various supplementary provisions, the use
+
+[CODE] 18.2.1.3 Structures assigned to SDC B shall satisfy 18.2.2.
+[CODE] 18.2.1.4 Structures assigned to SDC C shall satisfy 18.2.2, 18.2.3, and 18.13.
+[CODE] 18.2.1.5 Structures assigned to SDC D, E, or F shall satisfy 18.2.2 through 18.2.8 and 18.12 through 18.14.
+[CODE] 18.2.1.6 Structural systems designated as part of the seismic-force-resisting system shall be restricted to those designated by the general building code, or determined by other authority having jurisdiction in areas without a legally
+adopted building code. Except for SDC A, for which Chapter 18 does not apply, (a) through (h) shall be satisfied for each structural system designated as part of the seismic-force- resisting system, in addition to 18.2.1.3 through 18.2.1.5: (a) Ordinary moment frames shall satisfy 18.3 (b) Ordinary reinforced concrete structural walls need not satisfy any detailing provisions in Chapter 18, unless required by 18.2.1.3 or 18.2.1.4 (c) Intermediate moment frames shall satisfy 18.4 (d) Intermediate precast walls shall satisfy 18.5 (e) Special moment frames shall satisfy 18.2.3 through 18.2.8 and 18.6 through 18.8 (f) Special moment frames constructed using precast concrete shall satisfy 18.2.3 through 18.2.8 and 18.9 (g) Special structural walls shall satisfy 18.2.3 through 18.2.8 and 18.10 (h) Special structural walls constructed using precast concrete shall satisfy 18.2.3 through 18.2.8 and 18.11
+[CODE] 18.2.1.7 A reinforced concrete structural system not satis- fying this chapter shall be permitted if it is demonstrated by experimental evidence and analysis that the proposed system will have strength and toughness equal to or exceeding those provided by a comparable reinforced concrete structure satisfying this chapter.
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

@@ -1,0 +1,49 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 1/196]
+[LAYOUT: continuous]
+============================================================
+PART 1: GENERAL
+CHAPTER 2—NOTATION AND TERMINOLOGY CODE COMMENTARY
+
+2.1—Scope 2.1.1 This chapter defines notation and terminology used in this Code.
+
+a Not. & Term.
+
+2.2—Notation
+
+R2.2—Notation
+
+depth of equivalent rectangular stress block, in.
+a
+shear span, equal to distance from center of concen-
+ay
+trated load to either: (a) face of support for contin-
+uous or cantilevered members, or (b) center of support for simply supported members, in.
+area of an individual bar or wire, in.” area of the attachment base plate in contact with
+concrete or grout when loaded in compression, in.” net bearing area of the head of stud, anchor bolt, or
+headed deformed bar, in.”
+area of concrete section resisting shear transfer, in.” greater gross cross-sectional area of the two orthog- onal slab-beam strips intersecting at a column of a
+two-way prestressed slab, in. cross-sectional area of a member measured to the
+outside edges of transverse reinforcement, in.” area enclosed by outside perimeter of concrete
+cross section, in.* cross-sectional area at one end of a strut in a strut- and-tie model, taken perpendicular to the axis of the strut, in.” area of that part of cross section between the flex- ural tension face and centroid of gross section, in.” gross area of concrete section bounded by web thickness and length of section in the direction
+of shear force considered in the case of walls,
+and gross area of concrete section in the case of
+diaphragms. Gross area is total area of the defined
+section minus area of any openings, in.” area of concrete section of an individual pier, hori- zontal wall segment, or coupling beam resisting
+shear, in.”
+= effective bearing area of shear lug, in’.
+= area of reinforcement in bracket or corbel resisting design moment, in.”
+gross area of concrete section, in.” For a hollow section, A, is the area of the concrete only and does not include the area of the void(s) total area of shear reinforcement parallel to primary
+tension reinforcement in a corbel or bracket, in.
+An
+Ahs
+total cross-sectional area of hooked or headed bars
+being developed at a critical section, in.” effective cross-sectional area within a joint in a plane parallel to plane of beam reinforcement
+generating shear in the joint, in.” total area of longitudinal reinforcement to resist
+Ag
+torsion, in.”
+minimum area of longitudinal reinforcement to
+Ag min
+resist torsion, in.”
+
+American Concrete Institute - Copyrighted © Material — www.concrete.org

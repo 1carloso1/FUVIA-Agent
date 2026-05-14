@@ -1,0 +1,43 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 35/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 3: MEMBERS 129
+
+[CODE] Table 9.3.1.1—Minimum depth of nonprestressed
+beams Support condition Minimum h!!
+[CODE] Simply supported €/16 One end continuous €/18.5 Both ends continuous €/21 Cantilever €/8
+[CODE] (Expressions applicable for normalweight concrete and f, = 60,000 psi. For other cases, minimum fA shall be modified in accordance with 9.3.1.1.1 through 9.3.1.1.3, as appropriate.
+
+[COMMENTARY] R9.3.1.1.1 The modification for f, is approximate, but should provide conservative results for typical reinforcement ratios and for values off, between 40,000 and 100,000 psi.
+
+[CODE] 9.3.1.1.1 For f, other than 60,000 psi, the expressions in Table 9.3.1.1 shall be multiplied by (0.4 + f,/100,000).
+
+[COMMENTARY] R9.3.1.1.2 The modification for lightweight concrete is based on the results and discussions in ACI 213R. No correction is given for concretes with w, greater than 115 lb/ft? because the correction term would be close to unity in this range.
+
+[CODE] 9.3.1.1.2 For nonprestressed beams made of lightweight
+concrete having w, in the range of 90 to 115 Ib/ft*, the expres- sions in Table 9.3.1.1 shall be multiplied by the greater of (a)
+and (b):
+[CODE] (a) 1.65 — 0.005w, (b) 1.09
+[CODE] 9,3.1.1.3 For nonprestressed composite beams made of a
+combination of lightweight and normalweight concrete, shored during construction, and where the lightweight concrete is in compression, the modifier of 9.3.1.1.2 shall apply.
+[CODE] 9.3.1.2 The thickness of a concrete floor finish shall
+be permitted to be included in h if it is placed monolithi- cally with the beam or if the floor finish is designed to be
+composite with the beam in accordance with 16.4.
+
+[COMMENTARY] R9.3.2 Calculated deflection limits
+
+[CODE] 9.3.2 Calculated deflection limits
+[CODE] 9.3.2.1 For nonprestressed beams not satisfying 9.3.1
+and for prestressed beams, immediate and time-dependent deflections shall be calculated in accordance with 24.2 and shall not exceed the limits in 24.2.2.
+
+[COMMENTARY] R9.3.2.2 The limits in Table 9.3.1.1 apply to the entire
+depth of nonprestressed composite beams shored during construction so that, after removal of temporary supports, the dead load is resisted by the full composite section. In
+unshored construction, the beam depth of concern depends
+on if the deflection being considered occurs before or after the attainment of effective composite action. Additional deflections due to excessive creep and shrinkage caused by premature loading should be consid- ered. This is especially important at early ages when the moisture content is high and the strength is low. The transfer of horizontal shear by direct bond is impor- tant if excessive deflection from slippage is to be prevented.
+
+[CODE] 9.3.2.2 For nonprestressed composite concrete beams satis- fying 9.3.1, deflections occurring after the member becomes composite need not be calculated. Deflections occurring before the member becomes composite shall be investigated unless the precomposite depth also satisfies 9.3.1.
+
+[COMMENTARY] aci>
+I
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

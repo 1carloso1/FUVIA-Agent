@@ -1,0 +1,64 @@
+[DOCUMENT: ASTM_C494-19]
+[PAGE: 5/15]
+[LAYOUT: continuous]
+============================================================
+All caga/cagan - 19
+
+be a composite of grab samples taken from multiple locations such that the composite sample will be representative of the lot. 9.3.2 Uniformity and Equivalence Tests—If specified by the purchaser, samples taken for the purpose of evaluating the
+uniformity of a single lot, or equivalence of different lots from
+one source shall be tested as provided in Section 6. Such
+samples shall be composite samples from individual lots if different lots from the same source are being compared. If the
+uniformity of a single lot is being evaluated, grab samples shall
+be used. 9.4 Liquid Admixtures—Liquid admixtures shall be agitated to a homogeneous condition before sampling. Grab samples
+taken for compliance or uniformity testing shall represent a unit shipment or a single production lot. Each grab sample shall have a volume of at least 0.5 L [1 pt]. At least three grab
+samples shall be taken. Composite samples shall be prepared
+by mixing the selected grab samples and sampling the resultant
+homogeneous mixture to provide at least 4L [1 gal] for
+compliance tests. Grab samples shall be taken from different locations distributed throughout the quantity to be represented. 9.4.1 Admixtures in bulk storage tanks shall be sampled equally from the upper, intermediate, and lower levels by
+means of drain cocks in the sides of the tanks or a weighted
+sampling bottle fitted with a stopper that can be removed after the bottle is lowered to the desired depth. 9.4.2 Samples shall be stored in airtight containers that are resistant to attack by the admixture. 9.5 Non-liquid Admixtures—Grab samples taken for com- pliance or uniformity testing shall represent not more than
+2 Mg [2 tons] of admixture and each grab sample shall be at least 1 kg [2 Ib]. At least four grab samples shall be taken.
+Composite samples shall be prepared by mixing the grab
+samples selected and the resultant homogeneous mixture
+sampled to provide at least 2.5 kg [5 lb] for the composite
+sample. Grab samples shall be taken from different locations distributed throughout the quantity to be represented. 9.5.1 Samples of packaged admixtures shall be obtained by
+means of a tube sampler as described in Practice C183/C183M. 9.5.2 Samples shall be stored in moisture-proof, airtight containers. 9.6 Samples shall be mixed to a homogeneous condition before testing. If recommended by the manufacturer, the entire sample of a non-liquid admixture shall be dissolved in water
+before testing. 10. Rejection 10.1 For initial compliance testing, the purchaser is allowed to reject the admixture if it fails to meet any of the applicable
+requirements for this specification. 10.2 For limited retesting, the purchaser has the right to reject the admixture if it fails to meet any of the requirements
+of the Uniformity and Equivalence Section and of the appli- cable parts of Table 1. 10.3 An admixture stored at the point of manufacture, for
+more than six months before shipment, or an admixture in local storage in the hands of a vendor for more than six months, after
+completion of tests, shall be retested before use if requested by
+
+the purchaser and the purchaser has the right to reject the
+admixture if it fails to conform to any of the applicable requirements of this specification. 10.4 Packages or containers varying more than 5 % from the specified mass or volume are allowed to be rejected. If the
+average mass or volume of 50 packages taken at random is less
+than that specified, the entire shipment is allowed to be rejected. 10.5 If the admixture is to be used in non-air-entrained concrete, the purchaser has the right to reject the admixture if the test concrete containing it has an air content greater than 3.5 %. If the admixture is to be used in air-entrained concrete, the purchaser has the right to reject the admixture if the test concrete containing it has an air content greater than 7.0 %.
+TEST METHODS
+Note 6—These tests are based on arbitrary stipulations that make possible highly standardized testing in the laboratory and are not intended to simulate actual job conditions. Refer to Appendix X1 for a discussion
+of the required testing program and how test results are evaluated. Testing
+personnel should be certified to perform the required tests.
+[TABLE: Table 1. 10.3 An admixture stored at the point of manufact]
+[TABLE_CONTEXT: This table specifies: chloride exposure classes and chloride ion content limits; air content requirements; portland cement type specifications and chemical requirements; cement chemical and physical property limits; aggregate grading and sieve analysis requirements; aggregate physical property limits; chemical admixture type classification and performance requirements.]
+11. Materials 11.1 Cement—The cement used in any series of tests shall
+be a Type I or Type II cement conforming to Specification
+C150/C150M, or a blend of two or more cements. Each cement
+of the blend shall conform to the requirements of either Type I or Type II of Specification C150/C150M. If the air content of the reference concrete made without an air-entraining
+admixture, tested as prescribed in 14.3, is more than 3.5 %, select a different cement, or blend, so that the air content of the reference concrete does not exceed 3.5 %. 11.2 Aggregates—The fine and coarse aggregates used in
+any series of tests shall come from single lots of materials that
+conform to the requirements of Specification C33/C33M, except that the grading of the aggregates shall conform to the
+requirements in 11.2.2 and 11.2.3: 11.2.1 Physical Properties—Determine the relative density
+and absorption of the coarse aggregate in accordance with Test
+Method C127/C127M and of the fine aggregate in accordance
+with Test Method C128/C128M. 11.2.2 Fine Aggregate Grading—Determine the grading and fineness modulus of the fine aggregate in accordance with Test
+Method C136/C136M. The grading shall conform to the
+following requirements:
+Sieve Mass Percent Passing
+4.75 mm (No. 4) 100 1.18 mm (No. 16) 65 to 75
+300 um (No. 50) 12 to 20 150 pm (No. 100) 2to5
+11.2.3 Coarse Aggregate Grading—The coarse aggregate shall meet the requirements for size number 57 of Specification
+C33/C33M. Use accepted practices in loading and delivery to
+avoid segregation. 11.2.4 Preparation of Coarse Aggregate—Coarse aggregate
+from the same lot shall be used for each batch of reference concrete and each batch of test concrete. The quantity of
+concrete for Level I testing includes at least three batches of the
+
+Copyright by ASTM Int'l (all rights reserved); Wed Sep 2 00:11:37 EDT 2020 5 Downloaded/printed by Indian Inst of Tech Chennai (Indian Inst of Tech Chennai) pursuant to License Agreement. No further reproductions authorized.

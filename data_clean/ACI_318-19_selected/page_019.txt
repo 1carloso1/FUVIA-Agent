@@ -1,0 +1,44 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 19/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 1: GENERAL 33
+
+
+
+[CODE] anchor, horizontal or upwardly inclined—Anchor installed in a hole drilled horizontally or in a hole drilled at
+any orientation above horizontal.
+
+[COMMENTARY] anchor, horizontal or upwardly inclined—Figure R2.2
+[COMMENTARY] Not. & Term.
+[COMMENTARY] illustrates the potential hole orientations for horizontal or
+upwardly inclined anchors.
+[COMMENTARY] 4+
+2
+[COMMENTARY] Fig. R2.2—Possible orientations of overhead, upwardly inclined, or horizontal anchors.
+
+[CODE] anchor, post-installed—anchor installed in hardened concrete; adhesive, expansion, screw, and undercut anchors are examples of post-installed anchors. anchor, screw—a post-installed threaded, mechanical
+anchor inserted into hardened concrete that transfers loads to the concrete by engagement of the hardened threads of the screw with the grooves that the threads cut into the sidewall
+of a predrilled hole during anchor installation. anchor, undercut—post-installed anchor that develops its tensile strength from the mechanical interlock provided
+by undercutting of the concrete at the embedded end of the anchor. Undercutting is achieved with a special drill before installing the anchor or alternatively by the anchor itself during its installation. anchor group—a number of similar anchors having approximately equal effective embedment depths with spacing s between adjacent anchors such that the projected areas overlap.
+
+[COMMENTARY] anchor, screw—The required predrilled hole size for a
+screw anchor is provided by the anchor manufacturer.
+[COMMENTARY] anchor group—For all potential failure modes (steel, concrete breakout, pullout, side-face blowout, and pryout), only those anchors susceptible to a particular failure mode should be considered when evaluating the strength associ- ated with that failure mode.
+
+[CODE] anchor pullout strength—the strength corresponding to the anchoring device or a major component of the device sliding out from the concrete without breaking out a substan- tial portion of the surrounding concrete. anchorage device—in post-tensioned members, the hard-
+ware used to transfer force from prestressed reinforcement to the concrete.
+
+[COMMENTARY] anchorage device—Most anchorage devices for post- tensioning are standard manufactured devices available from
+commercial sources. In some cases, non-standard details or
+assemblages are developed that combine various wedges
+and wedge plates for anchoring prestressed reinforcement.
+Both standard and non-standard anchorage devices may be classified as basic anchorage devices or special anchorage devices as defined in this Code and AASHTO LRFDUS-US. anchorage device, basic—Devices that are so propor- tioned that they can be checked analytically for compli- ance with bearing stress and stiffness requirements without
+having to undergo the acceptance-testing program required
+of special anchorage devices.
+
+[CODE] anchorage device, basic monostrand—anchorage device used with any single strand or a single 5/8 in. or smaller diameter bar that is in accordance with 25.8.1, 25.8.2, and 25.9.3. 1(a). anchorage device, basic multistrand—anchorage device
+used with multiple strands, bars, or wires, or with single bars larger than 5/8 in. diameter that satisfies 25.8.1, 25.8.2 and 25.9.3.1(b). anchorage device, special—anchorage device that satis- fies tests required in 25.9.3.1(c).
+
+[COMMENTARY] anchorage device, special—Special anchorage devices are any devices (monostrand or multistrand) that do not meet
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

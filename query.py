@@ -25,8 +25,11 @@ CHROMA_DB_DIR = "./chroma_db"
 COLLECTION_NAME = "aci_astm_standards"
 
 # --- PROMPT DE SISTEMA ---
-# Instruye a Claude a comportarse como asistente normativo de ingeniería civil.
-# Reemplaza el prompt genérico de LlamaIndex.
+# Dos cambios respecto a la versión anterior:
+# 1. Instrucción de idioma: Claude responde en el mismo idioma de la pregunta original.
+# 2. La query que llega aquí ya está en inglés (traducida antes del retrieval),
+#    pero {query_str} contiene la pregunta ORIGINAL para que Claude responda
+#    en el idioma correcto.
 NORMATIVE_QA_PROMPT = PromptTemplate(
     "You are a technical assistant specialized in ACI and ASTM standards for "
     "concrete mix design and structural requirements. "
@@ -34,6 +37,11 @@ NORMATIVE_QA_PROMPT = PromptTemplate(
     "and never extrapolate beyond what the provided normative context states.\n\n"
     "If the context does not contain enough information to answer the question, "
     "explicitly state which standard or clause would be needed.\n\n"
+    # Instrucción de idioma — Claude detecta el idioma de la pregunta y responde igual
+    "IMPORTANT: Answer in the same language the question was asked. "
+    "If the question is in Spanish, answer in Spanish. "
+    "Always cite clause numbers and standard names in their original format "
+    "(e.g., 'ACI 318-19 Sección 19.3.3', 'ASTM C150 Tabla 1').\n\n"
     "Context from normative documents:\n"
     "---------------------\n"
     "{context_str}\n"
@@ -65,6 +73,42 @@ def setup_settings():
         model="claude-sonnet-4-6",
         api_key=os.getenv("ANTHROPIC_API_KEY")
     )
+
+
+def translate_to_english(query: str) -> tuple[str, bool]:
+    """
+    Detecta si la pregunta está en español y la traduce al inglés para el retrieval.
+    El retrieval necesita inglés porque los documentos ACI/ASTM están en inglés
+    y el modelo de embeddings (bge-small-en) está optimizado para ese idioma.
+
+    Retorna:
+        (query_para_retrieval, fue_traducida)
+        - Si la pregunta ya está en inglés: retorna la original sin gastar tokens extra.
+        - Si está en español: retorna la traducción al inglés.
+
+    La respuesta final siempre se genera en el idioma original — ver NORMATIVE_QA_PROMPT.
+    """
+    # Paso 1: Detectar idioma con llamada mínima al LLM
+    detection = Settings.llm.complete(
+        f"Reply with only 'EN' if this text is in English, "
+        f"or 'ES' if it is in Spanish or another language. "
+        f"Text: '{query}'"
+    )
+    lang = detection.text.strip().upper()
+
+    if "ES" in lang:
+        # Paso 2: Traducir solo si es necesario
+        translation = Settings.llm.complete(
+            f"Translate the following civil engineering question to English. "
+            f"Preserve all technical terms exactly as-is (f'c, w/cm, MPa, slump, etc.). "
+            f"Reply with only the translated question, nothing else.\n\n"
+            f"Question: {query}"
+        )
+        translated = translation.text.strip()
+        logger.info(f"Query traducida para retrieval: '{query}' → '{translated}'")
+        return translated, True
+
+    return query, False
 
 
 class HybridRetriever(BaseRetriever):
@@ -124,7 +168,7 @@ def format_source(node, index: int) -> str:
     )
 
 
-def run_query(query_str: str):
+def run_query(original_query: str):
     logger.info("Conectando a ChromaDB...")
     db = chromadb.PersistentClient(path=CHROMA_DB_DIR)
 
@@ -132,10 +176,13 @@ def run_query(query_str: str):
         chroma_collection = db.get_collection(COLLECTION_NAME)
     except Exception:
         logger.error(
-            f"Colección '{COLLECTION_NAME}' no encontrada. "
+            f"Coleccion '{COLLECTION_NAME}' no encontrada. "
             "Ejecuta ingest.py primero."
         )
         return
+
+    # Traducir la query al inglés si es necesario — ANTES del retrieval
+    retrieval_query, was_translated = translate_to_english(original_query)
 
     vector_store = ChromaVectorStore(chroma_collection=chroma_collection)
 
@@ -144,7 +191,7 @@ def run_query(query_str: str):
     vector_retriever = index.as_retriever(similarity_top_k=3)
 
     # Retriever BM25 — construido desde ChromaDB con metadata preservada
-    logger.info("Construyendo índice BM25 en memoria...")
+    logger.info("Construyendo indice BM25 en memoria...")
     chroma_data = chroma_collection.get(include=["documents", "metadatas"])
 
     nodes = []
@@ -157,12 +204,11 @@ def run_query(query_str: str):
             TextNode(
                 text=doc_text,
                 id_=doc_id,
-                metadata=metadata or {}  # FIX: metadata preservada en BM25
+                metadata=metadata or {}
             )
         )
 
     bm25_retriever = BM25Retriever.from_defaults(nodes=nodes, similarity_top_k=2)
-
     hybrid_retriever = HybridRetriever(vector_retriever, bm25_retriever)
 
     # Query engine con prompt normativo especializado
@@ -173,10 +219,20 @@ def run_query(query_str: str):
     )
 
     print(f"\n{'─'*60}")
-    print(f"  QUERY: {query_str}")
+    print(f"  PREGUNTA ORIGINAL : {original_query}")
+    if was_translated:
+        print(f"  QUERY DE RETRIEVAL: {retrieval_query}  [traducida]")
     print(f"{'─'*60}\n")
 
-    response = query_engine.query(query_str)
+    # El retrieval usa la query en inglés
+    # La pregunta original se pasa al prompt para que Claude responda en el idioma correcto
+    from llama_index.core import QueryBundle
+    query_bundle = QueryBundle(
+        query_str=original_query,       # Claude ve la pregunta original → responde en ese idioma
+        custom_embedding_strs=[retrieval_query]  # El retrieval usa la versión en inglés
+    )
+
+    response = query_engine.query(query_bundle)
 
     print("RESPUESTA NORMATIVA:")
     print(f"{response}\n")
@@ -198,6 +254,7 @@ if __name__ == "__main__":
     print("\n" + "=" * 60)
     print("  FUVIA RAG — TERMINAL DE PRUEBAS NORMATIVAS")
     print("  Stack: ACI 211.1 · ACI 211.4R · ACI 318-19 · ASTM C150/C33/C494")
+    print("  Preguntas en espanol o ingles — respuestas en tu idioma.")
     print("  Escribe 'exit' para salir.")
     print("=" * 60 + "\n")
 

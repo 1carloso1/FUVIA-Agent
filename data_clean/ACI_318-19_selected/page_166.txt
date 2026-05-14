@@ -1,0 +1,61 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 166/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] shall be submitted to demonstrate that the modified
+mixture complies with the concrete mixture requirements in the construction documents.
+
+[COMMENTARY] changes in concrete materials, seasonal temperature fluc- tuations, or changes in conveying and placing methods. Additionally, an adjustment to a concrete mixture may be required or appropriate if strength tests are lower or higher than required.
+
+[CODE] (d) Documentation of shotcrete mixture characteris- tics shall be submitted for review by the licensed design professional before the mixture is used and before making
+changes to mixtures already approved. Evidence of the ability of the proposed shotcrete mixture to comply with the shotcrete mixture requirements in the construction
+documents shall be included in the documentation.
+[CODE] 26.5—Concrete production and construction
+
+[COMMENTARY] R26.5—Concrete production and construction Detailed recommendations for mixing, handling, trans- porting, and placing concrete are given in ACI 304R.
+
+[CODE] 26.5.1 Concrete production
+
+[COMMENTARY] R26.5.1 Concrete production
+
+[CODE] 26.5.1.1 Compliance requirements:
+[CODE] (a) Cementitious materials and aggregates shall be stored to prevent deterioration or contamination. (b) Material that has deteriorated or has been contami- nated shall not be used in concrete. (c) Equipment for mixing and transporting concrete shall
+conform to ASTM C94 or ASTM C685.
+
+[COMMENTARY] R26.5.1.1(c) ASTM C94 and ASTM C685 address opera- tional requirements for equipment used to produce concrete.
+
+[CODE] (d) Ready-mixed and site-mixed concrete shall be batched,
+mixed, and delivered in accordance with ASTM C94 or
+ASTM C685.
+
+[COMMENTARY] R26.5.1.1(d) ASTM C94 is a specification for ready
+mixed concrete whereby materials are primarily measured
+by mass (weight) and production is by batches. This is the
+more common method of concrete production, and it is also
+used in precast concrete plants. ASTM C685 is a specifica- tion for concrete where materials are measured by volume
+and the production is by continuous mixing. These specifica- tions include provisions for capacity of mixers, accuracy of
+measuring devices, batching accuracy, mixing and delivery,
+and tests for evaluating the uniformity of mixed concrete.
+
+[CODE] 26.5.2 Concrete placement and consolidation
+
+[COMMENTARY] R26.5.2 Concrete placement and consolidation
+
+[CODE] 26.5.2.1 Compliance requirements:
+[CODE] (a) Debris and ice shall be removed from spaces to be
+occupied by concrete before placement.
+
+[COMMENTARY] R26.5.2.1(a) Forms need to be cleaned before beginning to place concrete. In particular, sawdust, nails, wood pieces,
+and other debris that may collect inside forms need to be removed.
+
+[CODE] (b) Standing water shall be removed from place of deposit before concrete is placed unless a tremie is to be used or unless otherwise permitted by both the licensed design professional and the building official.
+
+[COMMENTARY] R26.5.2.1(b) The tremie referred to in this provision is not a short tube or “elephant trunk.” It is a full-depth pipe used in accordance with accepted procedures for placing concrete
+under water. Information regarding placing concrete using a tremie is given in ACI 304R.
+
+[CODE] aci®
+IT
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

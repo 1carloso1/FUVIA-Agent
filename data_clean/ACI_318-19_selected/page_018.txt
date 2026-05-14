@@ -1,0 +1,37 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 18/196]
+[LAYOUT: continuous]
+============================================================
+ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+CODE COMMENTARY
+
+| NN Co
+a © 0 @ (A) Cast-in anchors: (a) hex head bolt with washer;
+
+(b) L-bolt; (c) J-bolt; and (d) welded headed stud.
+i Peas AV OW WW
+<a WW
+
+(a) (b) (cl) (c2) “(d) (B) Post-installed anchors: (a) adhesive anchor; (b) undercut anchor;
+
+(e)
+(c) torque-controlled expansion anchors [(c1) sleeve-type and (c2) stud-type]; (d) drop-in type displacement-controlled expansion anchor; and (e) screw anchor.
+
+Fig. R2.1—Types of anchors.
+anchor, adhesive—a post-installed anchor, inserted into
+hardened concrete with an anchor hole diameter not greater than 1.5 times the anchor diameter, that transfers loads to the concrete by bond between the anchor and the adhesive, and
+bond between the adhesive and the concrete.
+
+anchor, adhesive—The design model included in Chapter 17 for adhesive anchors is based on the behavior of anchors with hole diameters not exceeding 1.5 times the anchor diameter. Anchors with hole diameters exceeding 1.5 times the anchor diameter behave differently and are therefore
+excluded from the scope of Chapter 17 and ACI 355.4. To limit shrinkage and reduce displacement under load, most adhesive anchor systems require the annular gap to be as
+narrow as practical while still maintaining sufficient clear- ance for insertion of the anchor element in the adhesive filled hole and ensuring complete coverage of the bonded area over the embedded length. The annular gap for reinforcing bars is generally greater than that for threaded rods. The required hole size is provided in the Manufacturer’s Printed Installa- tion Instructions (MPII).
+
+anchor, cast-in—headed bolt, headed stud, or hooked bolt installed before placing concrete. anchor, expansion—post-installed anchor, inserted into
+hardened concrete that transfers loads to or from the concrete
+by direct bearing or friction, or both.
+
+anchor, expansion—Expansion anchors may be torque- controlled, where the expansion is achieved by a torque acting on the screw or bolt; or displacement controlled,
+where the expansion is achieved by impact forces acting on a sleeve or plug and the expansion is controlled by the length of travel of the sleeve or plug.
+
+American Concrete Institute — Copyrighted © Material — www.concrete.org

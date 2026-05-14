@@ -1,0 +1,73 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 114/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] 330 ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] 18.10.6.5 Where special boundary elements are not required
+by 18.10.6.2 or 18.10.6.3, (a) and (b) shall be satisfied:
+
+[COMMENTARY] R18.10.6.5 Cyclic load reversals may lead to buck- ling of boundary longitudinal reinforcement even in cases
+where the demands on the boundary of the wall do not require special boundary elements. For walls with moderate
+amounts of boundary longitudinal reinforcement, ties are required to inhibit buckling. The longitudinal reinforce-
+ment ratio is intended to include only the reinforcement at the wall boundary, as indicated in Fig. R18.10.6.5. A greater spacing of ties relative to 18.10.6.4(e) is allowed due to the
+lower deformation demands on the walls. Requirements of 18.10.6.5 apply over the entire wall height and are summa- rized in Fig. R18.10.6.4c for cases where special boundary elements are required (Moehle et al. 2011). The addition of hooks or U-stirrups at the ends of hori- zontal wall reinforcement provides anchorage so that the reinforcement will be effective in resisting shear forces. It will also tend to inhibit the buckling of the vertical edge reinforcement. In walls with low in-plane shear, the devel-
+opment of horizontal reinforcement is not necessary. Limits on spacing of transverse reinforcement are intended to prevent bar buckling until reversed cyclic strains extend well into the inelastic range. To achieve similar performance capability, smaller spacing is required for higher-strength longitudinal reinforcement.
+
+[CODE] (a) Except where V, in the plane of the wall is less than
+ral fl A,.,, horizontal reinforcement terminating at the edges of structural walls without boundary elements shall
+have a standard hook engaging the edge reinforcement or the edge reinforcement shall be enclosed in U-stirrups
+having the same size and spacing as, and spliced to, the horizontal reinforcement. (b) If the maximum longitudinal reinforcement ratio at the wall boundary exceeds 400/f,, boundary transverse rein-
+forcement shall satisfy 18.7.5.2(a) through (e) over the distance calculated in accordance with 18.10.6.4(a). The vertical spacing of transverse reinforcement at the wall
+boundary shall be in accordance with Table 18.10.6.5(b).
+[CODE] Table 18.10.6.5(b)—Maximum vertical spacing of
+transverse reinforcement at wall boundary Grade of Maximum vertical
+primary flexural Transverse spacing of transverse reinforcing bar | reinforcement required reinforcement!!!
+[CODE] Within the greater of Z,, 6d;
+[CODE] and M,/4V, above and | Lesser of:
+60 below critical sections!) 6 in.
+
+[COMMENTARY] x I= a = es e@ @ Xe @©eeee 14A
+h A -__b_
+b 4 P h(2x+ a)
+° e@eeee e * qe
+
+[CODE] 8d,
+Other locations Lesser of:
+[CODE] 8 in.
+[CODE] Within the greater of Z,, 5d;
+[CODE] and M,/4V, above and | Lesser of:
+80 below critical sections!?! 6 in.
+
+[COMMENTARY] |
+N14 boundary \c pistributed longitudinal bars bars
+
+[CODE] 6d,
+Other locations Lesser of:
+[CODE] 6 in.
+[CODE] Within the greater of Z,, 4d, and M,,/4V, above and Lesser of:
+
+[COMMENTARY] @ e e@ e@ e@ Ss. 2A
+h © _<"b
++? hs
+* e e @ @ Distributed bars, Ap, at equal spacing s Fig. R18.10.6.5—Longitudinal reinforcement ratios for typical wall boundary conditions.
+
+[CODE] ve 2] 6 in.
+100 below critical sections
+[CODE] 6d),
+Other locations Lesser of:
+[CODE] 6 in.
+[CODE] (Tn this table, d, is the diameter of the smallest primary flexural reinforcing bar. [lCritical sections are defined as locations where yielding of longitudinal reinforce- ment is likely to occur as a result of lateral displacements.
+[CODE] 18.10.7 Coupling beams
+
+[COMMENTARY] R18.10.7 Coupling beams
+
+[CODE] 18.10.7.1 Coupling beams with (¢,,/h) > 4 shall satisfy the requirements of 18.6, with the wall boundary interpreted as being a column. The provisions of 18.6.2.1(b) and (c) need not be satisfied if it can be shown by analysis that the beam has adequate lateral stability.
+
+[COMMENTARY] Coupling beams connecting structural walls can provide stiffness and energy dissipation. In many cases, geometric limits result in coupling beams that are deep in relation to their clear span. Deep coupling beams may be controlled by shear and may be susceptible to strength and stiffness dete- rioration under earthquake loading. Test results (Paulay and
+Binney 1974; Barney et al. 1980) have shown that confined diagonal reinforcement provides adequate resistance in deep coupling beams.
+
+[CODE] 18.10.7.2 Coupling beams with (¢,/h) < 2 and with V, >
+4n../ f’ Avy shall be reinforced with two intersecting groups of diagonally placed bars symmetrical about the midspan, unless it can be shown that loss of stiffness and strength of the coupling
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

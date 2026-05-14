@@ -1,0 +1,26 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 146/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 6: MATERIALS & DURABILITY 363
+
+
+[COMMENTARY] Seawater is listed under Exposure Class $1 (moderate exposure) in Table 19.3.1.1, even though it generally contains
+more than 1500 ppm SO,*. Less expansion is produced by a given cement in seawater compared with freshwater with the
+same sulfate content (ACI 201.2R). Therefore, seawater is
+[COMMENTARY] 2 Concrete
+[TABLE: Table 19.3.1.1, even though it generally contains]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; exposure class requirements for concrete durability; sulfate exposure classes; water exposure classes; chloride exposure classes and chloride ion content limits; portland cement type specifications and chemical requirements; cement chemical and physical property limits.]
+[COMMENTARY] included in the same exposure class as solutions with lower sulfate concentrations. Portland cement with C3A up to 10 percent is allowed in concrete mixtures exposed to seawater if the maximum w/cm is limited to 0.40 (refer to the footnote to Table 19.3.2.1). Exposure Class $2: ASTM C150 Type V cement is limited to a maximum C;A content of 5 percent and 1s accept- able for use in Exposure Class $2. The appropriate binary
+and ternary blended cements under ASTM C595 include the suffix (HS) as part of their designation, which indicates the
+cement conforms to requirements for high sulfate resistance.
+Under ASTM C1157, the appropriate designation for severe sulfate exposure is Type HS. Exposure Class S3 (Option 1): The benefit of the addi- tion of pozzolan or slag cement allows for a greater w/cm than required for Option 2. The amounts of supplementary cementitious materials are based on records of successful service or testing in accordance with 26.4.2.2(c). Exposure Class S3 (Option 2): This option allows the use
+of ASTM C150 Type V portland cement meeting the optional limit of 0.040 percent maximum expansion, ASTM C595 binary and ternary blended cements with the (HS) suffix in their designation, and ASTM C1157 Type HS cements without the use of additional pozzolan or slag cement, but it instead requires a lower w/cem than that required for Option 1. This lower w/em reduces the permeability of the concrete
+and thus increases sulfate resistance (Lenz 1992). Use of this
+lower w/em permits a shorter testing period to qualify the sulfate resistance of a cementitious system in accordance
+with 26.4.2.2(c). In addition to the proper selection of cementitious mate- rials, other requirements for durable concrete exposed to water-soluble sulfates are essential, such as low w/cm, strength, adequate consolidation, uniformity, adequate cover
+of reinforcement, and sufficient moist curing to develop the potential properties of the concrete. Exposure Class W1: This exposure class does not have specific requirements for low permeability. However,
+because of the exposure to water, the Code (26.4.2.2(d)) has a
+requirement to demonstrate that aggregates used in concrete are not alkali reactive according to ASTM C1778. If the aggregates are alkali-silica reactive, the Code (26.4.2.2(d)) also requires submission of proposed mitigation measures.
+The Code (26.4.2.2(d)) prohibits the use of aggregates that are alkali-carbonate reactive. Exposure Class W2: This exposure class requires low concrete permeability. The primary means to obtain a concrete with low permeability is to reduce w/em. For a given w/cm, permeability can be reduced by optimizing the cementitious materials used in the concrete mixture.
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org aci*

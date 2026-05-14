@@ -1,0 +1,44 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 185/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 9: CONSTRUCTION 547
+
+[CODE] 26.11.1.2 Compliance requirements:
+[CODE] (a) Design of formwork shall consider (1) through (6): (1) Method of concrete placement. (2) Rate of concrete placement. (3) Construction loads, including vertical, horizontal,
+and impact. (4) Avoidance of damage to previously constructed members. (5) For post-tensioned members, allowance for move-
+ment of the member during tensioning of the prestressing
+reinforcement without damage to the member. (6) For post-tensioned members, allowance for load redistribution on formwork resulting from tensioning of the prestressing reinforcement. (b) Formwork fabrication and installation shall result in a final structure that conforms to shapes, lines, and dimen- sions of the members as required by the construction
+documents. (c) Formwork shall be sufficiently tight to inhibit leakage
+of paste or mortar. (d) Formwork shall be braced or tied together to maintain position and shape.
+
+[COMMENTARY] a Construction
+[COMMENTARY] R26.11.2 Removal offormwork
+
+[CODE] 26.11.2 Removal offormwork
+
+[COMMENTARY] R26.11.2.1 In determining the time for removal of form-
+work, consideration should be given to the construction loads, in-place strength of concrete, and possibility of deflec- tions greater than acceptable to the licensed design profes- sional (ACI 347 and ACI 347.2R). Construction loads may
+be greater than the specified live loads. Even though a struc- ture may have adequate strength to support the applied loads at early ages, deflections can cause serviceability problems. The removal of formwork for multistory construction
+should be a part of a planned procedure developed by the contractor that considers the temporary support of the entire structure as well as each individual member. Such a proce-
+dure should be planned before construction and should be
+based on a structural analysis taking into account at least (a)
+through (e): (a) The structural system that exists at the various stages
+of construction, and the construction loads corresponding to those stages; (b) The in-place strength of the concrete at the various stages during construction; (c) The influence of deformations of the structure
+and shoring system on the distribution of dead loads
+and construction loads during the various stages of
+construction; (d) The strength and spacing of shores or shoring systems used, as well as the method of shoring, bracing, shore
+removal, and reshoring including the minimum time interval between the various operations;
+
+[CODE] 26.11.2.1 Compliance requirements:
+[CODE] (a) Before starting construction, the contractor shall
+develop a procedure and schedule for removal of form-
+work and installation of reshores, and shall calculate the loads transferred to the structure during this process. (b) Structural analysis and concrete strength require-
+ments used in planning and implementing the formwork
+removal and reshore installation shall be furnished by the contractor to the licensed design professional and to the building official, when requested. (c) No construction loads shall be placed on, nor any
+formwork removed from, any part of the structure under construction except when that portion of the structure in combination with remaining formwork has sufficient strength to support safely its weight and loads placed thereon and without impairing serviceability. (d) Sufficient strength shall be demonstrated by structural analysis considering anticipated loads, strength of form-
+work, and an estimate of in-place concrete strength.
+
+[COMMENTARY] aci=
+_IT
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

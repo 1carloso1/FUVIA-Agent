@@ -1,0 +1,45 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 151/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] 368 ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] 19.3.3.4 Wet-mix shotcrete shall be sampled in accor-
+dance with ASTM C172, and air content shall be measured in accordance with ASTM C231 or ASTM C173.
+[CODE] 19.3.3.5 Dry-mix shotcrete shall be sampled and air content shall be measured as directed by the licensed design professional.
+
+[COMMENTARY] R19.3.3.5 If the licensed design professional requires
+measurement of air content of fresh dry-mix shotcrete, such
+requirements are to be stated in the construction documents, including the sampling frequency, sampling protocol, test
+methods to be used, and the criteria for acceptance. The air content required for dry-mix shotcrete is for
+sampling of in-place shotcrete. This air content can be veri- fied by taking cores from shotcrete test panels for analysis in accordance with ASTM C457. During the mixture devel-
+opment process, shotcrete test panels may be prepared with different amounts of air-entraining admixture and cored to determine a dosage that will provide the required amount of air after placement. The use of ASTM C457 for quality control during construction is not practical. Although there are no standard tests for air content of dry-mix shotcrete during construc- tion, there are industry accepted methods for testing. These
+methods involve obtaining samples of dry-mix shotcrete and
+performing standard tests such as ASTM C231 to determine air content. Field measurements of air content of dry-mix shotcrete
+have been obtained by shooting the material directly into a
+bowl of an air meter (Betrand and Vezina 1994). Samples for air content testing can also be taken from material shot into test panels, into a wheelbarrow, or onto the ground. These samples can then be used for testing in accordance with
+ASTM C231 (Zhang 2015).
+
+[CODE] 19.3.3.6 For f.' = 5000 psi, reduction of air content indi- cated in Table 19.3.3.1 and 19.3.3.3 by 1.0 percentage point is permitted.
+
+[TABLE: Table 19.3.3.1 and 19.3.3.3 by 1.0 percentage point is permitted]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; compressive strength f'c requirements; air content requirements.]
+[COMMENTARY] R19.3.3.6 This section permits a 1.0 percentage point
+lower air content for concrete with f.’ equal to or greater than 5000 psi. Such higher-strength concretes, which have a lower w/cm and porosity, have greater resistance to cycles of freezing and thawing.
+
+[CODE] 19.3.3.7 The maximum percentage of pozzolans, including fly ash and silica fume, and slag cement in concrete assigned to Exposure Class F3, shall be in accordance with 26.4.2.2(b).
+
+[COMMENTARY] R19.3.3.7 This provision is intended for application during concrete mixture proportioning. The provision has
+been duplicated in 26.4.2.2(b). Additional commentary information is presented in Chapter 26.
+
+[CODE] 19.3.4 Additional requirements for chloride ion content
+
+[COMMENTARY] R19.3.4 Additional requirements for chloride ion content
+
+[CODE] 19.3.4.1 Nonprestressed concrete that will be cast against stay-in-place galvanized steel forms shall comply with the chloride ion limits for Exposure Class C1 unless a more stringent limit is required by other project conditions.
+
+[COMMENTARY] R19.3.4.1 Corrosion of galvanized steel sheet or stay-in- place galvanized steel forms may occur, especially in humid
+environments or where drying is inhibited by the thickness of the concrete, coatings, or impermeable coverings. If stay- in-place galvanized steel forms are used, the maximum chlo- ride limit of 0.30 percent is required. For more severe envi- ronments, such as for concrete in Exposure Class C2, a more stringent limit of 0.15 percent would be required. At the time of design, the licensed design professional may not know if aluminum embedments or stay-in-place galva-
+
+[CODE] American Concrete Institute —- Copyrighted © Material — www.concrete.org

@@ -1,0 +1,26 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 55/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 3: MEMBERS 149
+
+
+[COMMENTARY] Experience has shown that the overall integrity of a struc- ture can be substantially enhanced by minor changes in detailing of reinforcement and connections. It is the intent of this section of the Code to improve the redundancy and ductility in structures so that in the event of damage to a
+major supporting element or an abnormal loading event, the resulting damage may be localized and the structure will
+have a higher probability of maintaining overall stability. With damage to a support, top reinforcement that is continuous over the support, but not confined by stirrups, will tend to tear out of the concrete and will not provide the catenary action required to bridge the damaged support. By
+making a portion of the bottom reinforcement continuous, catenary action can be provided. If the depth of a continuous beam changes at a support, the bottom reinforcement in the deeper member should be terminated into the support with a standard hook or headed bar and the bottom reinforcement in the shallower member should be extended into and fully developed in the deeper member.
+
+[CODE] 9.7.7.1 For beams along the perimeter of the structure, structural integrity reinforcement shall be in accordance
+with (a) through (c):
+
+[COMMENTARY] R9.7.7.1 Requiring continuous top and bottom reinforce-
+ment in perimeter or spandrel beams provides a continuous tie around the structure. It is not the intent to require a tension tie of continuous reinforcement of constant size around the entire perimeter of a structure, but rather to require that one- half of the top flexural reinforcement required to extend past the point of inflection by 9.7.3.8.4 be further extended and spliced at or near midspan as required by 9.7.7.5. Similarly, the bottom reinforcement required to extend into the support in 9.7.3.8.2 should be made continuous or spliced with
+bottom reinforcement from the adjacent span. At noncon- tinuous supports, the longitudinal reinforcement is anchored as required by 9.7.7.4. Figure R9.7.7.1 shows an example of a two-piece stirrup that satisfies the requirement of Sections 9.7.7.1(c) and 9.7.7.2(b). The 90-degree hook of the cap tie is located on the slab side so that it is better confined. Pairs of U-stirrups lapping one another as defined in 25.7.1.7 are not permitted in perimeter or spandrel beams. In the event of damage to the side concrete cover, the top longitudinal reinforcement may tend to tear out of the concrete and will not be adequately restrained by the exposed lap splice of the stirrup. Thus, the top longitudinal reinforcement will not provide the catenary action needed to bridge over a damaged region. Further, lapped U-stirrups will not be effective at high torsional
+moments as discussed in R9.7.6.3.1.
+
+[CODE] (a) At least one-quarter of the maximum positive moment reinforcement, but not less than two bars or strands, shall
+be continuous (b) At least one-sixth of the negative moment reinforce-
+ment at the support, but not less than two bars or strands, shall be continuous (c) Longitudinal structural integrity remforcement shall be enclosed by closed stirrups in accordance with 25.7.1.6 or
+hoops along the clear span of the beam
+
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

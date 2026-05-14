@@ -1,0 +1,32 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 160/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] (12) For members assigned to exposure class W1 or
+W2, requirements for the evaluation of the potential for alkali-agegregate reactivity.
+
+[COMMENTARY] R26.4.2.1(a)(12) Members assigned to exposure class W1 or W2 are potentially susceptible to alkali-aggregate reac- tion. As noted in ASTM C1778, alkali-aggregate reaction
+(AAR) can occur between the alkali hydroxides in the pore solution of concrete and certain components found in some aggregates. Two types of AAR are recognized depending
+on the nature of the reactive component: alkali-silica reac- tion (ASR), which involves various types of reactive sili- ceous minerals; and alkali-carbonate reaction (ACR), which involves certain types of aggregates that contain dolomite.
+Both types of reaction can result in expansion and cracking of concrete elements under prolonged exposure to moisture, leading to a reduction in the structural strength and service life of a concrete structure. Options for mitigating ASR, including use of supplementary cementitious materials or limiting alkali content of the concrete, are provided in
+ASTM C1778. ACR can only be prevented by not using the reactive aggregate.
+
+[CODE] (13) Applicable water-soluble chloride ion limits for
+Exposure Category C from 19.3.2.1. (14) Equilibrium density of lightweight concrete. (15) Requirement for submittal of the volumetric frac- tions of aggregate in lightweight concrete mixtures if Table 19.2.4.1(b) is used as the basis for A in design.
+
+[COMMENTARY] R26.4.2.1(a)(14 and 15) Equilibrium density is an esti-
+mate of the density of lightweight concrete assuming some degree of drying after initial construction. The equilibrium density of lightweight concrete is determined in accordance with ASTM C567. Acceptance of lightweight concrete at the time of delivery is based on a fresh density determined
+by the concrete supplier that has been correlated with the equilibrium density. The range of fresh densities can vary based on variations in moisture and air content, mixture proportion, and type of lightweight aggregate, and should be considered when establishing the fresh density that will result in the required equilibrium density. Acceptance of lightweight concrete based on density as well as strength is necessary because the value of A and self-weight used for design is a function of equilibrium density.
+
+[CODE] (16) Requirements for steel fiber-reinforced concrete if used for shear resistance in accordance with 9.6.3.1.
+
+[COMMENTARY] R26.4.2.1(a)(16) If steel fibers are used for shear resis- tance, there are specific requirements for the steel fiber-rein- forced concrete: 26.4.1.5.1(a) provides fiber requirements; 26.4.2.2(d) provides minimum dosage requirements; and 26.12.7.1(a) provides acceptance criteria. Fibers are typi- cally specified by fiber type, fiber length, aspect ratio (¢/d),
+and dosage rate (ACI 544.3R). For structural applications, the Code only addresses the use of discontinuous deformed steel fibers in resisting shear.
+For other structural applications where it is desired to use discontinuous deformed steel fibers, Section 1.10 provides a procedure for approval. Also, there are nonstructural appli- cations or functional purposes where discontinuous steel fibers are used in concrete. The provisions of the Code that address use of steel fibers for shear strength are not intended for such nonstructural applications.
+
+[CODE] (17) For shotcrete, nominal maximum size of coarse aggregate shall not exceed 1/2 in. aci®
+A
+[CODE] American Concrete Institute — Copyrighted © Material — www.concrete.org

@@ -1,0 +1,37 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 10/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] nominal concrete breakout strength in tension of a single anchor, Ib
+nominal concrete breakout strength in tension of a
+group of anchors, Ib
+= basic concrete pryout strength of a single anchor, lb
+= basic concrete pryout strength of a group of anchors, lb
+= nominal strength in tension, Ib pullout strength in tension of a single anchor in cracked concrete, lb
+nominal pullout strength in tension of a single
+anchor, lb
+nominal strength of a single anchor or individual anchor in a group of anchors in tension as governed
+by the steel strength, Ib side-face blowout strength of a single anchor, Ib side-face blowout strength of a group of anchors, Ib
+= factored axial force normal to cross section occur- ring simultaneously with V, or 7,; to be taken as positive for compression and negative for tension, Ib factored tensile force applied to anchor or indi- vidual anchor in a group of anchors, Ib total factored tensile force applied to anchor group, Ib factored tensile force applied to most highly stressed anchor in a group of anchors, Ib
+= factored sustained tension load, lb
+= factored restraint force applied to a bearing connec- tion acting perpendicular to and simultaneously with V,, to be taken as positive for tension, Ib
+maximum restraint force that can be transmitted through the load path of a bearing connection multiplied by the load factor used for live loads in combinations with other factored load effects
+= outside perimeter of concrete cross section, in. perimeter of centerline of outermost closed trans- verse torsional reinforcement, in.
+maximum allowable compressive strength of a
+deep foundation member, lb
+= critical buckling load, Ib nominal axial compressive strength of member, lb
+maximum nominal axial compressive strength of a
+member, lb
+= nominal axial tensile strength of member, lb maximum nominal axial tensile strength of member, Ib
+= nominal axial strength at zero eccentricity, lb factored prestressing force at anchorage device, Ib
+= unfactored axial load at the design, midheight section including effects of self-weight, Ib factored axial force; to be taken as positive for
+compression and negative for tension, Ib
+
+[COMMENTARY] = secondary moment due to individual member slen- derness, in.-lb
+
+[CODE] wt
+\
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

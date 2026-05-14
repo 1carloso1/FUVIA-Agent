@@ -1,0 +1,45 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 182/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] (c) Design and details of lifting devices, embedments,
+and related reinforcement required to resist temporary loads from handling, storage, transportation, and erection shall be provided if not designed by the licensed design professional.
+
+[COMMENTARY] R26.9.2(c) Refer to R26.9.1(b). At the option of the licensed design professional, specifications can require that
+shop drawings, calculations, or both be submitted for the items included in this provision when their design is dele- gated to the contractor.
+
+[CODE] (d) During erection, precast members and structures shall
+be supported and braced to ensure proper alignment, strength, and stability until permanent connections are completed.
+
+[COMMENTARY] R26.9.2(d) All temporary erection connections, bracing,
+and shoring as well as the sequencing of removal of these items should be shown in construction documents or erec- tion drawings, depending on the assignment of responsi- bility for the means and methods of construction.
+[COMMENTARY] R26.9.2(e) Many precast products are manufactured in such a way that it is difficult, if not impossible, to position reinforcement that protrudes from the concrete before the concrete is placed. Such items as ties for horizontal shear
+and inserts can be placed while the concrete is plastic, if
+proper precautions are taken. This provision is not appli- cable to reinforcement that is completely embedded, or to
+embedded items that will be hooked or tied to embedded reinforcement.
+
+[CODE] (e) If approved by the licensed design professional, items
+embedded while the concrete is in a plastic state shall satisfy (1) through (4): (1) Embedded items shall protrude from the precast concrete members or remain exposed for inspection. (2) Embedded items are not required to be hooked or tied to reinforcement within the concrete. (3) Embedded items shall be maintained in the correct position while the concrete remains plastic. (4) The concrete shall be consolidated around embedded items.
+[CODE] 26.10—Additional requirements for prestressed
+concrete 26.10.1 Design information:
+
+[COMMENTARY] R26.10—Additional requirements for prestressed
+concrete
+
+[CODE] (a) Magnitude and location of prestressing forces. (b) Stressing sequence of tendons.
+
+[COMMENTARY] R26.10.1(b) The sequence of anchorage device stressing can have a significant effect on general zone stresses. There- fore, it 1s important to consider not only the final stage of a stressing sequence with all tendons stressed, but also intermediate stages during construction. The most critical bursting forces caused by each of the sequentially post- tensioned tendon combinations, as well as that of the entire
+group of tendons, should be taken into account.
+
+[CODE] (c) Type, size, details, and location of post-tensioning
+anchorages for systems selected by the licensed design professional. (d) Tolerances for placement of tendons and _post- tensioning ducts in accordance with Table 26.6.2. 1(a). (e) Materials and details of corrosion protection for tendons, couplers, end fittings, post-tensioning anchor- ages, and anchorage regions.
+
+[COMMENTARY] R26.10.1(e) For recommendations regarding protection, refer to Sections 4.2 and 4.3 of ACI 423.3R, and Sections 3.4, 3.6, 5, 6, and 8.3 of ACI 423.7. Also refer to 20.5.1.4.2 for corrosion protection requirements. Corrosion protection can be achieved by a variety of
+methods. The corrosion protection provided should be suit- able for the environment in which the tendons are located.
+Some conditions will require that the prestressed reinforce-
+ment be protected by concrete cover or by cement grout in metal or plastic duct; other conditions will permit the protec- tion provided by coatings such as paint or grease. Corrosion protection methods should meet the fire protection require-
+
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

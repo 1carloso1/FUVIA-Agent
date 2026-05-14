@@ -1,0 +1,42 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 5/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 1: GENERAL 19
+
+[CODE] diameter of pile at footing base, in.
+[CODE] Anite =
+
+[COMMENTARY] a Not. & Term.
+
+[CODE] effect of service dead load
+[CODE] Sod
+[CODE] effect of superimposed dead load lI effect of self-weight dead load of the concrete = structural system
+
+[COMMENTARY] Canc = eccentricity of the anchorage device or group of
+[COMMENTARY] devices with respect to the centroid of the cross section, in.
+
+[CODE] distance from the inner surface of the shaft of a J- or L-bolt to the outer tip of the J- or L-bolt, in. distance between resultant tension load on a group
+of anchors loaded in tension and the centroid of the
+group of anchors loaded in tension, in.; ey is always positive distance between resultant shear load on a group of
+anchors loaded in shear in the same direction, and the centroid of the group of anchors loaded in shear in the same direction, in.; ey is always positive effect of horizontal and vertical earthquake-induced forces
+= modulus of elasticity of concrete, psi modulus of elasticity of beam concrete, psi
+modulus of elasticity of slab concrete, psi flexural stiffness of member, in.?-lb
+= effective flexural stiffness of member, in.?-Ib
+= modulus of elasticity of prestressing reinforcement, psi
+modulus of elasticity of reinforcement and struc- tural steel, excluding prestressing reinforcement,
+psi
+= specified compressive strength of concrete, psi
+= square root of specified compressive strength of concrete, psi specified compressive strength of concrete at time
+of initial prestress, psi square root of specified compressive strength of concrete at time of initial prestress, psi effective compressive strength of the concrete in a strut or a nodal zone, psi stress due to unfactored dead load, at extreme fiber
+of section where tensile stress is caused by exter- nally applied loads, psi
+decompression stress; stress in the prestressed rein-
+forcement if stress is zero in the concrete at the
+same level as the centroid of the prestressed rein-
+[CODE] fic =
+[CODE] forcement, psi
+[CODE] Soe =
+[CODE] compressive stress in concrete, after allowance for all prestress losses, at centroid of cross section resisting externally applied loads or at junction of
+web and flange where the centroid lies within the flange, psi. In a composite member, f,. is the resul- tant compressive stress at centroid of composite section, or at junction of web and flange where the centroid lies within the flange, due to both prestress
+
+[COMMENTARY] American Concrete Institute — Copyrighted © Material — www.concrete.org aci >

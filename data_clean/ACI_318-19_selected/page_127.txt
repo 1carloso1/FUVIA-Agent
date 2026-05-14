@@ -1,0 +1,47 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 127/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 5: EARTHQUAKE RESISTANCE 343
+
+
+
+[CODE] Table 18.12.12.1—Transverse reinforcement for
+structural trusses Transverse
+reinforcement Applicable expressions
+[CODE] A ,
+03) s_ ] Se (a)
+[CODE] Au, fyt
+Ag/sb, for rectilinear Greater of:
+hoop
+[CODE] 0.09 Se (b) fr
+[CODE] 04s 2 | fe (c)
+[CODE] ps for spiral or circular Greater of: hoop
+[CODE] 0.12 Se (d) ye
+[CODE] 18.12.12.2 All continuous reinforcement in structural truss elements shall be developed or spliced for f, in tension.
+[CODE] 18.13—Foundations 18.13.1 Scope
+
+[COMMENTARY] R18.13—Foundations R18.13.1 Scope
+
+[CODE] 18.13.1.1 This section shall apply to foundations resisting earthquake-induced forces or transferring earthquake-
+induced forces between structure and ground.
+
+[COMMENTARY] Requirements for foundations supporting buildings assigned to SDC C, D, E, or F represent a consensus of a
+minimum level of good practice in designing and detailing concrete foundations. However, because repairs to founda- tions can be extremely difficult and expensive, it may be desirable that the elements of the foundation remain essen- tially elastic during strong ground motions. Methods to achieve this goal include designing the foundation to include
+an overstrength factor or an increased seismic demand level
+when compared to the superstructure, or comparing strengths to demands predicted by nonlinear response history analyses
+with appropriate consideration of uncertainty in demands
+(Klemencic et al. 2012).
+
+[CODE] 18.13.1.2 The provisions in this section for piles, drilled piers, caissons, and slabs-on-ground shall supplement other applicable Code design and construction criteria, including 1.4.6 and 1.4.7.
+[CODE] 18.13.2 Footings, foundation mats, and pile caps
+
+[COMMENTARY] R18.13.2 Footings, foundation mats, and pile caps
+
+[CODE] 18.13.2.1 The provisions of this section shall apply to structures assigned to SDC D, E, or F.
+[CODE] 18.13.2.2 Longitudinal reinforcement of columns and structural walls resisting forces induced by earthquake effects shall extend into the footing, mat, or pile cap, and shall be fully developed for tension at the interface.
+[CODE] 18.13.2.3 Columns designed assuming fixed-end condi- tions at the foundation shall comply with 18.13.2.2 and, if hooks are required, longitudinal reinforcement resisting flexure shall have 90-degree hooks near the bottom of the foundation with the free end of the bars oriented toward the center of the column.
+
+[COMMENTARY] R18.13.2.3 Tests (Nilsson and Losberg 1976) have demonstrated that flexural members terminating in a footing, slab, or beam (a T-joint or L-joint) should have their hooks turned inward toward the axis of the member for the joint to
+be able to resist the flexure in the member forming the stem of the T or L.
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

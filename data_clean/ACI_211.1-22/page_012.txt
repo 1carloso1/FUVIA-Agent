@@ -1,0 +1,43 @@
+[DOCUMENT: ACI_211.1-22]
+[PAGE: 12/26]
+[LAYOUT: continuous]
+============================================================
+SELECTING PROPORTIONS FOR NORMAL-DENSITY AND HIGH-DENSITY CONCRETE—GUIDE (ACI PRC-211.1-22) 13
+
+Table 4.7.9.3—Overall batch tolerances for yield
+
+This method produces an insignificant difference
+compared to the theoretical method for hard aggregates. It overestimates the free water because it overstates the oven- dry weight slightly, resulting in a little more aggregate and a little less water in the mixture than called for by the design, usually well within the weighing tolerances for water given by ASTM C94/C94M. Care should be exercised, however, when using highly absorbent aggregates at high moisture contents where it is possible to shift the w/c to the nearest 0.01. 4.7.9 Concrete yield 4.7.9.1 Yield—Yield is the volume of freshly mixed concrete produced from a known quantity of ingredients: the total weight of ingredients divided by the density of the freshly mixed concrete. It is computed based on the relation- ship given in ASTM C138/C138M. Concrete is produced on a volumetric basis, either as a cubic yard or a cubic meter, but it is batched on a weight basis according to a mixture design or mixture proportions. If the mixture proportions are not batched or determined properly, the combined materials
+may produce either more or less than the desired volume of concrete. It is the sum of the weight of the ingredients batched divided by the fresh density, also determined by ASTM C138/
+C138M. The result is a volume that is compared to the
+volume the ingredients were supposed to produce. The target
+yield is 1 yd? or 27 ft? of concrete material in most cases. 4.7.9.2 Relative yield—Relative yield (Ry) is the ratio of the actual volume of concrete obtained (Y) to the volume as designed (Y,) for the batch calculated as follows
+
+Overall batch tolerances for yield
+Target 1% Ry 2% Ry
+Over yield (+)
+27.27 1.01 27.54 1.02
+Under yield (-)
+27 ft
+26.73 0.99 26.46 0.98
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits.]
+4.7.9.4 Benefit of verifying yield—Typically in batching concrete materials, the weighing out of the cementitious materials is more constant than that of the aggregates due to compensation and adjustment of free moisture on the aggregate. Also, the cost difference of cement compared to aggregate puts a focus on correct tolerance for cement. For a given mixture design, the cementitious content is relatively fixed to the accuracy of the scale, from batch to batch. This relatively constant cement factor has the following effect on changing batch yields caused by a variety of factors. If the concrete batch under-yields (produces less than the desired concrete volume), the following conditions may occur: (a) Cementitious materials are typically weighed on a sepa- rate scale and are fairly constant for a given batched mixture design. When a load of concrete is batched and found to be in an under-yield condition, the percent of cement per volume of material is greater than that of the design, thus causing a lower w/cm (presuming original water content with similar slump) and leading to higher compressive strengths, and a
+more costly concrete per cubic yard. (b) If the batch size is smaller than expected, but the water content is not changed, the concrete mixture may have a higher-than-acceptable slump. (c) The contractor willreceive less concrete than requested. If the concrete batch over-yields (produces more than the desired concrete volume), the following conditions may occur: (a) As stated previously, the same amount of cement is batched and the concrete is found to be in an over-yield condition. This requires the same amount of cement to cover a larger proportion of aggregates and results in less net
+cement per yard, thus lower strengths. (b) The larger batch will require more water for a given slump, which will result in a higher w/cm and lower-than- anticipated strength. (c) If the water content is not changed, the concrete mixture may have lower-than-requested slump. Relative yield for trial batches should be reported in the field or lab report.
+
+Ry= Y/Y, (4.7.9.2)
+A value for Ry greater than 1.00 indicates an excess of concrete being produced whereas a value less than 1.00 indi- cates the batch to be short of its designed volume. Even though the concrete batching process is designed to
+produce | yd? (27 ft*), variations in batch weights, specific gravity of materials, aggregate moisture conditions, and air content will result in fluctuations in the batch volume. There is no published yield tolerance in either ASTM or ACI docu- ments, but a practical tolerance can be estimated. 4.7.9.3 Batch tolerances—In the field, ASTM C94/C94M batching tolerances allow the batch weights to vary +1% for cementitious materials, and up to a maximum +2% for aggregates when weighed in individual batchers. Entrained air tolerances allow for as much as +1.5% of the mixture volume. If the producer decides to monitor the overall toler- ance of the yield of the batching process, a | or 2% yield
+would give the numbers detailed in Table 4.7.9.3. A 1% over batch on aggregates and a 2% additional (over target) air content can result in a yield of 1.03 on some mixtures. As long as the Ry is within 0.98 to 1.02, the yield is prob- ably within acceptable tolerances; however, a contractor with
+a 1000 yd? placement might object to having to purchase an
+extra 20 yd? above what he anticipated.
+
+CHAPTER 5—PROPORTION SELECTION PROCEDURE
+The procedure for selection of mixture proportions given in this section is applicable to normal-density and high- density concretes. The same basic data and procedures can also be used in proportioning concretes using multiple aggre- gate size fractions, multiple types of cementitious materials, or both. Sample computations for these types of concrete are given in the examples of Chapter 9.
+
+CopyrightAmerican Concrete Institute
+
+American Concrete Institute — Copyrighted © Material — www.concrete.org ac
+
+@seismicisolation

@@ -1,0 +1,54 @@
+[DOCUMENT: ACI_211.4R-08]
+[PAGE: 17/23]
+[LAYOUT: continuous]
+============================================================
+ACI COMMITTEE REPORT
+211.4R-18
+7.3.2.7 Step 7: Conduct full-scale testing—Once the properties of the concrete mixture produced in the laboratory trials are satisfactory, conduct full-scale production testing. Consider these points: ¢ Use large enough batches to be representative of a full load; ¢ Test production batches more than once to ensure repeatability and uniformity; and ¢ Understand that these trial batches may coincide with the contractor’s need for placing, finishing, and curing trials as required.
+
+100 |
+80 _ LJ
+é a
+= oe 4-7 days = 60 - <
+2
+s
+3 4 @ Rn . —@—28 days
+P ry 3 40 se — r . 2EL = 112 Days i}
+oO 20
+0-7 T T T T T T T 7 -10 0 10 20 30 40 50 60 70 80
+
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: chloride exposure classes and chloride ion content limits; air content requirements; portland cement type specifications and chemical requirements; chemical admixture type classification and performance requirements.]
+CHAPTER 8—HIGH-STRENGTH CONCRETE
+MIXTURE PROPORTIONING USING SLAG CEMENT
+8.1—Fundamental relationships The selection of mixture proportions can be influenced by the testing age. High-strength concrete can gain considerable strength after 28 days, particularly when slag cement is used (Fig. 8.1). To take advantage of this characteristic, many specifications for compressive strength are revised from criteria at 28 days to 56 days, 91 days, or later ages. 8.1.1 Selection of materials—Carefully — selecting, controlling, and proportioning of all the ingredients
+enhances reliable production of a high-strength concrete mixture. Guidance concerning effectively addressing these factors is given in the following. It is advisable to focus first upon finding a combination of materials (local or otherwise) that provide the required level of performance. Then optimization of the mixture propor- tioning may include a broader evaluation of the potentially
+more cost-effective options. In most cases, if local experience indicates that practice other than that cited as follows is appropriate, it is generally preferred to initially defer to the local experience. 8.1.1.1 Portland cement—In general, portland cement, regardless of type, is compatible with slag cement. Type I or II portland cement is generally evaluated first, largely because most concrete producers usually have a dedicated silo for one or the other. Type III portland cement has also
+been used with slag cement, particularly to increase early- age strength performance. Certain chemical and physical properties for portland
+cement can be of benefit when slag cement is used. For
+example, relative to concrete mixtures without slag cement, a higher total alkali content from the portland cement may be acceptable when the slag cement is used. 8.1.1.2 Chemical admixtures—As portland cement is replaced with traditional levels of 40 to 50% of slag cement, the water demand typically stays about the same or is
+moderately reduced. The use of WRA, HRWRA, or both
+produces about the same or higher slump when the mixture contains slag cement as a partial cement replacement. Accelerators generally work as well with slag cement concrete as with concrete without slag cement. A slightly higher air-entraining admixture dosage is
+needed to achieve specific air content. In the first trial batch of slag cement concrete, the required air-entraining admixture
+
+GGBF Slag (% mass Cementitious)
+Fig. 8.1—Influence of testing age: slab cement Blaine fineness
+(2010 f’-Nb) (Brooks et al. 1992). (Note: 1 MPa = 145 psi.)
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: cement chemical and physical property limits.]
+dosage may be the same or slightly higher (often by about
+20%) than concrete without slag cement. 8.1.1.3 Coarse aggregates—It is generally possible to
+produce high-strength concrete containing slag cement with
+nominal maximum-size coarse aggregate as large as 1 in.,
+and the use of even larger aggregate sizes may be possible. The selection of coarse aggregate size may be influenced
+by requirements other than high strength, such as size of the concrete element, spacing of reinforcement, method of placement, elastic modulus, creep, drying shrinkage, or limiting the heat of hydration. 8.1.1.4 Slag cement—Slag cement used to produce high- strength concrete should meet the requirements of ASTM
+C989 or AASHTO M-302. Slag cement that meets other slag cement-related specifications (from countries other than the
+United States) and is essentially equivalent to ASTM C989- compliant slag cement may also be used. The amount of slag cement is traditionally expressed as a percentage by mass of the total cementitious materials content of a concrete mixture. For example, for a concrete
+mixture with 674 Ib/yd° of cementitious material and a slag
+cement content of 40%, the amount of slag cement will be
+270 Ib/yd?. Generally, all other factors being equal, the more finely
+ground the slag cement incorporated in the mixture, the higher the early age and ultimate strength of the concrete. This trend is shown in Table 8.1. 8.1.1.4.1 Slag activity index of slag cement—Increasing fineness of slag cement is commonly associated with increasing strength. Specification ASTM C9839 lists the three slag cement grades as 80, 100, and 120. (Refer to Table 8.1 for examples of fineness versus performance). In ASTM
+C989, the slag activity index (SAI), also known as slag
+component index (SCI), is determined by dividing compres- sive strength of the 50% slag mixture by the compressive strength of the reference portland-cement-only mixture. The higher the grade number, the higher the SAI (Table 8.1). ASTM C989 classifies slag by performance according to its slag activity test in three grades: 80, 100, and 120.
+According to ASTM C989 and Table 8.1, a Grade 120 slag
+cement is required to achieve an average 28-day compressive

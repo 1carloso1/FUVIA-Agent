@@ -1,0 +1,34 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 2/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] area of reinforcement in bracket or corbel resisting
+factored restraint force N,,., in.? area of a face of a nodal zone or a section through a
+nodal zone, in.” projected influence area of a single adhesive anchor or group of adhesive anchors, for calculation of
+bond strength in tension, in.” projected influence area of a single adhesive
+[CODE] Anao =
+[CODE] anchor, for calculation of bond strength in tension if not limited by edge distance or spacing, in.” projected concrete failure area of a single anchor
+[CODE] Ane =
+[CODE] or group of anchors, for calculation of strength in tension, in.”
+[CODE] Anco =
+[CODE] projected concrete failure area of a single anchor, for calculation of strength in tension if not limited
+by edge distance or spacing, in.” gross area enclosed by torsional shear flow path, in.” area enclosed by centerline of the outermost closed
+transverse torsional reinforcement, in.” total area occupied by duct, sheathing, and
+prestressing reinforcement, in.” area of prestressed longitudinal tension reinforce- ment, in.” total area of prestressing reinforcement, in.”
+= area of nonprestressed longitudinal tension rein- forcement, in.”
+= area of compression reinforcement, in.”
+= area of primary tension reinforcement in a corbel or bracket, in.”
+= effective cross-sectional area of anchor in tension, in.” effective cross-sectional area of anchor in shear, in.” total cross-sectional area of transverse reinforce- ment, including crossties, within spacing s and
+perpendicular to dimension b,, in.” total area of surface reinforcement at spacing s; in the i-th layer crossing a strut, with reinforcement at
+an angle a, to the axis of the strut, in.”
+= minimum area of flexural reinforcement, in.” total area of nonprestressed longitudinal reinforce-
+ment including bars or steel shapes, and excluding prestressing reinforcement, in. area of one leg of a closed stirrup, hoop, or tie resisting torsion within spacing s, in.” total cross-sectional area of ties or stirrups confining
+hooked bars, in.”
+area of prestressing reinforcement in a tie, in.” total cross-sectional area of all transverse reinforce-
+ment within spacing s that crosses the potential plane of splitting through the reinforcement being
+developed, in.”
+area of nonprestressed reinforcement in a tie, in.”
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

@@ -1,0 +1,70 @@
+[DOCUMENT: ASTM_C150-22]
+[PAGE: 4/9]
+[LAYOUT: continuous]
+============================================================
+All C150/C150M - 22
+
+inorganic processing addition is used, the manufacturer shall report the amount used, expressed as a percentage of cement
+mass, along with the oxide composition of the processing addition (see Note 4). Norse 4—These requirements are based on data and recommendations
+by Taylor. 5.1.5 Organic Processing Additions—They shall have been
+shown to meet the requirements of Specification C465 in the
+amounts used or greater and the total amount of organic
+processing additions used shall not exceed 1.0 % by mass of cement. 5.1.6 Air-entraining Addition (for Air-entraining Portland
+Cement Only)—The interground addition shall conform to the
+requirements of Specification C226.
+
+9. Test Methods 9.1 Determine the applicable properties enumerated in this specification in accordance with the following test methods: 9.1.1 Chemical Analysis—Test Methods C114. 9.1.2 Air Content of Mortar—Test Method C185. 9.1.3 Fineness by Air Permeability—Test Method C204. 9.1.4 Strength—Test Method C109/C109M. 9.1.5 Time of Setting by Vicat Needles—Test Method C191. 9.1.6 Early Stiffening—Test Method C451. 9.1.7 Heat of Hydration—Test Method C1702. 9.1.8 Sulfate Resistance—Test Method C452 (sulfate expan- sion). 9.1.9 Time of Setting by Gillmore Needles—Test Method
+C266. 9.1.10 Calcium Sulfate (Expansion of) Mortar—Test
+Method C1038/C1038M.
+
+6. Chemical Composition 6.1 Portland cement of each of the ten types shown in
+Section 1 shall conform to the respective standard chemical
+requirements prescribed in Table 1. In addition, optional
+chemical requirements are shown in Table 2. Nore 5—The standard composition requirements in Table 1 require
+reporting of equivalent alkalies. Cements with a maximum of 0.60 %
+equivalent alkalies were historically designated as “low-alkali cements”
+and recommended for use with aggregates susceptible to alkali-silica
+reaction (ASR). However, low-alkali cements (in the absence of other mitigation measures) may not be effective in mitigating ASR. Guidance on
+formulating concrete mixtures, including calculating alkali loading using
+equivalent alkali content of cement to minimize the potential for ASR, is
+provided in Guide C1778. Norse 6—The limit on the sum, C38 + 4.75(C,;A), in Table 1 provides
+control on the heat of hydration of the cement and is consistent with a Test
+Method C1702 three-day heat of hydration limit of 315 kJ/kg [75 cal/g]. Nore 7—There are cases where performance of a cement is improved
+with SO, in excess of the Table | limits in this specification. Guide C563 is one of several methods a manufacturer can use to evaluate the effect of sulfate content on cement characteristics. Whenever SO, content of a
+cement exceeds Table 1 limits, Test Method C1038/C1038M results
+provide evidence that excessive expansion does not occur at this higher sulfate content.
+
+10. Inspection 10.1 Inspection of the material shall be made as agreed upon
+between the purchaser and the seller as part of the purchase contract.
+11. Rejection 11.1 The cement shall be rejected if it fails to meet any of the requirements of this specification. 11.2 At the option of the purchaser, retest, before using,
+cement remaining in bulk storage for more than six months or
+cement in bags in local storage in the custody of a vendor for
+more than three months after completion of tests and reject the
+cement if it fails to conform to any of the requirements of this specification. Cement so rejected shall be the responsibility of the owner of record at the time of resampling for retest. 11.3 Packages shall identify the mass contained as net weight. At the option of the purchaser, packages more than 2 %
+below the mass marked thereon shall be rejected and if the
+average mass of packages in any shipment, as shown by
+determining the mass of 50 packages selected at random, is less
+than that marked on the packages, the entire shipment shall be rejected.
+
+7. Physical Properties 7.1 Portland cement of each of the ten types shown in
+Section | shall conform to the respective standard physical
+requirements prescribed in Table 3. In addition, optional physical requirements are shown in Table 4.
+
+12. Manufacturer’s Statement 12.1 At the request of the purchaser, the manufacturer shall state in writing the nature, amount, and identity of any air-entraining addition and of any processing addition used,
+and also, if requested, shall supply test data showing compli-
+ance of such air-entraining addition with Specification C226
+and of such processing addition with Specification C465. 12.2 When limestone is used, the manufacturer shall state in writing the amount thereof and, if requested by the purchaser, shall supply comparative test data on chemical and physical properties of the cement with and without the limestone (see
+Note 8). The comparative tests do not supersede the normal testing to confirm that the cement meets chemical and physical
+requirements of this specification. The amount of limestone in
+cement shall be determined in accordance with Annex A2.
+
+8. Sampling 8.1 When the purchaser desires that the cement be sampled
+and tested to verify compliance with this specification, perform
+sampling and testing in accordance with Practice C183/
+C183M. 8.2 Practice C183/C183M is not designed for manufactur- ing quality control and is not required for manufacturer’s certification.
+3 Taylor, P., “Specifications and Protocols for Acceptance Tests on Processing Additions in Cement Manufacturing,” NCHRP Report 607, Transportation Research Board, Washington, DC 20008, pp. 96. Available at www.trb.org.
+Au, 1g POA ARABIA ARS BRBABPOA Gaitbue
+tne dpy , . BO MRSER AERTS RO 1 LBS
+AA, 1 Afra, OPA
+THEA, aA MORES TU) AB) KYA KB caeOBwosatna na Aor, BH) CouBatwrg
+no) 25¢| Be) « ~ Bax

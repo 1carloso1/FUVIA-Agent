@@ -1,0 +1,57 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 175/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] 537
+[COMMENTARY] PART 9: CONSTRUCTION
+
+
+[COMMENTARY] because tolerances on d should be considered in member
+design. Placement tolerances for cover are also provided. Tolerances for placement of reinforcement should be specified in accordance with ACI 117 unless stricter toler-
+ances are required. The more restrictive tolerance for spacing
+of hoops in members of intermediate and special seismic
+systems is to provide better control against premature buck- ling of longitudinal bars.
+
+[CODE] (1) Lesser of + 1-1/2 in. and +1.5d;, of the smallest longi- tudinal bar. (2) Lesser of —1 in. per ft of least side dimension of
+member and —3 in. (3) Spacing adjustments shall result in no more than two
+hoops being in contact with each other.
+[CODE] Table 26.6.2.1(b)—Tolerances for longitudinal location of bends and ends of reinforcement Location of bends or reinforcement
+[CODE] ends Tolerances, in.
+[CODE] Discontinuous ends of brackets and
++1/2
+corbels Discontinuous ends of other members +1
+[CODE] Other locations +2
+[CODE] 26.6.2.2 Compliance requirements:
+
+[COMMENTARY] oo Construction
+[COMMENTARY] R26.6.2.2(a) Reinforcement, including bundled bars,
+should be adequately supported in the forms to prevent
+displacement by concrete placement or workers. Bundled
+bars should be tied or otherwise fastened together to main- tain their position, whether vertical or horizontal. Beam stir-
+rups should be supported on the bottom form of the beam
+by supports such as continuous longitudinal beam bolsters. If only the longitudinal beam bottom reinforcement is supported, construction traffic can dislodge the stirrups as
+well as any top beam reinforcement tied to the stirrups.
+
+[CODE] (a) Reinforcement, including bundled bars, shall be placed
+within required tolerances and supported to prevent
+displacement beyond required tolerances during concrete placement.
+
+[COMMENTARY] R26.6.2.2(b) Spirals should be held firmly in place, at
+proper pitch and alignment, to prevent displacement during
+concrete placement. The Code has traditionally required
+spacers to hold the fabricated spiral cage in place, but alter- nate methods of installation are also permitted. If spacers are used, the following may be used for guidance: for spiral bar or
+wire smaller than 5/8 in. diameter, a minimum of two spacers should be used for spirals less than 20 in. in diameter, three spacers for spirals 20 to 30 in. in diameter, and four spacers for spirals greater than 30 in. in diameter. For spiral bar or
+wire 5/8 in. diameter or larger, a minimum of three spacers should be used for spirals 24 in. or less in diameter, and four spacers for spirals greater than 24 in. in diameter.
+
+[CODE] (b) Spiral units shall be continuous bar or wire placed with
+even spacing and without distortion beyond the tolerances for the specified dimensions.
+[CODE] (c) Splices of reinforcement shall be made only as
+permitted in the construction documents, or as authorized
+by the licensed design professional. (d) For longitudinal column bars forming an end-bearing splice, the bearing of square cut ends shall be held in concentric contact.
+
+[COMMENTARY] R26.6.2.2(d) Experience with end-bearing splices has
+been almost exclusively with vertical bars in columns. If
+bars are significantly inclined from the vertical, attention is
+required to ensure that adequate end-bearing contact can be
+achieved and maintained.
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

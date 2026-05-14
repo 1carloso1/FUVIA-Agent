@@ -1,0 +1,26 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 49/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 3: MEMBERS 143
+
+
+[COMMENTARY] is greater than the applied moment over the entire length
+of the beam. As illustrated in the moment diagram of Fig. R9.7.3.8.3(a), the slope of the moment diagram is V,,, while the slope of moment development is M,/fa, where M,, is the nominal flexural strength of the cross section. By sizing the reinforcement such that the capacity slope M,,/fz equals or exceeds the demand slope V,, proper development is provided. Therefore, M,,/V, represents the available devel-
+opment length. Under favorable support conditions, a 30 percent increase for M,,/V,, is permitted when the ends of the reinforcement are confined by a compressive reaction. The application of this provision is illustrated in Fig. R9.7.3.8.3(b) for simple supports and in Fig. R9.7.3.8.3(c) for points of inflection. For example, the bar size provided at a simple support is satisfactory only if the corresponding bar, fz, calculated in accordance with 25.4.2, does not exceed 1.3M,/V,, + la. The £, to be used at points of inflection is limited to the effective depth of the member d or 12 bar diameters (12d,),
+whichever is greater. The f, limitation is provided because
+
+[CODE] forcement terminates beyond the centerline of supports by a standard hook or a mechanical anchorage at least equivalent to a standard hook, (a) or (b) need not be satisfied.
+[CODE] (a) fa < (1.3M,/V,, + ¢,) if end of reinforcement is confined
+by a compressive reaction (b) £4< (M,,/V,, + €,) if end of reinforcement is not confined
+by a compressive reaction
+[CODE] M,, 1s calculated assuming all reinforcement at the section is stressed to f,, and V, is calculated at the section. At a support, f,, is the embedment length beyond the center of the support. Ata point of inflection, £, is the embedment length beyond the point of inflection limited to the greater of d and 12d,,.
+
+[COMMENTARY] 2)
+=
+Ss
+YQ
+a=)
+[COMMENTARY] test data are not available to show that a long end anchorage length will be fully effective in developing a bar that has
+only a short length between a point of inflection and a point of maximum stress.
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

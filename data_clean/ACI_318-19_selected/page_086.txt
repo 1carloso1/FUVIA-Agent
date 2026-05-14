@@ -1,0 +1,42 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 86/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+[COMMENTARY] Thompson 1977). Although satisfactory seismic perfor-
+mance can be obtained with greater amounts of prestressed reinforcement, this restriction is needed to allow the use of the same response modification and deflection amplification factors as those specified in model codes for special moment
+frames without prestressed reinforcement. Prestressed special moment frames will generally contain continuous prestressed reinforcement that is anchored with adequate
+cover at or beyond the exterior face of each beam-column
+connection located at the ends of the moment frame. Fatigue testing for 50 cycles of loading between 40 and
+80 percent of the specified tensile strength of the prestressed
+reinforcement has been a long-standing industry prac- tice (ACI 423.3R; ACI 423.7). The 80 percent limit was increased to 85 percent to correspond to the 1 percent limit
+on the strain in prestressed reinforcement. Testing over this
+range of stress is intended to conservatively simulate the effect of a severe earthquake. Additional details on testing procedures are provided in ACI 423.7.
+[COMMENTARY] R18.6.4 Zransverse reinforcement
+
+[CODE] 18.6.4 Transverse reinforcement
+
+[COMMENTARY] Transverse reinforcement is required primarily to confine the concrete and maintain lateral support for the reinforcing bars in regions where yielding is expected. Examples of
+hoops suitable for beams are shown in Fig. R18.6.4. In earlier Code editions, the upper limit on hoop spacing
+was the least of d/4, eight longitudinal bar diameters, 24 tie bar diameters, and 12 in. The upper limits were changed in the
+2011 edition because of concerns about adequacy of longitu- dinal bar buckling restraint and confinement in large beams. In the case of members with varying strength along the
+span or members for which the permanent load represents a large proportion of the total design load, concentrations of inelastic rotation may occur within the span. If such a condi- tion is anticipated, transverse reinforcement is also required in regions where yielding is expected. Because spalling of the concrete shell might occur, especially at and near regions
+of flexural yielding, all web reinforcement is required to be
+provided in the form of closed hoops.
+
+[CODE] 18.6.4.1 Hoops shall be provided in the following regions of a beam:
+[CODE] (a) Over a length equal to twice the beam depth measured
+from the face of the supporting column toward midspan, at both ends of the beam (b) Over lengths equal to twice the beam depth on both sides of a section where flexural yielding is likely to occur as a result of lateral displacements beyond the elastic
+range of behavior.
+[CODE] 18.6.4.2 Where hoops are required, primary longitudinal reinforcing bars closest to the tension and compression faces shall have lateral support in accordance with 25.7.2.3 and 25.7.2.4. The spacing of transversely supported flexural reinforcing bars shall not exceed 14 in. Skin reinforcement required by 9.7.2.3 need not be laterally supported.
+[CODE] 18.6.4.3 Hoops in beams shall be permitted to be made
+up of two pieces of reinforcement: a stirrup having seismic
+hooks at both ends and closed by a crosstie. Consecutive crossties engaging the same longitudinal bar shall have their
+90-degree hooks at opposite sides of the flexural member. If the longitudinal reinforcing bars secured by the crossties are confined by a slab on only one side of the beam, the
+90-degree hooks of the crossties shall be placed on that side.
+[CODE] 18.6.4.4 The first hoop shall be located not more than 2 in.
+from the face of a supporting column. Spacing of the hoops shall not exceed the least of (a) through (d):
+[CODE] (a) d/4 | (b) 6in. aci>
+_
+[CODE] American Concrete Institute — Copyrighted © Material — www.concrete.org

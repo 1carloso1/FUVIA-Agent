@@ -1,0 +1,44 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 94/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] (a) Transverse reinforcement required by 18.7.5.2 through 18.7.5.4 shall be provided over the full height at all levels beneath the discontinuity if the factored axial compres- sive force in these columns, related to earthquake effect, exceeds A,f,'/10. Where design forces have been magni- fied to account for the overstrength of the vertical elements
+of the seismic-force-resisting system, the limit of A,f.'/10 shall be increased to A, f,'/4. (b) Transverse reinforcement shall extend into the discon- tinued member at least f; of the largest longitudinal
+column bar, where @, 1s in accordance with 18.8.5. Where the lower end of the column terminates on a wall, the required transverse reinforcement shall extend into the wall at least fz of the largest longitudinal column bar at the point of termination. Where the column terminates on a footing or mat, the required transverse reinforcement shall extend at least 12 in. into the footing or mat.
+
+[COMMENTARY] columns have the specified reinforcement throughout their length. This covers all columns beneath the level at which the stiff member has been discontinued, unless the factored forces corresponding to earthquake effect are low. Refer to R18.12.7.6 for discussion of the overstrength factor Q,.
+
+[CODE] 18.7.5.7 If the concrete cover outside the confining trans- verse reinforcement required by 18.7.5.1, 18.7.5.5, and 18.7.5.6 exceeds 4 in., additional transverse reinforcement
+having cover not exceeding 4 in. and spacing not exceeding 12 in. shall be provided.
+
+[COMMENTARY] R18.7.5.7 The unreinforced shell may spall as the column deforms to resist earthquake effects. Separation of portions of the shell from the core caused by local spalling creates a falling hazard. The additional reinforcement is required to
+reduce the risk of portions of the shell falling away from the column.
+
+[CODE] 18.7.6 Shear strength
+
+[COMMENTARY] R18.7.6 Shear strength
+
+[CODE] 18.7.6.1 Design forces
+
+[COMMENTARY] R18.7.6.1 Design forces
+
+[CODE] 18.7.6.1.1 The design shear force V, shall be calculated
+from considering the maximum forces that can be generated at the faces of the joints at each end of the column. These joint forces shall be calculated using the maximum probable flexural strengths, M,,, at each end of the column associ- ated with the range of factored axial forces, P,,, acting on the
+column. The column shears need not exceed those calculated
+from joint strengths based on M,, of the beams framing into the joint. In no case shall V, be less than the factored shear calculated by analysis of the structure.
+
+[COMMENTARY] R18.7.6.1.1 The procedures of 18.6.5.1 also apply to columns. Above the ground floor, the moment at a joint may
+be limited by the flexural strength of the beams framing into the joint. Where beams frame into opposite sides of a joint, the combined strength is the sum of the negative
+moment strength of the beam on one side of the joint and the positive moment strength of the beam on the other side of the joint. Moment strengths are to be determined using a strength reduction factor of 1.0 and reinforcement with an effective yield stress equal to at least 1.25f,. Distribution of the combined moment strength of the beams to the columns
+above and below the joint should be based on analysis.
+
+[CODE] 18.7.6.2 Transverse reinforcement
+[CODE] 18.7.6.2.1 Transverse reinforcement over the lengths £,, given in 18.7.5.1, shall be designed to resist shear assuming V.. = 0 when both (a) and (b) occur:
+[CODE] (a) The earthquake-induced shear force, calculated in accordance with 18.7.6.1, is at least one-half of the
+maximum required shear strength within @,. (b) The factored axial compressive force P, including earthquake effects is less than A,f-'/20.
+[CODE] aci®
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org
+[CODE] _

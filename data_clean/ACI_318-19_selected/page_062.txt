@@ -1,0 +1,42 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 62/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 3: MEMBERS
+[COMMENTARY] 157
+
+
+[COMMENTARY] (Mn; Pr)
+[COMMENTARY] Qo. so} o_ Pumax —
+&
+Zs Pi3— —j— — — — — —
+[COMMENTARY] Acceptable | region
+[COMMENTARY] | | t ae |
+Mus Mus Mumax
+[COMMENTARY] _ Columns
+[COMMENTARY] Moment, M
+[COMMENTARY] Fig. R10.4.2.1—Critical column load combination.
+
+[CODE] 10.5—Design strength 10.5.1 General
+
+[COMMENTARY] R10.5—Design strength R10.5.1 General
+
+[CODE] 10.5.1.1 For each applicable factored load combina- tion, design strength at all sections shall satisfy oS, > U, including (a) through (d). Interaction between load effects shall be considered: (a) oP, > Py
+(b) 6M, 2M, (c) oV, = Vz, (d) oT, = Ty
+
+[COMMENTARY] R10.5.1.1 Refer to R9.5.1.1.
+
+[CODE] 10.5.1.2 shall be determined in accordance with 21.2.
+[CODE] 10.5.2 Axial force and moment
+[CODE] 10.5.2.1 P,, and M,, shall be calculated in accordance with 22.4.
+[CODE] 10.5.3 Shear
+[CODE] 10.5.3.1 V,, shall be calculated in accordance with 22.5.
+[CODE] 10.5.4 Torsion
+
+[COMMENTARY] R10.5.4 Torsion
+
+[CODE] 10.5.4.1 If J, = Tm, where Ty, is given in 22.7, torsion shall be considered in accordance with Chapter 9.
+
+[COMMENTARY] Torsion acting on columns in buildings is typically negligible and is rarely a governing factor in the design of
+columns.
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

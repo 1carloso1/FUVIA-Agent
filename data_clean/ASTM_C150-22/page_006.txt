@@ -1,0 +1,74 @@
+[DOCUMENT: ASTM_C150-22]
+[PAGE: 6/9]
+[LAYOUT: continuous]
+============================================================
+All ¢150/C150M - 22
+
+present in cements of this composition. Dicalcium silicate shall
+be calculated as in Eq Al.2. Contents of this solid solution and
+of tricalcium silicate shall be calculated by the following formulas:
+
+P = the percentage by mass of inorganic processing addition, and
+X, = the percentage by mass of C,S, C,S, C,A, or C,AF in
+the finished cement. Note A1l.2—Where the oxide analysis of the finished cement, the
+
+ss(C,AF + C2F) = (2.100 x % Al,O,) + (1.702 x % Fe,0z)
+
+limestone, and inorganic processing addition are known along with the
+mass percentage of limestone (Z) and mass percentage of inorganic processing addition (P), one method of determining the base cement oxide
+composition is to use the following equation: O, = 100 x (O,—(L/ 100 x O,) — (P/ 100 x O,)) /(100
+— L — P) where: O, = the base cement oxide content (% by mass of base cement),
+O, = the finished cement oxide content (% by mass of finished cement),
+O, = the limestone oxide content (% by mass of limestone), and
+O, = the inorganic processing addition oxide content (% by mass of inorganic processing addition). The base cement phase composition can be determined using these values of oxide analyses in Eq Al.1-A1.6. Eq A1.7 is used to calculate the adjusted phase composition. Norse Al.3—For example, where the cement includes 3.5 % limestone
+and 3.0 % of an inorganic processing addition and the base cement has
+60% C38, 15 % CS, 7% CA, and 10% C,AF, the adjusted phase
+composition is:
+
+(A1.5)
+Tricalcium silicate (C,S) = (4.071 x % CaO) — (7.600 x % SiO.) — (4.479 x % AlzO3) — (2.859 x % FesO3) — (2.852 x % SOs)
+(A1.6)
+A1.4 If no limestone or inorganic processing additions are
+used in the cement, or in the absence of information on limestone or inorganic processing additions use in the cement,
+phases shall be calculated using procedures in Eq A1.1-A1.6
+without adjustment. A1.5 In absence of information on limestone or inorganic processing additions content, results shall note that no adjust-
+ment has been made for possible use of limestone or inorganic
+processing additions. A1.6 When inorganic processing additions or limestone, or both, are used with the base cement (portland cement clinker
+and any added calcium sulfate), the contents of C,S, C,S, C3A,
+and C,AF shall be adjusted as follows: A1.6.1 The percentage of C3S, C,S, C3A, and C,AF in the
+base cement (see Note Al.2) shall be determined based on
+chemical analyses using methods in Test Methods C114 and using Eq Al.1-A1.6 as appropriate. The contents of each of these phases shall be adjusted to account for the use of
+limestone or inorganic processing additions as follows:
+
+_ 60 X (100 = 3.5 = 3.0)
+C8, = 0 = 56% 15 x (100 — 3.5 — 3.0)
+CS, = 0 = 14% 7 x (100 — 3.5 — 3.0)
+C,A,= 00 = 7% 10 x (100 — 3.5 — 3.0)
+C,AF, = 100 = 9%
+
+(100
+— L — P)
+X,= X, X 100
+/ (A1.7)
+
+A1.6.2 Only the percentages of C,S, C,S, C3;A, and C,AF shall be adjusted by the procedure in A1.6.1. These adjusted values for the finished cement shall be reported on the manufacturer’s report, and used in determining compliance with specification limits, including those based on calculated values, such as the sums of C,S + 4.75(C3A), and C,AF + 2(C3A).
+
+X, = the percentage by mass of CS, C,S, C3A, or C,AF in the base cement (portland cement clinker and any
+calcium sulfate),
+L = the percentage by mass of limestone,
+A2. LIMESTONE CONTENT OF PORTLAND CEMENT
+A2.1 When limestone is used, the limestone content in portland cement shall be derived from the determination of
+CO, in the finished cement. Analysis of CO, shall be based on
+methods described in Test Methods C114. The percent lime- stone in the cement is calculated from the CO, analysis based
+on the CO, content of the limestone used. The manufacturer shall include the CO, content and calcu- lated limestone content of the cement on the Mill Test Report.
+
+The limestone content of the cement is calculated as follows: % COQ, in the cement
+% CO, in the limestone
+xX 100 = % limestone in cement
+
+Ab, iy POA FRAT
+TL BRS RRBAROA Galena apy, . BOARS -SRTa riBo wu) LABS
+AR 1 ems, MRP
+THEA, RAE ABBR "Hu MBr/)
+eu RABY ABAD Bwosaina oa Br, BH) -(nupatng
+co) 20¢ Bp ( Brown

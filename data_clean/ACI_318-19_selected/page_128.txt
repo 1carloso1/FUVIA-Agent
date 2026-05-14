@@ -1,0 +1,58 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 128/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] 18.13.2.4 Columns or boundary elements of special struc- tural walls that have an edge within one-half the footing
+depth from an edge of the footing shall have transverse reinforcement in accordance with 18.7.5.2 through 18.7.5.4
+provided below the top of the footing. This reinforcement shall extend into the footing, mat, or pile cap a length equal to the development length, calculated for f, in tension, of the column or boundary element longitudinal reinforcement.
+
+[COMMENTARY] R18.13.2.4 Columns or boundary members supported close to the edge of the foundation, as often occurs near property lines, should be detailed to prevent an edge failure of the footing, pile cap, or mat.
+
+[CODE] 18.13.2.5 Where earthquake effects create uplift forces in
+boundary elements of special structural walls or columns, flexural reinforcement shall be provided in the top of the footing, mat, or pile cap to resist actions resulting from the factored load combinations, and shall be at least that required
+by 7.6.1 or 9.6.1.
+
+[COMMENTARY] R18.13.2.5 The purpose of this section is to emphasize that top reinforcement in footings, mats, and pile caps may be required, in addition to other required reinforcement.
+
+[CODE] 18.13.2.6 Structural plain concrete in footings and base-
+ment walls shall be in accordance with 14.1.4.
+
+[COMMENTARY] R18.13.2.6 Foundation and basement walls should be reinforced in buildings assigned to SDC D, E, or F.
+
+[CODE] 18.13.2.7 Pile caps incorporating batter piles shall be designed to resist the full compressive strength of the batter piles acting as short columns. The slenderness effects of batter piles shall be considered for the portion of the piles in soil that is not capable of providing lateral support, or in air or water.
+
+[COMMENTARY] R18.13.2.7 Batter piles typically attract higher lateral forces during earthquakes than vertical piles. Extensive structural damage has been observed at the junction of batter piles and building foundations. The pile cap and surrounding structure should be designed for the potentially large forces that can be developed in batter piles.
+
+[CODE] 18.13.3 Grade beams and slabs-on-ground
+
+[COMMENTARY] R18.13.3 Grade beams and slabs-on-ground
+[COMMENTARY] For earthquake conditions, slabs-on-ground (soil-supported slabs) are often part of the lateral-force-resisting system and should be designed in accordance with this Code as well as other appropriate standards or guidelines (refer to 1.4.8).
+
+[CODE] 18.13.3.1 For structures assigned to SDC D, E, or F, grade
+beams and beams that are part of a mat foundation subjected to flexure from columns that are part of the seismic-force- resisting system shall be in accordance with 18.6.
+
+[COMMENTARY] R18.13.3.1 Grade beams resisting flexural stresses from
+column moments should have reinforcement details similar to the beams of the frame above the foundation.
+
+[CODE] 18.13.3.2 For structures assigned to SDC C, D, E, or F,
+slabs-on-ground that resist in-plane earthquake forces from walls or columns that are part of the seismic-force-resisting system shall be designed as diaphragms in accordance with 18.12. The construction documents shall clearly indicate that the slab-on-ground is a structural diaphragm and part of the seismic-force-resisting system.
+
+[COMMENTARY] R18.13.3.2 Slabs-on-ground often act as a diaphragm to tie the building together at the ground level and minimize the effects of out-of-phase ground motion that may occur over the footprint of the building. The construction documents should clearly state that these slabs-on-ground are structural
+members so as to prohibit saw cutting of the slab.
+
+[CODE] 18.13.4 Foundation seismic ties
+
+[COMMENTARY] R18.13.4 Foundation seismic ties
+
+[CODE] 18.13.4.1 For structures assigned to SDC C, D, E, or F, individual pile caps, piers, or caissons shall be intercon- nected by foundation seismic ties in orthogonal directions, unless it can be demonstrated that equivalent restraint is
+provided by other means.
+
+[COMMENTARY] R18.13.4.1 The foundation seismic ties should sufficiently interconnect foundations to act as a unit and be designed to
+minimize the relative movement of an individual column or tie relative to the foundation. This is essential where surface soils are soft enough to require deep foundations or where the site soils are susceptible to liquefaction.
+
+[CODE] aci>
+SF
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

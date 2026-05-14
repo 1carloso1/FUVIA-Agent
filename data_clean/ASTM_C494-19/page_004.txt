@@ -1,0 +1,70 @@
+[DOCUMENT: ASTM_C494-19]
+[PAGE: 4/15]
+[LAYOUT: continuous]
+============================================================
+Ail caga/c4g4am - 19 TABLE 1 Physical Requirements” ?
+[TABLE: TABLE 1 Physical Requirements” ?]
+[TABLE_CONTEXT: This table specifies: chemical admixture type classification and performance requirements.]
+Type G,
+Type D, Type E, Type F,
+ype A, Type B, Type C, Water- Water- Water- Water- Type S
+ater- . : . . ; Reducing, Specific Perfor-
+Reducing Retarding Accelerating Reducing and Reducing and Reducing, High-Range mance
+Retarding Accelerating High-Range :
+and Retarding
+
+Water content, max, 95 95 95 88 88 % of reference”
+Time of setting, allowable deviation from reference, h:min: Initial: at least bee 1:00 later 1:00 earlier 1:00 later 1:00 earlier ves 1:00 later
+
+not more than 1:00 earlier 3:30 later 3:30 earlier 3:30 later 3:30 earlier 1:00 earlier 3:30 later 1:00 earlier
+
+nor 1:30 nor 1:30 nor 1:30 later later later
+
+Final: at least wee we 1:00 earlier . 1:00 earlier we wee
+
+not more than 1:00 earlier 3:30 later 3:30 later 1:00 earlier 3:30 later 1:00 earlier
+
+nor 1:30 nor 1:30 nor 1:30 later later later
+
+Compressive strength, min, % of reference:°
+
+1 day we _ wee ves wee 140 125 ves
+3 days 110 90 125 110 125 125 125 90
+7 days 110 90 100 110 110 115 115 90
+28 days 110 90 100 110 110 110 110 90 (120)? (120)? (120)° (120)?
+90 days (117)? n/a n/a (117)? n/a (117)° (117)? n/a 6 months 100 90 90 100 100 100 100 90 1 year 100 90 90 100 100 100 100 90
+
+(113)° (113)? (113)° (113)?
+
+Flexural strength, min, % reference:°
+
+3 days 100 90 110 100 110 110 110 90
+7 days 100 90 100 100 100 100 100 90
+28 days 100 90 90 100 100 100 100 90
+
+Length change, max
+
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: chemical admixture type classification and performance requirements.]
+shrinkage (alternative
+requirements):©
+Percent of reference 135 135 135 135 135 135 135 135 Increase over reference 0.010 0.010 0.010 0.010 0.010 0.010 0.010 0.010 Relative durability factor, min 80 80 80 80 80 80 80 80
+% of reference” 4 Requirements in this table apply to the averages of three or more test results for each category of concrete. Comparisons are not to be made between pairs of single test results of reference and test concretes. The indicated maximum water contents are not to be interpreted as requiring exactly that amount; they are maximum values
+and testing at lower water content is permitted. Further, there is no requirement that either test or reference concretes be prepared at the same water contents. Because
+requirements in this specification apply to the average test results for each category of concrete, adjustment of mixtures within the tolerances of this specification are ® The values in the table include allowance for normal variation in test results. The objective of the 90 % compressive strength requirement for a Type B and Type S
+admixture is to require a level of performance comparable to that of the reference concrete while allowing for variability in test results.
+© The compressive and flexural strength of the concrete containing the admixture under test at any test age shall be not less than 90 % of that attained at any previous test age. The objective of this limit is to require that the compressive or flexural strength of the concrete containing the admixture under test shall not decrease with age. » Alternative requirement. If the physical requirements are met and any of the measured relative strengths are greater than the requirement in parentheses, the admixture shall be considered provisionally to meet the requirements of this specification until the one-year strength test results are obtained.
+© Alternative requirements, see 17.1.4. The % of reference limit applies if length change of reference concrete is 0.030 % or greater; increase over reference limit applies ¥ This requirement is applicable only if the admixture is intended for use in air-entrained concrete that may be exposed to freezing and thawing while wet.
+
+permitted if necessary to make the averages fall within requirements.
+if length change of reference concrete is less than 0.030 %.
+shipment, and in an environment that will protect the admix- ture from dampness and freezing. 9. Sampling and Inspection 9.1 The purchaser shall be provided the opportunity for
+sampling and inspection, either at the point of manufacture or at the site of the work, as specified by the purchaser. 9.2 Samples shall be either “grab” or “composite” samples, as specified or required by this specification. A grab sample is
+
+one obtained in a single operation. A composite sample is one
+obtained by combining three or more grab samples. 9.3 For the purposes of this specification, it is recognized that samples will be taken for two reasons: 9.3.1 Compliance Tests—A sample obtained for the purpose
+of demonstrating compliance of a source or lot of admixture shall meet the applicable requirements of this specification as
+described in 5.1 through 5.2.2. The sample used to determine
+conformance with the requirements of this specification shall
+
+Copyright by ASTM Int'l (all rights reserved); Wed Sep 2 00:11:37 EDT 2020 4 Downloaded/printed by Indian Inst of Tech Chennai (Indian Inst of Tech Chennai) pursuant to License Agreement. No further reproductions authorized.

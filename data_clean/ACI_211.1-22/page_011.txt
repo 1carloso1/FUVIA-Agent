@@ -1,0 +1,62 @@
+[DOCUMENT: ACI_211.1-22]
+[PAGE: 11/26]
+[LAYOUT: continuous]
+============================================================
+12 SELECTING PROPORTIONS FOR NORMAL-DENSITY
+AND HIGH-DENSITY CONCRETE—GUIDE (ACI PRC-211.1-22)
+
+When the oven-dry weight is known, the SSD weight can be found using the following equation.
+
+4.7.7.2 Absolute volume—In the case of solids, the displacement volume of particles themselves, including their permeable and impermeable voids, but excluding space
+between particles; in the case of fluids, their volume. A more exact procedure for calculating the required
+amount of fine aggregate involves the use of volumes displaced by the ingredients. The absolute volume method presented subtracts the sum of the absolute volumes of the determined constituents from the unit volume to determine the required volume of the sand from which the weight of sand is determined. The design is checked by measuring the yield with procedures of ASTM C138/C138M, as well as testing the mixture’s other required properties. 4.7.7.3 Specific gravity-weight-volume relationship—The
+volume occupied in concrete by any ingredient is equal to its weight divided by the density of that material. The specific gravity is the ratio of the density of a substance to the density of water at a specified temperature
+and pressure. The density is the weight per unit volume of a substance. The weight-volume relationship defined by the specific gravity of a substance is used to determine the
+volume of a known substance if the weight is known, and vice versa. The density of a substance will be the specific gravity multiplied by the density of water. Once the density is known, the weight of a given volume of the substance can be found by dividing the volume by the density. If the
+volume is known, the weight is found by multiplying it by the density. 4.7.7.4 Theoretical air-free density—The sum of the weights of the constituents of a concrete mixture, divided
+by the sum of the absolute volumes, less the volume of air. 4.7.8 Moisture adjustments—Knowing the moisture content of aggregate stockpiles is variable, the net water batched to the mixture typically has to be adjusted to accom-
+modate that variability. Moisture adjustments are not part of the design. They are adjustments to the design weights of the aggregates and water needed to achieve the concrete mixture design with respect to water. The weight of the design water should be adjusted for water on the aggregates that is free to hydrate cement. The free water is the total amount of water minus the absorbed water. When aggregates are below SSD, they will absorb water so additional water will need to be added to the batch water. When aggregates are above SSD, there is free water on the aggregate so water will be subtracted from the batch water. 4.7.8.1 Oven dry—Oven dry is the moisture condition achieved when an aggregate is dried to constant weight. In this state, the aggregate contains no moisture at all. If an SSD weight is known, the oven-dry weight can be found using the following equation.
+
+A%
+Meson = Mop E00.
+(4.7.8.2)
+4.7.8.3 Total moisture content—The moisture content is the amount of moisture that can be evaporated from an aggregate under controlled conditions and computed
+from ASTM C566. It contains both the absorbed and the surface moisture. The total moisture content computation is
+m.—m
+%total = ——_— x 100
+(4.7.8.3)
+Mop
+4.7.8.4 Absorption—Determined through the procedures
+of ASTM C127 and C128, absorption is the moisture content
+when the aggregate is dried from its SSD condition to its oven-dry state. At the SSD state, the aggregate has absorbed as much water as possible, but there is no moisture on the surface of the particles.
+Ay — Msso Mon 199
+(4.7.8.4)
+Mop
+4.7.8.5 Free water—Free water is the total amount of
+water less the water absorbed into the aggregate. This water is on the surface of the aggregate particles and is available to hydrate cement.
+“free = Ytotal — A% (4.7.8.5)
+4.7.8.6 Free water weight computation when oven-dry weight is known—To compute the free water, the oven-dry weight of the aggregate is multiplied by the free moisture content to determine the weight of water needed to adjust the design water content.
+MWrree = Mop x MC% jee (4.7.8.6)
+4.7.8.7 Free water weight computation when SSD weight is known—When the weight is given in terms of SSD weight, it is converted into oven-dry weight by dividing by I+ 100
+m2
+__ x MC%
+i
+MW
+joy = (4.7.8.7)
+free
+1+ — 100
+4.7.8.8 Conventional methodfor computation offree water
+weight—Because typical batch tickets give the weights of the concrete constituents in SSD terms, it is convenient to compute the free water based on these values without converting to oven-dry weight. The free water is computed as the SSD weight multiplied by the moisture content.
+
+— —_Mssp__ (4.7.8.1)
+Mop A%
+[D0
+100
+4.7.8.2 Saturated surface-dry—SSD is the moisture condi- tion achieved after a fully saturated aggregate is dried until all the surface moisture has been evaporated.
+
+MWyjee = Mssp X MCV jee (4.7.8.8)
+
+Copyright GETS Institute
+ACI >
+American Concrete Institute — Copyrighted © Material — www.concrete.org
+@seismicisolation

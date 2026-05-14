@@ -1,0 +1,38 @@
+[DOCUMENT: ASTM_C494-19]
+[PAGE: 13/15]
+[LAYOUT: continuous]
+============================================================
+Aly caga/c4g4m - 19
+tance as opposed to absorbance, hence the bands point down-
+ward rather than upward. Note that wavenumbers and the relative intensities of the absorption bands are in good agree-
+ment throughout the spectra. Therefore the two samples would
+be considered to be equivalent. X3.5.3 Fig. X3.3 shows the infrared spectra of samples from
+two lots of a mid-range water-reducing admixture. Significant differences between the spectra are evident particularly in the fingerprint region. These spectra would not be considered similar and the two lots would not be judged to be equivalent. X3.5.4 Fig. X3.4 shows absorbance spectra of an admixture that were obtained from three repeated measurements at different times without removing the specimen from the spectrometer. The first measurement is shown as “Test 1” and the last is “Test 3.” As water evaporated from the specimen, there was a decrease in amplitude of bands due to free water at
+approximately 3400, 1640, and 550 cmTM', which are indicated
+with the vertical dashed lines marked with “W“ Some other
+bands increased in amplitude with increased evaporation.
+
+X3.5 Examples X3.5.1 Fig. X3.1 shows the infrared absorbance spectra for
+two samples of a water-reducer based on calcium lignosul- fonate. The figure shows the typical patterns observed in these
+types of spectra. A spectrum has absorption bands of varying intensities and widths. In addition, bands from different com-
+ponents in the sample may overlap one another. At the higher
+frequency (higher wavenumber) portion of the spectra in Fig.
+X3.1, there are bands due to stretching of O-H bonds (the high
+amplitude, broad bands) and stretching of C-H bonds (the less intense, narrow bands). The portion of the infrared spectrum
+below a wavenumber of about 1800 cmTM! is known as the “fingerprint region” and typically contains many and some-
+times overlapping bands. In this example, there is a good match in the locations and intensities of the absorption bands through-
+out the spectra for both samples; the two samples would be
+considered to be equivalent. X3.5.2 Fig. X3.2 shows infrared spectra of two samples of
+a naphthalene sulfonate condensate based high-range water- reducer. These spectra are plotted in terms of percent transmit-
+1.00 0.90 0.80 | see Initial Sample 0.70 Absorbance 0.60 0.50 0.40 0.30 0.20 |Test Sample}
+
+Fingerprint Region
+
+0.10 0.00
+
+4000 3500 3000 2500
+2000 1500 1000 500
+Wavenumber, cm=+
+FIG. X3.1 Similar Absorption Spectra for Two Samples of Admixture Based on Calcium Lignosulfonate
+
+Copyright by ASTM Int'l (all rights reserved); Wed Sep 2 00:11:37 EDT 2020 13 Downloaded/printed by Indian Inst of Tech Chennai (Indian Inst of Tech Chennai) pursuant to License Agreement. No further reproductions authorized.

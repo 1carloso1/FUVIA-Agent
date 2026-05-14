@@ -1,0 +1,72 @@
+[DOCUMENT: ASTM_C150-22]
+[PAGE: 8/9]
+[LAYOUT: continuous]
+============================================================
+All C150/C150M - 22
+ABC Portland Cement Company
+
+Qualitytown, N.J.
+Plant Example Cement Type II(MH)
+
+Date March 9, 20xx
+Production Period March 2, 20xx — March 8, 20xx
+STANDARD REQUIREMENTS
+
+ASTM C150/C150M
+
+CHEMICAL PHYSICAL
+ltem Spec. Test Item Spec. Test
+
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: compressive strength f'c requirements; sulfate exposure classes; chloride exposure classes and chloride ion content limits; air content requirements; cement chemical and physical property limits.]
+Limit Result Limit Result
+SiO, (%) A 20.6 Air content of mortar (volume %) 12 max 8
+AlzOz (%) 6.0 max 4.4 Blaine fineness (m?/kg) 260 min 377
+Fe,0. (%) 6.0 max 3.3 430 max
+CaO (%) A 62.9 Compressive strength (MPa) min:
+MgO (%) 6.0 max 2.2 1 day A
+SOz (%) 3.0 max 3.2 3 days 7.0 23.4 Ignition loss (%) 3.5 max 2.7 7 days 12.0 29.8
+NasO (%) A 0.19 28 days A
+K30 (%) A 0.50 Time of setting (minutes) (Vicat)
+Equivalent alkalies (%) A 0.52 Initial Not less than 45 124 Insoluble residue (%) 1.5 max 0.27 Not more than 375
+COz (%) A 1.2 Heat of hydration (kJ/kg) (ASTM C1702)
+Limestone (%) 5.0 max 3.5 3 days B 245
+CaCO, in limestone (%) 70 min 79 Test Method C1038/C1038M Mortar Bar D 0.0105
+
+Inorganic processing addition Expansion (%) (ground, granulated blastfurnace slag) 5.0 max 3.0
+Potential phase composition (%)°
+
+C35 A 59
+C258 A 10
+C2A 8 max 5
+C,AF A 10
+CAF + 2(C2A) A 20
+C25 + 4.75(C2A) 100 max 83
+A Not applicable.
+® Test result represents most recent value and is provided for information only.
+© Adjusted in accordance with A1.6.
+» Required only if percent SO, exceeds the limit in Table 1, in which case the Test Method C1038/C1038M expansion shall not exceed 0.020 % at 14 days.
+© Test result for this production period not available. Most recent test result provided.
+
+OPTIONAL REQUIREMENTS
+
+ASTM C150/C150M
+
+CHEMICAL PHYSICAL
+tem Spec. Test tem Spec. Test Limit Result Limit Result
+Chloride (%) F 0.020 Early stiffening (%) 50 min 82 28 days 28.0 min a
+F Limit not specified by purchaser. Test result provided for information only.
+@ Test result for this production period not yet available.
+
+Compressive strength (MPa)
+
+We certify that the above described cement, at the time of shipment, meets the chemical and physical requirements of the ASTM C150/C150M — XX or (other) specification. Title:
+Signature:
+
+FIG. X1.1 Example Mill Test Report
+
+AH, My POA FRABALTATLY
+BRS RBSBARPOA Gakuen,
+BQMBSER ERTS BO LBS
+AA 1, Sa, MOREA
+THRU, CARRE ABBE TU) GB) ADA ABU BAACDBLOMAIOA nA ABT, BD)(naipalarg’) 2o¢. Bp © Bax

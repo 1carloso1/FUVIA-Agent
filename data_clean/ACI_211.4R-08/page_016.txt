@@ -1,0 +1,35 @@
+[DOCUMENT: ACI_211.4R-08]
+[PAGE: 16/23]
+[LAYOUT: continuous]
+============================================================
+SELECTING PROPORTIONS FOR HIGH-STRENGTH CONCRETE
+211.4R-17
+
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; chloride exposure classes and chloride ion content limits; air content requirements; chemical admixture type classification and performance requirements.]
+broken down and uniformly distributed throughout the concrete. The mixing times for silica fume concrete are often double those given in ASTM C192/C192M; ¢ Batch the concrete at the maximum allowed water content provided by the mixture proportion and the
+maximum allowable w/cm requirements. In some cases, the maximum allowable water may not produce any measurable slump. Use chemical admixtures to achieve the necessary slump; and e Review the properties of the fresh concrete and adjust mixture proportions as necessary to produce the desired workability, air content, and other properties. Reducing the fine aggregate content and increasing the coarse aggregate content may help reduce the stickiness of the concrete mixture. Once the fresh properties are achieved, make specimens for hardened concrete testing to verify project requirements. Further proportioning adjustment may be necessary. 7.2.3.1.7 Step 7: Conduct full-scale testing—There are always differences between proportions developed in the laboratory and those that result from concrete production, particularly in chemical admixture dosages. Making truck- sized batches of the concrete is the best way to confirm the required fresh and hardened properties. Full-scale testing is also an excellent way to confirm other properties that may be of particular interest to the project, such as finishability, shrinkage, temperature rise, and quality of the finished surface. It is also an opportunity for the entire production
+team to work together to identify any last-minute problems before going into full production. The following should be Kept in mind: ¢ Do not attempt to economize by making very small batches. Make enough concrete to be representative of
+what will be made during the project. It takes a large
+amount of paste to coat the inside of a concrete mixer
+drum or central mixer. If too small a batch of concrete is made, a significant amount of paste can be lost to the
+drum. When conducting full-scale testing, batch at least
+3.0 yd? of concrete; ¢ Test to determine whether the concrete meets the freshly mixed and hardened concrete requirements for the project. Adjustment of the concrete mixture propor- tioning is expected when conducting full-scale batching of the laboratory mixture. Because a mixture has been fine-tuned in the laboratory, however, major adjustments should not be expected; and e Make more than one batch in the field. It is always prudent to know that the performance of a particular concrete mixture can be repeated.
+
+7.3.2 Examples—Step-by-step procedure for proportioning a high-strength concrete mixture for columns: 7.3.2.1 Step 1: Determine project requirements—A review of the project specification determines the following requirements: e Design compressive strength of 14,000 psi at 28 days; and ¢ No exposure to freezing and thawing. 7.3.2.2 Step 2: Coordinate with contractor—Discussions with the contractor may yield additional requirements, such as: e Maximum size of coarse aggregate is 1/2 in.; e Desired slump is 8 to 10 in.; and ¢ Concrete will primarily be placed by pump. 7.3.2.3 Step 3: Select a starting mixture—From Table 7.1, the high-strength mixture in Column 5 is selected as a good starting mixture. This mixture has the following characteristics:
+Cement 800 Ib/yd?
+Fly ash 175 Ib/yd? Silica fume 125 Ib/yd?
+Maximum w/cm 0.23 7.3.2.4 Step 4: Determine volume of air required—
+None. Assume that 1.5% will be entrapped in this mixture. 7.3.2.5 Step 5: Incorporate local aggregates—First, determine the volume the paste will occupy as shown in the following table:
+Material Mass, lb Relative density Volume, ft Cement 800 3.15 4.07 Fly ash 175 2.5 1.12 Silica fume 125 2.2 0.91 Water 255 1 4.08 Air, 1.5% — — 0.41
+Total volume 10.58
+Second, calculate aggregate volumes and masses: Coarse aggregate bulk specific gravity 2.58 Fine aggregate bulk specific gravity 2.60 Fine aggregate 38% of total aggregate volume
+Aggregate volume = 27.00 — 10.58 = 16.42 ft?
+Fine aggregate volume = 0.38 x 16.42 = 6.24 ft?
+Fine aggregate mass = 6.24 x 62.4 x 2.60 = 1012 Ib/yd?
+Coarse aggregate volume = 16.42 - 6.24 = 10.18 ft?
+Coarse aggregate mass = 10.18 x 62.4 x 2.58 = 1639 Ib/yd? 7.3.2.6 Step 6: Prepare laboratory trial mixtures—
+When preparing laboratory trial mixtures, several items should be remembered: e Thorough and uniform silica fume dispersion is necessary; e Account for all moisture on the aggregates and in admixtures used; e At a minimum, double the mixing times defined in ASTM C192/C192M; e Conduct necessary testing on freshly mixed and hardened concrete; and e Adjust the mixture as necessary to obtain the required freshly mixed concrete properties.
+
+7.3—Sample calculations 7.3.1. Introduction—High-strength concrete mixture proportioning is a more complex process than proportioning normal-strength concrete mixtures. In addition to silica fume, other supplementary cementitious materials may also be incorporated into the mixture as well as WRAs or
+HRWRAs necessary to achieve the low w/cm needed to produce high-strength concrete.

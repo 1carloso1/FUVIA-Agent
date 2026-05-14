@@ -1,0 +1,62 @@
+[DOCUMENT: ACI_211.1-22]
+[PAGE: 9/26]
+[LAYOUT: continuous]
+============================================================
+10 SELECTING PROPORTIONS FOR NORMAL-DENSITY
+AND HIGH-DENSITY CONCRETE—GUIDE (ACI PRC-211.1-22)
+
+Table 4.7.4.1—Required average compressive
+strength f,, if data are not available to establish
+standard deviation (ACI 301-20 Table 4.2.3.3(b)) Specified compressive strength Required average
+
+Table 4.7.4.4—Required average compressive
+strength f,,’ if data are available to establish
+a sample standard deviation, psi (ACI 301-20
+Table 4.2.3.3(a)1)
+
+~s psi compressive strength /,,’, psi Less than 3000 f+ 1000 3000 to 5000 SE + 1200 Over 5000 L.Lf’ + 700
+
+Si, psi Use the larger of: =f! + 134ks,
+5000 or less Joh :
+So =f + 2.33ks, — 500 cr =f + 1.34ks,
+Over 5000 fa! She :
+Sel =0.90f! + 2.33ks,
+
+Table 4.7.4.3—k-factor for increasing sample
+standard deviation for number of strength tests
+considered in calculating standard deviation
+(ACI 301-20 Table 4.2.3.3(a)2)
+
+[TABLE: Table 4.7.4.3—k-factor for increasing sample]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; sulfate exposure classes; chloride exposure classes and chloride ion content limits; portland cement type specifications and chemical requirements.]
+Note: f,,’ is required average compressive strength;
+f;’ is specified concrete strength; & is factor from Table 4.2.3.3(a)2; and s, is standard deviation calculated in accordance with 4.2.3.2, used. When such a relationship is available, the w/cm for the required average compressive strength can be chosen. 4.7.4.6 w/cm by table—Approximate and relatively conservative values of w/cm for concrete containing portland
+cement can be taken from Table 5.3.4. With typical mate- rials, the tabulated w/cm should produce 28-day strengths close to those shown, based on tests of specimens cured under standard laboratory conditions. 4.7.5 Cement—Cement should meet the requirements
+of ASTM C150/CISOM-AASHTO M 85, ASTM C595/
+CS595M-AASHTO M 240M/M 240, or ASTM C11I57/
+CII57M. Specific gravity for cement is generally assumed to be 3.15 for ASTM C150/C150M; all others may be slightly lower. 4.7.6 Supplementary cementitious materials—Supple-
+mentary cementitious materials (SCMs) are often used in concrete in combination with portland or blended cement for economy, reduction of heat of hydration, improved workability, and improved strength or durability under the anticipated service environment. These benefits depend on the amount and type of SCMs used such as fly ash, natural pozzolans (ASTM C618), slag cement (ASTM C989/
+C989M), and silica fume (ASTM C1240). As defined in ASTM C618, pozzolans are “siliceous or siliceous and aluminous materials which in themselves possess little or no cementitious value, but will, in finely divided form and in the presence of moisture, chemically react with calcium hydroxide at ordinary temperatures to
+form compounds possessing cementitious properties.” Fly ash is the “finely divided residue that results from the combustion of ground or powdered coal...” Fly ash used in concrete is classified into two categories: Class F, which has pozzolanic properties, and Class C, which, in addition to having pozzolanic properties, also has some cementitious properties in that this material may be self-setting when
+mixed with water. Class C fly ash may contain lime (CaO)
+amounts higher than 10%. The use of fly ash in concrete is
+more fully described and discussed in ACI 232.2R. Blast-furnace slag is a by-product of the production of pig iron. When this slag is rapidly quenched and ground, it will possess latent cementitious properties. After processing, the material is known as slag cement, whose hydraulic proper- ties vary and can be separated into grades noted in ASTM
+C989/C989M. The grade classification gives guidance on the relative strength potential of 50% slag cement mortars to
+
+k-factor for increasing sample
+standard deviation
+Total number of tests considered
+15 1.16 20 1.08 25 1.03 30 or more 1.00
+[TABLE: Table 4.2.3.3(a)2; and s, is standard deviation calculated in a]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; compressive strength f'c requirements; chloride exposure classes and chloride ion content limits.]
+Note: Linear interpolation for intermediate number of tests is acceptable. Cl category, there is no exposure to external chlorides, but in Category C2 there are external chlorides. In the CO and
+Cl categories, a minimum compressive strength of 2500 psi is the only requirement. In the C2 category, where there is exposure to external chlorides such as deicing salts, brackish water, seawater, or spray from these sources, a maximum
+w/cm of 0.40 and minimum compressive strength of 5000 psi are required, as shown in Table 4.7.3d. 4.7.4 w/cm from required strength—Because of the vari- ability of concrete, a required average compressive strength fcr iS often required. The required average compressive strength should exceed the specified compressive strength
+jf by a sufficient margin to keep the number of noncom- pliant test results below 1% (ACI 214R; ACI 301). Several
+methods are used to determine the required average strength, depending on the amount of strength test data that is available. 4.7.4.1 When no data are available—When no data are available for determining the standard deviation, Table 4.7.4.1 can be used to determine the required average compressive strength. 4.7.4.2 Standard deviation s determined from 30 strength
+tests—When the standard deviation is determined from more than 30 strength tests, it is used without modification. 4.7.4.3 Standard deviation determined from fewer than 30 strength tests—When s is based on 15 to 29 tests, the s of those test results is multiplied by the appropriate modifica- tion factor obtained from Table 4.7.4.3. 4.7.4.4 Required average strength when standard devia- tion is determined—With an applicable value of the standard deviation s, the equations from Table 4.7.4.4 can be used to calculate f,,’. 4.7.4.5 w/cm through water-cement ratio curves—A good
+way to design a concrete mixture is based on experience with the materials to be used and the results achieved in the past. It is highly desirable to have or to develop the rela- tionship between strength and w/cm for the materials to be
+Copyright GETS Institute
+Aci >
+American Concrete Institute — Copyrighted © Material — www.concrete.org
+@seismicisolation

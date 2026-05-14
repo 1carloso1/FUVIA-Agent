@@ -1,0 +1,30 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 27/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 1: GENERAL 41
+
+[CODE] or nearly horizontal; columns are predominantly vertical or nearly vertical. moment frame, intermediate—cast-in-place beam-
+column frame or two-way slab-column frame without beams
+complying with 18.4. moment frame, ordinary—cast-in-place or precast concrete beam-column or slab-column frame complying
+with 18.3. moment frame, special—cast-in-place beam-column
+frame complying with 18.2.3 through 18.2.8; and 18.6 through 18.8. A precast beam-column frame complying with 18.2.3 through 18.2.8 and 18.9. net tensile strain—the tensile strain at nominal strength exclusive of strains due to effective prestress, creep, shrinkage, and temperature. nodal zone—volume of concrete around a node that is
+assumed to transfer strut-and-tie forces through the node. node—point in a strut-and-tie model where the axes of the struts, ties, and concentrated forces acting on the joint intersect. node, curved bar—the bend region of a continuous rein- forcing bar (or bars) that defines a node in a strut-and-tie model. one-way construction—members designed to be capable
+of supporting all loads through bending in a single direction; see also two-way construction. panel, shotcrete mockup—a shotcrete specimen that simulates the size and detailing of reinforcement in a
+proposed structural member for preconstruction evaluation
+of the nozzle operator’s ability to encase the reinforcement. panel, shotcrete test—a shotcrete specimen prepared in
+accordance with ASTM C1140 for evaluation of shotcrete.
+
+[COMMENTARY] - Not. & Term.
+[COMMENTARY] one-way construction—Joists, beams, girders, and some slabs and foundations are considered one-way construction.
+[COMMENTARY] panel, shotcrete mockup—Shotcrete mockup panels are
+used for preconstruction evaluation and are either sawed or cored, or both, to evaluate if the reinforcement has been adequately encased. panel, shotcrete test—Shotcrete test panels are typically
+used to evaluate a shotcrete mixture, to qualify a nozzle operator, to verify surface finish, and to provide specimens for compressive or flexural strength testing.
+
+[CODE] pedestal—member with a ratio of height-to-least lateral
+dimension less than or equal to 3 used primarily to support axial compressive load; for a tapered member, the least lateral dimension is the average of the top and bottom
+dimensions of the smaller side. plastic hinge region—length of frame element over which flexural yielding is intended to occur due to earthquake design displacements, extending not less than a distance h
+from the critical section where flexural yielding initiates. post-tensioning—method of prestressing in which prestressing reinforcement is tensioned after concrete has hardened. precast concrete piles—driven piles that may be either prestressed concrete or conventionally reinforced concrete. precompressed tension zone—portion of a prestressed
+member where flexural tension, calculated using gross section properties, would occur under service loads if the prestress force was not present. pretensioning—method of prestressing in which prestressing reinforcement is tensioned before concrete is cast.
+
+[COMMENTARY] American Concrete Institute — Copyrighted © Material — www.concrete.org

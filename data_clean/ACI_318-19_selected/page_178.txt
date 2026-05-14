@@ -1,0 +1,38 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 178/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] reinforcement, except for ASTM A706, shall be supple-
+mented to require a mill test report of material proper- ties that demonstrate conformance to the requirements in
+AWS D1.4. (b) Welding of crossing bars shall not be used for assembly
+of reinforcement except at the front face of brackets or corbels or as otherwise permitted by the licensed design professional.
+
+[COMMENTARY] R26.6.4.2(b) “Tack” welding (welding crossing bars) can seriously weaken a bar at the point welded by creating a metallurgical notch effect. This operation can be performed safely only when the material welded and welding operations are under continuous competent control, as in the manufacture of welded wire reinforcement. Welding of anchor bars at the front face of brackets or corbels is addressed in R16.5.6.3.
+[COMMENTARY] R26.7—Anchoring to concrete R26.7.1 Minimum requirements for specification of anchors in the construction documents for conformance with this Code are listed.
+
+[CODE] 26.7—Anchoring to concrete 26.7.1 Design information:
+
+[COMMENTARY] R26.7.1(a) Post-installed anchor strength and deformation capacity are assessed by acceptance testing under ACI 355.2 or ACI 355.4. These tests are carried out assuming instal- lation in accordance with the manufacturer’s recommended procedures (in the case of adhesive anchors, the Manufac- turer’s Printed Installation Instructions [MPII]).
+
+[CODE] (a) Requirements for assessment and qualification of anchors for the applicable conditions of use shall be in accordance with 17.1.2.
+[CODE] (b) Type, size, location requirements, effective embed-
+ment depth, and installation requirements for anchors. (c) Type, size, and location or location requirements for
+anchor reinforcement designed to develop the anchor strength in accordance with 17.5.2.1, as well as transverse
+confinement reinforcement for anchors installed in the tops of columns or pedestals in accordance with 10.7.6.1.5. (d) Type, size, and location for shear lugs designed to develop shear strength in accordance with 17.11. (e) Size and location of base plate holes to permit inspec- tion and vent air when placing concrete or grout per 17.11.1.2. (f) Minimum edge distance of anchors in accordance with 17.9. (g) Corrosion protection for exposed anchors intended for attachment with future Work. (h) For post-installed anchors, parameters associated with the design strength in accordance with 17.5, including
+anchor category, concrete strength, aggregate type, type of lightweight concrete, required installation torque, and requirements for hole drilling and preparation.
+
+[COMMENTARY] R26.7.1(h) Certain types of anchors can be sensitive to variations in hole diameter, cleaning conditions, orienta- tion of the axis, magnitude of the installation torque, crack width, and other variables. Some of this sensitivity is indi- rectly accounted for in the assigned values for the different
+anchor categories, which depend in part on the results of the installation safety tests. If anchor components are altered or if anchor installation procedures deviate from those speci- fied, the anchor may fail to comply with the acceptance criteria of ACI 355.2 or 355.4.
+
+[CODE] (i) For adhesive anchors in tension, parameters associated with the characteristic bond stress used for design in accor-
+dance with 17.6.5, including concrete temperature range,
+moisture condition of concrete at time of installation, type
+
+[COMMENTARY] R26.7.1(i) Due to the sensitivity of bond strength to installation, on-site quality control is important for adhe- sive anchors. The construction documents must provide all parameters relevant to the characteristic bond stress used in design. These parameters may include, but are not limited to:
+
+[CODE] aci=
+_ IT
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

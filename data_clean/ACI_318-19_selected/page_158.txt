@@ -1,0 +1,49 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 158/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] 520 ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] (1) Water reduction and setting time modification:
+ASTM C494. (2) Producing flowing concrete: ASTM C1017. (3) Air entrainment: ASTM C260. (4) Inhibiting chloride-induced corrosion: ASTM C1582.
+
+[COMMENTARY] mance characteristics not listed in 26.4.1.5.1(a) are desired,
+such as viscosity-modifying admixtures. The basic require-
+ment for a Type S admixture is that it will not have adverse effects on the properties of concrete when tested in accor-
+dance with ASTM C494. Meeting the requirements of Type S does not ensure that the admixture will perform its described function. The manufacturer of an admixture presented as
+conforming to Type S should also be required to provide data that the product will meet the performance claimed.
+
+[CODE] (b) Admixtures that do not conform to the specifications in 26.4.1.5.1(a) shall be subject to prior review by the licensed design professional. (c) Admixtures used in concrete containing expansive
+cements conforming to ASTM C845 shall be compatible
+with the cement and produce no deleterious effects.
+
+[COMMENTARY] R26.4.1.5.1(c) In some cases, the use of admixtures in concrete containing ASTM C845 expansive cements has resulted in reduced levels of expansion or increased shrinkage values. Refer to ACI 223R.
+
+[CODE] (d) Admixtures used in shotcrete shall conform to ASTM C1141.
+[CODE] 26.4.1.6 Steel fiber reinforcement
+
+[COMMENTARY] R26.4.1.6 Steel fiber reinforcement
+
+[CODE] 26.4.1.6.1 Compliance requirements:
+[CODE] (a) Steel fiber remnforcement used for shear resistance shall satisfy (1) and (2): (1) Be deformed and conform to ASTM A820. (2) Have a length-to-diameter ratio of at least 50 and not
+exceeding 100.
+
+[COMMENTARY] R26.4.1.6.1(a) Deformations in steel fibers enhance mechanical anchorage with the concrete. The limits for the fiber length-to-diameter ratio are based on available test data (Parra-Montesinos 2006). Because data are not avail- able on the potential for corrosion problems due to galvanic action, the use of deformed steel fibers in members rein- forced with stainless-steel bars or galvanized steel bars is not recommended.
+
+[CODE] 26.4.1.7 Packaged, preblended, dry, combined materials for shotcrete | 26.4.1.7.1 Compliance requirements:
+[CODE] (a) Packaged, preblended, dry, combined materials for shotcrete shall conform to ASTM C1480.
+[CODE] 26.4.2 Concrete mixture requirements
+
+[COMMENTARY] R26.4.2 Concrete mixture requirements
+
+[CODE] 26.4.2.1 Design information:
+[CODE] (a) Requirements (1) through (17) for each concrete mixture, based on assigned exposure classes or design of members: (1) Minimum specified compressive strength of concrete, f.’. (2) Minimum modulus of elasticity of concrete, E,, if specified in accordance with 19.2.2.2. (3) Test age, if different from 28 days, for demonstrating
+compliance with f.’ and E, if specified.
+
+[COMMENTARY] R26.4.2.1(a) The requirements for each concrete mixture used for the Work are to be stated in the construction docu- ments. These are determined from applicable concrete design requirements in 19.2 and durability requirements in 19.3. The
+most restrictive requirements that apply are to be stated.
+
+[CODE] aci®
+IT
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

@@ -1,0 +1,48 @@
+[DOCUMENT: ACI_211.4R-08]
+[PAGE: 11/23]
+[LAYOUT: continuous]
+============================================================
+211.4R-12 ACI COMMITTEE REPORT
+
+Water (including 2.5 oz/cwt retarding mixture) 4.73 Companion mixture No. 3 Dry masses, lb |Batch masses, Ib Air 0.54 Cement 689 689 Total volume 21.24 Fly ash 295 295 . . . Fine aggregate, dr 917 975
+The required volume of fine aggregate is (27.0 — 21.24) = a y 3 . . . Coarse aggregate, dry 1854 1863
+5.76 ft°. Converting this to the mass of fine aggregate (dry) : : . . . Water (including 2.5 oz/cwt retarding 295 950
+per cubic yard of concrete, the required mass is (5.76) x admixture)
+
+(62.4) x (2.59) = 931 Ib. The mixture proportions per cubic yard of concrete for each companion mixture are as follows:
+
+Companion mixture No. 4 Dry masses, lb |Batch masses, Ib Cement 640 640 Fly ash, Class C 344 344 Fine aggregate 909 967 Coarse aggregate 1854 1863 Water (including 2.5 oz/cwt retarding 295 51
+admixture)
+
+Companion mixtures, lb
+Materials Basic, lb | No. 1 |No. 2} No. 3 | No. 4
+Cement 984 787 | 738 | 689 | 640 Fly ash, Class C — 197 | 246 | 295 | 344 Fine aggregate, dry 963 931 | 924 | 916 | 908 Coarse aggregates, dry 1854 | 1854 | 1854 | 1854 | 1854 einedive admivtar 295 | 295 | 295 | 295 | 295
+
+The size of the trial mixture is selected to be 3.0 ft’. The
+reduced batch mass for the basic mixture to yield 3.0 ft is calculated as follows: Cement = 984 x (3/27) = 109.33 Ib Fine aggregate = 1024 x (3/27) = 113.90 lb Coarse aggregate = 1863 x (3/27) = 207.00 Ib Water = 248 x (3/27) = 27.52 Ib The reduced batch mass for the basic and the companion
+mixtures to yield 3.0 ft? are presented herein:
+
+During trial batches, the proportioner needs to be aware of the possible need to make the necessary adjustment of the proper dosage rates for all chemical admixtures. In this
+example, the dosage rate of chemical retarding admixture
+was adjusted from 3.0 to 2.5 oz/cwt to account for the retarding action of the fly ash. 6.3.2.9 Step 9: Trial mixtures—Trial mixtures should be conducted for the basic mixture and each of the four companion mixtures. If the fine aggregate is found to have 6.4% total mois- ture, and the coarse aggregate is found to have 0.5% total mois- ture, based on dry conditions, aggregate masses are adjusted by increasing batch weight per cubic yard as follows: Fine aggregate, wet = (963) x (1 + 0.064) = 1024 lb Coarse aggregate, wet = (1854) x (1 + 0.005) =1863 Ib
+Water = (295) — (963)(0.064 — 0.011)
+
+Companion mixture
+Materials Basic No. 1 No. 2 No. 3 No. 4 Cement, Ib 109.30 87.60 82.00 76.50 71.10 Fly ash, Class C, lb — 21.87 27.33 32.78 38.27 Fine aggregate, lb 113.90 | 110.20 | 109.28 108.36 | 107.43 Coarse aggregate, lb | 207.00 | 207.00 | 207.00 207.00 | 207.00 Water, lb 27.52 | 27.70 27.75 27.80 | 27.84 Chemical admixtures (included as part of the mixing water)
+
+— (1854)(0.005 — 0.007) = 248 Ib
+Thus, the batch mass of water is corrected to account for the moisture contributed by the aggregates, which is the total moisture minus the absorption of the aggregate.
+
+6.3.2.10 Step 10: Adjust trial mixture proportions— Trial mixture proportions will require adjustment and the batch mass for each trial mixture will be adjusted during the batching to obtain the desired slump, before and after the addition of the HRWRA, and the desired workability. The adjustments to the batch mass for the basic mixture and
+companion mixture No. 4 will be shown in detail. Those for the other three companion mixtures will be summarized. 6.3.2.10.1 Basic mixture 1. Although the amount of water required to produce a 1 to 2 in. slump was calculated to be 27.52 lb, actually 28.50 Ib (including 2.5 oz/cwt retarding admixture) was needed to produce the desired slump. The actual batch mass for the basic mixture was then:
+
+Basic mixture Dry masses, Ib |Batch masses, Ib
+Cement 984 984 Fine aggregate 963 1024 Coarse aggregate 1854 1863 Water (including 3 oz/cwt retarding 295 248
+admixture) Companion mixture No. 1 Dry masses, Ib |Batch masses, Ib Cement 787 787 Fly ash 197 197 Fine aggregate 931 992 Coarse aggregate 1854 1863
+vate ne 2.5 oz/cwt retarding 95 250
+Companion mixture No. 2 Dry masses, lb |Batch masses, Ib Cement 738 738 Fly ash 246 246 Fine aggregate 924 984 Coarse aggregate 1854 1863 Water (including 2.5 oz/cwt retarding 295 250
+admixture)
+
+Volume (per cubic yard of
+Component concrete, ft?)
+Cement 109.00 Ib Fine aggregate 114.00 Ib Coarse aggregate 207.00 Ib Water 28.50 lb

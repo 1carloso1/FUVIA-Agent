@@ -1,0 +1,52 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 115/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 5: EARTHQUAKE RESISTANCE 331
+
+
+[COMMENTARY] Experiments show that diagonally oriented reinforcement is effective only if the bars are placed with a large inclina- tion. Therefore, diagonally reinforced coupling beams are
+
+[CODE] beams will not impair the vertical load-carrying ability of the structure, the egress from the structure, or the integrity of nonstructural components and their connections to the structure.
+
+[COMMENTARY] Seismic
+18
+[COMMENTARY] restricted to beams having aspect ratio ¢,,/h < 4. The 2008 edition of this Code was changed to clarify that coupling
+beams of intermediate aspect ratio can be reinforced according to 18.6.3 through 18.6.5. Diagonal bars should be placed approximately symmettri- cally in the beam cross section, in two or more layers. The diagonally placed bars are intended to provide the entire shear and corresponding moment strength of the beam.
+Designs deriving their moment strength from combinations
+of diagonal and longitudinal bars are not covered by these provisions. Two confinement options are described. According to 18.10.7.4(c), each diagonal element consists of a cage of longitudinal and transverse reinforcement, as shown in Fig. R18.10.7a. Each cage contains at least four diagonal bars and confines a concrete core. The requirement on side
+dimensions of the cage and its core is to provide adequate stability to the cross section when the bars are loaded beyond yielding. The minimum dimensions and required reinforce-
+ment clearances may control the wall width. Revisions
+were made in the 2008 Code to relax spacing of transverse reinforcement confining the diagonal bars, to clarify that
+confinement is required at the intersection of the diagonals,
+and to simplify design of the longitudinal and transverse reinforcement around the beam perimeter; beams with these
+new details are expected to perform acceptably. The expres- sions for transverse reinforcement A,, are based on ensuring
+compression capacity of an equivalent column section is
+maintained after spalling of cover concrete. Section 18.10.7.4(d) describes a second option for
+confinement of the diagonals introduced in the 2008 Code (refer to Fig. R18.10.7b). This second option is to confine the entire beam cross section instead of confining the indi- vidual diagonals. This option can considerably simplify field
+placement of hoops, which can otherwise be especially chal- lenging where diagonal bars intersect each other or enter the wall boundary. For coupling beams not used as part of the lateral-force- resisting system, the requirements for diagonal reinforce-
+ment may be waived. Test results (Barney et al. 1980) demonstrate that beams reinforced as described in 18.10.7 have adequate ductility at shear forces exceeding 10,/ f/ b,d. Consequently, the use
+of a limit of 10 Vf Acy provides an acceptable upper limit.
+
+[CODE] 18.10.7.3 Coupling beams not governed by 18.10.7.1 or 18.10.7.2 shall be permitted to be reinforced either with two intersecting groups of diagonally placed bars symmetrical
+about the midspan or according to 18.6.3 through 18.6.5,
+with the wall boundary interpreted as being a column.
+[CODE] 18.10.7.4 Coupling beams reinforced with two inter- secting groups of diagonally placed bars symmetrical about the midspan shall satisfy (a), (b), and either (c) or (d), and the requirements of 9.9 need not be satisfied:
+[CODE] (a) V, shall be calculated by
+[CODE] V, = 2A fsina < 10 ff’ Aa, (18.10.74)
+[CODE] where a is the angle between the diagonal bars and the longitudinal axis of the coupling beam. (b) Each group of diagonal bars shall consist of a minimum
+of four bars provided in two or more layers. (c) Each group of diagonal bars shall be enclosed by recti- linear transverse reinforcement having out-to-out dimen- sions of at least b,,/2 in the direction parallel to b, and b,,/5 along the other sides, where b, is the web width of the coupling beam. The transverse reinforcement shall be in
+accordance with 18.7.5.2(a) through (e), with A,, not less than the greater of (i) and (11): (i) 0.09sb, £
+[CODE] yt
+[CODE] . A, _.\ fl
+(ii) 0.3sb, (= } f,
+[CODE] For the purpose of calculating A,, the concrete cover in 20.5.1 shall be assumed on all four sides of each
+group of diagonal bars. The transverse reinforcement shall have spacing measured parallel to the diagonal bars satisfying 18.7.5.3(d) and not exceeding 6d, of the smallest diagonal bars, and shall have spacing of crossties or legs of hoops measured perpendicular to the diagonal bars not exceeding 14 in. The transverse
+reinforcement shall continue through the intersection of the diagonal bars. At the intersection, it is permitted to
+modify the arrangement of the transverse reinforcement
+provided the spacing and volume ratio requirements are satisfied. Additional longitudinal and transverse rein-
+forcement shall be distributed around the beam perim- eter with total area in each direction of at least 0.0025,,s
+and spacing not exceeding 12 in. (d) Transverse reinforcement shall be provided for the entire beam cross section in accordance with 18.7.5.2(a)
+through (e) with A,, not less than the greater of (i) and (ii):
+
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

@@ -1,0 +1,53 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 176/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] 538 ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] (e) Bar ends shall terminate in flat surfaces within 1.5
+degrees of a right angle to the axis of the bars and shall
+be fitted within 3 degrees of full bearing after assembly.
+
+[COMMENTARY] R26.6.2.2(e) These tolerances represent practice based on tests of full-size members containing No. 18 bars.
+
+[CODE] 26.6.3 Bending
+
+[COMMENTARY] R26.6.3 Bending
+
+[CODE] 26.6.3.1 Design information:
+
+[COMMENTARY] R26.6.3.1 Bend radii larger than the minimums of Tables 25.3.1 and 25.3.2 may be required by geometric constraints or by 23.10 for discontinuity regions designed using the strut-and-tie method with curved-bar nodes. Nonstandard
+bends should be indicated on the drawings.
+
+[CODE] (a) Nonstandard bend geometry.
+[CODE] 26.6.3.2 Compliance requirements:
+[CODE] (a) Reinforcement shall be bent cold prior to place- ment, unless otherwise permitted by the licensed design professional. (b) Field bending of reinforcement partially embedded in concrete shall not be permitted, except as shown in the construction documents or permitted by the licensed design professional.
+
+[COMMENTARY] R26.6.3.2(b) Construction conditions may make it neces- sary to bend bars that have been embedded in concrete. Such field bending should not be done without authorization of the licensed design professional. Construction documents should specify whether the bars will be permitted to be bent cold or if heating should be used. Bends should be gradual
+and should be straightened as required. Tests (Black 1973; Stecich et al. 1984) have shown that
+ASTM A615 Grade 40 and Grade 60 reinforcing bars can be cold bent and straightened up to 90 degrees at or near the minimum diameter specified in 25.3. If cracking or
+breakage is encountered, heating to a maximum temperature
+of 1500°F may avoid this condition for the remainder of the bars. Bars that fracture during bending or straightening can
+be spliced outside the bend region. Heating should be performed in a manner that will avoid
+damage to the concrete. If the bend area is within approxi-
+mately 6 in. of the concrete, some protective insulation may
+need to be applied. Heating of the bar should be controlled
+by temperature-indicating crayons or other suitable means.
+The heated bars should not be artificially cooled (with water or forced air) until after cooling to at least 600°F.
+
+[CODE] (c) Offset bars shall be bent before placement in the forms.
+[CODE] 26.6.4 Welding
+
+[COMMENTARY] R26.6.4 Welding
+
+[CODE] 26.6.4.1 Design information:
+
+[COMMENTARY] If welding of reinforcing bars is required, the weldability of the steel and compatible welding procedures need to
+be considered. The provisions in AWS D1.4 cover aspects
+of welding reinforcing bars, including criteria to qualify welding procedures. Weldability of the steel is based on its carbon equiva- lent (CE), calculated from the chemical composition of the steel. AWS D1.4 establishes preheat and interpass tempera- tures for a range of carbon equivalents and reinforcing bar sizes. AWS D1.4 has two expressions for calculating CE.
+The expression considering only the elements carbon and
+
+[CODE] (a) Details for welding of anchor bars at the front face
+of brackets or corbels designed by the licensed design professional in accordance with 16.5.6.3(a).
+[CODE] American Concrete Institute —- Copyrighted © Material — www.concrete.org

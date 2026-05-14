@@ -1,0 +1,54 @@
+[DOCUMENT: ASTM_C33-13]
+[PAGE: 2/11]
+[LAYOUT: continuous]
+============================================================
+Ally c33/C33M - 13
+
+C342 Test Method for Potential Volume Change of Cement- Aggregate Combinations (Withdrawn 2001)*
+C441 Test Method for Effectiveness of Pozzolans or Ground Blast-Furnace Slag in Preventing Excessive Expansion of
+Concrete Due to the Alkali-Silica Reaction
+C535 Test Method for Resistance to Degradation of Large- Size Coarse Aggregate by Abrasion and Impact in the Los
+Angeles Machine
+C586 Test Method for Potential Alkali Reactivity of Carbon- ate Rocks as Concrete Aggregates (Rock-Cylinder Method)
+C595 Specification for Blended Hydraulic Cements
+C618 Specification for Coal Fly Ash and Raw or Calcined Natural Pozzolan for Use in Concrete
+C637 Specification for Aggregates for Radiation-Shielding Concrete
+C638 Descriptive Nomenclature of Constituents of Aggre- gates for Radiation-Shielding Concrete
+C666/C666M Test Method for Resistance of Concrete to Rapid Freezing and Thawing
+C989 Specification for Slag Cement for Use in Concrete and Mortars
+C1105 Test Method for Length Change of Concrete Due to Alkali-Carbonate Rock Reaction
+C1157 Performance Specification for Hydraulic Cement
+C1240 Specification for Silica Fume Used in Cementitious Mixtures
+C1260 Test Method for Potential Alkali Reactivity of Ag- gregates (Mortar-Bar Method)
+C1293 Test Method for Determination of Length Change of Concrete Due to Alkali-Silica Reaction
+C1567 Test Method for Determining the Potential Alkali- Silica Reactivity of Combinations of Cementitious Mate- rials and Aggregate (Accelerated Mortar-Bar Method)
+D75 Practice for Sampling Aggregates
+D422 Test Method for Particle-Size Analysis of Soils
+D2419 Test Method for Sand Equivalent Value of Soils and Fine Aggregate
+D3665 Practice for Random Sampling of Construction Ma- terials
+E11 Specification for Woven Wire Test Sieve Cloth and Test Sieves 2.2 Other Standards:
+AASHTO T 330 Method of Test for the Qualitative Detec- tion of Harmful Clays of the Smectite Group in Aggre-
+gates Using Methylene Blue” 3. Terminology 3.1 For definitions of terms used in this standard, refer to
+Terminology C125. 4. Ordering and Specifying Information 4.1 The direct purchaser of aggregates shall include the information in 4.2 in the purchase order as applicable. A project
+
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: aggregate grading and sieve analysis requirements; aggregate physical property limits.]
+specifier shall include in the project documents information to
+describe the aggregate to be used in the project from the applicable items in 4.3. 4.2 Include in the purchase order for aggregates the follow- ing information, as applicable: 4.2.1 Reference to this specification, as C33___, 4.2.2 Whether the order is for fine aggregate or for coarse aggregate, 4.2.3 Quantity, in metric tons or tons, 4.2.4 When the order is for fine aggregate: 4.2.4.1 Whether the restriction on reactive materials in 7.3 applies, 4.2.4.2 In the case of the sulfate soundness test (see 8.1)
+which salt is to be used. If none is stated, either sodium sulfate or magnesium sulfate shall be used, 4.2.4.3 The appropriate limit for material finer than 75-um (No. 200) sieve (see Table 1). If not stated, the 3.0 % limit shall
+apply, 4.2.4.4 The appropriate limit for coal and lignite (see Table 2). If not stated, the 1.0 % limit shall apply, 4.2.5 When the order is for coarse aggregate: 4.2.5.1 The grading (size number) (see 10.1 and Table 3), or alternate grading as agreed between the purchaser and aggre- gate supplier. 4.2.5.2 The class designation (see 11.1 and Table 4), 4.2.5.3 Whether the restriction on reactive materials in 11.2 applies, 4.2.5.4 In the case of the sulfate soundness test (see Table 4), which salt is to be used. If none is stated, either sodium sulfate or magnesium sulfate shall be used, and 4.2.6 Any exceptions or additions to this specification (see
+Note 1). 4.3 Include in project specifications for aggregates the
+following information, as applicable: 4.3.1 Reference to this specification, as C33___. 4.3.2 When the aggregate being described is fine aggregate: 4.3.2.1 Whether the restriction on reactive materials in 7.3 applies, 4.3.2.2 In the case of the sulfate soundness test (see 8.1)
+which salt is to be used. If none is stated, either sodium sulfate or magnesium sulfate shall be used.
+TABLE 1 Grading Requirements for Fine Aggregate Sieve (Specification E11) Percent Passing 9.5-mm (%-in.) 100
+4.75-mm (No. 4) 95 to 100
+2.36-mm (No. 8) 80 to 100 1.18-mm (No. 16) 50 to 85
+600-ym (No. 30) 25 to 60
+300-ym (No. 50) 5 to 30 150-um (No. 100) 0 to 10
+75-um (No. 200) 0 to 3.048 4 For concrete not subject to abrasion, the limit for material finer than the 75-um (No. 200) sieve shall be 5.0 % maximum.
+® For manufactured fine aggregate, if the material finer than the 75-~m (No. 200)
+sieve consists of dust of fracture, essentially free of clay or shale, this limit shall be
+5.0 % maximum for concrete subject to abrasion, and 7.0 % maximum for concrete not subject to abrasion.
+
+*The last approved version of this historical standard is referenced on www.astm.org. ° AASHTO Standard Specifications, Part 2B: Tests. Available from American Association of State Highway and Transportation Officials (AASHTO), 444 N. Capitol St., NW, Suite 249, Washington, DC 20001, http:/Awww.transportation.org.
+Copyright by ASTM Int'l (all rights reserved);

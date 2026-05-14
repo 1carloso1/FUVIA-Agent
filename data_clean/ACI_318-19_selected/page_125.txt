@@ -1,0 +1,50 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 125/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 5: EARTHQUAKE RESISTANCE 341
+
+
+[COMMENTARY] Earlier design practice assumed design moments for
+diaphragms were resisted entirely by chord forces acting at opposite edges of the diaphragm. This idealization was
+[COMMENTARY] Seismic
+18
+[COMMENTARY] implicit in earlier versions of the Code, but has been replaced
+by an approach in which all longitudinal reinforcement, within the limits of 18.12.7, is assumed to contribute to the flexural strength of the diaphragm. This change reduces the required area of longitudinal reinforcement concentrated near the edge of the diaphragm, but should not be interpreted as a requirement to eliminate all boundary reinforcement.
+
+[CODE] 18.12.9 Shear strength
+
+[COMMENTARY] R18.12.9 Shear strength
+
+[CODE] 18.12.9.1 V,, of diaphragms shall not exceed:
+
+[COMMENTARY] The shear strength requirements for diaphragms are similar to those for slender structural walls and are based
+on the shear provisions for beams. The term A,, refers to the gross area of the diaphragm, but may not exceed the thick- ness times the width of the diaphragm. This corresponds to the gross area of the effective deep beam that forms the diaphragm. Distributed slab reinforcement p, used to calculate shear strength of a diaphragm in Eq. (18.12.9.1) is positioned perpendicular to the diaphragm flexural rein- forcement. Provision 18.12.9.2 limits the maximum shear strength of the diaphragm. In addition to satisfying 18.12.9.1 and 18.12.9.2, cast-in- place topping slab diaphragms must also satisfy 18.12.9.3
+and 18.12.9.4. Cast-in-place topping slabs on a precast floor or roof system tend to have shrinkage cracks that are aligned
+with the joints between adjacent precast members. There- fore, the additional shear strength requirements for topping slab diaphragms in 18.12.9.3 are based on a shear friction
+model (Wood et al. 2000), and the assumed crack plane corresponds to joints in the precast system along the direc- tion of the applied shear, as shown in Fig. R22.9.4.3a. The coefficient of friction, pw, in the shear friction model is taken equal to 1.0 for normalweight concrete due to the presence of these shrinkage cracks. Both distributed and boundary reinforcement in the topping slab may be considered as shear friction reinforcement A,y.
+Boundary reinforcement within the diaphragm was called chord reinforcement in ACI 318 before 2008. Although the
+boundary reinforcement also resists forces due to moment
+and axial force in the diaphragm, the reduction in the shear friction resistance in the tension zone is offset by the increase in shear friction resistance in the compression zone. There- fore, the area of boundary reinforcement used to resist shear friction need not be added to the area of boundary reinforce-
+ment used to resist moment and axial force. The distributed topping slab reinforcement must contribute at least one-half
+of the nominal shear strength. It is assumed that connections
+between the precast elements do not contribute to the shear strength of the topping slab diaphragm. Provision 18.12.9.4 limits the maximum shear that may be transmitted by shear friction within a topping slab diaphragm.
+
+[CODE] V.=A, (20. F +p, f,)
+[CODE] (18.12.9.1)
+[CODE] For cast-in-place topping slab diaphragms on precast floor or roof members, A,, shall be calculated using only the thickness of topping slab for noncomposite topping slab
+diaphragms and the combined thickness of cast-in-place and precast elements for composite topping slab diaphragms. For
+composite topping slab diaphragms, the value of f,' used to calculate V,, shall not exceed the lesser of f.’ for the precast
+members and f,’ for the topping slab. 18.12.9.2 V,, of diaphragms shall not exceed 8 Vf Avy.
+[CODE] 18.12.9.3 Above joints between precast elements in
+noncomposite and composite cast-in-place topping slab diaphragms, V, shall not exceed:
+[CODE] V, =Ayfu (18.12.9.3)
+[CODE] where A,, is the total area of shear friction reinforcement within the topping slab, including both distributed and
+boundary reinforcement, that is oriented perpendicular to joints in the precast system and coefficient of friction, p, is 1.0A, where A is given in 19.2.4. At least one-half of A,y shall be uniformly distributed along the length of the poten- tial shear plane. The area of distributed reinforcement in the topping slab shall satisfy 24.4.3.2 in each direction.
+[CODE] 18.12.9.4 Above joints between precast elements in
+noncomposite and composite cast-in-place topping slab diaphragms, V,, shall not exceed the limits in 22.9.4.4, where
+A, is calculated using only the thickness of the topping slab.
+
+[COMMENTARY] aci*
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org
+[COMMENTARY] _

@@ -1,0 +1,52 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 53/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 3: MEMBERS 147
+
+
+[COMMENTARY] ee
+[COMMENTARY] | Y\ Jala
+=
+yw \y = —
+Z|, | lan N e e as &
+[COMMENTARY] i i, =.
+AARA)) \ supported , ee
+/ beam \
+[COMMENTARY] Supporting Hanger reinforcement beam
+[COMMENTARY] Other transverse
+reinforcement not shown
+[COMMENTARY] Fig. R9.7.6.2.1—Hanger reinforcement for shear transfer.
+
+[CODE] 9.7.6.2.2 Maximum spacing of legs of shear reinforce-
+ment along the length of the member and across the width of the member shall be in accordance with Table 9.7.6.2.2.
+
+[COMMENTARY] R9.7.6.2.2 Reduced stirrup spacing across the beam width provides a more uniform transfer of diagonal compression across the beam web, enhancing shear capacity. Laboratory
+[COMMENTARY] -) Beams
+[COMMENTARY] tests (Leonhardt and Walther 1964; Anderson and Ramirez 1989; Lubell et al. 2009) of wide members with large spacing of legs of shear reinforcement across the member width indi- cate that the nominal shear capacity is not always achieved.
+The intent of this provision is to provide multiple stirrup legs across wide beams and one-way slabs that require stirrups.
+
+[CODE] Table 9.7.6.2.2—Maximum spacing of legs of shear
+reinforcement
+[CODE] Maximum gs, in.
+[CODE] Nonprestressed beam Prestressed beam
+[CODE] Required Along Across Along Across V, length width length width d/2 d 3h/4 3h/2
+<4) fb, d Lesser
+[CODE] of: 24 in.
+[CODE] aa | ain | amis | hid
+>4,/F'b,d Lesser
+[CODE] of: 12 in.
+[CODE] 9.7.6.2.3 Inclined stirrups and longitudinal bars bent to act as shear reinforcement shall be spaced so that every 45-degree line, extending d/2 toward the reaction from mid- depth of member to longitudinal tension reinforcement, shall
+be crossed by at least one line of shear reinforcement.
+[CODE] 9.7.6.2.4 Longitudinal bars bent to act as shear reinforce- ment, if extended into a region of tension, shall be contin-
+uous with longitudinal reinforcement and, if extended into a region of compression, shall be anchored d/2 beyond mid- depth of member.
+[CODE] 9.7.6.3 Torsion
+
+[COMMENTARY] R9.7.6.3 Torsion
+
+[CODE] 9.7.6.3.1 If required, transverse torsional reinforcement shall be closed stirrups satisfying 25.7.1.6 or hoops.
+
+[COMMENTARY] R9.7.6.3.1 The stirrups are required to be closed because inclined cracking due to torsion may occur on all faces of a member. In the case of sections subjected primarily to torsion, the concrete side cover over the stirrups spalls off at high torsional moments (Mitchell and Collins 1976). This renders lap-spliced stirrups ineffective, leading to a premature torsional failure (Behera and Rajagopalan 1969). Therefore,
+[COMMENTARY] (aci¥
+IT
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

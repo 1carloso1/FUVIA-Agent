@@ -1,0 +1,35 @@
+[DOCUMENT: ACI_211.1-22]
+[PAGE: 17/26]
+[LAYOUT: continuous]
+============================================================
+18 SELECTING PROPORTIONS FOR NORMAL-DENSITY
+AND HIGH-DENSITY CONCRETE—GUIDE (ACI PRC-211.1-22)
+
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; chemical admixture type classification and performance requirements; admixture water reduction and setting time effects.]
+the mixture can also have other benefits such as lowering the w/cm, thereby increasing the strength. Reducing water can also improve the durability, reduce shrinkage and cracking potential, and reduce permeability. The use of a WRA permits a reduction in cementitious content when proportioning concrete mixtures due to the reduction in water content for a given w/cm. WRAs can also be used to increase slump while maintaining the original water content of the mixture. WRAs are grouped into three general categories based
+on the expected amount of water reduction, although there is no standard classification indicating the amount of water reduction associated with each category. Normal-range
+WRAs reduce the amount of water by a minimum of 5%.
+Mid-range water-reducing admixtures (MRWRAs) reduce water content by between 5 and 10%. High-range water- reducing admixtures (HRWRAs) can achieve water reduc- tions of between 12 and 40% (Kosmatka and Wilson 2016).
+However, the water reduction may vary (above or below)
+from the typical amounts listed herein. Therefore, these limits should serve only as a generic starting point that may
+be useful for water adjustment in mixture proportioning. WRAs are typically used to produce slumps in the following ranges: (a) Normal-range WRA: 0 to 6 in. (b) MRWRA: 2 to 7 in. (c) HRWRA: 5 to 9 in. for conventional concrete and up to 30 in. of slump flow for self-consolidating concrete (SCC) WRAs are often formulated in combination with set retarders or accelerators. Set retarders extend the time concrete remains plastic (workable), which is useful during hot weather or extended transportation time. Set accelerators reduce the time of setting and accelerate strength gain. This can be useful in cold weather or anytime reduced time of setting or accelerated strength gain is desired. ASTM C494/C494M specifies the characteristics for seven water-reducing and set-controlling admixtures as follows: (1) Type A—Water-reducing (2) Type B— Retarding (3) Type C—Accelerating (4) Type D—Water-reducing and retarding (5) Type E—Water-reducing and accelerating (6) Type F—Water-reducing, high-range (7) Type G—Water-reducing, high-range, and retarding
+ASTM C494/C494M has one additional admixture classi- fication, Type S—Specific Performance Admixtures. Type S admixtures are designed to affect specific performance char- acteristics of the concrete without substantially impacting the slump, time of setting, or strength gain of the concrete. There are many cases where more than one or two different types of chemical admixtures are added to concrete. When the use of multiple admixtures is anticipated, especially in chal- lenging applications, chemical admixture suppliers should
+be consulted while still in the concrete mixture proportioning phase. In addition, the mixture proportioning phase should include a discussion on the batch water adjustment needed to account for the water in the admixtures (especially if added at high dosage rates) and their expected water-reduction levels. The compatibility of chemical admixtures with each
+
+further details on admixture types and their use in concrete, refer to ACI 212.3R.
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: air content requirements; cement chemical and physical property limits; chemical admixture type classification and performance requirements.]
+6.2—Air-entraining admixtures Air-entraining admixtures (AEAs) are used to purpose- fully entrain a system of finely dispersed air bubbles primarily to increase the resistance against freezing-and- thawing damage where critically saturated exterior concrete is exposed to repeated freezing-and-thawing cycles in cold weather climates. Concrete is severely damaged when
+enough ice forms in the capillaries because ice creates a pressure greater than the tensile strength of the cement paste, which disrupts the capillary walls. The addition of
+AFAs stabilizes microscopic air bubbles (entrained air) during mixing. These bubbles provide a reservoir for water to migrate into during freezing, thereby reducing the tensile forces created in the cement paste caused by the expansion of freezing water in the smaller capillary void spaces. When thawing occurs, the water is forced back into the capillaries
+by compressed air in the voids, thereby freeing the voids for use again during the next freezing cycle. However, it should be noted that the air bubbles entrained by the AEA are different than the entrapped air in concrete. Entrapped air voids are incorporated into the concrete during mixing.
+These are mainly irregular in shape and usually 0.04 in. (1 mm) or larger in size. Entrained air bubbles are inten- tionally added into concrete to stabilize randomly distrib- uted microscopic air bubbles that are typically spherical or nearly so, ranging in size between 0.0004 and 0.04 in. (0.01 and | mm) in diameter. Due to the large size, entrapped air bubbles do not provide the necessary protection against the cycles of freezing and thawing of the critically saturated concrete. Air-entrained voids are needed for protection and
+can be achieved through the use of an AEA. AEAs may also be used to improve workability as the entrained air bubbles have a lubrication effect on the mixture. Due to the size and shape of the air voids, air- entrained concrete typically contains up to 10% less water than non-air-entrained concrete of equal workability. This reduction in the volume of mixing water as well as the
+volume of entrained and entrapped air must be considered in proportioning. In addition, the increase of air content may cause a reduction in strength. Therefore, mixture propor- tioning should be done with the consideration of the target air content’s impact on strength (refer to ACI 212.3R for
+more information). The quantity of AEA required to achieve an appropriate level of air entrainment in concrete is variable and depends
+on many mixture design characteristics. Among these are the characteristics of aggregates, type and proportions of the concrete admixtures, type and duration of mixing, consis- tency, temperature, cement fineness and chemistry, and the use of other cementitious materials.
+6.3—Water-reducing admixtures Water-reducing admixtures (WR As) are used to reduce the
+amount of water required to achieve and maintain the target slump of freshly mixed concrete. The reduction of water in Copyright Am dci je Institute
+American Concrete Institute — Copyrighted © Material — www.concrete.org
+@seismicisolation

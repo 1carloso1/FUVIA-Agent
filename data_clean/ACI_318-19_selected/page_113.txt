@@ -1,0 +1,55 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 113/196]
+[LAYOUT: continuous]
+============================================================
+PART 5: EARTHQUAKE RESISTANCE 329
+CODE COMMENTARY
+; ; A
+Ties not required — re) ae
+= | ' 2
+0 A =
+. cu a
+Ties per a = 18.10.6.5— | p > 400 79 i i Z
+rr =
+rT !
+; a - h
+Special Hl A lw b2 16
+boundary FE
+element — FE Max. > - fo > 3
+| z | | \4Vu/ critical then b2 12 in.
+04 for 1.25f T- section
+siafotash AL ETE \ IS
+(or hook as req'd.) \ Boundary element near edge
+Boundary element not \ of footing or other support near edge of footing Critical section per 18.10.6.2
+(a) Wall with hy /¢y 2 2.0 and a single critical section controlled by flexure and axial load designed using 18.10.6.2, 18.10.6.4, and 18.10.6.5
+lo <0.15f¢
+
+—o20.2f. Special boundary
+element required
+
+fy
+Ties not required
+LU
+ii
+LL
+LL Hi
+i Develop for fy past opening, rH 0 <0.15f¢
+i LL
+i an top and bottom iH p> 400
+\
+== y
+HH FP TP rH Ties per 18.10.6.5
+oe 1
+es = : o <0.2f, HL L =e = oI 400 . HH ;
+cE = : p 7 Hi o >0.2f, Special boundary
+y
+Ties per 18.10.6.5
+tu
+b= 16 See Notes.
+He = 7 He h element required,
+i
+Notes: Requirement for special boundary element is triggered if maximum extreme fiber
+compressive stress o = 0.2f¢. Once triggered, the special boundary element extends until o < 0.15f¢. Since hy /y,< 2.0, 18.10.6.4(c) does not apply.
+(b) Wall and wall pier designed using 18.10.6.3, 18.10.6.4, and 18.10.6.5.
+Fig. R18.10.6.4c—Summary of boundary element requirements for special walls.
+American Concrete Institute - Copyrighted © Material — www.concrete.org aci Dy

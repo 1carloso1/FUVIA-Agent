@@ -1,0 +1,68 @@
+[DOCUMENT: ASTM_C494-19]
+[PAGE: 2/15]
+[LAYOUT: continuous]
+============================================================
+Ail caga/c4g4am - 19
+
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: chloride exposure classes and chloride ion content limits; air content requirements; aggregate grading and sieve analysis requirements; aggregate physical property limits; chemical admixture type classification and performance requirements.]
+systems shall not be combined. Some values have only SI units
+because the inch-pound equivalents are not used in practice. 1.5 The text of this standard refers to notes and footnotes that provide explanatory material. These notes and footnotes (excluding those in tables and figures) shall not be considered as requirements of the standard. 1.6 The following precautionary caveat pertains only to test
+method Sections 11 — 18 of this Specification: This standard
+does not purport to address all of the safety concerns, if any,
+associated with its use. It is the responsibility of the user of this
+standard to establish appropriate safety, health, and environ-
+mental practices and determine the applicability of regulatory limitations prior to use. (Warning—Fresh hydraulic cementi- tious mixtures are caustic and may cause chemical burns to
+exposed skin and tissue upon prolonged exposure.”) 1.7 This international standard was developed in accor-
+dance with internationally recognized principles on standard- ization established in the Decision on Principles for the
+Development of International Standards, Guides and Recom-
+mendations issued by the World Trade Organization Technical
+Barriers to Trade (TBT) Committee. 2. Referenced Documents 2.1 ASTM Standards:*
+C33/C33M Specification for Concrete Aggregates
+C39/C39M Test Method for Compressive Strength of Cylin- drical Concrete Specimens
+C78/C78M Test Method for Flexural Strength of Concrete (Using Simple Beam with Third-Point Loading)
+C125 Terminology Relating to Concrete and Concrete Ag- gregates
+C127/C127M Test Method for Relative Density (Specific Gravity) and Absorption of Coarse Aggregate
+C128/C128M Test Method for Relative Density (Specific Gravity) and Absorption of Fine Aggregate
+C136/C136M Test Method for Sieve Analysis of Fine and Coarse Aggregates
+C138/C138M Test Method for Density (Unit Weight), Yield, and Air Content (Gravimetric) of Concrete
+C143/C143M Test Method for Slump of Hydraulic-Cement Concrete
+C150/C150M Specification for Portland Cement
+C157/C157M Test Method for Length Change of Hardened Hydraulic-Cement Mortar and Concrete
+C183/C183M Practice for Sampling and the Amount of Testing of Hydraulic Cement
+C192/C192M Practice for Making and Curing Concrete Test Specimens in the Laboratory
+C231/C231M Test Method for Air Content of Freshly Mixed Concrete by the Pressure Method
+C260/C260M Specification for Air-Entraining Admixtures for Concrete
+
+C403/C403M Test Method for Time of Setting of Concrete Mixtures by Penetration Resistance
+C666/C666M Test Method for Resistance of Concrete to Rapid Freezing and Thawing
+C1753/C1753M Practice for Evaluating Early Hydration of Hydraulic Cementitious Mixtures Using Thermal Mea- surements
+D75/D75M Practice for Sampling Aggregates
+D891 Test Methods for Specific Gravity, Apparent, of Liquid Industrial Chemicals
+D1193 Specification for Reagent Water
+E100 Specification for ASTM Hydrometers
+E178 Practice for Dealing With Outlying Observations
+E1252 Practice for General Techniques for Obtaining Infra- red Spectra for Qualitative Analysis
+Manual of Aggregate and Concrete Testing 2.2 American Concrete Institute Standard:
+ACI 211.1—-91 (2009) Standard Practice for Selecting Pro- portions for Normal, Heavyweight, and Mass Concrete”
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: chloride exposure classes and chloride ion content limits; chemical admixture type classification and performance requirements; admixture water reduction and setting time effects.]
+3. Terminology 3.1 For definitions of terms used in this specification, refer to Terminology C125. 3.2 Definitions of Terms Specific to This Standard: 3.2.1 accelerating admixture, n—an admixture that in- creases the rate of reaction of cementitious materials thus
+reducing time of setting and increasing the rate of early-age strength development of concrete. 3.2.2 reference concrete, n—concrete made without the
+admixture being evaluated and used as the basis for evaluating the performance of the admixture. 3.2.3 retarding admixture, n—an admixture that decreases the rate of reaction of cementitious materials thus increasing
+time of setting of concrete. 3.2.4 test concrete, n—concrete containing the admixture
+being evaluated. 3.2.4.1 Discussion—In the text of this specification, the
+wording “category of concrete” refers to whether the concrete
+mixture is the reference concrete or the test concrete. 3.2.5 water-reducing admixture, n—an admixture that either increases the slump of freshly mixed concrete without increas- ing the water content or that maintains the slump with a
+reduced amount of water due to factors other than air entrain- ment. 3.2.6 water-reducing admixture, high range, n—an admix- ture that reduces the quantity of mixing water required to
+produce concrete of a given slump by 12 % or greater. 3.2.7 water-reducing and accelerating admixture, n—an
+admixture that reduces the quantity of mixing water required to
+produce concrete of a given slump, reduces the time of setting,
+and increases the rate of early-age strength development.
+
+3 See Section on Safety Precautions, Manual of Aggregate and Concrete Testing,
+Annual Book of ASTM Standards, Vol. 04.02. 4 For referenced ASTM standards, visit the ASTM website, www.astm.org, or contact ASTM Customer Service at service@astm.org. For Annual Book of ASTM Standards volume information, refer to the standard’s Document Summary page on the ASTM website.
+
+> Available from American Concrete Institute (ACI), P.O. Box 9094, Farmington Hills, MI 48333-9094, http://www.aci-int.org.
+
+Copyright by ASTM Int'l (all rights reserved); Wed Sep 2 00:11:37 EDT 2020 2 Downloaded/printed by Indian Inst of Tech Chennai (Indian Inst of Tech Chennai) pursuant to License Agreement. No further reproductions authorized.

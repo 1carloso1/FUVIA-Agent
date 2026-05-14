@@ -1,0 +1,54 @@
+[DOCUMENT: ACI_211.1-22]
+[PAGE: 23/26]
+[LAYOUT: continuous]
+============================================================
+24 SELECTING PROPORTIONS FOR NORMAL-DENSITY AND HIGH-DENSITY CONCRETE—GUIDE (ACI PRC-211.1-22)
+
+Table 9.2.9.6—Constituent weights Mixture constituents Ib/yd? lb/ft? Mixing water 342 12.67 Cementitious materials $52 20.44 Coarse aggregate (SSD) 1927 71.37 Fine aggregate (SSD) 1100 40.74 Total weight 3921 145.22 Fresh density — 145.2 Air-free density — 148.0
+
+Fine aggregate 1+ 0.7%
+51.00 (moist) x = 48.45 lb/ft (SSD)
+Free water = 51.00 lb/ft? — 48.45 Ib/ft* = 2.55 |b/ft* Therefore, the mixing water in the trial batch was
+8.50 lb/ft? batched + 1.07 lb/ft? free on coarse aggregate + 2.55 lb/ft? free on fine aggregate = 12.12 lb/ft? To produce a cubic yard of concrete with the same 2 in.
+slump as the trial batch would use
+
+The w/cm is maintained to be 0.62 (342 Ib/552 Ib). 9.2.9.7 The results of the next trial batch will be evaluated for its properties, and if found deficient again, further adjust-
+ments to the proportioning will be made until the desired properties are achieved. However, it should be noted that an adjustment to correct one property may adversely affect another property. The process continues until all the required properties of the mixture are achieved.
+
+12.12 lb/ft? x 27.00 ft® = 327 lb/yd? of water To increase the slump from the measured 2 in. to the 3
+to 4 in. range selected in Step 1, the amount of water might be increased by another 15 Ib for 1.5 in. additional slump,
+bringing the mixture water for the next trial to 342 lb/yd?. 9.2.9.2 The density was measured to be 147.5 Ib/ft?, and the yield was
+
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: compressive strength f'c requirements; freezing and thawing exposure classes; sulfate exposure classes; water exposure classes; air content requirements; cement chemical and physical property limits; aggregate physical property limits; chemical admixture type classification and performance requirements; admixture water reduction and setting time effects.]
+9.3—Example 2: Mixture proportioning of binary
+mixture containing fly ash A concrete mixture is needed for several ponds on a lobster
+farm located in Northern Maine. The ponds will be operated in such a way as to be fully influenced by the tides, but not the direct impact of the waves. For durability, this applica- tion is classed as S1, F3, and W1. For additional durability, fly ash at 20% by weight as cement replacement is specified.
+A local rounded coarse aggregate with nominal maximum size of 1.5 in. with suitable gradation, SSD specific gravity
+of 2.66, a dry-rodded density of 101 Ib/ft?, and absorption
+(A%) of 0.8% is available. A local natural sand, having a fineness modulus of 2.80, an SSD specific gravity of 2.65,
+and an absorption (A%) of 1.0% will be used. A sample standard deviation (5,) of 300 psi has been determined from similar mixtures. 9.3.1 Step I: Estimate slump—A slump of 5 to 6 in. is specified. 9.3.2 Step 2: Select nominal maximum size of aggre-
+gate—The locally available rounded coarse aggregate with a nominal maximum aggregate size of 1.5 in. is used in this application. 9.3.3 Step 3: Estimate water content—Severe saltwater
+and freezing-and-thawing exposures place this application into Exposure Class F3. The level of air entrainment for F3 is found in Table 5.3.3. Given the nominal maximum aggre- gate size of 1.5 in., a total air content of 5.5% is required. To entrain 5.5% air, an air-entraining agent (AEA) will be used. For these exposure considerations, along withthe 5 to 6 in.
+slump and the 1.5 in. nominal maximum size of aggregate, an approximate mixing-water weight of 280 lb is recom-
+mended for concrete without a water-reducing admixture
+(WRA) based on Table 5.3.3. However, a WRA within the manufacturer’s recommended dose will be used. Therefore, Table 5.3.3.1 suggests water reduction of 5% when using a
+WRA, which yields a 14 lb water reduction. The use of 20% fly ash replacement allows for a further water reduction of 6%, which yields to 17 Ib based on Table 5.3.3.1.
+
+147.5 lb/ft? x 27.00 ft?/148.9 lb/ft? = 26.75 ft Knowing the air-free density to be 150.4 lb/ft*, the gravi- metric air content was computed to be
+(150.4 lb/ft? — 147.5 lb/ft)
+150.4 lb/ft?
+Air% = x 100= 1.9%
+9.2.9.3 With the increased mixing water, additional cement is needed to maintain the w/cm of 0.62. The cement content for the next trial becomes
+342 Ib/yd?/0.62 = 552 lb/yd3
+9.2.9.4 As workability was found to be satisfactory, the weight of coarse aggregate will remain as originally proportioned. 9.2.9.5 With these changes made, Step 6 is reapplied to determine the amount of fine aggregate needed for the next trial batch. Volume ofwater = 342 lb/62.4 lb/ft? = 5.48 ft?
+Volume of cement = 552 Ib/(3.15 x 62.4 lb/ft) = 2.81 ft
+Volume of SSD coarse aggregate = 1927 Ib/(2.68 x
+62.4 lb/ft) = 11.52 ft Volume of air (using measured air from trial) = 1.9% x
+27.00 ft? = 0.51 ft Total volume of ingredients except fine aggregate =
+20.32 ft? Volume of SSD fine aggregate required = 27.00 ft? —
+20.32 ft = 6.68 ft? Required weight of SSD fine aggregate = 6.68 ft? x 2.64 x
+62.4 lb/ft? = 1100 Ib 9.2.9.6 Prior to trial batch moisture adjustments, the constituent weights for the next trial batch per cubic yard and per cubic foot are determined, as shown in Table 9.2.9.6.
+Copyright Am dCi je Institute
+American Concrete Institute — Copyrighted © Material — www.concrete.org
+@seismicisolation

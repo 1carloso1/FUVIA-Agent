@@ -1,0 +1,48 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 65/196]
+[LAYOUT: continuous]
+============================================================
+ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+CODE
+
+COMMENTARY
+(fs «
+= ) e \ Offset bars from
+column below
+© \— Bars in column
+above
+WO \ clear spacing
+Fig. R10.7.5.1.3— Offset column bars.
+
+10.7.5.2 Lap splices
+
+R10.7.5.2 Lap splices
+In columns subject to moment and axial force, tensile stresses may occur on one face of the column for moderate
+and large eccentricities as shown in Fig. R10.7.5.2. If such stresses occur, 10.7.5.2.2 requires tension splices to be used. The splice requirements have been formulated on the basis that a compression lap splice has a tensile strength of at least 0.25f,. Therefore, even if columns bars are designed for
+compression according to 10.7.5.2.1, some tensile strength is inherently provided.
+All bars in
+compression, ;
+see 10.75.21 0 = f, = 0.5f, on tension face of member,
+PA
+see Table 10.7.5.2.2
+(Class A splices allowed
+with certain conditions)
+f, > O.5f, on tension face of member,
+see Table
+Interaction
+10.7.5.2.2
+(Class B
+diagram
+splices
+» required) Mu
+Fig. R10.7.5.2—Lap splice requirements for columns.
+
+10.7.5.2.1 If the bar force due to factored loads is compres- sive, compression lap splices shall be permitted. It shall be permitted to decrease the compression lap splice length in accordance with (a) or (b), but the lap splice length shall be at least 12 in.
+
+R10.7.5.2.1 Reduced lap lengths are permitted if the splice is enclosed throughout its length by sufficient ties.
+The tie leg areas perpendicular to each direction are calcu- lated separately. An example is provided in Fig. R10.7.5.2.1,
+where four legs are effective in one direction and two legs in the other direction. Compression lap lengths may also be reduced if the lap splice is enclosed throughout its length by spirals due to increased splitting resistance.
+
+(a) For tied columns, where ties throughout the lap splice length have an effective area not less than 0.0015hs in both directions, lap splice length shall be permitted to be
+Cy
+American Concrete Institute - Copyrighted © Material - www.concrete.org

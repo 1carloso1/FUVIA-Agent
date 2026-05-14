@@ -1,0 +1,28 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 147/196]
+[LAYOUT: continuous]
+============================================================
+ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+CODE
+COMMENTARY
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; chloride exposure classes and chloride ion content limits.]
+In addition, because of the exposure to water, the Code (26.4.2.2(d)) has a requirement to demonstrate that aggre- gates used in concrete are not alkali reactive according to
+ASTM C1778. If the aggregates are alkali-silica reactive, the Code (26.4.2.2(d)) also requires submission of proposed mitigation measures. The Code (26.4.2.2(d)) prohibits the use of aggregates that are alkali-carbonate reactive. Exposure Class C2: For nonprestressed and prestressed concrete in Exposure Class C2, the maximum w/cm,
+minimum specified compressive strength, and minimum cover are the basic requirements to be considered. Condi- tions should be evaluated for structures exposed to chlo- rides, such as in parking structures where chlorides may
+be tracked in by vehicles, or in structures near seawater.
+Coated reinforcement, corrosion-resistant steel reinforce- ment, and cover greater than the minimum required in 20.5
+can provide additional protection under such conditions.
+Use of slag cement meeting ASTM C989 or fly ash meeting
+ASTM C618 and increased levels of specified compressive strength provide increased protection. Use of silica fume
+meeting ASTM C1240 with an appropriate high-range water reducer, ASTM C494, Types F and G, or ASTM C1017 can also provide additional protection (Ozyildirim and Halstead 1988). The use of ASTM C1202 to test concrete mixtures
+proposed for use will provide additional information on the
+performance of the mixtures. Chloride limits for Exposure Category C: For Exposure Classes CO, C1, and C2, the chloride ion limits apply to the chlorides contributed from the concrete materials, not from the environment surrounding the concrete. Even for Expo- sure Class CO, water-soluble chlorides introduced from the concrete materials can potentially induce corrosion of the reinforcement and must be limited for both nonprestressed
+and prestressed concrete, regardless of external expo- sure. For nonprestressed concrete, the permitted maximum
+amount of water-soluble chloride ions incorporated into the concrete, depends on the degree of exposure to an anticipated external source of moisture and chlorides. For prestressed concrete, the same limit of 0.06 percent chloride ion by mass of cementitious material applies regardless of exposure. The limits on chloride ion content for prestressed concrete are reduced from those for nonprestressed concrete
+because corrosion of prestressed reinforcement generally has more severe consequences than corrosion of nonpre- stressed reinforcement. Corrosion-induced reduction in the cross-sectional area of the prestressed reinforcement may result in fracture of the steel (ACI 222R). The presence of chloride ions may cause corrosion of embedded aluminum such as conduits, especially if the aluminum is in contact with embedded steel and the concrete is in a humid environ-
+ment. Requirements for protecting aluminum embedments
+from corrosion are given in 20.6.3 and 26.8.2. Allowable chloride limits are based on the mass of total cementitious materials rather than portland cement alone. This change was made in ACI 318-19 to reflect findings that
+
+American Concrete Institute — Copyrighted © Material — www.concrete.org

@@ -1,0 +1,43 @@
+[DOCUMENT: ACI_211.4R-08]
+[PAGE: 2/23]
+[LAYOUT: continuous]
+============================================================
+SELECTING PROPORTIONS FOR HIGH-STRENGTH CONCRETE
+211.4R-3
+
+high-strength concrete mixtures use fly ash, silica fume, slag cement, or other cementitious materials, high-strength concrete can gain considerable strength after the normally specified 28-day age. To take advantage of this characteristic,
+many specifications for the compressive strength of high- strength concrete have been modified from the typical 28-day criterion to 56 days, 90 days, or later ages.
+
+the requirements listed in Section 3.3, as appropriate. Once sufficient data have been generated from the job, mixture proportions can be reevaluated using ACI 214R and adjusted accordingly.
+3.3—Other requirements Considerations of properties other than compressive strength may influence the selection of materials and mixture proportions, including creep, drying shrinkage, resistance to freezing and thawing, electrical conductivity, finishability, heat of hydration, method of placement, modulus of elas- ticity, peak temperature differential, permeability, pumpa- bility, tensile strength, time of setting, and workability. More than one requirement may apply to a concrete mixture. In this event, the best acceptable overall solution to propor- tioning the concrete mixture becomes the goal. In many cases, the attainment of specific properties can be correlated to strength, and thereafter a strength requirement
+may become the acceptance criterion for the other properties.
+For example, if a project specification requires a specific value for modulus of elasticity, and a significant number of compressive strength results are found to correlate strongly with elastic modulus results for a specific concrete mixture, then the compressive strength results could be used as the acceptance criterion.
+
+3.2—Required average compressive strength f;, ACI 318 allows concrete mixtures to be proportioned based on field experience or laboratory trial batches. To meet the specified compressive strength requirement, f.’, the concrete should be designed to achieve the required average compressive strength f-;.. To do so, the concrete mixture is proportioned in such a manner that the average compressive strength results of field tests exceed f by an amount high
+enough to reduce the number of low test results. 3.2.1 Proportioning based on field experience—When the concrete producer chooses to select high-strength concrete mixture proportions based on field experience, the required average compressive strength f.'., used as the basis for the selection of concrete proportions, should be the larger of the values calculated from the following two equations
+fi. =f +: 134s (3-1)
+
+CHAPTER 4—CONCRETE MATERIALS
+4.1—Introduction Carefully selecting, controlling, and proportioning all of the ingredients will achieve effective production of high- strength concrete. To achieve higher-strength concrete,
+optimum proportions should be selected, considering the
+cement and other cementitious material characteristics, aggregate quality, aggregate gradation, paste volume, aggregate-paste interaction, admixture type and dosage rate,
+and mixing. Evaluating cement and other cementitious materials, chemical admixtures, and aggregates from various potential sources in varying proportions will indicate the
+optimum combination of materials. Variations in the chemical composition and physical properties of any of these materials will affect the concrete compressive strength.
+The supplier of high-strength concrete should implement a
+program to ensure uniformity and acceptance tests for all materials used in the production of high-strength concrete.
+
+ft. =0.90f! + 2.335 (3-2)
+where s is a sample standard deviation from 30 tests. Equation (3-1) is Eq. (5-1) of ACI 318. Equation (3-2) is Eq. (5-3) of ACI 318. Equation (3-1) is based on the proba- bility of 1-in-100 that the average of three consecutive tests
+may be below f’. Equation (3-2) is based on the same prob- ability that an individual test may be less than 0.90f. These equations use the population standard deviation, appropriate for an infinite or very large number of tests. At least 30 tests are preferred to estimate the population standard deviation. Refer to ACI 214R when fewer tests are available. 3.2.2 Proportioning based on trial batches—When the concrete producer selects high-strength concrete proportions
+on the basis of laboratory trial batches, f. may be determined
+from
+fi. =1.10f! +700 psi (3-3)
+
+4.2—Portland cement Proper selection of the type and source of cement is one of the most important steps in the production of high-strength concrete. For more information, refer to ACI 363R and ACI Compilation 17, High-Strength Concrete, on high-strength concrete. For any given set of materials, there is an optimum
+cement content beyond which little or no additional increase in strength is achieved from increasing the cement content.
+
+Where the average strength documentation is based on laboratory trial mixtures, it may be appropriate to increase
+f. from Eq. (3-3) in accordance with ACI 214R to allow for a reduction in strength from laboratory trials to actual concrete production. To assume that the average strength of field-produced concrete will equal the strength of a laboratory-batched concrete is contrary to experience because many factors controlled in the laboratory can influence the strength and variability measurements in the field. Initial use of a high- strength concrete mixture in the field may require some adjustments in proportions for air content and yield and for
+
+4.3—Fly ash For use in concrete, ASTM C618 specifies the require-
+ments for Class F and Class C fly ashes and Class N for raw or calcined natural pozzolans. Fly ash, a by-product of coal combustion, is widely used as a cementitious and pozzolanic

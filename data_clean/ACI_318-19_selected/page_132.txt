@@ -1,0 +1,54 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 132/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+
+[COMMENTARY] closed ties or spirals required in an uncased concrete pile
+and eliminates the need for confinement ties.
+
+[CODE] (No. 14 gauge) that is adequately protected from possible deleterious action due to soil constituents, changing water levels, or other factors indicated by boring records of site conditions.
+
+[COMMENTARY] R18.13.5.9 Concrete-filled pipe piles
+
+[CODE] 18.13.5.9 Concrete-filled pipe piles
+
+[COMMENTARY] R18.13.5.9.1 For resistance to uplift forces, concrete bond to the steel pipe is to be ignored in determining anchorage
+of the pile. Concrete shrinkage can be detrimental to bond, therefore shrinkage should be controlled, or force transfer via other methods such as headed studs or surface irregulari- ties on the pipe should be considered. Reinforcement at the top of the pile is extended into the pile cap to tie the elements together and assist transfer of force to the pile cap.
+
+[CODE] 18.13.5.9.1 For structures assigned to SDC C, D, E or F, concrete-filled pipe piles shall have longitudinal reinforce-
+ment in the top of the pile with a total area of at least 0.01A,
+and with a minimum length within the pile equal to two times the required embedment length into the pile cap, but not less
+than the development length in tension of the reinforcement.
+
+[COMMENTARY] R18.13.5.10 Precast concrete piles
+
+[CODE] 18.13.5.10 Precast concrete piles
+
+[COMMENTARY] R18.13.5.10.1 The potential for driving precast piles to a tip elevation different than that specified in the construction
+documents should be considered when detailing the pile. If the pile reaches refusal at a shallower depth, a longer length
+of pile will need to be cut off. If this possibility is not fore- seen, the length of transverse reinforcement required by these provisions may not be provided after the excess pile length is cut off.
+
+[CODE] 18.13.5.10.1 For precast concrete driven piles, the length of transverse reinforcement provided shall be sufficient to
+account for potential variations in the elevation of pile tips.
+[CODE] 18.13.5.10.2 Precast nonprestressed concrete piles for structures assigned to SDC C shall satisfy (a) through (d):
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: particle size distribution limits by sieve size.]
+[CODE] (a) Minimum longitudinal steel reinforcement ratio shall
+be 0.01. (b) Longitudinal reinforcement shall be enclosed within a
+minimum of No. 3 closed ties or 3/8 in. diameter spirals, for up to 20 in. diameter piles, and No. 4 closed ties or 1/2 in. diameter spirals, for larger diameter piles. (c) Spacing of transverse reinforcement within a distance
+of 3 times the least cross-sectional dimension of the pile
+from the bottom of the pile cap shall not exceed the lesser
+of 8 times the diameter of the smallest longitudinal bar
+and 6 in. (d) Transverse reinforcement shall be provided throughout the length of the pile at a spacing not exceeding 6 in.
+[CODE] 18.13.5.10.3 For structures assigned to SDC D, E, or F, precast nonprestressed concrete piles shall satisfy the requirements of 18.13.5.10.2 and the requirements for
+uncased cast-in-place or augered concrete piles in SDC D, E, or F in Table 18.13.5.7.1.
+[CODE] 18.13.5.10.4 For structures assigned to SDC C, precast- prestressed concrete piles shall satisfy (a) and (b):
+
+[COMMENTARY] R18.13.5.10.4(a) In a study of minimum confinement reinforcement for prestressed concrete piles (Sritharan et al.
+
+[CODE] (a) If the transverse reinforcement consists of spirals or circular hoops, the volumetric ratio of transverse rein- aci>
+_
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

@@ -1,0 +1,28 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 71/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 5: EARTHQUAKE RESISTANCE 287
+
+
+[COMMENTARY] of ordinary or intermediate systems for nonbuilding struc- tures in the higher seismic design categories. These are not the typical applications that were considered in the writing
+[COMMENTARY] ismic
+hm Se
+©
+[COMMENTARY] of this chapter, but wherever the term “ordinary or inter-
+mediate moment frame” is used in reference to reinforced concrete, 18.3 or 18.4 apply. Table R18.2 summarizes the applicability of the provi- sions of Chapter 18 as they are typically applied when using the minimum requirements in the various seismic design categories. Where special systems are used for structures in
+SDC B or C, it is not required to satisfy the requirements
+of 18.14, although it should be verified that members not designated as part of the seismic-force-resisting system will
+be stable under design displacements.
+[COMMENTARY] Table R18.2—Sections of Chapter 18 to be
+satisfied in typical applications!"! Component SDC resisting earthquake effect, unless otherwise A B C D, E, F noted (None) | (18.2.1.3) | (18.2.1.4) (18.2.1.5) Analysis and design 18.2.2 18.22 18.2.2, requirements 18.2.4
+[COMMENTARY] 18.2.5
+[COMMENTARY] Materials None None through
+[COMMENTARY] 18.2.8
+[COMMENTARY] Frame members 18.3 18.4 18.6 through
+[COMMENTARY] 18.9
+[COMMENTARY] Structural wallge None None 18.10
+coupling beams Precast structural None None 18.5 18.5 18.11 walls Diaphragms and None 18.12 18.12 trusses Foundations None 18.13 18.13 Frame members not designated as part of None None 18.14 the seismic-force- resisting system Anchors None 18.2.3 18.2.3 [ITn addition to requirements of Chapters | through 17, 19 through 26, and ACI 318.2, except as modified by Chapter 18. Section 14.1.4 also applies in SDC D, E, and F. PIAs permitted by the general building code.
+[COMMENTARY] The proportioning and detailing requirements in Chapter 18 are based predominantly on field and laboratory expe- rience with monolithic reinforced concrete building struc- tures and precast concrete building structures designed
+and detailed to behave like monolithic building structures. Extrapolation of these requirements to other types of cast-in- place or precast concrete structures should be based on evidence provided by field experience, tests, or analysis. The acceptance criteria for moment frames given in ACI 374.1 can be used in conjunction with Chapter 18 to demonstrate that the strength,
+[COMMENTARY] American Concrete Institute — Copyrighted © Material — www.concrete.org aci

@@ -1,0 +1,43 @@
+[DOCUMENT: ACI_211.1-22]
+[PAGE: 19/26]
+[LAYOUT: continuous]
+============================================================
+20 SELECTING PROPORTIONS FOR NORMAL-DENSITY AND HIGH-DENSITY CONCRETE—GUIDE (ACI PRC-211.1-22)
+
+the permeability; hence, it is often used in mixtures where exposure to deleterious substances such as chloride penetra- tion is a concern. More information on silica fume can be
+found in ACI 234R. 7.3.4 Metakaolin—Metakaolin is a natural pozzolan that conforms to the requirements of ASTM C618 Type N. Metakaolin is typically used within 5 to 15% of the total cementitious materials content. However, higher and lower amounts than the typical values listed have been successfully used and can be selected depending on the project requirements. Metakaolin is used in applications where high strength
+and low permeability are required. For more information on metakaolin and other natural pozzolans, refer to ACI 232.1R.
+
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: chloride exposure classes and chloride ion content limits; cement chemical and physical property limits; chemical admixture type classification and performance requirements; admixture water reduction and setting time effects.]
+heat of hydration. Considering this retarding effect, the type
+and amount of fly ash should be carefully selected for proj- ects that require early time of setting or are exposed to cold
+weather conditions. Mixtures incorporating fly ash, especially when used higher than 20% of the total cementitious content, can reduce shrinkage, thereby reducing the potential for shrinkage- related cracks. Depending on the physical and chemical properties of fly ash, it also decreases permeability, enhances durability, and may increase the ultimate strength of the mixtures. However, at early ages (especially up to 3 days), mixtures with fly ash may show lower strength gain than mixtures with portland cement only. For more information
+on fly ash, refer to ACI 232.2R and 232.3R. 7.3.2 Slag cement—Slag cement is a by-product of iron production in a blast furnace. ASTM C989/C989M classifies slag cement into the following three grades based on its reac- tivity level: 1) Grade 80; 2) Grade 100; and 3) Grade 120.
+Depending on the performance requirement, slag cement is typically used to replace 20 to 50% of the total cementitious materials content. However, higher and lower amounts than the typical values listed have been successfully used and can be selected depending on the project requirements and, in
+some applications, up to 80% of slag cement may be used
+(ACI 233R). Depending on the fineness and amount used, slag cement
+may increase or decrease the water demand. Mixtures containing slag cement may require slightly lower water contents (up to 5%) compared to a plain concrete mixture containing portland cement only to achieve the same slump. Slag cement typically decreases the heat of hydra- tion; however, it has a minor impact on the time of setting depending on the amount and ambient temperature. It enhances durability and ultimate strength. For more infor-
+mation on slag cement, refer to ACI 233R. 7.3.3 Silica fume—Silica fume is the by-product of the production of elemental silicon or alloys containing silicon. Silica fume should conform to the requirements of ASTM C1240. Depending on the performance require- ment, silica fume is typically used within 5 to 10% of the total cementitious materials content. However, higher and
+lower amounts than the typical values listed have been successfully used and can be selected depending on the project requirements. Silica fume has a very fine particle size that is, on average, 100 times smaller than the particle size of portland cement.
+Due to its particles having a high specific surface area, silica fume often increases the water demand and may
+promote stickiness of a concrete mixture. Therefore, when all other conditions are kept the same, when proportioning a mixture containing silica fume, the use of a high-range water-reducing admixture (HRWRA), an increase in water content, or the combination of both will be needed to match the slump of a mixture containing portland cement only. Unlike most of the other SCM types, silica fume does not
+have a retardation effect on time of setting. In addition, it is
+used to increase both early-age and ultimate strength due to its very high pozzolanic reactivity. It significantly reduces Copyright GETS Institute oe [o7 By
+
+74—Mixture proportioning with supplementary
+cementitious materials In the design method recommended by this guide, unless a preblended cement is being used, each SCM added is treated as an additional mixture component with its partic- ular specific gravity occupying whatever volume is dictated
+by the quantity used (just like cement) and included in the
+volume calculations. Pozzolans are typically referenced in terms of percent by weight of total cementitious materials, although some locations reference them in terms of percent
+by volume. Where no specific reference to the contrary is included, the default reference should be as a percent
+by weight. When proportioning concrete mixtures containing SCMs, the following factors should be considered while deter-
+mining the desired type and amount: (a) Pozzolanic reactivity of the SCM and its effect on concrete strength at both early and later ages (b) Impact on the setting time and retardation (c) Effect on the water demand needed for the desired workability and placeability (d) Specific gravity of the SCM and its effect on the
+volume of concrete produced in the batch (e) Effect on the dosage rate of chemical admixtures used in the mixture (f) Effect of SCMs on heat of hydration, permeability,
+and shrinkage (g) Amount of SCM and cement needed to meet the
+performance requirements (h) Impact on bleeding rate and the need for additional
+curing Table 7.4 is provided as guidance for the proportioning of mixtures containing SCMs. The relationship established in this table for a given SCM type and their corresponding impact on concrete properties is applicable only when all the other parameters are kept constant (for example, total cementitious materials content, w/cm, and chemical admix- ture dosage rate). It should be noted that there may be cases
+where the relationship may fall outside of the ones shown here, depending on the selected source and amount of SCM. In the body of the table are arrows up, down, sideways,
+and up and down, meaning that increasing the amount of a constituent will cause the measure of the property
+
+American Concrete Institute — Copyrighted © Material — www.concrete.org
+@seismicisolation

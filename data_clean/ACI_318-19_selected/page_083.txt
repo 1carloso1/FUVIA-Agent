@@ -1,0 +1,39 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 83/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 5: EARTHQUAKE RESISTANCE 299
+
+
+[COMMENTARY] satisfy shear and moment strength requirements of Chapter 8
+under load combinations including earthquake effect.
+[COMMENTARY] Seismic
+18
+[COMMENTARY] R18.5—Intermediate precast structural walls Connections between precast wall panels or between wall panels and the foundation are required to resist forces
+induced by earthquake motions and to provide for yielding in the vicinity of connections. If mechanical splices are used to directly connect primary reinforcement, the probable strength of the splice should be at least 1.5 times the speci- fied yield strength of the reinforcement.
+
+[CODE] 18.5—Intermediate precast structural walls 18.5.1 Scope
+[CODE] 18.5.1.1 This section shall apply to intermediate precast struc- tural walls forming part of the seismic-force-resisting system.
+[CODE] 18.5.2 General
+[CODE] 18.5.2.1 In connections between wall panels, or between wall panels and the foundation, yielding shall be restricted to steel elements or reinforcement.
+[CODE] 18.5.2.2 For elements of the connection that are not designed to yield, the required strength shall be based on 1.58, of the yielding portion of the connection.
+[CODE] 18.5.2.3 In structures assigned to SDC D, E, or F, wall piers shall be designed in accordance with 18.10.8 or 18.14.
+[CODE] 18.6—Beams of special moment frames 18.6.1 Scope
+
+[COMMENTARY] R18.6—Beams of special moment frames R18.6.1 Scope
+
+[CODE] 18.6.1.1 This section shall apply to beams of special moment frames that form part of the seismic-force-resisting system and are proportioned primarily to resist flexure and shear.
+
+[COMMENTARY] This section applies to beams of special moment frames resisting lateral loads induced by earthquake motions. In previous Codes, any frame member subjected to a factored axial compressive force exceeding (A,/f,'/10) under any load combination was to be proportioned and detailed as described in 18.7. In the 2014 Code, all requirements for
+beams are contained in 18.6 regardless of the magnitude of axial compressive force. This Code is written with the assumption that special
+moment frames comprise horizontal beams and vertical
+columns interconnected by beam-column joints. It is accept- able for beams and columns to be inclined provided the resulting system behaves as a frame—that is, lateral resis- tance is provided primarily by moment transfer between
+beams and columns rather than by strut or brace action. In special moment frames, it is acceptable to design beams to resist combined moment and axial force as occurs in beams that act both as moment frame members and as chords or collectors of a diaphragm. It is acceptable for beams of special moment frames to cantilever beyond columns, but
+such cantilevers are not part of the special moment frame that forms part of the seismic-force-resisting system. It is acceptable for beams of a special moment frame to connect into a wall boundary if the boundary is reinforced as a special moment frame column in accordance with 18.7.
+A concrete braced frame, in which lateral resistance is
+provided primarily by axial forces in beams and columns, is not a recognized seismic-force-resisting system.
+
+[CODE] 18.6.1.2 Beams of special moment frames shall frame into
+columns of special moment frames satisfying 18.7.
+
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

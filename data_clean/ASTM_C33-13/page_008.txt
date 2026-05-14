@@ -1,0 +1,33 @@
+[DOCUMENT: ASTM_C33-13]
+[PAGE: 8/11]
+[LAYOUT: continuous]
+============================================================
+Ally c33/C33M - 13
+
+gravity, and Guide C295 to identify which of the particles in the light fraction are chert. 13. Keywords 13.1 aggregates; coarse aggregate; concrete aggregates; fine aggregate
+APPENDIX
+(Nonmandatory Information)
+
+X1. METHODS FOR EVALUATING POTENTIAL FOR DELETERIOUS EXPANSION DUE TO ALKALI REACTIVITY OF AN
+
+AGGREGATE
+X1.1 Introduction X1.1.1 Laboratory Methods—Many test methods for evalu- ating the potential for deleterious expansion due to alkali reactivity of an aggregate have been proposed and some have
+been adopted as ASTM standards. However, there is no general agreement on the relation between the results of these tests and the amount of expansion to be expected or tolerated in service. Therefore, evaluation of the suitability of an aggregate should be based upon judgment, interpretation of test data, and results of examinations of concrete structures containing the same aggregates and similar cementitious materials having similar levels of alkalies. Results of the tests referred to in this
+appendix may assist in making the evaluation. When interpret- ing expansion of laboratory specimens, consideration should be given not only to expansion values at specific ages, but also to the shape of the expansion curve, which may indicate
+whether the expansion is leveling off or continuing at a constant or accelerating rate. X1.1.2 Service Record Evaluation—Valid, comparable con- crete service record data, if available, should take precedence over laboratory test results in most cases. To be considered valid, a record of satisfactory service should be available for at least 10 years for aggregates, cementitious materials, and exposures sufficiently similar to those in which an aggregate is being considered for future use. Longer periods of documented service may be required for proposed work designed for a particularly long service life in moist conditions, or if labora- tory test results show that the aggregate may be deleteriously reactive. X1.1.3 Mitigation of Alkali-Aggregate Reaction—If an ag- gregate has been judged to be potentially deleteriously reactive in concrete either through laboratory or service record evaluation, use of the aggregate should be considered with
+measures known to prevent excessive expansion due to alkali- aggregate reaction. See the mitigation sections in this appendix
+under X1.3 Alkali-Silica Reaction and X1.4 Alkali-Carbonate
+Rock Reaction and References cited for discussion of preven- tion strategies for new concrete.
+
+X1.2 Background X1.2.1 Background information on alkali-aggregate reac-
+tion can be found in Ref (3)’, Descriptive Nomenclature C294,
+and Guide C295 as discussed as follows. Additional discussion is included in Refs (4) (5). These references address both alkali-silica reaction and alkali-carbonate rock reaction. X1.2.1.1 Descriptive Nomenclature C294 for Constituents of Concrete Aggregates—This nomenclature provides descrip- tions of constituents of mineral aggregates and includes dis- cussion of which have been associated with deleterious expan- sion due to alkali reaction. X1.2.1.2 Guide C295 (Petrographic Examination of
+Aggregates )—This guide outlines the procedures for examin- ing an aggregate sample or a sample from a potential aggregate source to determine whether substances that are potentially deleteriously reactive are present; and, if so, in what amounts. X1.2.1.3 Alkali-Silica Reaction—Certain materials are
+known to be potentially deleteriously alkali-silica reactive.
+These include forms of silica such as opal, chalcedony, tridymite, and _ cristobalite; cryptocrystalline and microcrystalline, strained, or highly fractured quartz; and intermediate to acid (silica-rich) volcanic glass such as is likely to occur in rhyolite, andesite, or dacite. Determination of the presence and quantities of these materials by petrographic
+examination is helpful in evaluating potential alkali reactivity.
+An aggregate can be potentially deleteriously reactive when
+some of these materials, such as opal, are present in very small quantities (for example, 1 %). X1.2.1.4 Alkali-Carbonate Rock Reaction—The reaction of dolomite in certain carbonate rocks with alkalies has been associated with deleterious expansion of concrete containing such rocks as coarse aggregate. The most rapidly reactive carbonate rocks possess a characteristic texture in which relatively large crystals of dolomite are scattered in a finer- grained matrix of calcite and clay. These rocks also have a
+” The boldface numbers in parentheses refer to the list of references at the end of this standard.
+
+Copyright by ASTM Int'l (all rights reserved);

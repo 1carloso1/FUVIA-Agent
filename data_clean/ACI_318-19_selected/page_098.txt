@@ -1,0 +1,45 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 98/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+
+[COMMENTARY] R18.8.5.3 Minimum development length in tension for straight bars is a multiple of the length indicated by 18.8.5.1. Section 18.8.5.3(b) refers to top bars. Lack of reference to
+No. 14 and No. 18 bars in 18.8.5 is due to the paucity of information on anchorage of such bars subjected to load reversals simulating earthquake effects.
+
+[CODE] 18.8.5.3 For bar sizes No. 3 through No. 11, £4, the devel-
+opment length in tension for a straight bar, shall be at least the greater of (a) and (b):
+[CODE] (a) 2.5 times the length in accordance with 18.8.5.1 if the
+depth of the concrete cast in one lift beneath the bar does not exceed 12 in. (b) 3.25 times the length in accordance with 18.8.5.1 if the depth of the concrete cast in one lift beneath the bar exceeds 12 in.
+
+[COMMENTARY] R18.8.5.4 If the required straight embedment length
+of a reinforcing bar extends beyond the confined volume of concrete (as defined in 18.6.4, 18.7.5, or 18.8.3), the required development length is increased on the premise that the limiting bond stress outside the confined region is less than that inside.
+
+[CODE] 18.8.5.4 Straight bars terminated at a joint shall pass
+through the confined core of a column or a boundary element. Any portion of fz not within the confined core shall
+be increased bya factor of 1.6.
+
+[COMMENTARY] tam = 1.6(€4 _ bic) + bac
+[COMMENTARY] or
+[COMMENTARY] lam = 1.6€, _ 0.664.
+[COMMENTARY] where fam is the required development length if bar is not entirely
+embedded in confined concrete; £4 is the required development length in tension for straight bar as defined in 18.8.5.3; and f4, is the length of bar embedded in confined concrete.
+
+[CODE] 18.8.5.5 If epoxy-coated reinforcement is used, the devel-
+opment lengths in 18.8.5.1, 18.8.5.3, and 18.8.5.4 shall be multiplied by applicable factors in 25.4.2.5 or 25.4.3.2.
+
+[COMMENTARY] R18.9—Special moment frames constructed using
+precast concrete The detailing provisions in 18.9.2.1 and 18.9.2.2 are intended to produce frames that respond to design displace-
+ments essentially like monolithic special moment frames. Precast frame systems composed of concrete elements
+with ductile connections are expected to experience flexural yielding in connection regions. Reinforcement in ductile connections can be made continuous by using mechanical splices or any other technique that provides development in tension or compression of at least the specified tensile strength of bars (Yoshioka and Sekine 1991; Kurose et al. 1991; Restrepo et al. 1995a,b). Requirements for mechanical splices are in addition to those in 18.2.7 and are intended to
+avoid strain concentrations over a short length of reinforce-
+ment adjacent to a splice device. Additional requirements for shear strength are provided in 18.9.2.1 to prevent sliding on
+connection faces. Precast frames composed of elements with ductile connections may be designed to promote yielding at locations not adjacent to the joints. Therefore, design shear V., as calculated according to 18.6.5.1 or 18.7.6.1, may not
+be conservative.
+
+[CODE] 18.9—Special moment frames constructed using
+precast concrete 18.9.1 Scope
+[CODE] 18.9.1.1 This section shall apply to special moment frames constructed using precast concrete forming part of the seismic-force-resisting system.
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

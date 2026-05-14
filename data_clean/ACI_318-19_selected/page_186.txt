@@ -1,0 +1,46 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 186/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+[COMMENTARY] (e) Any other loading or condition that affects the safety or serviceability of the structure during construction.
+ACI 347.2R provides information for shoring and reshoring multistory buildings.
+
+[CODE] (e) The estimate of in-place concrete strength shall be based
+on tests of field-cured cylinders or on other procedures to evaluate concrete strength approved by the licensed design professional and, when requested, approved by the building official.
+
+[COMMENTARY] R26.11.2.1(e) Evaluation of concrete strength during construction may be demonstrated by field-cured test cylin- ders or other procedures approved by the licensed design professional and, when requested, approved by the building official, such as (a) though (d): (a) Tests of cast-in-place cylinders in accordance with
+ASTM C873. This method is limited to use for slabs
+where the depth of concrete is between 5 to 12 in. (b) Penetration resistance in accordance with ASTM C803 (c) Pullout strength in accordance with ASTM C900 (d) Maturity index measurements and correlation in accor-
+dance with ASTM C1074
+Procedures (b), (c), and (d) require sufficient data for the materials used in the Work to demonstrate correlation
+of measurements on the structure with the compressive strength of molded cylinders or drilled cores. ACI 228.1R discusses the use of these methods to evaluate the in-place strength of concrete
+
+[CODE] (f) Formwork shall be removed in such a manner not to impair safety and serviceability of the structure. (g) Concrete exposed by formwork removal shall have sufficient strength not to be damaged by the removal. (h) Formwork supports for post-tensioned members shall not be removed until sufficient post-tensioning has been applied to enable post-tensioned members to support their
+dead load and anticipated construction loads. (1) No construction loads exceeding the combination of
+superimposed dead load plus live load including reduction shall be placed on any unshored portion of the structure under construction, unless analysis indicates adequate strength to support such additional loads and without impairing serviceability.
+
+[COMMENTARY] R26.11.2.1(i) The nominal live load specified on the
+drawings is frequently reduced for members supporting large floor areas, and the limit on construction loads needs to account for such reductions.
+
+[CODE] 26.12—Evaluation and acceptance of hardened
+concrete 26.12.1 General
+
+[COMMENTARY] R26.12—Evaluation and acceptance of hardened
+concrete R26.12.1 General
+
+[CODE] 26.12.1.1 Compliance requirements:
+[CODE] (a) Evaluation of hardened concrete shall be based
+on strength tests. A strength test is the average of the
+compressive strengths of at least two 6 x 12 in. cylinders or at least three 4 x 8 in. cylinders made from the same
+sample of concrete taken in accordance with ASTM C172 at the point of delivery, handled and standard-cured in accordance with ASTM C31, and tested in accordance
+with ASTM C39 at 28 days or at test age designated for f,’.
+
+[COMMENTARY] R26.12.1.1(a) Casting and testing more than the minimum
+number of specimens may be desirable in case it becomes necessary to discard an outlying individual cylinder strength in accordance with ACI 214R. If individual cylinder strengths are discarded in accordance with ACI 214R, a strength test is valid provided at least two individual 6 x 12 in. cylinder strengths or at least three 4 x 8 in. cylinder strengths are averaged. All individual cylinder strengths that are not discarded in accordance with ACI 214R are to be
+used to calculate the average strength. The size and number
+
+[CODE] aci®
+I
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

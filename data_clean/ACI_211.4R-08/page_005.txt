@@ -1,0 +1,40 @@
+[DOCUMENT: ACI_211.4R-08]
+[PAGE: 5/23]
+[LAYOUT: continuous]
+============================================================
+ACI COMMITTEE REPORT
+211.4R-6
+4.7—Mixing water Potable water is usually acceptable. When other sources of
+water are to be used, they should meet the water quality standards stated in ASTM C1602/C1602M. Water sources should be tested for suitability to be used in concrete mixtures in accordance with ASTM C1603.
+
+demand for workability. The particle shape and the increased surface area of manufactured fine aggregates over natural fine aggregates can significantly affect water demand.
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: chemical admixture type classification and performance requirements; admixture water reduction and setting time effects.]
+4.10—Chemical admixtures The use of chemical admixture to increase the effectiveness of the cementitious materials either by reducing the water requirements and/or by dispersing the cementitious materials will result in higher strength. Chemical admixtures should
+meet the requirements of ASTM C494/C494M. In this guide, chemical admixture dosage rates are based
+on fluid ounces per 100 lb (oz/cwt) of total cementitious material. If powdered admixtures are used, dosage rates are
+on a dry mass basis. The use of chemical admixtures may control slump loss and the rate of hardening resulting in
+improved workability, extended time from batching to placing (particularly in hot weather concrete), accelerated strength gain, and better durability. High-range water-reducing admixtures (HRWRAs) are
+most effective in concrete mixtures that are rich in cement
+and other cementitious materials. HRWRAs help in dispersing cement particles, and they can reduce mixing water requirements by more than 30%, thereby increasing concrete compressive strengths. Generally, high-strength concrete can contain one or more of the following admixtures: water-reducing/retarding admixture, high-range water-reducing admixtures, and hydration stabilizers. The dosage rates of admixtures will
+most likely be different from the manufacturer’s published
+recommended dosage rates for normal-strength concrete mixtures. It is recommended that the admixture manufacturer be consulted regarding the applicability of the use of the specific admixtures and admixture combinations for high- strength concrete mixtures. Although only limited information is available, high- strength concrete also has been produced using a combination of chemical admixtures, such as a high dosage rate of a normal-set water-reducer and a set accelerator. The
+performance of the admixtures is influenced by the types of cementitious materials used. The optimum dosage of an admixture or combination of admixtures should be determined
+by trial mixtures using varying amounts of admixtures. Air-entraining admixtures are seldom used in high- strength concrete building applications when there are no freezing and thawing concerns other than during the construction period. If entrained air is required because of severe exposure, it will reduce the compressive strength of the concrete. Information on the reduction in concrete strength as a result of air entrainment can be found in ACI 211.1. For guidance on the amount of air needed in high- strength concrete, reference ACI 318.
+
+4.8—Coarse aggregate In the proportioning of high-strength concrete, the aggregates require special consideration because they occupy the largest
+volume of any ingredient in the concrete, and they greatly influence the strength and other properties of the concrete.
+The coarse aggregate will significantly influence the strength
+and structural properties of the concrete. For this reason, a coarse aggregate should be chosen that is sufficiently sound, free of fissures or weak planes, clean, and free of surface coatings. Coarse aggregate properties also affect aggregate- mortar bond characteristics and mixing-water requirements
+(Kosmatka et al. 2002). High-strength concrete may be manufactured with a broad array of coarse aggregate sizes and mineral compositions.
+ACI Committee 211 recommends that the user investigate the impact of type, shape, size, gradation, and aggregate mineralogy on the compressive strength of concrete in the prospective local market by conducting trial batches.
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: cement chemical and physical property limits; aggregate grading and sieve analysis requirements.]
+4.9—Fine aggregate The grading and particle shape of the fine aggregate are significant factors in the production of high-strength concrete. Particle shape and surface texture of the fine aggregate can have as great an effect on mixing-water requirements and compressive strength of concrete as do those of the coarse aggregate (Kosmatka et al. 2002). The quantity of paste required per unit volume of a concrete mixture decreases as the relative volume of coarse versus fine aggregate increases. Because the amount of cementitious material contained in high-strength concrete is large, the volume of fines (materials passing the No. 100 sieve) tends to be high. Consequently, the volume of fine aggregate can be kept to the minimum necessary to achieve the needed workability and consolidation. In this manner, it will be possible to produce higher-strength concrete for a given cementitious material content. Fine aggregate contents of high-strength concrete mixtures are usually lower than those in normal-strength concrete. The coarser fine aggre- gate sizes and reduced total fine aggregate volume contribute to reduced water demand and increased concrete strength. The fine aggregate should meet the requirements of
+ASTM C33. Generally, for high-strength concrete, fine aggregate with a higher fineness modulus (FM) is preferred.
+FMs in the range of 2.5 to 3.2 or higher are typical. Concrete mixtures made with a fine aggregate that has an FM of less than 2.5 may cause the concrete to be sticky and result in
+poor workability and a higher water demand. It is sometimes possible to blend fine aggregates from different sources to
+improve their grading and their capacity to produce higher strengths. If manufactured fine aggregates are used, consid- eration should be given to a possible increase in water
+
+CHAPTER 5—HIGH-STRENGTH CONCRETE MIXTURE PROPERTIES
+5.1—Introduction The procedure described in ACI 211.1 for proportioning normal-strength concrete is similar to that required for high- strength concrete. The procedure consists of a series of steps

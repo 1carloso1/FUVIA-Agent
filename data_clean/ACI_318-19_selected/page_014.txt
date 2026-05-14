@@ -1,0 +1,51 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 14/196]
+[LAYOUT: continuous]
+============================================================
+ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+CODE COMMENTARY
+
+B, = factor relating depth of equivalent rectangular
+compressive stress block to depth of neutral axis
+yy = factor used to determine the fraction of M,. trans-
+ferred by slab flexure at slab-column connections
+Yp = factor used for type of prestressing reinforcement Ys = factor used to determine the portion of reinforce-
+ment located in center band of footing
+Y. = factor used to determine the fraction of M,. trans-
+ferred by eccentricity of shear at slab-column connections
+é = moment magnification factor used to reflect effects
+of member curvature between ends of a compres- sion member
+6. = wall displacement capacity at top of wall, in. 6, = moment magnification factor used for frames not
+braced against sidesway, to reflect lateral drift resulting from lateral and gravity loads
+6, = design displacement, in. Acy = calculated out-of-plane deflection at midheight of
+wall corresponding to cracking moment M,,, in.
+A, = calculated out-of-plane deflection at midheight of
+wall corresponding to nominal flexural strength /,,,
+in.
+A, = relative lateral deflection between the top and
+bottom of a story due to V,,, in.
+Af, = increase in stress in prestressed reinforcement due
+to factored loads, psi
+Afps = Stress in prestressed reinforcement at service loads
+less decompression stress, psi
+
+Af = difference between the stress that can be devel-
+oped in the prestressed reinforcement at the section
+under consideration and the stress required to resist factored bending moment at section, M,,/d, psi
+
+A, = residual deflection measured 24 hours after removal
+of the test load. For the first load test, residual deflection is measured relative to the position of the structure at the beginning of the first load test. For the second load test, residual deflection is measured relative to the position of the structure at the begin-
+ning of the second load test, in.
+A, = out-of-plane deflection due to service loads, in. A, = calculated out-of-plane deflection at midheight of
+wall due to factored loads, in.
+A, = design story drift of story x, in. A; = maximum deflection, during first load test,
+measured 24 hours after application of the full test load, in.
+A> = maximum deflection, during second load test,
+measured 24 hours after application of the full test load. Deflection is measured relative to the position
+of the structure at the beginning of the second load test, in.
+
+Een = Maximum usable strain at extreme concrete
+compression fiber
+
+acl y American Concrete Institute - Copyrighted © Material — www.concrete.org

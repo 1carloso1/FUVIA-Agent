@@ -1,0 +1,51 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 119/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 5: EARTHQUAKE RESISTANCE 335
+
+
+[COMMENTARY] COMMENTARY Direction of
+earthquake forces
+[COMMENTARY] ===>
+Edge N,
+[COMMENTARY] i-tm Seismic
+[COMMENTARY] of wall —~ ¢,, for wall pier
+=
+[COMMENTARY] A
+[COMMENTARY] Ya
+[COMMENTARY] hy for — Required wall pier horizontal
+[COMMENTARY] Wall pier
+reinforcement
+[COMMENTARY] =
+[COMMENTARY] —
+[COMMENTARY] Direction of
+earthquake forces
+=
+[COMMENTARY] Edge N
+of wall —~~J
+—
+ff pier
+[COMMENTARY] h,, for vy, wall pier Z Required
+[COMMENTARY] = horizontal
+Ss Cc reinforcement fy for wall pier
+[COMMENTARY] —>-
+[COMMENTARY] Fig. R18,10.8—Required horizontal reinforcement in wall segments above and below wall piers at the edge of a wall.
+
+[CODE] 18.10.9 Ductile coupled walls
+
+[COMMENTARY] R18.10.9 Ductile coupled walls
+
+[CODE] 18.10.9.1 Ductile coupled walls shall satisfy the require-
+ments of this section.
+
+[COMMENTARY] The aspect ratio limits and development length require- ments for ductile coupled walls are intended to induce an
+energy dissipation mechanism associated with inelastic deformation reversal of coupling beams. Wall stiffness and strength at each end of coupling beams should be sufficient to develop this intended behavior.
+
+[CODE] 18.10.9.2 Individual walls shall satisfy h,,,,/€,, > 2 and the
+applicable provisions of 18.10 for special structural walls.
+[CODE] 18.10.9.3 Coupling beams shall satisfy 18.10.7 and (a) through (c) in the direction considered.
+[CODE] (a) Coupling beams shall have ¢,,/h > 2 at all levels of the building. (b) All coupling beams at a floor level shall have f,,/h <5
+in at least 90 percent of the levels of the building. (c) The requirements of 18.10.2.5 shall be satisfied at both ends of all coupling beams.
+
+[COMMENTARY] American Concrete Institute — Copyrighted © Material — www.concrete.org

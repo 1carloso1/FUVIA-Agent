@@ -1,0 +1,47 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 102/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+[COMMENTARY] Minimum reinforcement requirements in 18.10.2.1 follow
+from preceding Codes. The requirement for distributed shear reinforcement is related to the intent to control the width of inclined cracks. The requirement for two layers of reinforce-
+ment in walls resisting substantial design shears in 18.10.2.2 is based on the observation that, under ordinary construction conditions, the probability of maintaining a single layer of reinforcement near the middle of the wall section is quite low. Furthermore, presence of reinforcement close to the surface tends to inhibit fragmentation of the concrete in the event of severe cracking during an earthquake. The require-
+ment for two layers of vertical reinforcement in more slender walls is to improve lateral stability of the compression zone
+under cyclic loads following yielding of vertical reinforce-
+ment in tension.
+
+[CODE] 18.10.2.1 The distributed web reinforcement ratios, py and p;, for structural walls shall be at least 0.0025, except that
+if V, does not exceed naff Acy, Pp; Shall be permitted to be
+reduced to the values in 11.6. Reinforcement spacing each
+way in structural walls shall not exceed 18 in. Reinforce-
+ment contributing to V, shall be continuous and shall be distributed across the shear plane.
+[CODE] 18.10.2.2 At least two curtains of reinforcement shall be
+used in a wall if V, >22.ff/
+Aw or hy/l,, > 2.0, in which hy
+and ¢,, refer to height and length of entire wall, respectively.
+
+[COMMENTARY] R18.10.2.3. Requirements are based on provisions in
+Chapter 25, with modifications to address issues specific to structural walls, as well as to the use of high-strength reinforcement. Because actual forces in longitudinal rein-
+forcement of structural walls may exceed calculated forces, reinforcement should be developed or spliced to reach the yield strength of the bar in tension. Termination of longitu- dinal (vertical) reinforcement in structural walls should be specified so that bars extend above elevations where they are
+no longer required to resist design flexure and axial force; extending bars fz above the next floor level is a practical
+approach to achieving this requirement. A limit of 12 ft is
+included for cases with large story heights. Bar termina- tions should be accomplished gradually over a wall height
+and should not be located close to critical sections where yielding of longitudinal reinforcement is expected, which typically occurs at the base of a wall with a uniform, or nearly uniform, cross section over the building height. Strain
+hardening of reinforcement results in spread of plasticity
+away from critical sections as lateral deformations increase.
+Research (Aaletti et al. 2012; Hardisty et al. 2015) shows that lap splices should be avoided in walls where flexural yielding is anticipated, for example at the base of walls,
+because they may lead to large localized strains and bar frac- tures. Figure R18.10.2.3 illustrates boundary regions where lap splices are not permitted. At locations where yielding of longitudinal reinforcement is expected, a 1.25 multiplier is applied to account for the likelihood that the actual yield strength exceeds the spec- ified yield strength of the bar, as well as the influence of strain hardening and cyclic load reversals. Where transverse reinforcement is used, development lengths for straight and
+hooked bars may be reduced as permitted in 25.4.2 and 25.4.3, respectively, because closely spaced transverse rein-
+forcement improves the performance of splices and hooks subjected to repeated inelastic demands (ACI 408.2R).
+
+[CODE] 18.10.2.3 Reinforcement in structural walls shall be devel-
+oped or spliced for f, in tension in accordance with 25.4, 25.5, and (a) through (d):
+[CODE] (a) Except at the top of a wall, longitudinal reinforcement shall extend at least 12 ft above the point at which it is no longer required to resist flexure but need not extend more than fz above the next floor level. (b) At locations where yielding of longitudinal reinforce-
+ment is likely to occur as a result of lateral displacements,
+development lengths of longitudinal reinforcement shall
+be 1.25 times the values calculated for f, in tension. (c) Lap splices of longitudinal reinforcement within
+boundary regions shall not be permitted over a height equal to h,, above, and £4 below, critical sections where yielding of longitudinal reinforcement is likely to occur as a result of lateral displacements. The value of h,, need
+not exceed 20 ft. Boundary regions include those within lengths specified in 18.10.6.4(a) and within a length equal to the wall thickness measured beyond the intersecting region(s) of connected walls. (d) Mechanical splices of reinforcement shall conform to 18.2.7 and welded splices of reinforcement shall conform
+to 18.2.8.
+[CODE] American Concrete Institute — Copyrighted © Material — www.concrete.org

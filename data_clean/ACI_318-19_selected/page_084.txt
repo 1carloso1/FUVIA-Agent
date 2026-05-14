@@ -1,0 +1,29 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 84/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] 18.6.2 Dimensional limits
+
+[COMMENTARY] R18.6.2 Dimensional limits
+[COMMENTARY] Experimental evidence (Hirosawa 1977) indicates that,
+under reversals of displacement into the nonlinear range,
+behavior of continuous members having length-to-depth ratios of less than 4 is significantly different from the behavior
+of relatively slender members. Design rules derived from experience with relatively slender members do not apply directly to members with length-to-depth ratios less than 4, especially with respect to shear strength. Geometric constraints indicated in 18.6.2.1(b) and (c) were derived from practice and research (ACI 352R) on reinforced concrete frames resisting earthquake-induced forces. The limits in 18.6.2.1(c) define the maximum beam width that can effec- tively transfer forces into the beam-column joint. An example
+of maximum effective beam width is shown in Fig. R18.6.2.
+
+[CODE] 18.6.2.1 Beams shall satisfy (a) through (c):
+[CODE] (a) Clear span f,, shall be at least 4d (b) Width 5, shall be at least the lesser of 0.3/4 and 10 in. (c) Projection of the beam width beyond the width of the supporting column on each side shall not exceed the lesser
+of cz and 0.75c.
+
+[COMMENTARY] Transverse reinforcement through
+the column to confine beam
+[COMMENTARY] longitudinal reinforcement passing
+Direction of : outside the column core
+analysis
+[COMMENTARY] Section A-A
+[COMMENTARY] Fig, R18.6.2—Maximum effective width of wide beam and required transverse reinforcement.
+
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

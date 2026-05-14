@@ -1,0 +1,44 @@
+[DOCUMENT: ACI_211.4R-08]
+[PAGE: 20/23]
+[LAYOUT: continuous]
+============================================================
+SELECTING PROPORTIONS FOR HIGH-STRENGTH CONCRETE
+211.4R-21
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: compressive strength f'c requirements; portland cement type specifications and chemical requirements.]
+8.3—Sample calculations 8.3.1 Introduction—The sample calculations presented herein are taken from an actual project. The examples follow a step-by-step proportioning procedure of a typical concrete mixture using slag cement. 8.3.2 Examples 8.3.2.1 Example 1, Method A—A project has a 28-day specified compressive strength of 7250 psi for a class of interior concrete. Type I portland cement is specified. The maximum allowable slump is 6 in., and the nominal maximum-aggregate size specified is 1 in. Trial batches were conducted with
+Grade 100 slag cement and several Type I portland cements.
+Recent experience, available from other projects for the
+same specific class of concrete, revealed that at a 50% slag
+cement content with portland cement, the 28-day compressive strengths of the slag cement mixtures average about 13% higher than the plain portland cement mixtures. Trial batch
+work is done in a laboratory. 8.3.2.1.1 Step 1—f. = 7250 psi; maximum slump = 6 in.;
+Grade 100 slag cement will be used. 8.3.2.1.2 Step 2—Because there is no prior history for this mixture, trial batches will be made in the laboratory and Eq. (3-3) applies. Therefore
+
+8.2.3.1.6 Step 6—A basic mixture that contains only portland cement for the cementitious material according to
+ACI 211.1 or Secties 4.2.8 without incorporating slag
+cement should be proportioned. The portland cement portion of the required compressive strength, as calculated in Stey 8, should be used as the required average compressive strength f., for this basic mixture. Also, the applicable mixture requirements identified in Step 1 such as slump, temperature, and air content should be taken into consideration. 8.2.3.1.7 Step 7—With the basic mixture developed in Step 6, the portland cement by mass should be
+e replaced with the amount of slag cement selectedin Stes: 3. For example:
+if a45% slag cement content was selected in Steg 3, then the
+mass of portland cement should be multiplied by 0.45 to quantify the mass of the slag cement. The mass of slag cement should be subtracted from the original mass of portland
+cement to obtain the portland cement portion of the mixture proportions. The yield will increase slightly because the slag
+cement has a lower density than portland cement. (Refer to
+8.2.3.1.8 Step S—The yield should be adjusted to the desired amount by reducing the fine aggregate content or by adjusting the combinations of coarse and fine aggregates.
+The now-completed slag cement trial batch mixture can be used as one of several mixtures needed to describe the w/cm characteristics. 8.2.3.1.9 Step 9—Two or more slag cement mixtures, each with incrementally lower w/cm, should be developed.
+w/cm increments of 0.02 or 0.03 are common. Admixtures should be used as required to achieve the same slump and yield. Other factors, such as air content and concrete temper- ature, should also be held constant. 8.2.3.1.10 Step 10—Make the trial batch for concrete mixture(s) with slag cement and for the basic mixture without slag cement to confirm the expected performance
+and assumptions. 8.2.3.1.11 Step //—If necessary, the trial batch mixture(s) should be adjusted using the absolute volume
+method of ACI 211.1. 8.2.3.2 Method B—Starting with an existing portland
+cement concrete mixture of known properties, a modified mixture with slag cement can be developed as follows. 8.2.3.2.1 Steps 1 through 5—Follow the same steps as in Method A. 8.2.3.2.2 Step 6—An existing portland cement concrete mixture, referred to as the existing basic mixture, should be selected that achieves the portion of the required average compressive strength f’., which is expected from portland cement PC,,,,j. 8.2.3.2.3 Step 7—Using the existing basic mixture, the
+mass of portland cement should be reduced by the mass of slag cement selected in Step 3. The yield will increase slightly because the slag cement has a lower density than portland cement. (Refer to Seeticsn 8.2. 1.4.2.) 8.2.3.2.4 Steps 8 through 1 1—Follow the same steps as in Method A.
+
+fey = VARS + 700 psi (3-3)
+fey = 1.17250) + 700
+Sey = 8680 psi
+8.3.2. 1. 3§ Step 3—Because Grade 100 slag cement will be used, Fiz.S Sis used as an example of a SCI-slag cement
+content curve.The point representing 50% slag cement and 113% relative 28-day compressive strength (from the recent experience of the concrete producer)is placed on a copy of Fig. 3.3, and a curve is drawn through this point (refer to
+ig £2), The maximum-strength point lies at the 45% slag
+cement content, andis selected as the slag cement content for the trial batch. 8.3.2.1.4 Step 4—From the SCI-slag cement content curve that was drawn in Step 3 (fiz. 8.4), the maximum rela- tive compressive strength should be 114% of the strength of the plain portland cement mixture. 8.3.2.1.5 Step 5—Calculate the portion of the required average compressive strength f., which is relegated to port- land cement PC,,,; as follows PCpsi = Fer \UOO/[SCI %])
+= (8680)(100/114) = 8680(0.8772) = 7610 psi
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; compressive strength f'c requirements.]
+8.3.2.1.6 Step 6—Using Sevtios 6.2.3, the basic concrete mixture should be developed. From fshic &.5, for the 28-day age, a nominal maximum aggregate size of | in. and interpolating for f= 7610 psi, a
+w/cm of 0.41 is needed.

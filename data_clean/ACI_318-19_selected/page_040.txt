@@ -1,0 +1,36 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 40/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] 9.5.4.3 Longitudinal and transverse reinforcement required for torsion shall be added to that required for the V,,, M,, and P,, that act in combination with the torsion.
+
+[COMMENTARY] R9.5.4.3 The requirements for torsional reinforcement
+and shear reinforcement are added and stirrups are provided to supply at least the total amount required. Because the reinforcement area A, for shear is defined in terms of all the legs of a given stirrup while the reinforcement area A, for torsion is defined in terms of one leg only, the addition of transverse reinforcement area is calculated as follows:
+[COMMENTARY] A A
+Total{ wt =—+ yA
+[COMMENTARY] (R9.5.4,3)
+[COMMENTARY] Ss
+A) A)
+[COMMENTARY] If a stirrup group has more than two legs for shear, only the legs adjacent to the sides of the beam are included in this summation because the inner legs would be ineffective for resisting torsion. The longitudinal reinforcement required for torsion is
+added at each section to the longitudinal reinforcement required for bending moment that acts concurrently with the torsion. The longitudinal reinforcement is then chosen for this sum, but should not be less than the amount required for the
+maximum bending moment at that section if this exceeds the
+moment acting concurrently with the torsion. If the maximum
+bending moment occurs at one section, such as midspan, while the maximum torsional moment occurs at another, such as the face of the support, the total longitudinal reinforce-
+ment required may be less than that obtained by adding the
+maximum flexural reinforcement, plus the maximum torsional reinforcement. In such a case, the required longitudinal rein- forcement is evaluated at several locations.
+
+[CODE] 9.5.4.4 For prestressed beams, the total area of longitu- dinal reinforcement, A, and A,,, at each section shall be designed to resist M, at that section, plus an additional concentric longitudinal tensile force equal to A;f,, based on T,, at that section.
+
+[COMMENTARY] R9.5.4.4 Torsion causes an axial tensile force in the longi- tudinal reinforcement balanced by the force in the diagonal concrete compression struts. In a nonprestressed beam, the tensile force must be resisted by longitudinal reinforcement
+having an axial tensile strength of A;f,. This reinforcement is in addition to the required flexural reinforcement and is distributed uniformly inside and around the perimeter of the closed transverse reinforcement so that the resultant of Azf, acts along the axis of the member. In a prestressed beam, the same approach (providing additional reinforcing bars with strength A;f,) may be followed, or overstrength of the prestressed reinforcement
+can be used to resist some of the axial force A;f,. The stress in the prestressed reinforcement at nominal strength will
+be between f;- and f,;. A portion of the A;f, force can be resisted by a force of A,,Af,; in the prestressed reinforce- ment. The stress required to resist the bending moment can
+be calculated as M,/(0.9d,A,,). For pretensioned strands, the stress that can be developed near the free end of the strand can be calculated using the procedure illustrated in Fig. R25.4.8.3.
+[COMMENTARY] R9.5.4.5 The longitudinal tension due to torsion is offset in part by the compression in the flexural compression zone,
+
+[CODE] 9.5.4.5 It shall be permitted to reduce the area of longi- tudinal torsional reinforcement in the flexural compression aci®
+A
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

@@ -1,0 +1,62 @@
+[DOCUMENT: ASTM_C33-13]
+[PAGE: 1/11]
+[LAYOUT: continuous]
+============================================================
+aly Designation: C33/C33M - 13
+~y
+INTERNATIONAL
+Standard Specification for
+Concrete Aggregates’
+
+This standard is issued under the fixed designation C33/C33M; the number immediately following the designation indicates the year of
+
+original adoption or, in the case of revision, the year of last revision. A number in parentheses indicates the year of last reapproval. A superscript epsilon (¢) indicates an editorial change since the last revision or reapproval.
+
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: chloride exposure classes and chloride ion content limits; aggregate grading and sieve analysis requirements; aggregate physical property limits.]
+2. Referenced Documents 2.1 ASTM Standards:
+C29/C29M Test Method for Bulk Density (“Unit Weight’) and Voids in Aggregate
+C40 Test Method for Organic Impurities in Fine Aggregates for Concrete
+C87 Test Method for Effect of Organic Impurities in Fine Aggregate on Strength of Mortar
+C88 Test Method for Soundness of Aggregates by Use of Sodium Sulfate or Magnesium Sulfate
+C117 Test Method for Materials Finer than 75-um (No. 200) Sieve in Mineral Aggregates by Washing
+C123 Test Method for Lightweight Particles in Aggregate
+C125 Terminology Relating to Concrete and Concrete Ag- gregates
+C131 Test Method for Resistance to Degradation of Small- Size Coarse Aggregate by Abrasion and Impact in the Los
+Angeles Machine
+C136 Test Method for Sieve Analysis of Fine and Coarse Aggregates
+C142 Test Method for Clay Lumps and Friable Particles in Aggregates
+C150 Specification for Portland Cement
+C227 Test Method for Potential Alkali Reactivity of Cement-Aggregate Combinations (Mortar-Bar Method)
+C289 Test Method for Potential Alkali-Silica Reactivity of Aggregates (Chemical Method)
+C294 Descriptive Nomenclature for Constituents of Con- crete Aggregates
+C295 Guide for Petrographic Examination of Aggregates for Concrete
+C311 Test Methods for Sampling and Testing Fly Ash or Natural Pozzolans for Use in Portland-Cement Concrete
+C330 Specification for Lightweight Aggregates for Struc- tural Concrete
+C331 Specification for Lightweight Aggregates for Concrete Masonry Units
+C332 Specification for Lightweight Aggregates for Insulat- ing Concrete
+
+1. Scope* 1.1 This specification defines the requirements for grading
+and quality of fine and coarse aggregate (other than lightweight
+or heavyweight aggregate) for use in concrete.” 1.2 This specification is for use by a contractor, concrete supplier, or other purchaser as part of the purchase document describing the material to be furnished. Nore 1—This specification is regarded as adequate to ensure satisfac- tory materials for most concrete. It is recognized that, for certain work or in certain regions, it may be either more or less restrictive than needed. For
+example, where aesthetics are important, more restrictive limits may be
+considered regarding impurities that would stain the concrete surface. The specifier should ascertain that aggregates specified are or can be made available in the area of the work, with regard to grading, physical, or
+chemical properties, or combination thereof. 1.3 This specification is also for use in project specifications to define the quality of aggregate, the nominal maximum size of the aggregate, and other specific grading requirements.
+Those responsible for selecting the proportions for the concrete
+mixture shall have the responsibility of determining the pro- portions of fine and coarse aggregate and the addition of
+blending aggregate sizes if required or approved. 1.4 The values stated in either SI units or inch-pound units are to be regarded separately as standard. The values stated in
+each system may not be exact equivalents; therefore, each
+system shall be used independently of the other. Combining values from the two systems may result in non-conformance
+with the standard. 1.5 The text of this standard references notes and footnotes
+which provide explanatory material. These notes and footnotes (excluding those in tables and figures) shall not be considered as requirements of this standard.
+'This specification is under the jurisdiction of ASTM Committee C09 on Concrete and Concrete Aggregates and is the direct responsibility of Subcommittee
+C09.20 on Normal Weight Aggregates. Current edition approved Jan. 1, 2013. Published February 2013. Originally approved in 1921. Last previous edition approved in 2011 as C33/C33M — LIA.
+DOI: 10.1520/C0033_C0033M-13. ? For lightweight aggregates, see Specifications C330, C331, and C332; for
+heavyweight aggregates see Specification C637 and Descriptive Nomenclature
+C638.
+
+3 For referenced ASTM standards, visit the ASTM website, www.astm.org, or contact ASTM Customer Service at service@astm.org. For Annual Book of ASTM Standards volume information, refer to the standard’s Document Summary page on the ASTM website.
+*A Summary of Changes section appears at the end of this standard
+
+Copyright © ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428-2959. United States Copyright by ASTM Int'l (all rights reserved);
+1

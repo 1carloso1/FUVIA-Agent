@@ -1,0 +1,37 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 184/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] the total prestress force in prestressed concrete members, unless approved by the licensed design professional.
+
+[COMMENTARY] systems, a member should be that portion considered as an
+element in the design, such as the joist and effective slab
+width in one-way joist systems, or the column strip or middle strip in two-way flat plate systems. Some members can be
+shown to accommodate more than 2 percent loss of prestress
+due to unreplaced broken prestressed reinforcement.
+
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: compressive strength f'c requirements.]
+[CODE] (h) If the transfer of force from the anchorages of the pretensioning bed to the concrete is accomplished by flame cutting prestressed reinforcement, the cutting loca- tions and cutting sequence shall be selected to avoid unde- sired temporary stresses in pretensioned members. (i) Long lengths of exposed pretensioned strand shall be cut near the member to minimize shock to the concrete. (j) Prestressing reinforcement in post-tensioned construc- tion shall not be stressed until the concrete compressive strength is at least 2500 psi for single-strand or bar tendons,
+4000 psi for multistrand tendons, or a higher strength, if required. An exception to these strength requirements is provided in 26.10.2(k). (k) Lower concrete compressive strength than required by 26.10.2(j) shall be permitted if (1) or (2) is satisfied: (1) Oversized anchorage devices are used to compen- sate for a lower concrete compressive strength. (2) Prestressing reinforcement is stressed to no more than 50 percent of the final prestressing force.
+
+[COMMENTARY] R26.10.2(k) To limit early shrinkage cracking, mono- strand tendons are sometimes stressed at concrete strengths less than 2500 psi. In such cases, either oversized monostrand anchorages are used, or the strands are stressed in stages, often to levels one-third to one-half the final prestressing force.
+
+[CODE] 26.11—Formwork 26.11.1 Design offormwork
+
+[COMMENTARY] R26.11—Formwork R26.11.1 Design offormwork Typically, the contractor is responsible for formwork design, and the Code provides the minimum formwork
+performance requirements necessary for public health and safety. Concrete formwork design, construction, and removal
+demands sound judgment and planning to achieve adequate safety. Detailed information on formwork for concrete is given in “Guide to Formwork for Concrete” (ACI 347). This guide is directed primarily to contractors for design, construction, materials for formwork, and forms for unusual structures, but it should aid the licensed design professional in preparing the construction documents. Formwork for Concrete, ACI SP-4, is a practical hand-
+book for contractors, engineers, and architects. It follows the guidelines established in ACI 347 and includes information
+on planning, building, and using formwork. It also includes tables, diagrams, and formulas for formwork design loads. ACI 301 Section 2 provides specification requirements for design and construction of formwork.
+
+[CODE] 26.11.1.1 Design information:
+
+[COMMENTARY] R26.11.1.1 Section 24.2.5 covers the requirements pertaining to deflections of shored and unshored members.
+
+[CODE] (a) Requirement for the contractor to design, fabricate, install, and remove formwork. (b) Location of composite members requiring shoring. (c) Requirements for removal of shoring of composite members. aci*
+_
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

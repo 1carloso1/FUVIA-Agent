@@ -1,0 +1,62 @@
+[DOCUMENT: ACI_211.4R-08]
+[PAGE: 12/23]
+[LAYOUT: continuous]
+============================================================
+SELECTING PROPORTIONS FOR HIGH-STRENGTH CONCRETE
+211.4R-13
+
+Correcting these to dry mass gives:
+
+added to the mixture with the mixing water. The HRWRA was
+added approximately 15 minutes after initial mixing; 3. The concrete mixture with a 10 in. slump had adequate workability for proper placement, so no adjustment was necessary to the coarse aggregate content; 4. The air content of the HRWRA mixture was measured at 1.8%, so no correction was necessary; 5. The addition of significant amounts of HRWRA requires an adjustment in the mixing water to account for water contributed by the HRWRA and accommodate for the yield variation resulting from the admixture water. For
+HRWRA dosage rate of 11 0z/cwt with 20% solids, the water correction is:
+
+Basic mixture Mass, lb
+Cement N/A 109.00 Fine aggregate, dry (114.00)/(1.064) = 107.14 Coarse aggregate, dry (207.00)/(1.005) = 205.97 Batch water (28.50 + 5.68" — 0.41) = 33.77 “Fine aggregate moisture correction.
+tCoarse aggregate moisture correction.
+The actual yield of the trial mixture was:
+Basic mixture Volume, fe
+Cement (109.00)/(3.15 x 62.4) = 0.55 Fine aggregate (107.14)/(2.59 x 62.4) = 0.66 Coarse aggregate (205.97)/(2.76 x 62.4) = 1.20 Water (33.77)/(62.4) = 0.54 Air (0.02 x 3.0) = 0.06
+
+Water contributed by HRWRA:
+11 x (1007/100)(0.80)/16 = 5.54 lb of water
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: compressive strength f'c requirements; particle size distribution limits by sieve size; chemical admixture type classification and performance requirements.]
+The impact of the solids part of the chemical admixture on the weight and yield are often negligible and can be ignored in mixture proportioning as long as the admixture water is considered in weight and mixture yield. The amount of
+mixing water should be reduced by 5.54 lb contributed by the admixtures; and 6. The 28-day compressive strength of the basic mixture
+was 11,750 psi, which satisfied the required strength of 10,600 psi. 6.3.2.10.2 Companion mixture No. 4 1. The actual amount of mixing water required to produce a 1 to 2 in. slump was less than that calculated for this trial
+mixture (3.0 ft). The actual batch masses were:
+
+Total volume 3.01
+Adjusting the mixture proportions to yield 27.0 ft? gives:
+Cement = 109.00 x (27/3) x (3/3.01) =976 Ib Fine aggregate = 107.14 x (27/3) x G/3.01) = 1021 Ib Coarse aggregate = 205.97 x (27/3) x (3/3.01) = 1854 Ib
+Water = 33.77 x (27/3) x (3/3.01) == 302 Ib
+Basic mixture Mass, lb
+Cement 976 Fine aggregate, dry 960 Coarse aggregate, dry 1845 Water (including 2.5 oz/cwt retarding admixture) 302
+
+Mixture No. 4 Mass, Ib
+
+The new mixture proportions result in a w/cm of (302)/ (976) = 0.31. To maintain the desired ratio of 0.30, the mass
+of cement should be increased to (302)/(0.30) = 1007 Ib/yd? of cement. The increase in volume due to the adjustment of
+the mass of cement is (1007 — 976)/(3.15 x 62.4) = 0.158 ft>,
+which should be adjusted for by removing an equal volume of fine aggregate. The mass of fine aggregate to be removed is 0.158 x 2.59 x 62.4 = 26 lb. The resulting adjusted mixture proportions are:
+
+Cement 71.07 Fly ash, Class C 38.27 Fine aggregate 107.43 Coarse aggregate 207.00 Batch water 26.50
+Correcting these by dry masses gives:
+Mixture No. 4 Mass, Ib
+Cement 71.07 Fly ash, Class C 38.27 Fine aggregate, dry 100.97 Coarse aggregate, dry 205.97 Batch water 31.78
+
+Basic mixture Mass, lb
+Cement 1007 Fine aggregate, dry 934 Coarse aggregate, dry 1845 Water (including 2.5 oz/cwt retarding admixture) 302
+
+The actual yield of the trial mixture was:
+
+2. For placement in the heavily reinforced columns, a flowing concrete having a slump of at least 9 in. is desired.
+The dosage rate recommended by the manufacturer of the
+HRWRA ranged between 8 and 16 oz/cwt of cementitious material. In a laboratory having an ambient temperature of 75 °F, adding HRWRA to the adjusted mixture at a dosage rate of 8 oz/cwt produced a slump of 6 in., 11 oz/cwt produced a
+slump of 10 in., and 16 oz/cwt caused segregation of the fresh concrete. When using all three HRWRA rates, a constant
+dosage rate of retarding admixture of 2.5 oz/cwt was also
+
+Material Volume calculation Volume, fe
+Cement (70.56)/(3.15 x 62.4) = 0.36 Fly ash, Class C (38.00)/(2.64 x 62.4) = 0.23 Fine aggregate (99.10)/(2.59 x 62.4) = 0.62 Coarse aggregate (205.97)/(2.76 x 62.4) = 1.20 Water (32.67)/(62.4) = 0.51 Air (0.02)/(3.0) = 0.06
+Total volume 2.98

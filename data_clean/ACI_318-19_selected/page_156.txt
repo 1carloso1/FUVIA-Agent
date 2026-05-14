@@ -1,0 +1,41 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 156/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] Approval shall be based upon test data documenting that the proposed concrete mixture made with the alternative
+cement meets the performance requirements for the appli- cation including structural, fire, and durability.
+
+[COMMENTARY] on test data and experience using concretes made with cementitious materials meeting the specifications in Table 26.4.1.1.1(a). Some alternative cements may not be suitable for use in structural concrete covered by this Code. Therefore, require-
+ments are included for evaluating the suitability of alterna- tive cements. Recommendations for concrete properties to
+be evaluated are discussed in Becker et al. (2019), ITG-10R,
+and ITG-10.1R. In addition to test data, documentation of prior successful use of the proposed alternative cement in structural concrete for conditions with essentially equivalent performance requirements as those of the project can be helpful to the licensed design professional determining whether to allow use of the material. As with all new technologies, a project
+owner should be informed of the risks and rewards.
+
+[CODE] 26.4.1.2 Aggregates
+
+[COMMENTARY] R26.4.1.2 Aggregates
+
+[CODE] 26.4.1.2.1 Compliance requirements:
+[CODE] (a) Aggregates shall conform to (1) or (2): (1) Normalweight aggregate: ASTM C33. (2) Lightweight aggregate: ASTM C330. (b) Aggregates not conforming to ASTM C33 or ASTM
+C330 are permitted if they have been shown by test or actual service to produce concrete of adequate strength
+and durability and are approved by the building official.
+
+[COMMENTARY] R26.4.1.2.1(b) Aggregates conforming to ASTM specifi- cations are not always economically available and, in some instances, materials that do not conform to ASTM C33 or
+C330 may have a documented history of satisfactory perfor-
+mance under similar exposure. Such nonconforming mate- rials are permitted if acceptable evidence of satisfactory
+performance is provided. Generally, aggregates conforming to the designated specifications should be used.
+
+[CODE] (c) Crushed hydraulic-cement concrete or recycled aggre- gate shall be permitted if approved by the licensed design professional and the building official based on documenta- tion that demonstrates compliance with (1) and (2). (1) Concrete incorporating the specific aggregate proposed for the Work has been demonstrated to provide the mechanical properties and durability required in structural design. (2) A testing program to verify aggregate consistency
+and a quality control program to achieve consistency of properties of the concrete are conducted throughout the duration of the project.
+
+[COMMENTARY] R26.4.1.2.1(c) This Code requires that concrete made with crushed hydraulic-cement concrete or recycled aggregate be specifically approved for use in a particular project. Proper- ties of fresh and hardened concrete made with these aggre- gates are influenced by the nature, quality, and variability of the source concrete that is crushed to produce aggregate; nature and variability of the waste-stream from which recy- cled aggregate is extracted; and the grading, proportions,
+and uniformity of the resulting aggregate. ASTM C33 notes that use of such aggregates “may require
+some additional precautions.” These precautions include that any such aggregates meet the durability requirements
+of ASTM C33 and that the proposed concrete mixture meets the durability requirements of the Exposure Classes assigned for the Work. Areas of special concern include evidence of alkali-silica reactivity, chloride content, and sulfate content of concrete. Additionally, properties of concrete made with
+crushed hydraulic-cement concrete or recycled aggregate
+can be significantly more variable than those of comparable concretes made with conventional normalweight aggregates. (Bezaerra Cabral et al. 2010).
+
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

@@ -1,0 +1,34 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 170/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] 532 ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+[COMMENTARY] If the field-cured cylinders do not provide satisfac- tory strength by this comparison, steps need to be taken to
+improve the curing. If the tests indicate a possible serious deficiency in strength of concrete in the structure, core tests
+may be required, with or without supplemental wet curing, to evaluate the structural adequacy, as provided in 26.12.6.
+
+[CODE] (f) Shotcrete shall be cured in accordance with (1) through (3). (1) For 24 hours from completion of placement, initial curing shall be provided by one of the following methods: (1) Ponding, fogging, or continuous sprinkling; (ii) Absorptive mat, fabric, or other protective covering kept continuously moist; (iii) Application of a membrane-forming curing
+compound. (2) After 24 hours from completion of placement, final curing shall be provided by one of the following methods: (1) Same method used in the initial curing process; (ii) Sheet materials; (iii) Other moisture-retaining covers kept continu- ously moist. (3) Final curing shall be maintained for a minimum duration of: (1) 7 days, (11) 3 days if either a high-early-strength cement or an accelerating admixture is used.
+
+[COMMENTARY] R26.5.3.2(f) If using a curing compound, it will usually be necessary to apply the compound at a higher rate than the manufacturer’s recommendation because of the rougher surface of many shotcrete applications.
+
+[CODE] 26.5.4 Concreting in cold weather
+
+[COMMENTARY] R26.5.4 Concreting in cold weather
+[COMMENTARY] Detailed recommendations for cold weather concreting are given in ACI 306R. Specification requirements for concreting in cold weather are provided in ACI 301 and
+ACI 306.1. If both ACI 301 and ACI 306.1 are referenced in construction documents, the governing requirements should
+be identified.
+
+[CODE] 26.5.4.1 Design information:
+[CODE] (a) Temperature limits for concrete as delivered in cold
+weather.
+
+[COMMENTARY] R26.5.4.1(a) ASTM C94, ACI 306R, and ACI 301 contain requirements and recommendations for concrete tempera- ture based on section size.
+
+[CODE] 26.5.4.2 Compliance requirements:
+[CODE] (a) Adequate equipment shall be provided for heating concrete materials and protecting concrete during freezing or near-freezing weather. (b) Frozen materials or materials containing ice shall not be used. (c) Forms, fillers, and ground with which concrete is to
+come in contact shall be free from frost and ice.
+[CODE] (aci¥
+_ I
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

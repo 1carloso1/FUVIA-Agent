@@ -1,0 +1,44 @@
+=================================================================
+  ASTM_C494-19
+=================================================================
+  Páginas totales         : 15
+  Páginas CODE/COMMENTARY : 0
+  Páginas vacías          : 0
+  Tablas detectadas       : 10
+  Tablas con título real  : 3
+  Tablas título genérico  : 7
+
+  ⚠️  Calidad de títulos: 30%
+
+  ÍNDICE DE TABLAS:
+  -------------------------------------------------------
+
+  ⚠️  [1] Página   1 — Normative table
+       Contexto: This table specifies: chemical admixture type classification and performance req...
+
+  ⚠️  [2] Página   2 — Normative table
+       Contexto: This table specifies: chloride exposure classes and chloride ion content limits;...
+
+  ⚠️  [3] Página   2 — Normative table
+       Contexto: This table specifies: chloride exposure classes and chloride ion content limits;...
+
+  ⚠️  [4] Página   3 — Normative table
+       Contexto: This table specifies: chemical admixture type classification and performance req...
+
+  ✅ [5] Página   4 — TABLE 1 Physical Requirements” ?
+       Contexto: This table specifies: chemical admixture type classification and performance req...
+
+  ⚠️  [6] Página   4 — Normative table
+       Contexto: This table specifies: chemical admixture type classification and performance req...
+
+  ✅ [7] Página   5 — Table 1. 10.3 An admixture stored at the point of manufact
+       Contexto: This table specifies: chloride exposure classes and chloride ion content limits;...
+
+  ⚠️  [8] Página   6 — Normative table
+       Contexto: This table specifies: chloride exposure classes and chloride ion content limits;...
+
+  ✅ [9] Página   8 — Table 1) in accordance with the following methods: 17.1.1
+       Contexto: This table specifies: aggregate physical property limits; chemical admixture typ...
+
+  ⚠️  [10] Página  10 — Normative table
+       Contexto: This table specifies: air content requirements; chemical admixture type classifi...

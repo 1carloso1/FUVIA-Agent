@@ -1,0 +1,45 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 120/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] 336 ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] 18.10.10 Construction joints
+[CODE] 18.10.10.1 Construction joints in structural walls shall be specified according to 26.5.6, and contact surfaces shall be
+roughened consistent with condition (b) of Table 22.9.4.2.
+[CODE] 18.10.11 Discontinuous walls
+[CODE] 18.10.11.1 Columns supporting discontinuous structural walls shall be reinforced in accordance with 18.7.5.6.
+
+[COMMENTARY] R18.11—Special structural walls constructed
+using precast concrete
+
+[CODE] 18.11—Special structural walls constructed using
+precast concrete 18.11.1 Scope
+[CODE] 18.11.1.1 This section shall apply to special structural walls constructed using precast concrete forming part of the seismic-force-resisting system.
+
+[COMMENTARY] R18.11.2 General
+
+[CODE] 18.11.2 General
+[CODE] 18.11.2.1 Special structural walls constructed using precast concrete shall satisfy 18.10 and 18.5.2, except 18.10.2.4 shall not apply for precast walls where deforma- tion demands are concentrated at the panel joints.
+
+[COMMENTARY] R18.11.2.2 Experimental and analytical studies (Priestley et al. 1999; Perez et al. 2003; Restrepo 2002) have demon- strated that some types of precast structural walls post- tensioned with unbonded tendons, and not satisfying the prescriptive requirements of Chapter 18, provide satisfactory seismic performance characteristics. ACI ITG-5.1 defines a protocol for establishing a design procedure, validated by analysis and laboratory tests, for such walls, with or without coupling beams. ACI ITG-5.2 defines design requirements for one type of special structural wall constructed using precast concrete
+and unbonded post-tensioning tendons, and validated for use in accordance with 18.11.2.2.
+
+[CODE] 18.11.2.2 Special structural walls constructed using precast concrete and unbonded post-tensioning tendons and
+not satisfying the requirements of 18.11.2.1 are permitted
+provided they satisfy the requirements of ACI ITG-5.1.
+
+[COMMENTARY] R18.12—Diaphragms and trusses R18.12.1 Scope
+
+[CODE] 18.12—Diaphragms and trusses 18.12.1 Scope
+
+[COMMENTARY] Diaphragms as used in building construction are structural
+elements (such as a floor or roof) that provide some or all of the following functions:
+
+[CODE] 18.12.1.1 This section shall apply to diaphragms and collectors forming part of the seismic-force-resisting system in structures assigned to SDC D, E, or F and to SDC C if 18.12.1.2 applies.
+
+[COMMENTARY] (a) Support for building elements (such as walls, parti- tions, and cladding) resisting horizontal forces but not acting as part of the seismic-force-resisting system (b) Transfer of lateral forces from the point of applica- tion to the vertical elements of the seismic-force-resisting system (c) Connection of various components of the vertical seismic-force-resisting system with appropriate strength,
+
+[CODE] 18.12.1.2 Section 18.12.11 shall apply to diaphragms constructed using precast concrete members and forming part of the seismic-force-resisting system for structures assigned to SDC C, D, E, or F.
+[CODE] American Concrete Institute - Copyrighted © Material - www.concrete.org

@@ -1,0 +1,56 @@
+[DOCUMENT: ASTM_C494-19]
+[PAGE: 9/15]
+[LAYOUT: continuous]
+============================================================
+Ally cagaicag4m - 19
+
+potassium bromide and some other compound present, and (d) differences in time between formation of the disk and its use. Also, the threshold for
+detection of individual components by infrared absorption varies widely,
+depending upon the identity and concentration of accompanying sub- stances. For example, significant amounts of saccharides may be present in a lignosulfonate admixture without their presence being indicated by this method. 18.2 Residue by Oven Drying (Liquid Admixtures): 18.2.1 Place 25 to 30 g of standard Ottawa sand (20 to 30
+mesh) in a wide-mouth, low-form (about 60 mm inside
+diameter and 30 mm in height) glass weighing bottle provided
+with a ground-glass stopper. Place the weighing bottle and stopper, with stopper removed, in a drying oven (18.2.1.1) and
+dry for 17 + Y% hat 105 + 3 °C [221 + 5 °F] (Note 13). Insert the stopper in the weighing bottle, transfer to a desiccator, cool to room temperature, and weigh to the nearest 0.01 g. Remove the stopper and, using a pipet, evenly distribute 4 mL of the liquid admixture over the sand. Insert the stopper to avoid loss
+by evaporation and weigh to the nearest 0.01 g. Remove the stopper and place both the bottle and stopper in a drying oven (18.2.1.1). Dry for 17 + % hat 105 + 3 °C [221 + 5 °F]. At the end of the drying period, stopper the weighing bottle, transfer to a desiccator, cool to room temperature, and weigh to the nearest 0.01 g. Nore 13—For laboratories conducting this test as a routine operation,
+previously dried sand and weighing bottles can be maintained in desic- cators so that they are immediately available for use when a sample is to
+be tested. 18.2.1.1 Drying Oven—The drying oven shall be either a forced circulation type or one with provision for free access of air. There shall be precise control of temperature and time of drying so that the degree of volatilization of the material other than water from sample to sample will not vary. 18.2.2 Calculation: 18.2.2.1 Record the following masses: m, = mass of stoppered bottle with sand and sample,
+m, = mass of stoppered bottle with sand,
+m, = m,—-— m,=mass of sample,
+m, = mass of stoppered bottle with sand and dried residue,
+
+samples of two different admixtures. Nore 15—Testing Type C and E admixtures, which commonly contain
+calcium salts, for oven-dried residue using the oven-dry method can yield inconsistent values. This is because these salts can retain bound water of
+hydration in an unpredictable manner upon drying. Purchasers and users
+of these types of chemical admixtures should preferably use the relative
+density (specific gravity) test to determine uniformity and equivalence. 18.3 Residue by Oven Drying (Nonliquid Admixtures): 18.3.1 Place about 3 g of the nonliquid admixture into a dried and tared glass-stoppered weighing bottle (similar to the
+one described in 18.2.1). Stopper and determine the mass of the bottle and contents to the nearest 0.01 g. Remove the stopper
+and immediately place both bottle and stopper in a drying oven (18.2.1.1). Dry for 17 + % hat 105 + 3 °C [221 + 5 °F]. At the end of the drying period, stopper the weighing bottle, transfer to the desiccator, cool to room temperature, and weigh to the nearest 0.01 g. 18.3.2 Calculation: 18.3.2.1 Record the following masses: m, = mass of tared stoppered weighing bottle and sample
+before drying,
+mM, = mass of empty, stoppered weighing bottle,
+m3 = mass of sample =(m,- m,),
+m, = mass of tared stoppered weighing bottle and sample after drying, and
+ms = mass of oven-dried residue =m, —m). 18.3.2.2 Calculate the oven-dried residue by using the
+following equation:
+m
+Residue by oven drying (mass percent) = —_ x 100 % (2)
+3
+18.3.3. Precision Statement—The maximum multilaboratory coefficient of variation for residue by oven-drying (non-liquid
+admixture) has been found to be 1.40 %. Therefore, results of tests by two different laboratories on identical samples of an
+admixture are not expected to differ from each other by more than 4.0 % of their average (Note 14). The maximum single- operator coefficient of variation for residue by oven drying (non-liquid admixture) has been found to be 0.48 %. Therefore, results of two properly conducted tests by the same operator on the same material are not expected to differ by more than 1.4 %
+of their average. 18.4 Relative Density (Specific Gravity) (Liquid Admix- tures): 18.4.1 Determine the relative density (specific gravity) at 25.0 = 1.0 °C [77.0 = 2.0 °F] of a liquid admixture using
+hydrometers complying with Specification E100. Hydrometers
+No. 112H through 117H will cover the range for most determinations. A 250-mL graduated cylinder, and a water bath capable of maintaining 25.0 + 1.0 °C [77.0 + 2.0 °F] will also
+be required. Alternatively, determine relative density (specific gravity) by using the pycnometer method in accordance with Test Methods D891. Note 16—The pycnometer method is more accurate and precise
+compared with the hydrometer method, and is the preferred method in
+case of disputes. The hydrometer method is less accurate and precise, but is simpler and faster to perform and is often satisfactory. If the admixture is too viscous to permit the hydrometer to float freely, the pycnometer
+method should be used.
+
+and
+ms; = mM,—m,=mass of dried residue. 18.2.2.2 Calculate the residue by using the following equa- tion: Mm
+Residue by oven drying (percent by mass) = —_ X100% (1)
+3
+18.2.3 Precision Statement—The maximum multilaboratory coefficient of variation for residue by oven drying (liquid
+admixtures) has been found to be 1.25 %. Therefore, results of tests by two different laboratories on identical samples of an
+admixture are not expected to differ from each other by more than 3.5 % of their average (Note 14). The maximum single- operator coefficient of variation has been found to be 0.6 %. Therefore, results of two properly conducted tests by the same operator on the same material are not expected to differ by
+more than 1.7 %. Nore 14—The precision statements are based on the maximum variation of tests made in 18 laboratories on sets of three duplicate
+Copyright by ASTM Int'l (all rights reserved); Wed Sep 2 00:11:37 EDT 2020 9 Downloaded/printed by Indian Inst of Tech Chennai (Indian Inst of Tech Chennai) pursuant to License Agreement. No further reproductions authorized.

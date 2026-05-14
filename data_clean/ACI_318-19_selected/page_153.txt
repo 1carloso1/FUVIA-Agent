@@ -1,0 +1,22 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 153/196]
+[LAYOUT: continuous]
+============================================================
+PART 9: CONSTRUCTION 515
+CHAPTER 26—CONSTRUCTION DOCUMENTS AND INSPECTION
+CODE COMMENTARY
+
+26.1—Scope R26.1—Scope
+
+This chapter establishes the minimum requirements for information that must be included in the construction
+documents as applicable to the project. The requirements include information developed in the structural design that
+must be conveyed to the contractor, provisions directing the contractor on required quality, and inspection requirements to verify compliance with the construction documents. Construction and inspection provisions for anchors were located in Chapter 17 of the 2014 Code. These provisions
+were moved to Chapter 26 of the 2019 Code. This chapter is directed to the licensed design professional responsible for incorporating project requirements into the construction documents. The construction documents should contain all of the necessary design and construction requirements for the contractor to achieve compliance with the Code. It is not intended that the Contractor will need to read and interpret the Code.
+Ae. Construction
+A general reference in the construction documents requiring compliance with this Code is to be avoided because the contractor is rarely in a position to accept responsibility for design details or construction requirements that depend
+on detailed knowledge of the design. References to specific
+Code provisions should be avoided as well because it is the intention of the Code that all necessary provisions be included in the construction documents. For example, refer- ences to specific provisions within Chapter 26 are expected to be replaced with the appropriate references within the project construction documents. Reference to ACI and
+ASTM standards as well as to other documents is expected. This chapter includes provisions for some of the informa- tion that is to be in the construction documents. This chapter is not intended as an all-inclusive list; additional items may
+be applicable to the Work or required by the building offi- cial. ACI 301 is areference construction specification that is written to be consistent with the requirements of this Code. Chapter 26 is organized as shown below: Section Coverage 26.1 Scope 26.2 Design criteria 26.3 Member information 26.4 Concrete materials and mixture requirements 26.5 Concrete production and construction 26.6 Reinforcement materials and construction requirements 26.7 Anchoring to concrete 26.8 Embedments 26.9 Additional requirements for precast concrete 26.10 Additional requirements for prestressed concrete 26.11 Formwork 26.12 Evaluation and acceptance of hardened concrete 26.13 Inspection
+American Concrete Institute — Copyrighted © Material — www.concrete.org aci $s
+IT

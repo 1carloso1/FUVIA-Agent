@@ -1,0 +1,137 @@
+=================================================================
+  ACI_211.1-22
+=================================================================
+  Páginas totales         : 26
+  Páginas CODE/COMMENTARY : 0
+  Páginas vacías          : 0
+  Tablas detectadas       : 41
+  Tablas con título real  : 18
+  Tablas título genérico  : 23
+
+  ⚠️  Calidad de títulos: 44%
+
+  ÍNDICE DE TABLAS:
+  -------------------------------------------------------
+
+  ⚠️  [1] Página   2 — Normative table
+       Contexto: This table specifies: chemical admixture type classification and performance req...
+
+  ⚠️  [2] Página   2 — Normative table
+       Contexto: This table specifies: compressive strength f'c requirements; aggregate physical ...
+
+  ⚠️  [3] Página   3 — Normative table
+       Contexto: This table specifies: maximum water-cementitious materials ratio w/cm limits; ai...
+
+  ⚠️  [4] Página   3 — Normative table
+       Contexto: This table specifies: chloride exposure classes and chloride ion content limits;...
+
+  ⚠️  [5] Página   4 — Normative table
+       Contexto: This table specifies: maximum water-cementitious materials ratio w/cm limits; co...
+
+  ⚠️  [6] Página   5 — Normative table
+       Contexto: This table specifies: maximum water-cementitious materials ratio w/cm limits; ch...
+
+  ⚠️  [7] Página   5 — Normative table
+       Contexto: This table specifies: maximum water-cementitious materials ratio w/cm limits; ch...
+
+  ⚠️  [8] Página   6 — Normative table
+       Contexto: This table specifies: compressive strength f'c requirements; exposure class requ...
+
+  ✅ [9] Página   6 — Table 5.3.3 approximates the amount of entrapped air to be ex
+       Contexto: This table specifies: maximum water-cementitious materials ratio w/cm limits; ch...
+
+  ⚠️  [10] Página   7 — Normative table
+       Contexto: This table specifies: maximum water-cementitious materials ratio w/cm limits; ex...
+
+  ✅ [11] Página   7 — Table 4.73a—Requirements for concrete by Exposure Category S
+       Contexto: This table specifies: compressive strength f'c requirements; exposure class requ...
+
+  ✅ [12] Página   7 — Table 4.73a—Requirements for concrete by Exposure Category S
+       Contexto: This table specifies: maximum water-cementitious materials ratio w/cm limits; su...
+
+  ✅ [13] Página   8 — Table 4.7.3.2—Limits on supplementary cementi-
+       Contexto: This table specifies: maximum water-cementitious materials ratio w/cm limits; co...
+
+  ⚠️  [14] Página   8 — Normative table
+       Contexto: This table specifies: maximum water-cementitious materials ratio w/cm limits; co...
+
+  ✅ [15] Página   8 — Table 4.7.3.3—Sulfate concentration ranges
+       Contexto: This table specifies: maximum water-cementitious materials ratio w/cm limits; co...
+
+  ⚠️  [16] Página   8 — Normative table
+       Contexto: This table specifies: maximum water-cementitious materials ratio w/cm limits; ch...
+
+  ✅ [17] Página   8 — Table 4.7.3.1—Total air content for concrete
+       Contexto: This table specifies: freezing and thawing exposure classes; particle size distr...
+
+  ✅ [18] Página   9 — Table 4.7.4.3—k-factor for increasing sample
+       Contexto: This table specifies: maximum water-cementitious materials ratio w/cm limits; su...
+
+  ✅ [19] Página   9 — Table 4.2.3.3(a)2; and s, is standard deviation calculated in a
+       Contexto: This table specifies: maximum water-cementitious materials ratio w/cm limits; co...
+
+  ⚠️  [20] Página  10 — Normative table
+       Contexto: This table specifies: maximum water-cementitious materials ratio w/cm limits; ai...
+
+  ⚠️  [21] Página  12 — Normative table
+       Contexto: This table specifies: maximum water-cementitious materials ratio w/cm limits.
+
+  ⚠️  [22] Página  13 — Normative table
+       Contexto: This table specifies: maximum water-cementitious materials ratio w/cm limits; ag...
+
+  ✅ [23] Página  13 — Table 5.3.1—Typical slump ranges for concrete without water-r
+       Contexto: This table specifies: maximum water-cementitious materials ratio w/cm limits; ch...
+
+  ⚠️  [24] Página  14 — Normative table
+       Contexto: This table specifies: normative requirements for construction materials.
+
+  ✅ [25] Página  14 — Table 5.3.3.1—Adjustments to estimated water
+       Contexto: This table specifies: maximum water-cementitious materials ratio w/cm limits; fr...
+
+  ⚠️  [26] Página  14 — Normative table
+       Contexto: This table specifies: maximum water-cementitious materials ratio w/cm limits; ai...
+
+  ✅ [27] Página  15 — Table 5.3.6—Bulk volume of coarse aggregate per unit of volum
+       Contexto: This table specifies: maximum water-cementitious materials ratio w/cm limits; co...
+
+  ✅ [28] Página  15 — Table 5.3.8—Design weight summary*
+       Contexto: This table specifies: air content requirements; aggregate physical property limi...
+
+  ⚠️  [29] Página  16 — Normative table
+       Contexto: This table specifies: maximum water-cementitious materials ratio w/cm limits; co...
+
+  ⚠️  [30] Página  17 — Normative table
+       Contexto: This table specifies: maximum water-cementitious materials ratio w/cm limits; ch...
+
+  ⚠️  [31] Página  17 — Normative table
+       Contexto: This table specifies: air content requirements; cement chemical and physical pro...
+
+  ⚠️  [32] Página  19 — Normative table
+       Contexto: This table specifies: chloride exposure classes and chloride ion content limits;...
+
+  ⚠️  [33] Página  20 — Normative table
+       Contexto: This table specifies: maximum water-cementitious materials ratio w/cm limits; ch...
+
+  ✅ [34] Página  21 — Table 8—Effect of additional constituents on various fres
+       Contexto: This table specifies: chloride exposure classes and chloride ion content limits;...
+
+  ✅ [35] Página  22 — Table 9.2.72—Constituent weights
+       Contexto: This table specifies: maximum water-cementitious materials ratio w/cm limits; ch...
+
+  ⚠️  [36] Página  23 — Normative table
+       Contexto: This table specifies: compressive strength f'c requirements; freezing and thawin...
+
+  ✅ [37] Página  24 — Table 5.3.3.1 suggests a water reduction of
+       Contexto: This table specifies: maximum water-cementitious materials ratio w/cm limits; co...
+
+  ✅ [38] Página  24 — Table 4.7.3a through Table 4.7.3d,
+       Contexto: This table specifies: maximum water-cementitious materials ratio w/cm limits; ch...
+
+  ✅ [39] Página  24 — Table 9.3.7.2 prior to the moisture adjustments. 9.3.8 Step 8:
+       Contexto: This table specifies: maximum water-cementitious materials ratio w/cm limits; co...
+
+  ✅ [40] Página  25 — Table 9.3.8—Constituent weights Mixture constituents Ib/yd* l
+       Contexto: This table specifies: maximum water-cementitious materials ratio w/cm limits; co...
+
+  ⚠️  [41] Página  26 — Normative table
+       Contexto: This table specifies: maximum water-cementitious materials ratio w/cm limits; co...

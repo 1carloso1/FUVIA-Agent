@@ -1,0 +1,32 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 23/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 1: GENERAL 37
+
+
+
+[CODE] of two successive crossties engaging the same longitudinal bars shall be alternated end for end. cutoff point—point where reinforcement is terminated.
+D-region—portion of a member within a distance h of a force discontinuity or a geometric discontinuity. design displacement—total calculated lateral displace-
+ment expected for the design-basis earthquake.
+
+[COMMENTARY] Not. & Term.
+a
+[COMMENTARY] design displacement—The design displacement is an
+index of the maximum lateral displacement expected in design for the design-basis earthquake. In documents such as ASCE/SEI 7 and the International Building Code, the design displacement is calculated using static or dynamic linear elastic analysis under code-specified actions consid- ering effects of cracked sections, effects of torsion, effects
+of vertical forces acting through lateral displacements,
+and modification factors to account for expected inelastic response. The design displacement generally is greater than the displacement calculated from design-level forces applied to a linear-elastic model of the building.
+
+[CODE] design information—project-specific information to be incorporated into construction documents by the licensed design professional, as applicable. design load combination—combination of factored loads
+and forces. design story drift ratio—telative difference of design
+displacement between the top and bottom of a story, divided
+by the story height. development length—length of embedded reinforce- ment, including pretensioned strand, required to develop the design strength of reinforcement at a critical section. discontinuity—abrupt change in geometry or loading. distance sleeve—sleeve that encases the center part of an
+undercut anchor, a torque-controlled expansion anchor, or a displacement-controlled expansion anchor, but does not expand. drilled piers or caissons—cast-in-place concrete foun- dation elements with or without an enlarged base (bell), constructed by excavating a hole in the ground and filling
+with reinforcement and concrete. Drilled piers or caissons are considered as uncased cast-in-place concrete drilled or
+augered piles, unless they have permanent steel casing, in
+which case they are considered as metal cased concrete piles. drop panel—projection below the slab used to reduce the amount of negative reinforcement over a column or the
+minimum required slab thickness, and to increase the slab shear strength. duct—conduit, plain or corrugated, to accommodate prestressing reinforcement for post-tensioning applications. ductile coupled structural wall—see structural wall, ductile coupled. durability—ability of a structure or member to resist deterioration that impairs performance or limits service life
+of the structure in the relevant environment considered in
+design. edge distance—distance from the edge of the concrete surface to the center of the nearest anchor.
+
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

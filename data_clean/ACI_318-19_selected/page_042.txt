@@ -1,0 +1,55 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 42/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] 200
+b) —b,d
+(b) ra y 9.6.1.3 If A, provided at every section is at least one-third greater than A, required by analysis, 9.6.1.1 and 9.6.1.2 need not be satisfied.
+
+[COMMENTARY] R9.6.2 Minimumflexural reinforcement in prestressed beams
+
+[CODE] 9.6.2 Minimum flexural reinforcement in prestressed beams
+
+[COMMENTARY] R9.6.2.1 Minimum flexural reinforcement is required for reasons similar to nonprestressed beams as discussed in R9.6.1.1. Abrupt flexural failure immediately after cracking does not occur when the prestressed reinforcement is unbonded
+(ACI 423.3R); therefore, this requirement does not apply to
+members with unbonded tendons.
+
+[CODE] 9.6.2.1 For beams with bonded prestressed reinforcement, total quantity of A, and A,, shall be adequate to develop a factored load at least 1.2 times the cracking load calculated
+on the basis off, defined in 19.2.3.
+[CODE] 9.6.2.2 For beams with both flexural and shear design strength at least twice the required strength, 9.6.2.1 need not
+be satisfied.
+
+[COMMENTARY] R9.6.2.3 Minimum bonded reinforcement is required by the Code in beams prestressed with unbonded tendons to ensure flexural behavior at ultimate beam strength, rather than tied arch behavior, and to limit crack width and spacing at service load when concrete tensile stresses exceed the
+modulus of rupture. Providing minimum bonded reinforce-
+ment helps to ensure acceptable behavior at all loading stages. The minimum amount of bonded reinforcement is
+based on research comparing the behavior of bonded and
+unbonded post-tensioned beams (Mattock et al. 1971).
+The minimum bonded reinforcement area required by Eq. (9.6.2.3) is independent of reinforcement f,.
+
+[CODE] 9.6.2.3 For beams with unbonded tendons, the minimum area of bonded deformed longitudinal reinforcement Agmin shall be:
+[CODE] Asmin = 0.004A<, (9.6.2.3)
+[CODE] where A,,; is the area of that part of the cross section between the flexural tension face and the centroid of the gross section.
+
+[COMMENTARY] R9.6.3 Minimum shear reinforcement
+
+[CODE] 9.6.3 Minimum shear reinforcement
+
+[COMMENTARY] R9.6.3.1 Shear reinforcement restrains the growth of inclined cracking so that ductility of the beam is improved
+and a warning of failure is provided. In an unreinforced
+web, the formation of inclined cracking might lead directly to failure without warning. Such reinforcement is of great value if a beam is subjected to an unexpected tensile force or an overload. The exception for beams constructed using steel fiber- reinforced concrete is intended to provide a design alterna- tive to the use of shear reinforcement, as defined in 22.5.8.5, for beams with longitudinal flexural reinforcement in which V,, does not exceed 2 Vf b,d. Chapter 26 specifies design information and compliance requirements that need to be incorporated into the construction documents when steel fiber-reinforced concrete is used for this purpose. Fiber- reinforced concrete beams with hooked or crimped steel fibers, in dosages as required by 26.4.2.2(i), have been shown through laboratory tests to exhibit shear strengths
+
+[CODE] 9.6.3.1 For nonprestressed beams, minimum area of shear reinforcement, Ay min, Shall be provided in all regions where V,, > oad f b,d except for the cases in Table 9.6.3.1. For these cases, at least Ay, min Shall be provided where V,, > oV¢.
+[CODE] Table 9.6.3.1—Cases where A,,
+nin is not required if
+Vi < OV,
+[CODE] Beam type Conditions Shallow depth h<10 in.
+[CODE] h< greater of 2.57, or 0.5b,,
+[CODE] Integral with slab and
+[CODE] h<24 in.
+[CODE] Constructed with steel fiber-reinforced h<24in. normalweight concrete conforming to and
+26.4.1.5.1@), 26.4.2.2(i), and 26.12.7.1(a) ca
+and with f-’ < 6000 psi V, <2, fb,d One-way joist system In accordance with 9.8
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

@@ -1,0 +1,49 @@
+[DOCUMENT: ASTM_C494-19]
+[PAGE: 12/15]
+[LAYOUT: continuous]
+============================================================
+All caga/c4g4m - 19
+X3. USING INFRARED ANALYSIS TO VERIFY LOT-TO-LOT UNIFORMITY
+
+X3.1 Principle X3.1.1 Infrared spectroscopy is used to identify organic and inorganic materials by measuring the interaction of infrared radiation with the material. A specimen of the material is placed between an infrared source and a detector using an
+instrument known as an infrared spectrophotometer. The infra-
+red radiation is absorbed by the specimen at frequencies
+corresponding to the vibrational frequencies of the chemical
+bonds between specific groups of atoms (known as functional
+groups) that are present in the material. The instrument
+produces a graph of radiation transmitted through the specimen as a function of frequency, which is called an infrared
+spectrum. By convention, the frequency scale is expressed as the inverse of the wavelength in centimeters, which is known
+as the wavenumberand has units of emTM'. Typically, wavenum-
+bers in the range from 4000 to 400 cm” are used to identify the
+presence of different functional groups. X3.1.2 Historically, infrared spectra were plotted in terms of transmittance, I/Ip, where I is the intensity of radiation passing
+through the specimen and I) is the intensity of radiation passing
+through the blank (empty cell). With the advent of computers, it has become more common to plot spectra in terms of
+absorbance (—log;, (I/Ip)) because absorbance is related lin- early to concentration. X3.1.3 Infrared spectroscopy provides a qualitative means for judging the equivalence of an original sample and subse-
+quent samples obtained from different lots of a given admix- ture. Spectral interpretation may be done by functional group identification or by comparison of infrared spectra of unknown materials with those of known materials. For the purposes of
+judging equivalence of different lots of an admixture, compari- son of spectra is used in this specification. Spectra plotted in
+terms of transmittance or absorbance are acceptable. Although
+guidance for judging equivalence is given here, a chemist with training and experience in infrared spectroscopy should be
+consulted if necessary. In addition, Practice E1252 as well as
+many textbooks and technical articles may be consulted for additional information.
+
+is required if comparing spectra obtained using different instruments and techniques.
+X3.3 Comparing Spectra X3.3.1 In accordance with 6.1.1, two infrared absorption spectra are considered equivalent if the same infrared absorp- tion bands at the same relative intensities are present in both spectra. The spectra of the initial and test samples can be
+compared by visually comparing the absorption spectra that are plotted on separate pieces of paper, preferably using the same scale. Overlaying the two plotted spectra on a light box may
+make comparison easier. If data are available in digital format, the spectra can be plotted and compared on a computer screen. X3.3.2 Software to conduct automated comparison of two spectra is available that can provide a quantitative indication of their equivalence. One such method is called the hit quality
+index (HQI) value, and is a numerical measure of the closeness of fit between the test spectrum and the initial spectrum. The
+higher the HQI value, the closer the two spectra are to each other. Caution should be exercised when using HQI values to ascertain lot-to-lot uniformity. Noise and other artifacts in the
+spectrum can impact the HQI value. It can be a challenge to
+determine the minimum HQI value to indicate that the spectra for the test sample and initial sample are equivalent and that there is acceptable lot-to-lot uniformity. The HQI value is not a probability or a percentage, and it has no units. Therefore,
+HQI values should not be used as the sole basis for judging
+equivalence of spectra and uniformity of product.
+X3.4 Judging Equivalence X3.4.1 The following guidelines can be used as indicators that the spectra of the test sample and initial sample are equivalent: X3.4.1.1 The spectra of the test sample and initial sample
+have the same number of absorption bands. X3.4.1.2 The wavenumbers (frequencies) of the absorption
+bands for the spectra of the initial and test samples are the same X3.4.1.3 The relative intensities of the absorption bands for the spectra of the initial and test samples are similar. X3.4.2 Subjective judgment is involved in deciding whether
+two spectra are sufficiently similar to conclude that the lot-to- lot uniformity is acceptable. If differences are found between the spectra of the initial and test samples, a repeat infrared analysis of the test sample is recommended. X3.4.3 Infrared spectra are affected by many factors that do not translate into differences in admixture performance or
+composition. X3.4.3.1 Admixtures derived from natural products, such as lignosulfonates and resins, are known to have intrinsic varia- tions in their functional groups that are reflected as variations in their infrared spectra. X3.4.3.2 Varying amounts of water in the specimen being
+analyzed may result in spectral changes other than the ampli- tude of the bands associated with the water itself.
+
+X3.2 Requirements X3.2.1 As stated in Section 18, an admixture can be
+prepared for infrared analysis by different methods. These include preparing a potassium bromide disk containing the dried residue uniformly dispersed in the disk as well as the various methods cited in Practice E1252. In reporting the results, Section 19 requires that sufficient detail be included on the infrared spectrum so that another analyst would be able to obtain a similar spectrum on the same sample. X3.2.2 Test reports should note how test specimens were
+prepared as well as how the specimens were analyzed in the instrument, for example, transmission (KBr pellet or Nujol mull), attenuated total reflectance, and so forth. The resolution at which the spectrum was collected also should be noted. Care
+Copyright by ASTM Int'l (all rights reserved); Wed Sep 2 00:11:37 EDT 2020 12 Downloaded/printed by Indian Inst of Tech Chennai (Indian Inst of Tech Chennai) pursuant to License Agreement. No further reproductions authorized.

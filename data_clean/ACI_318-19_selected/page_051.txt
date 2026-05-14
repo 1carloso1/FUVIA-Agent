@@ -1,0 +1,51 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 51/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 3: MEMBERS 145
+
+
+
+[CODE] 9.7.4 Flexural reinforcement in prestressed beams
+
+[COMMENTARY] R9.7.4 Flexural reinforcement in prestressed beams
+
+[CODE] 9.7.4.1 External tendons shall be attached to the member in a manner that maintains the specified eccentricity between the tendons and the concrete centroid through the full range
+of anticipated member deflections.
+
+[COMMENTARY] R9.7.4.1 External tendons are often attached to the concrete beam at various locations between anchorages, such as midspan, quarter points, or third points, for desired load balancing effects, for tendon alignment, or to address
+tendon vibration concerns. Consideration should be given to the effects caused by the tendon profile shifting in relation- ship to the concrete centroid as the member deforms under effects of post-tensioning and applied load.
+
+[CODE] 9.7.4.2 If nonprestressed reinforcement is required to satisfy flexural strength, the detailing requirements of 9.7.3 shall be satisfied.
+
+[COMMENTARY] R9.7.4.2 Nonprestressed reinforcement should be devel-
+oped to achieve factored load forces. The requirements of 9.7.3 provide that bonded reinforcement required for flex- ural strength under factored loads is developed to achieve tensile or compressive forces.
+
+[CODE] 9.7.4.3 Termination ofprestressed reinforcement
+[CODE] 9.7.4.3.1 Post-tensioned anchorage zones shall be designed and detailed in accordance with 25.9.
+[CODE] 9.7.4.3.2 Post-tensioning anchorages and couplers shall be designed and detailed in accordance with 25.8.
+[CODE] 9.7.4.4 Termination of deformed reinforcement in beams with unbonded tendons
+
+[COMMENTARY] R9.7.4.4 Termination of deformed reinforcement in beams with unbonded tendons
+
+[CODE] 9.7.4.4.1 Length of deformed reinforcement required by 9.6.2.3 shall be in accordance with (a) and (b):
+
+[COMMENTARY] R9.7.4.4.1 The minimum lengths apply for bonded rein- forcement required by 9.6.2.3. Research (Odello and Mehta 1967) on continuous spans shows that these minimum lengths provide satisfactory behavior under service load and factored load conditions.
+
+[CODE] (a) At least ¢,,/3 in positive moment areas and be centered in those areas (b) At least £,/6 on each side of the face of support in negative moment areas
+[CODE] 9.7.5 Longitudinal torsional reinforcement
+
+[COMMENTARY] R9.7.5 Longitudinal torsional reinforcement
+
+[CODE] 9.7.5.1 If torsional reinforcement is required, longitu- dinal torsional reinforcement shall be distributed around the perimeter of closed stirrups that satisfy 25.7.1.6 or hoops
+with a spacing not greater than 12 in. The longitudinal rein-
+forcement shall be inside the stirrup or hoop, and at least one longitudinal bar or tendon shall be placed in each corner.
+
+[COMMENTARY] R9.7.5.1 Longitudinal reinforcement is needed to resist the
+sum of the longitudinal tensile forces due to torsion. Because the force acts along the centroidal axis of the section, the centroid of the additional longitudinal reinforcement for torsion should approximately coincide with the centroid of the section. The Code accomplishes this by requiring the longitudinal torsional reinforcement be distributed around the perimeter of the closed stirrups. Longitudinal bars or tendons are required in each corner of the stirrups to provide
+anchorage for the stirrup legs. Corner bars have also been
+found to be effective in developing torsional strength and controlling cracks.
+
+[CODE] 9.7.5.2 Longitudinal torsional reinforcement shall have a diameter at least 0.042 times the transverse reinforcement spacing, but not less than 3/8 in.
+
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

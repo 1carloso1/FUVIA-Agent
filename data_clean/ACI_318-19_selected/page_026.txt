@@ -1,0 +1,28 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 26/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] load—forces or other actions that result from the weight
+of all building materials, occupants, and their possessions, environmental effects, differential movement, and restrained dimensional changes; permanent loads are those loads in
+which variations over time are rare or of small magnitude; all other loads are variable loads. load, dead—(a) the weights of the members, supported structure, and permanent attachments or accessories that are likely to be present on a structure in service; or (b) loads
+meeting specific criteria found in the general building code; without load factors. load, factored—load, multiplied by appropriate load factors. load, live—(a) load that is not permanently applied to a structure, but is likely to occur during the service life of the structure (excluding environmental loads); or (b) loads
+meeting specific criteria found in the general building code; without load factors. load, roof live—a load on a roof produced: (a) during
+maintenance by workers, equipment, and materials, and (b) during the life of the structure by movable objects, such as planters or other similar small decorative appurtenances that are not occupancy related; or loads meeting specific criteria
+found in the general building code; without load factors. load, self-weight dead—weight of the structural system, including the weight of any bonded concrete topping. load, service—all loads, static or transitory, imposed on a structure or element thereof, during the operation of a facility, without load factors. load, superimposed dead—dead loads other than the self-weight that are present or are considered in the design. load effects—forces and deformations produced in structural members by applied loads or restrained volume changes. load path—sequence of members and connections designed to transfer the factored loads and forces in such combinations as are stipulated in this Code, from the point
+of application or origination through the structure to the final support location or the foundation. Manufacturer’s Printed Installation Instructions
+(MPI1)—published instructions for the correct installation of an adhesive anchor under all covered installation condi- tions as supplied in the product packaging. metal cased concrete piles—thin-walled steel pipe, steel shell, or spiral-welded metal casing with a closed end that is driven for its full length in contact with the surrounding soil, left permanently in place, and subsequently filled with reinforcement and concrete. modulus of elasticity—tratio of normal stress to corre-
+sponding strain for tensile or compressive stresses below proportional limit of material. moment frame—frame in which beams, slabs, columns,
+and joints resist forces predominantly through flexure, shear,
+and axial force; beams or slabs are predominantly horizontal
+
+[COMMENTARY] loads—A number of definitions for loads are given as the
+Code contains requirements that are to be met at various load levels. The terms “dead load” and “live load” refer to the unfactored, sometimes called “service” loads speci- fied or defined by the general building code. Service loads (loads without load factors) are to be used where speci- fied in this Code to proportion or investigate members for adequate serviceability. Loads used to proportion a member for adequate strength are defined as factored loads. Factored loads are service loads multiplied by the appropriate load factors for required strength except wind and earthquake
+which are already specified as strength loads in ASCE/SEI 7. The factored load terminology clarifies where the load factors are applied to a particular load, moment, or shear value as used in the Code provisions.
+[COMMENTARY] load effects—Stresses and strains are directly related to forces and deformations and are considered as load effects.
+
+[CODE] aci®
+IT
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

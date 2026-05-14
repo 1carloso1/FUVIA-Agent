@@ -1,0 +1,30 @@
+[DOCUMENT: ASTM_C33-13]
+[PAGE: 7/11]
+[LAYOUT: continuous]
+============================================================
+All c33/C33M - 13
+
+Severe VY, Moderate [
+Negligible Weathering Regions
+
+FIG. 1 Location of Weathering Regions
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: chloride exposure classes and chloride ion content limits; aggregate grading and sieve analysis requirements; aggregate physical property limits.]
+12.1.1 Sampling—Practice D75 and Practice D3665. 12.1.2 Grading and Fineness Modulus—Test Method C136. 12.1.3 Amount of Material Finer than 75-um (No. 200)
+Sieve—Test Method C117. 12.1.4 Organic Impurities—Test Method C40. 12.1.5 Effect of Organic Impurities on Strength—Test
+Method C87. 12.1.6 Soundness—Test Method C88. 12.1.7 Clay Lumps and Friable Particles— Test Method
+C142. 12.1.8 Coal and Lignite—Test Method C123, using a liquid
+of 2.0 specific gravity to remove the particles of coal and lignite. Only material that is brownish-black, or black, shall be considered coal or lignite. Coke shall not be classed as coal or lignite. 12.1.9 Bulk Density (Unit Weight) of Slag—Test Method
+C29/C29M. 12.1.10 Abrasion of Coarse Aggregate—Test Method C131
+or Test Method C535. 12.1.11 Reactive Aggregates—See Appendix X1. 12.1.12 Freezing and Thawing—Procedures for making freezing and thawing tests of concrete are described in Test
+Method C666/C666M. 12.1.13 Chert—Test Method C123 is used to identify par- ticles in a sample of coarse aggregate lighter than 2.40 specific
+
+11.3 Coarse aggregate having test results exceeding the limits specified in Table 4 shall be regarded as meeting the requirements of this section provided the supplier demonstrates to the purchaser or specifier that concrete made with similar
+aggregate from the same source has given satisfactory service
+when exposed in a similar manner to that to be encountered; or, in the absence of a demonstrable service record, provided that the aggregate produces concrete having satisfactory relevant properties (see Note 5). METHODS OF SAMPLING AND TESTING 12. Methods of Sampling and Testing 12.1 Sample and test the aggregates in accordance with the
+following methods, except as otherwise provided in this specification. Make the required tests on test specimens that
+comply with requirements of the designated test methods. It is not prohibited to use the same test specimen for sieve analysis
+and for determination of material finer than the 75-um (No.
+200) sieve. The use of separated sizes from the sieve analysis is acceptable for soundness or abrasion tests, however, addi- tional test specimen preparation is required (see Note 11). For other test procedures and the evaluation of potential alkali reactivity, when required, use independent test specimens. Nore 11—The material used for the soundness test requires resieving to
+allow proper test specimen preparation as specified in Test Method C88.
+Copyright by ASTM Int'l (all rights reserved);

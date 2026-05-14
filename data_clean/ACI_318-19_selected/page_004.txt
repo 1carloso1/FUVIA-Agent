@@ -1,0 +1,53 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 4/196]
+[LAYOUT: continuous]
+============================================================
+ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+CODE COMMENTARY
+
+Camax = Maximum distance from center of an anchor shaft
+to the edge of concrete, in.
+Camin = Minimum distance from center of an anchor shaft to
+the edge of concrete, in.
+Cal = distance from the center of an anchor shaft to the
+edge of concrete in one direction, in. If shear is applied to anchor, c,; is taken in the direction of the applied shear. If tension is applied to the anchor, Ca) 1s the minimum edge distance. Where anchors subject to shear are located in narrow sections of limited thickness, see R17.7.2.1.2
+
+ci, = limiting value of c,; where anchors are located less
+than 1.5c,, from three or more edges, in.; see Fig. R17.7.2.1.2
+
+Cag = distance from center of an anchor shaft to the edge
+of concrete in the direction perpendicular to c,,, in.
+cp = lesser of: (a) the distance from center of a bar or
+wire to nearest concrete surface, and (b) one-half the center-to-center spacing of bars or wires being developed, in.
+c. = Clear cover of reinforcement, in. = projected distance from center of an anchor shaft CNa
+on one side of the anchor required to develop the full bond strength of a single adhesive anchor, in.
+Cy = distance from the centerline of the row of anchors
+in tension nearest the shear lug to the centerline of the shear lug measured in the direction of shear, in.
+c; = distance from the interior face of the column to the
+slab edge measured parallel to c,, but not exceeding Cc}, mm.
+c;} = dimension of rectangular or equivalent rectangular
+column, capital, or bracket measured in the direc- tion of the span for which moments are being deter- mined, in.
+C2 = dimension of rectangular or equivalent rectangular
+column, capital, or bracket measured in the direc- tion perpendicular to c, in.
+
+C = compressive force acting on a nodal zone, Ib
+
+Cy, = factor relating actual moment diagram to an equiv- alent uniform moment diagram
+d = distance from extreme compression fiber to centroid
+of longitudinal tension reinforcement, in.
+d' = distance from extreme compression fiber to centroid
+of longitudinal compression reinforcement, in.
+d, = outside diameter of anchor or shaft diameter of
+headed stud, headed bolt, or hooked bolt, in.
+d,{ = value substituted for d, if an oversized anchor is
+used, in.
+dage = nominal maximum size of coarse aggregate, in. d, = nominal diameter of bar, wire, or prestressing
+strand, in.
+
+diurss = distance from the anchorage device to the centroid
+of the bursting force, Tyy,s:, 10.
+
+d, = distance from extreme compression fiber to centroid
+of prestressed reinforcement, in.
+acl Y American Concrete Institute — Copyrighted © Material — www.concrete.org

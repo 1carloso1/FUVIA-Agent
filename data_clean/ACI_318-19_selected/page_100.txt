@@ -1,0 +1,36 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 100/196]
+[LAYOUT: continuous]
+============================================================
+ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+CODE COMMENTARY
+: Critical section
+Plastic hinge region
+/—Strong connection
+( ( TAO —
+( LJ Pe vy =|
+|
+h _ -— Connection i length
+(a) Beam-to-beam connection
+Strong connection Critical section Plastic hinge region
+ih
+h Connection length
+(b) Beam-to-column connection
+7 Strong connection
+Critical section Plastic hinge region
+h Connection length
+(c) Beam-to-column connection
+h
+red
+Plastic hinge region Critical section length
+Strong connection
+Connection
+(d) Column-to-footing connection
+Fig. R18.9.2.2—Strong connection examples.
+
+18.9.2.3 Special moment frames constructed using precast R18.9.2.3 Precast frame systems not satisfying the prescrip- concrete and not satisfying 18.9.2.1 or 18.9.2.2 shall satisfy tive requirements of Chapter 18 have been demonstrated in (a) through (c):
+experimental studies to provide satisfactory seismic perfor-
+mance characteristics (Stone et al. 1995; Nakaki et al. 1995).
+
+aci> American Concrete Institute - Copyrighted © Material — www.concrete.org

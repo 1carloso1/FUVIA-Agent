@@ -1,0 +1,37 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 66/196]
+[LAYOUT: continuous]
+============================================================
+PART 3: MEMBERS 161
+CODE COMMENTARY
+
+multiplied by 0.83. Tie legs perpendicular to dimension h 7
+
+shall be considered in calculating effective area. (b) For spiral columns, where spirals throughout the lap 7)
+splice length satisfy 25.7.3, lap splice length shall be e permitted to be multiplied by 0.75.
+
+hg
+$ @ e @
+Ld © Ld
+| fr
+Direction 1: 4A, = 0.0015h,S Direction 2: 2Ap = 0.0015h,S
+oO Columns
+where Ay is the area of the tie Fig. R10.7.5.2.1—Example of application of 10.7.5.2.1(a).
+
+10.7.5.2.2 If the bar force due to factored loads is tensile, tension lap splices shall be in accordance with Table 10.7.5.2.2.
+Table 10.7.5.2.2—Tension lap splice class Tensile bar Splice stress Splice details type
+<50% bars spliced at any section and lap splices
+. Class A
+<0.5f, on adjacent bars staggered by at least £,
+Other Class B
+>0.5f, All cases Class B
+10.7.5.3 End-bearing splices R10.7.5.3 End-bearing splices
+
+10.7.5.3.1 If the bar force due to factored loads is compres- R10.7.5.3.1 Details for end-bearing splices are provided
+
+sive, end-bearing splices shall be permitted provided the in 25.5.6. splices are staggered or additional bars are provided at splice locations. The continuing bars in each face of the column shall have a tensile strength at least 0.25f, times the area of the vertical reinforcement along that face.
+10.7.6 Transverse reinforcement R10.7.6 Transverse reinforcement
+10.7.6.1 General R10.7.6.1 General
+10.7.6.1.1 Transverse reinforcement shall satisfy the most restrictive requirements for reinforcement spacing.
+
+American Concrete Institute - Copyrighted © Material — www.concrete.org aci >

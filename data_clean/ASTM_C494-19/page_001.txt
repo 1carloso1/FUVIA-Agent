@@ -1,0 +1,58 @@
+[DOCUMENT: ASTM_C494-19]
+[PAGE: 1/15]
+[LAYOUT: continuous]
+============================================================
+This international standard was developed in accordance with internationally recognized principles on standardization established in the Decision on Principles for the Development of International Standards, Guides and Recommendations issued by the World Trade Organization Technical Barriers to Trade (TBT) Committee.
+
+L yi Designation: C494/C494M - 19
+ye
+INTERNATIONAL
+Standard Specification for
+Chemical Admixtures for Concrete’
+
+This standard is issued under the fixed designation C494/C494M; the number immediately following the designation indicates the year
+
+of original adoption or, in the case of revision, the year of last revision. A number in parentheses indicates the year of last reapproval.
+A superscript epsilon (€) indicates an editorial change since the last revision or reapproval. This standard has been approved for use by agencies of the U.S. Department of Defense.
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: chemical admixture type classification and performance requirements; admixture water reduction and setting time effects.]
+1. Scope* 1.1 This specification covers materials for use as chemical
+admixtures to be added to hydraulic-cement concrete mixtures for the purpose or purposes indicated for the eight types as follows: 1.1.1 Type A—Water-reducing admixtures, 1.1.2 Type B—Retarding admixtures, 1.1.3 Type C—Accelerating admixtures, 1.1.4 Type D—Water-reducing and retarding admixtures, 1.1.5 Type E—Water-reducing and accelerating admixtures, 1.1.6 Type F—Water-reducing, high range admixtures, 1.1.7 Type G—Water-reducing, high range, and retarding admixtures, and 1.1.8 Type S—Specific performance admixtures. 1.2 Unless specified otherwise by the purchaser, test speci-
+mens for qualifying an admixture shall be made using concret- ing materials as described in 11.1 — 11.3. Note 1—As discussed in Appendix X2, it is recommended that,
+whenever practicable, supplementary tests be made by the purchaser using the cement, pozzolan, aggregates, air-entraining admixture, and the
+mixture proportions, batching sequence, and other physical conditions
+proposed for the specific work because the specific effects produced by
+chemical admixtures may vary with the properties and proportions of the other ingredients of the concrete. For example, Types F and G admixtures
+may exhibit much higher water reduction in concrete mixtures having
+higher cement contents than that listed in 12.1.1. Note 2—The purchaser should verify that the admixture supplied for
+use in the work is equivalent in composition to the admixture subjected to test under this specification (see Section 6, Uniformity and Equivalence). Nore 3—Admixtures that contain sufficient amounts of chloride may accelerate corrosion of steel reinforcement. Compliance with the require-
+ments of this specification does not constitute assurance of acceptability of the admixture for use in reinforced concrete. 1.3 This specification provides for three levels of testing. 1.3.1 Level 1—During the initial approval stage, proof of
+compliance with the performance requirements defined in
+Table 1 demonstrates that the admixture meets the require-
+
+ments of this specification. Proof of compliance shall be based
+on comparisons of the average test results from the batches of test concrete and the average test results from the batches of reference concrete. Admixtures (except for Types B, C, E, and S) shall qualify for provisional compliance if the time of setting, length change, and durability factor meet the physical
+requirements and any of the alternative compressive strength
+requirements shown in parentheses in Table 1 are met through the date of provisional acceptance (see Note 4). If subsequent test results at six months or one year fail to meet the
+requirement of at least 100% of reference strength, the provisional compliance of the admixture to this standard is
+withdrawn and all users of the admixture shall be notified immediately. Uniformity and equivalence tests of Section 6 shall be carried out to provide results against which later
+comparisons shall be made. Notre 4—Allowing for provisional compliance while retaining longer
+term compressive strength requirements promotes more rapid qualification
+of new materials, but also provides assurance that new admixture
+technologies will not exhibit unexpected longer term performance. The alternative compressive strength requirements in Table | are based on statistical analysis of 103 Specification C494/C494M evaluation tests. The alternative requirements shown in parentheses correspond to a 99 %
+probability of passing strength requirements at subsequent test ages,~ if
+any one of the requirements is met. There is no requirement that all be met. 1.3.2 Level 2—Limited retesting is described in 5.2 — 5.2.2.
+Proof of compliance with the requirements of Table | demon- strates continued conformity of the admixture with the require-
+ments of the specification. 1.3.3 Level 3—For acceptance of a lot or for measuring
+uniformity within or between lots, if specified by the purchaser, the uniformity and equivalence tests of Section 6 shall be used. 1.4 The values stated in either SI units or inch-pound units are to be regarded separately as standard. The values stated in
+each system are not necessarily exact equivalents; therefore, to
+ensure conformance with the standard, each system shall be
+used independently of the other, and values from the two
+
+' This specification is under the jurisdiction of ASTM Committee C09 on Concrete and Concrete Aggregates and is the direct responsibility of Subcommittee C09.23 on Chemical Admixtures. Current edition approved Dec. 15, 2019. Published March 2020. Originally approved in 1962. Last previous edition approved in 2017 as C494/C494M — 17.
+DOT: 10.1520/C0494_C0494M-19.
+
+? Supporting data have been filed at ASTM International Headquarters and may be obtained by requesting Research Report RR:C09-1030. Contact ASTM Customer Service at service@astm.org.
+*A Summary of Changes section appears at the end of this standard
+
+Copyright © ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428-2959. United States Copyright by ASTM Int'l (all rights reserved); Wed Sep 2 00:11:37 EDT 2020 l Downloaded/printed by Indian Inst of Tech Chennai (Indian Inst of Tech Chennai) pursuant to License Agreement. No further reproductions authorized.

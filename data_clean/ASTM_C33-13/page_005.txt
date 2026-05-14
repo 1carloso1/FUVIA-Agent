@@ -1,0 +1,73 @@
+[DOCUMENT: ASTM_C33-13]
+[PAGE: 5/11]
+[LAYOUT: continuous]
+============================================================
+‘(poArdasal syy3iI Tye) [JUT WLLSV Aq 1ysAdoz
+TABLE 4 Limits for Deleterious Substances and Physical Property Requirements of Coarse Aggregate for Concrete
+Norse 1—See Fig. | for the location of the weathering regions and Note 10 for guidance in using the map. The weathering regions are defined as follows:
+(S) Severe Weathering Region—A cold climate where concrete is exposed to deicing chemicals or other aggressive agents, or where concrete may become saturated by continued contact with moisture or free water prior to repeated freezing and thawing.
+(M) Moderate Weathering Region—A climate where occasional freezing is expected, but where concrete in outdoor service will not be continually exposed to freezing and thawing in the presence of moisture or to deicing chemicals.
+(N) Negligible Weathering Region—A climate where concrete is rarely exposed to freezing in the presence of moisture.
+
+Maximum Allowable, % Sum of Clay
+
+cl rump: Fre Material M
+Class Type or Location of Concrete ay Chert (Less able Finer agnesium
+Designation Construction Lumps and Than 2.40 sp Particles, Than 75-um Coal and Abrasion“ Sulfate
+Friable Par- and Lignite Soundness
+
+; gr SSD) (No. 200) B
+ticles Chert (Less Sieve (5 cycles)
+Than 2.40 sp gr SSD)
+
+Severe Weathering Regions
+1S Footings, foundations, columns and 10.0 we we 1.0° 1.0 50
+beams not exposed to the weather, in-
+
+terior floor slabs to be given coverings
+28 Interior floors without coverings 5.0 on ve 1.0° 0.5 50 ve
+3S Foundation walls above grade, retaining 5.0 5.0 7.0 1.0° 0.5 50 18 walls, abutments, piers, girders, and
+beams exposed to the weather
+4S Pavements, bridge decks, driveways 3.0 5.0 5.0 1.0° 0.5 50 18
+
+El - NEEO/EE9 Atay
+
+and curbs, walks, patios, garage floors,
+exposed floors and porches, or water- front structures, subject to frequent
+
+wetting
+5S Exposed architectural 2.0 3.0 3.0 1.0° 0.5 50 18
+
+or decorative concrete
+Moderate Weathering Regions
+1M Footings, foundations, columns, and 10.0 we ves 1.0° 1.0 50
+beams not exposed to the weather, in-
+
+terior floor slabs to be given coverings
+2M Interior floors without coverings 5.0 we an 1.0° 0.5 50 an
+3M Foundation walls above grade, retaining 5.0 8.0 10.0 1.0° 0.5 50 18 walls, abutments, piers, girders, and
+beams exposed to the weather
+4M Pavements, bridge decks, driveways 5.0 5.0 7.0 1.0° 0.5 50 18
+
+and curbs, walks, patios, garage floors, exposed floors
+and porches, or water- front structures subject to frequent wet-
+
+ting
+5M Exposed architectural 3.0 3.0 5.0 1.0° 0.5 50 18
+
+or decorative concrete
+Negligible Weathering Regions
+1N Slabs subject to traffic abrasion, bridge 5.0 1.0° 0.5 50 decks, floors, sidewalks, pavements
+2N All other classes of concrete 10.0 on ve 1.0° 1.0 50
+
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: aggregate grading and sieve analysis requirements; aggregate physical property limits.]
+4 Crushed air-cooled blast-furnace slag is excluded from the abrasion requirements. The rodded or jigged bulk density (unit weight) of crushed air-cooled blast-furnace slag shall be not less than 1120 kg/m? [70 Ib/ft*).
+The grading of slag used in the bulk density (unit weight) test shall conform to the grading to be used in the concrete. Abrasion loss of gravel, crushed gravel, or crushed stone shall be determined on the test size or ® The allowable limits for soundness shall be 12 % if sodium sulfate is used.
+© This percentage under either of the following conditions: (1) is permitted to be increased to 1.5 if the material is essentially free of clay or shale; or (2) if the source of the fine aggregate to be used in the concrete is
+known to contain less than the specified maximum amount passing the 75-um (No. 200) sieve Table 1 the percentage limit (L) on the amount in the coarse aggregate is permitted to be increased to L = 1 + [(P)/(100 —- P)]
+(T- A), where P = percentage of sand in the concrete as a percent of total aggregate, 7 = the Table 1 limit for the amount permitted in the fine aggregate, and A = the actual amount in the fine aggregate. (This provides
+a weighted calculation designed to limit the maximum mass of material passing the 75-um (No. 200) sieve in the concrete to that which would be obtained if both the fine and coarse aggregate were supplied at the
+maximum tabulated percentage for each of these ingredients.)
+
+sizes most nearly corresponding to the grading or gradings to be used in the concrete. When more than one grading is to be used, the limit on abrasion loss shall apply to each.

@@ -1,0 +1,53 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 183/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 9: CONSTRUCTION 545
+
+
+[COMMENTARY] ments of the general building code unless the installation of external post-tensioning is to only improve serviceability.
+[COMMENTARY] R26.10.1(f) Guidance for specifying duct requirements for
+bonded tendons is provided in PTI M50.3 and PTI M55.1.
+
+[CODE] (f) Requirements for ducts for bonded tendons.
+
+[COMMENTARY] R26.10.1(g) Guidance for specifying grouting require-
+ments for bonded tendons is provided in PTI M55.1.
+
+[CODE] (g) Requirements for grouting of bonded tendons, including maximum water-soluble chloride ion (CI) content requirements in 19.4.1.
+[CODE] 26.10.2 Compliance requirements:
+[CODE] (a) Type, size, details, and location of post-tensioning
+anchorage systems not shown in the construction docu-
+ments shall be submitted to the licensed design profes- sional for review. (b) Tendons and post-tensioning ducts shall be placed
+within required tolerances and supported to prevent
+displacement beyond required tolerances during concrete placement. (c) Couplers shall be placed in areas approved by the licensed design professional and enclosed in housings
+long enough to permit necessary movements. (d) Burning or welding operations in the vicinity of prestressing reinforcement shall be performed in such a
+manner that prestressing reinforcement is not subject to
+welding sparks, ground currents, or temperatures that
+degrade the properties of the reinforcement. (e) Prestressing force and friction losses shall be verified
+by (1) and (2). (1) Measured elongation of prestressed reinforcement
+compared with elongation calculated using the modulus
+of elasticity determined from tests or as reported by the manufacturer. (2) Jacking force measured using calibrated equip-
+ment such as a hydraulic pressure gauge, load cell, or
+dynamometer. (f) The cause of any difference in force determination
+between (1) and (2) of 26.10.2(e) that exceeds 5 percent for pretensioned construction or 7 percent for post-
+tensioned construction shall be ascertained and corrected, unless approved by the licensed design professional.
+
+[COMMENTARY] a Construction
+[COMMENTARY] R26.10.2(e) Elongation measurements for prestressing
+should be in accordance with the procedures outlined in the
+Manual for Quality Control for Plants and Production of Structural Precast Concrete Products (MNL 117), published
+by the Precast/Prestressed Concrete Institute.
+[COMMENTARY] R26.10.2(f) The 5 percent tolerance for pretensioned construction reflects experience with production of those
+members. Because prestressing reinforcement for preten- sioned construction is usually stressed in air with minimal friction effects, a 5 percent tolerance is considered reason- able. For post-tensioned construction, a slightly higher tolerance is permitted. Elongation measurements for post-
+tensioned construction are affected by several factors that are less significant or that do not exist for pretensioned construction. The friction along prestressing reinforcement in post-tensioning applications may be affected to varying
+degrees by placing tolerances and small irregularities in
+tendon profile due to tendon and concrete placement. The friction coefficients between the prestressing reinforcement
+and the duct are also subject to variation.
+[COMMENTARY] R26.10.2(g) This provision applies to all prestressed concrete members. For cast-in-place post-tensioned slab
+
+[CODE] (g) Loss of prestress force due to unreplaced broken prestressed reinforcement shall not exceed 2 percent of
+
+[COMMENTARY] (aci®
+_a
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

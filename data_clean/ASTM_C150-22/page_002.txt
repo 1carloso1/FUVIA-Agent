@@ -1,0 +1,68 @@
+[DOCUMENT: ASTM_C150-22]
+[PAGE: 2/9]
+[LAYOUT: continuous]
+============================================================
+All ©150/C150M — 22
+seri?
+
+C451 Test Method for Early Stiffening of Hydraulic Cement (Paste Method)
+C452 Test Method for Potential Expansion of Portland- Cement Mortars Exposed to Sulfate
+C465 Specification for Processing Additions for Use in the Manufacture of Hydraulic Cements
+C563 Guide for Approximation of Optimum SO, in Hydrau- lic Cement
+C1038/C1038M Test Method for Expansion of Hydraulic Cement Mortar Bars Stored in Water
+C1702 Test Method for Measurement of Heat of Hydration of Hydraulic Cementitious Materials Using Isothermal
+Conduction Calorimetry
+C1778 Guide for Reducing the Risk of Deleterious Alkali- Aggregate Reaction in Concrete
+E29 Practice for Using Significant Digits in Test Data to Determine Conformance with Specifications
+ITEEE/ASTM SI 10 American National Standard for Metric Practice
+
+4.1.2 Type or types allowable. If no type is specified, Type I shall be supplied, 4.1.3 Any optional chemical requirements from Table 2, if desired, and 4.1.4 Any optional physical requirements from Table 4, if desired.
+5. Ingredients 5.1 The cement covered by this specification shall contain
+no ingredients except as follows: 5.1.1 Portland Cement Clinker. 5.1.2 Water or Calcium Sulfate, or Both—The amounts shall
+be such that the limits shown in Table | for sulfur trioxide and loss-on-ignition are not exceeded. 5.1.3. Limestone—The amount shall not be more than 5.0 %
+by mass such that the chemical and physical requirements of this specification are met (see Note 3). The limestone, defined in Terminology C51, shall be naturally occurring and consist of at least 70 % by mass of one or more of the mineral forms of
+calcium carbonate. If limestone is used, the manufacturer shall report the amount used, expressed as a percentage of cement
+mass, as determined using Annex A2, along with the oxide
+composition of the limestone. Note 3—This specification permits portland cement to contain
+limestone, but does not require that limestone be an ingredient in the
+cement. Cement without ground limestone can be specified in the contract or order. 5.1.4 Inorganic Processing Additions—The amount shall be not more than 5.0 % by mass of cement. Not more than one
+
+3. Terminology 3.1 Definitions: 3.1.1 For definitions pertinent to this specification, see Terminology C219.
+4. Ordering Information 4.1 Orders for material under this specification shall include the following: 4.1.1 This specification number and date,
+TABLE 1 Standard Composition Requirements
+
+Applicable Test
+II(MH) and
+Cement Type“ Method land IA Il and IIA iI(MH)A Ill and IIIA IV Vv
+Aluminum oxide (Al,O3), max, % C114 6.0 6.0 Lee
+Ferric oxide (FesO.), max, % C114 Lee 6.08 6.0%° a 6.5 Lee
+Magnesium oxide (MgO), max, % C114 6.0 6.0 6.0 6.0 6.0 6.0
+Sulfur trioxide (SO3),? max, % C114 When (C.A)® is 8 % or less 3.0 3.0 3.0 3.5 2.3 2.3
+When (C.A)® is more than 8 % 3.5 F F 4.5 F F
+Loss on ignition, max, % C114 When limestone is not an ingredient 3.0 3.0 3.0 3.0 2.5 3.0
+When limestone is an ingredient 3.5 3.5 3.5 3.5 3.5 3.5 Insoluble residue, max, % C114 1.5 1.5 1.5 1.5 1.5 1.5
+Equivalent alkalies (Na,O + 0.658 K,0), % C114 G G G G G G
+Tricalcium silicate (C.S)," max, % See Annex A1 35°
+Dicalcium silicate (C,S),* min, % See Annex A1 a 40°
+Tricalcium aluminate (C.3A),= max, % See Annex A1 8 8 15 7° 58
+Sum of CS + 4.75(C.A),7 max, % See Annex A1 100°! Lee
+Tetracalcium aluminoferrite plus twice the See Annex A1 25°
+
+tricalcium aluminate (C,AF + 2(C.A)), or solid solution (C,AF + C.F),
+as applicable, max, % 4 See Note 2.
+® Does not apply when the sulfate resistance limit in Table 4 is specified.
+© Does not apply when the cement complies with the heat of hydration limit in Table 4.
+
+° It is permissible to exceed the values in the table for SO. content, provided it has been demonstrated by Test Method C1038/C1038M that the cement with the increased SOz will not develop expansion exceeding 0.020 % at 14 days. When the manufacturer supplies cement under this provision, supporting data shall be supplied to the
+purchaser (see Note 7).
+© See Annex A1 for calculation.
+F Not applicable.
+@ Report equivalent alkalies as part of the manufacturer’s certification (see Note 5).
+4 See Note 6.
+‘In addition, three-day heat of hydration testing by Test Method C1702 shall be conducted at least once every six months. Such testing shall not be used for acceptance
+or rejection of the cement, but results shall be reported for informational purposes.
+
+Ab, My POA ARAPALTAALY RRS BRRAREOA Give lnedbu| |. BGNRSER-ERETaLAH
+BRO wu) LBS
+AR, 1. AH, MOREA
+THEA| PARRA ABRRS "a SBr/) Qa RABY aaa CPLowaina nA Ard, Bo (napa) e5( Bap « o Bruxx

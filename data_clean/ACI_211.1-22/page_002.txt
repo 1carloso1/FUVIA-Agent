@@ -1,0 +1,54 @@
+[DOCUMENT: ACI_211.1-22]
+[PAGE: 2/26]
+[LAYOUT: continuous]
+============================================================
+SELECTING PROPORTIONS FOR NORMAL-DENSITY AND HIGH-DENSITY CONCRETE—GUIDE (ACI PRC-211.1-22) 3
+
+weight aggregates), with a workability suitable for normal cast-in-place construction (as distinguished from specialty concrete mixtures such as pervious or self-consolidating concretes). Proportioning with lightweight aggregates and recycled aggregates are other common options; however, they are beyond the scope of this document. Please refer to
+ASTM €330/C330M and ACI 213R for lightweight aggre- gates, and ACI 555R for recycled aggregates. Also included are several design examples applying the procedure to a variety of situations. For proportioning with
+ground limestone or other aggregate mineral filler, refer to
+ACI 211.7R. Information is provided on terms and concepts used in the proportioning procedure that may be unfamiliar to a novice user. The procedure produces a first approximation for propor- tions of a concrete mixture. It is intended that the propor- tions be checked by trial batches in the laboratory, field, or both, and adjusted as necessary to produce a concrete with all the desired characteristics.
+
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: chemical admixture type classification and performance requirements.]
+increased resistance to alkali-aggregate reaction and sulfate attack (ACI 225R and ACI 233R), reduced heat of hydra- tion, reduced shrinkage, improved late-age strength devel-
+opment, and for economic reasons. The selection of mixture proportions involves a balance
+between economy and requirements for durability, strength, workability, density, and appearance. The required char- acteristics are determined by the intended application of concrete, and by the conditions expected to be encountered at the time of placement and beyond. These characteristics should be detailed in the job specifications. Some character- istics are governed by the concrete building code. A broad range of characteristics ranging from high strength to self- consolidation and flowable fills, from low-permeability bridge decks to pervious concrete parking lots, and many other characteristics and applications have been made possible with the use of admixtures and SCMs. The best concrete proportions are based on previous expe- rience with the materials that will be used on similar proj- ects. Lacking that, numerous methods have been developed for proportioning concrete mixtures. Methods have been developed ranging from arbitrary cement:sand:rock:water proportions (that is, 1:2:3:0.5), empirical methods such as workability factors (Shilstone 1990), and methods developed
+from first principles such as packing models (de Larrard and
+Sedran 2002) and suspension methods (ACI 211.6T). It is beyond the scope of this discussion to review the back-
+ground and theory behind these methods or those of the rela- tively simple procedures of this guide. Computer programs for concrete mixture design incorporating many of these theories are commercially available. Frequently, existing concrete proportions are repropor- tioned to include chemical admixtures, SCMs, or a different material source. The performance of the reproportioned concrete should again be verified by trial batches in the labo- ratory or field. Proportions calculated by any method should always be considered provisional, subject to revision based on trial batch results. Depending on circumstance, trial batches
+may be prepared in a laboratory. With success in the lab, the trials should move on to full-size field batches with the materials, means, and methods expected for the project. This procedure, when feasible, avoids pitfalls of assuming that data from small batches mixed in a laboratory environment will predict performance under field conditions. When using
+maximum-size aggregates larger than 2 in., laboratory trial batches should be verified and adjusted in the field using mixtures of the size and type to be used during construction. Trial batch procedures are discussed in Chapter 8, with addi- tional background and details provided in the appendixes.
+
+CHAPTER 2—NOTATION AND DEFINITIONS
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: compressive strength f'c requirements; aggregate physical property limits.]
+2.1—Notation “free = percentage offree moisture on an aggregate, %
+%SCM = percentage of supplementary cementitious material to total cementitious by weight, %
+%total = percentage of total evaporable moisture content, %
+A% = percentage of moisture absorption of an aggregate, %
+Air% = percentage of concrete volume occupied by air, %
+c = cement weight, lb
+cm = cementitious weight, lb
+te = specified compressive strength, psi fer = required average compressive strength, psi MC% = percentage of moisture content of an aggre- gate, %
+MC%jree = percentage of free moisture content of an
+aggregate, %
+m; = initial weight of sample being tested for moisture content, lb
+Mep = oven-dry weight of sample, Ib
+Mssp = saturated surface-dry weight of sample, Ib MWriree = free water weight, lb
+PV = paste volume, ft?
+Ry = relative yield, % w = water weight, Ib Whatched = batch-ready moisture-adjusted water weight,
+Ib
+
+1.3—Scope This guide describes a method for selecting proportions for concrete made with hydraulic cement meeting ASTM C150/
+C150M, C595/C595M, or C1157/C1157M with or without other cementitious materials, chemical admixtures, or both. This concrete consists of normal-density aggregates, high- density aggregates, or both (as distinguished from light-
+
+Wriee = total free water, lb Wssp = weight of aggregate in saturated surface-dry condition, lb
+Y = yield, %
+Y, = design target volume, ft’
+
+Copyright American Concrete Institute
+
+American Concrete Institute — Copyrighted © Material — www.concrete.org
+
+@seismicisolation

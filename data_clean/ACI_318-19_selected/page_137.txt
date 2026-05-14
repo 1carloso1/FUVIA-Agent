@@ -1,0 +1,35 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 137/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 5: EARTHQUAKE RESISTANCE
+[COMMENTARY] 353
+
+
+[COMMENTARY] Post-tensioned slab-column connections with f,. in each direction not meeting the requirements of 8.6.2.1 can be designed as nonprestressed slab-column connections in
+accordance with 8.2.3.
+[COMMENTARY] _ Seismic
+[COMMENTARY] é Nonprestressed -=--- Post-tensioned
+a oT | |
+Ss 0.03 oo Shear reinforcement
+g” “Ss, | required = 0.02 —
+xe) “sed = 5011 Shear reinforcement mer
+aa not required S |
+D> 0.00
+g 0.0 O01 O02 03 04 O05 06 07
+[COMMENTARY] Viv/PL Ve
+[COMMENTARY] Fig. R18.14.5.1—Illustration ofthe criteria of 18.14.5.1.
+
+[CODE] 18.14.5.2 The shear reinforcement requirements of 18.14.5.1 need not be satisfied if (a) or (b) is met:
+[CODE] (a) A/hs, < 0.005 for nonprestressed slabs (b) A,/h,, < 0.01 for unbonded post-tensioned slabs with Joe in each direction meeting the requirements of 8.6.2.1
+[CODE] 18.14.5.3 Required slab shear reinforcement shall provide
+v, > 3.5] f/ at the slab critical section and shall extend at least four times the slab thickness from the face of the support adjacent to the slab critical section.
+[CODE] 18.14.6 Wall piers
+
+[COMMENTARY] R18.14.6 Wall piers
+
+[CODE] 18.14.6.1 Wall piers not designated as part of the seismic- force-resisting system shall satisfy the requirements of 18.10.8. Where the general building code includes provi- sions to account for overstrength of the seismic-force- resisting system, it shall be permitted to calculate the design shear force as Q, times the shear induced under design displacements, 6,,.
+
+[COMMENTARY] R18.14.6.1 Section 18.10.8 requires that the design shear force be determined according to 18.7.6.1, which in some cases may result in unrealistically large forces. As an alterna- tive, the design shear force can be determined as the product
+of an overstrength factor and the shear induced when the wall pier is displaced by 6,. The overstrength factor Q, included in FEMA P749, ASCE/SEI 7, and the 2018 IBC can be used for this purpose.
+[COMMENTARY] American Concrete Institute - Copyrighted © Material -— www.concrete.org

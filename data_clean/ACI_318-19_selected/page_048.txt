@@ -1,0 +1,56 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 48/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] 9.7.3.4 Continuing flexural tension reinforcement shall
+have an embedment length at least ¢z beyond the point
+where bent or terminated tension reinforcement is no longer required to resist flexure.
+
+[COMMENTARY] R9.7.3.4 Local peak stresses exist in the remaining bars
+wherever adjacent bars are cut off in tension regions. In Fig. R9.7.3.2, an “x” is used to indicate the point where termi- nated tension reinforcement is no longer required to resist flexure. If bars were cut off at this location (the required cutoff point is beyond location “x” in accordance with 9.7.3.3), peak stresses in the continuing bars would reach f, at “x”. Therefore, the continuing reinforcement is required to have a full £z extension as indicated.
+
+[CODE] 9.7.3.5 Flexural tension reinforcement shall not be termi- nated in a tension zone unless (a), (b), or (c) 1s satisfied:
+
+[COMMENTARY] R9.7.3.5 Reduced shear strength and loss of ductility when bars are cut off in a tension zone, as in Fig. R9.7.3.2, have
+been reported. The Code does not permit flexural reinforce-
+ment to be terminated in a tension zone unless additional conditions are satisfied. Flexural cracks tend to open at low load levels wherever any reinforcement is terminated in a tension zone. If the stress in the continuing reinforcement
+and the shear strength are each near their limiting values, diagonal tension cracking tends to develop prematurely
+from these flexural cracks. Diagonal cracks are less likely to form where shear stress is low (9.7.3.5(a)) or flexural reinforcement stress is low (9.7.3.5(b)). Diagonal cracks can
+be restrained by closely spaced stirrups (9.7.3.5(c)). These requirements are not intended to apply to tension splices that are covered by 25.5.
+
+[CODE] (a) V, < (2/3)0V,, at the cutoff point (b) For No. 11 bars and smaller, continuing reinforcement provides double the area required for flexure at the cutoff point and V, < (3/4)oV,, (c) Stirrup or hoop area in excess of that required for shear
+and torsion is provided along each terminated bar or wire over a distance 3/4d from the cutoff point. Excess stirrup or hoop area shall be at least 600,,s/f,. Spacing s shall not
+exceed d/(8B;)
+[CODE] 9.7.3.6 Adequate anchorage shall be provided for tension reinforcement where reinforcement stress is not directly proportional to moment, such as in sloped, stepped, or tapered beams, or where tension reinforcement is not parallel to the compression face.
+[CODE] 9.7.3.7 Development of tension reinforcement by bending across the web to be anchored or made continuous with rein-
+forcement on the opposite face of beam shall be permitted.
+
+[COMMENTARY] R9.7.3.7 A bar bent to the far face of a beam and continued there may be considered effective in satisfying 9.7.3.3 to the point where the bar crosses the mid-depth of the member.
+
+[CODE] 9.7.3.8 Termination of reinforcement
+
+[COMMENTARY] R9.7.3.8 Termination of reinforcement
+
+[CODE] 9.7.3.8.1 At simple supports, at least one-third of the
+maximum positive moment reinforcement shall extend along the beam bottom into the support at least 6 in., except for precast beams where such reinforcement shall extend at least to the center of the bearing length.
+
+[COMMENTARY] R9.7.3.8.1 Positive moment reinforcement is extended into the support to provide for some shifting of the moments due to changes in loading, settlement of supports, and lateral loads. It also enhances structural integrity. For precast beams, tolerances and reinforcement cover should be considered to avoid bearing on plain concrete
+where reinforcement has been discontinued.
+
+[CODE] 9.7.3.8.2 At other supports, at least one-fourth of the
+maximum positive moment reinforcement shall extend along the beam bottom into the support at least 6 in. and, if the beam is part of the primary lateral-load-resisting system, shall be anchored to develop f, at the face of the support.
+
+[COMMENTARY] R9.7.3.8.2 Development of the positive moment reinforce-
+ment at the support is required for beams that are part of the primary lateral-load-resisting system to provide ductility in the event of moment reversal.
+
+[CODE] 9.7.3.8.3 At simple supports and points of inflection, d, for positive moment tension reinforcement shall be limited
+such that f, for that retnforcement satisfies (a) or (b). If rein- (aci¥
+A
+
+[COMMENTARY] R9.7.3.8.3 The diameter of the positive moment tension reinforcement is limited to ensure that the bars are devel-
+oped in a length short enough such that the moment capacity
+
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

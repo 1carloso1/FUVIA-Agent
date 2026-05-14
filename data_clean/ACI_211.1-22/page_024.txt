@@ -1,0 +1,69 @@
+[DOCUMENT: ACI_211.1-22]
+[PAGE: 24/26]
+[LAYOUT: continuous]
+============================================================
+SELECTING PROPORTIONS FOR NORMAL-DENSITY AND HIGH-DENSITY CONCRETE—GUIDE (ACI PRC-211.1-22) 25
+
+Table 9.3.72—Constituent weights Mixture constituents Ib/yd? lb/ft? Mixing water 227 8.41
+
+Furthermore, Table 5.3.3.1 suggests a water reduction of
+8% for the use of rounded aggregates, which yields to an additional 22 Ib. The estimated mixing water then becomes
+
+Cement 491 18.19 Fly ash 123 4.56 Coarse aggregate (SSD) 1951 72.26 Fine aggregate (SSD) 1124 41.63 Total weight 3916 145.04 Fresh density at 5.5% air — 145.0 Air-free density — 153.4
+
+280 Ib — 14 lb (due to WRA) — 17 Ib (due to fly ash) — 22 Ib
+(due to rounded aggregates) = 227 Ib
+[TABLE: Table 5.3.3.1 suggests a water reduction of]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; compressive strength f'c requirements; freezing and thawing exposure classes; sulfate exposure classes; water exposure classes; admixture water reduction and setting time effects.]
+These water reductions are estimates and should be evalu- ated with a trial batch. 9.3.4 Step 4: Estimate w/cm—The selection of w/cm requires consideration of both the durability and strength requirements. Based on Table 4.7.3a through Table 4.7.3d,
+F3 freezing-and-thawing exposure allows only a maximum
+w/cm of 0.40 and minimum /,’ of 5000 psi. In the tidal splash
+zone for seawater exposure, S1 permits only a maximum w/
+cm of 0.50 and minimum f,’ of 4000 psi. For water tight- ness, W1 has a minimum /;’ of 2500 psi. Based on this, the
+F3 requirements for freezing-and-thawing exposure governs durability considerations. The strength needs to comply with specifications for the required average compressive strength (f,,’). The local supplier anticipated /;’ in the 5000 psi range. For these mixtures, a sample standard deviation (s) of 300 psi was
+computed. Applying the formula from Table 4.7.4.4, the required average strength will need to be the larger of
+
+coarse aggregate to be 71.7 1b. The corresponding weight per
+yard is calculated by multiplying 71.7 lb x 27.00 ft?, which produces an oven-dry coarse aggregate weight of 1936 |b/
+yd. Absorption (4%) will be taken into account to convert the dry-rodded density to the corresponding SSD weight, as shown in the following
+1936 Ib/yd? x (1 + 0.8%) = 1951 Ib/yd?
+[TABLE: Table 4.7.3a through Table 4.7.3d,]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; chloride exposure classes and chloride ion content limits; air content requirements; aggregate physical property limits.]
+9.3.7 Step 7: Calculate fine aggregate content—Using the calculated volume of each mixture constituent, the weight of fine aggregate is calculated as shown in 9.3.7.1. 9.3.7.1 Absolute volume computations:
+Volume of water = 227 1b/62.4 lb/ft? = 3.64 ft?
+Volume of cement = 491 Ib/(3.15 x 62.4 Ib/ft*) = 2.50 ft?
+Volume of fly ash = 123 Ib/(2.40 x 62.4 Ib/ft*) = 0.82 ft
+Volume of coarse aggregate = 1951 Ib/(2.66 x 62.4 lb/ft’)
+= 11.75 ft Volume of air = 5.5% x 27.00 ft? = 1.49 ft Total volume of ingredients except fine aggregate =
+20.20 ft? Volume of fine aggregate required = 27.00 ft? — 20.20 ft?
+= 6.80 ft Required weight of SSD fine aggregate = 6.80 ft* x 2.65 x
+62.4 lb/ft? = 1124 Ib Air-free volume = 25.51 ft*
+w/cm = 227 1b/(491 Ib + 123 lb) = 0.37 9.3.7.2 For the first laboratory trial batch, the constituent weights, as well as the expected fresh density and the air- free density (needed for computation of yield and air content per ASTM C138/C138M), are calculated as shown in Table 9.3.7.2 prior to the moisture adjustments. 9.3.8 Step 8: Moisture adjustment—For the materials available, tests indicate a total moisture content (MC%) of 1% for the coarse aggregate and 3% for the fine aggregate. Recalling that the absorptions of the coarse and fine aggre- gates were 0.8% and 1.0%, respectively, moisture-adjusted weights become 1+1%
+Coarse aggregate: 1951 x ———— = 1955 lb/yd3
+sere 140.8% y 14+3%
+Fine aggregate: 1124 x — 146 lb/yd3
+ae 14+1.0% 7
+
+for =f, + 1.348 = 5000 psi + (1.34 x 300 psi) = 5400 psi
+or
+ter =fe + 2.338 — 500 = 5000 psi + (2.33 « 300 psi) — 500
+= $200 psi
+[TABLE: Table 9.3.7.2 prior to the moisture adjustments. 9.3.8 Step 8:]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; compressive strength f'c requirements; cement chemical and physical property limits; admixture water reduction and setting time effects.]
+As it is higher, 5400 psi is selected for f.,’. From Table 5.3.4, interpolating between 5000 and 6000 psi values for air-entrained concrete, a w/cm of 0.37 is chosen. Because 0.37 is lower than the w/cm of 0.40 required for resistance to freezing and thawing, 0.37 is the w/cm selected for proportioning. 9.3.5 Step 5: Calculate cementitious materials content—
+Because the w/cm selected for proportioning is 0.37, the cementitious materials content is the water content divided
+by 0.37. Mixing-water weight of 227 lb is divided by the selected w/cm of 0.37 to calculate the cementitious materials content, which is 614 lb. Fly ash at 20% replacement level will yield 123 lb while the remaining amount (491 Ib) will constitute portland cement. The local fly ash, with specific gravity of 2.40, will have a volume of 0.82 ft’. The cement
+volume will be 2.50 ft?. When fly ash is used, Table 5.3.3.1 suggests a water reduction of 3% for each additional 10% fly ash replacement. This water adjustment was already accounted for in Step 3. 9.3.6 Step 6: Calculate coarse aggregate content—Based
+on Table 5.3.6, a dry-rodded volume of 0.71 ft? per unit
+volume is recommended for a nominal maximum size of aggregate of 1.5 in. and a fineness modulus of sand of 2.80.
+Considering the dry-rodded density being 101 lb/ft’, a dry-
+rodded volume of 0.71 ft? results in the oven-dry weight of
+
+The free water contributed by the coarse aggregate is the difference between the moisture-adjusted aggregate weight
+
+Copyright American Concrete Institute
+
+(aci>
+American Concrete Institute — Copyrighted © Material — www.concrete.org
+
+@seismicisolation

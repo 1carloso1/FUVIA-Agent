@@ -1,0 +1,48 @@
+[DOCUMENT: ACI_211.1-22]
+[PAGE: 18/26]
+[LAYOUT: continuous]
+============================================================
+SELECTING PROPORTIONS FOR NORMAL-DENSITY AND HIGH-DENSITY CONCRETE—GUIDE (ACI PRC-211.1-22) 19
+
+other and cementitious materials as well as the combined effects of using multiple chemical admixtures on concrete
+performance should be assessed during the trial batching phase. Full-scale trial batches and mockups of structural elements will help identify any unexpected behaviors and allow for mixture adjustments.
+
+of commonly used SCMs based on their pozzolanic versus cementitious characteristics. Depending on the type and amount of SCMs being used, they generally: (a) Improve the workability of concrete and decrease the tendency to bleed and segregate (b) Reduce pore size and the porosity of both the cement matrix and the interfacial transition zone (c) Enhance durability and service life in terms of decreasing permeability, increasing resistance to chemical attack, decreasing shrinkage, and increasing resistance to
+thermal cracking and alkali-aggregate expansion (d) Increase early or ultimate strength
+SCMs are added to concrete as a percentage weight basis as part of the total cementitious system, where they may be
+used as a partial replacement of hydraulic cement where the total cementitious materials content is increased, held constant, or decreased depending on the performance of the SCM, in the form of a hydraulic cement. The decision on . the SCMs being added as a replacement or addition to the :
+overall cementitious system as well as the selection of the — total cementitious materials content should be made based :
+on the overall performance requirements.
+
+CHAPTER 7—EFFECTS OF SUPPLEMENTARY
+CEMENTITIOUS MATERIALS
+71—Background Supplementary cementitious materials (SCMs) are used to improve performance and cost-efficiency of concrete mixtures while contributing to sustainability. Many of these materials are natural materials whereas others are industrial by-products, as shown in Table 7.1.
+7.2—Pozzolanic versus cementitious Fly ash, silica fume, slag cement, metakaolin, and calcined clay are some of the most commonly used SCMs.
+When blended with portland cement, SCMs contribute to the properties of concrete through hydraulic activity, pozzolanic activity, or both (Kosmatka and Wilson 2016). Hydraulic activity occurs when phases in the SCM chemically react with water, thereby forming cementitious hydration prod- ucts similar to those formed through the hydration of port- land cement. Pozzolanic activity occurs when siliceous or aluminosiliceous material in the SCM reacts with calcium hydroxide (portlandite), which in tum forms calcium sili- cate hydrate (C-S-H). Furthermore, pozzolans do not have
+any cementitious properties when used alone. However,
+when used in conjunction with portland cement, they react with calcium hydroxide. Considering calcium hydroxide is the most soluble of the hydration products (and thus is a
+weak link in concrete from porosity and durability perspec- tives, aS opposed to C-S-H, which contributes to strength
+and permeability enhancement of concrete), pozzolanic activity is highly desired. Table 7.2 shows the comparison Table 71—Supplementary cementitious materials
+that are classified as by-products versus natural products
+
+7.3—Types of supplementary cementitious materials A brief summary of the impact of some of the most
+commonly used SCMs on concrete properties, along with the key consideration points while proportioning mixtures containing SCMs, is provided in the following. 7.3.1 Fly ash—Fly ash is a by-product of the combustion of ground or powdered coal. Depending on the source of the coal, characteristics of fly ash may vary, thereby differing their influence on concrete performance. There are two types of fly ash that are commonly used in concrete: Class C and Class F fly ashes (ASTM C618 also recognizes Class N natural pozzolans). Fly ash should conform to the require-
+ments of ASTM C618. Class F fly ashes generally contain a low amount of lime (usually less than 18% CaO), whereas it is typical for Class C fly ashes to have higher lime contents (typically more than 18% CaO). Depending on the performance requirement, fly ash is typically used within 15 to 35% of the total cementi- tious materials content (ACI 232.2R). However, higher
+and lower amounts than the typical values listed have been successfully used and can be selected depending on the project requirements. Although the impact of fly ash on concrete properties depends on the type and amount of fly ash, the following statements are applicable for most mixtures. Fly ash tends to improve workability due to its spherical morphology that leads to the reduction of the interparticle friction. There- fore, while proportioning a mixture incorporating fly ash,
+depending on the selected amount and type of fly ash, slightly
+lower water content (up to 10%) may be needed compared to a plain concrete mixture containing portland cement only to achieve the same slump. Due to its slow pozzolanic reac- tivity, fly ash can increase the setting time and decrease the
+
+By-products Natural products Class C fly ash Metakaolin Class F fly ash
+Calcined clay
+Slag cement
+Calcined shale
+Silica fume — Rice husk ash =
+Table 72—Supplementary cementitious materials
+that are classified as pozzolanic versus cementitious
+Pozzolanic Pozzolanic + Cementitious Class F fly ash Class C fly ash Silica fume Slag cement Metakaolin — Calcined clay — Calcined shale oe Rice husk ash —
+Copyright American Concrete Institute ; ;
+
+(aci>
+American Concrete Institute — Copyrighted © Material — www.concrete.org
+
+@seismicisolation

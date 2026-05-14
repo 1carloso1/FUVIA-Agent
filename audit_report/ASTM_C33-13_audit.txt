@@ -1,0 +1,38 @@
+=================================================================
+  ASTM_C33-13
+=================================================================
+  Páginas totales         : 11
+  Páginas CODE/COMMENTARY : 0
+  Páginas vacías          : 0
+  Tablas detectadas       : 8
+  Tablas con título real  : 3
+  Tablas título genérico  : 5
+
+  ⚠️  Calidad de títulos: 38%
+
+  ÍNDICE DE TABLAS:
+  -------------------------------------------------------
+
+  ⚠️  [1] Página   1 — Normative table
+       Contexto: This table specifies: chloride exposure classes and chloride ion content limits;...
+
+  ⚠️  [2] Página   2 — Normative table
+       Contexto: This table specifies: aggregate grading and sieve analysis requirements; aggrega...
+
+  ✅ [3] Página   3 — TABLE 2 Limits for Deleterious Substances in Fine Aggrega
+       Contexto: This table specifies: chloride exposure classes and chloride ion content limits;...
+
+  ✅ [4] Página   3 — Table 2.
+       Contexto: This table specifies: aggregate grading and sieve analysis requirements; aggrega...
+
+  ✅ [5] Página   3 — Table 1). If not stated, the 3.0 % limit shall apply, and
+       Contexto: This table specifies: cement chemical and physical property limits; aggregate gr...
+
+  ⚠️  [6] Página   5 — Normative table
+       Contexto: This table specifies: aggregate grading and sieve analysis requirements; aggrega...
+
+  ⚠️  [7] Página   6 — Normative table
+       Contexto: This table specifies: aggregate grading and sieve analysis requirements.
+
+  ⚠️  [8] Página   7 — Normative table
+       Contexto: This table specifies: chloride exposure classes and chloride ion content limits;...

@@ -1,0 +1,65 @@
+[DOCUMENT: ACI_211.1-22]
+[PAGE: 14/26]
+[LAYOUT: continuous]
+============================================================
+SELECTING PROPORTIONS FOR NORMAL-DENSITY AND HIGH-DENSITY CONCRETE—GUIDE (ACI PRC-211.1-22) 15
+Table 5.3.3—Approximate mixing water and air content for different slumps for concrete without water-
+
+reducing admixtures and nominal maximum sizes of aggregates
+
+Water of concrete for indicated nominal maximum sizes of aggregates, Ib/yd*
+Slump, in.” | 38 | wz | 34 | 1 | diaz | 2a | 3t
+Non-air-entrained concrete
+lto2 350 335 315 300 275 260 220 3 to4 385 365 340 325 300 285 245 5to6 400 375 350 330 305 290 255 6 to7 410 385 360 340 315 300 270 More than 7? — — — — — — —
+
+Approximate entrapped air content in non-air-entrained concrete, % 3 2.5 2 1.5 1 0.5 0.3
+
+Air-entrained concrete
+lto2 305 295 280 270 250 240 205 3 to4 340 325 305 295 275 265 225 5to6 355 335 315 300 280 270 240 6 to7 365 345 325 310 290 280 260
+More than 7+ — — — - — — —
+
+Required total air, %
+
+ACI Exposure Class F1 6.0 5.5 5.0 4.5 4.5 4.0 3.5 318 Exposure Classes F2 and F3 7.5 7.0 6.0 6.0 5.5 5.0 4.5
+
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: normative requirements for construction materials.]
+*Slumps are maximum amounts for angular aggregates graded within limits of accepted specifications. *The slump values are based on slump tests made after removal of particles larger than 1-1/2 in. by wet screening.
+
+Slump values of more than 7 in. are usually obtained through the use of water-reducing admixtures. When using water-reducing admixtures, follow manufacturer’s
+
+recommendations. Note: These quantities of mixing water are for use in computing cementitious contents for trial batches at 68 to 77°F. Table 5.3.3.1—Adjustments to estimated water
+content for various conditions (adapted from
+Bureau of Reclamation Concrete Manual, A Water
+Resources Technical Publication, Chapter Ill,
+Section 45)
+
+[TABLE: Table 5.3.3.1—Adjustments to estimated water]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; freezing and thawing exposure classes; air content requirements; portland cement type specifications and chemical requirements; particle size distribution limits by sieve size.]
+maximum size of aggregate. In the lower part of the table, the required total air content for Classes Fl, F2, and F3 spec- ified in ACI 318 Chapter 19 are also provided. Initial propor- tioning calculations should use the air content as a percent of the whole. Additional recommendations for air content
+and tolerances for air content control in the field are given in
+ACI 318. ASTM C94/C94M also provides air content limits.
+The requirements in other documents may not always match exactly; therefore, in proportioning, consideration should be given to selecting an air content that will meet the needs of the job as well as meet the applicable specifications. 5.3.4 Step 4: Selection of w/cem—The required w/cm is determined not only by strength requirements but also by factors such as durability. Because different aggregates and cementitious materials may produce different strengths at the
+same w/cm, it is desirable to have or to develop the relation- ship between strength and w/cm for the materials to be used. In the absence of such data, approximate and relatively conservative values for concrete containing Type I portland
+cement can be taken from Table 5.3.4. The relationship in Table 5.3.4 assumes a nominal
+maximum size of aggregate of approximately 3/4 to | in.
+For a given source of aggregate, strength produced at a given w/cm will increase as nominal maximum size of aggregate decreases. With typical materials, the tabulated w/cm should produce strengths close to those shown, based on 28-day tests of
+specimens cured under standard laboratory conditions.
+Codes require that the average strength selected should
+exceed the specified strength by a sufficient margin to keep the number of low tests within specific limits (ACI 214R;
+ACI 301; ACI 318).
+
+Adjustments”
+Changed condition Water content, % Rounded aggregate -8 Each 1% increase in air content -3 Each 1% decrease in air content +3 Water-reducing admixture (WRA) used -5
+High-range water-reducing admixture (HR WRA) used -12
+Each slump increase of1 in. +3 Each slump decrease of 1 in. ~3 Each 10°F increase in concrete temperature +2 Each 10°F decrease in concrete temperature 2 Each 10% increase in fly ash content as cement 3 replacement, by weight
+Each 10% decrease in fly ash content as cement 43
+replacement, by weight
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; air content requirements; cement chemical and physical property limits; chemical admixture type classification and performance requirements.]
+Each 10% increase in slag cement content as 5 cement replacement, by weight Each 10% decrease in slag cement content as 15 cement replacement, by weight Manufactured sand is used +5 *These adjustments assume the user is starting at standard laboratory temperatures of 68 to 77°F with concrete having a 3 to 4 in. slump and containing reasonably well- shaped aggregates graded within limits of accepted specifications and natural sand having a fineness modulus of 2.75. The symbol “t+” represents the addition of water whereas the symbol “—” represents the reduction in water content. in liquid admixtures be included as part of the total mixing water when it causes a change of the w/cm of 0.01 or more. 5.3.3.1.2 Air content—The section of Table 5.3.3 for non-air-entrained concrete approximates the entrapped air content to be expected in mixtures based on the nominal
+Copyright American Concrete Institute
+
+American Concrete Institute — Copyrighted © Material — www.concrete.org
+
+@seismicisolation

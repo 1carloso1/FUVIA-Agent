@@ -1,0 +1,73 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 149/196]
+[LAYOUT: continuous]
+============================================================
+366 ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+CODE COMMENTARY
+
+Table 19.3.2.1—Requirements for concrete by exposure class
+
+[TABLE: Table 19.3.2.1—Requirements for concrete by exposure class]
+[TABLE_CONTEXT: This table specifies: compressive strength f'c requirements; exposure class requirements for concrete durability; air content requirements.]
+Additional requirements Limits on
+Maximum Minimum cementitious
+Exposure class wleml!?] S.', psi Air content materials
+
+FO N/A 2500 N/A N/A Fl 0.55 3500 Table 19.3.3.1 for concrete or Table 19.3.3.3 for shotcrete N/A F2 0.45 4500 Table 19.3.3.1 for concrete or Table 19.3.3.3 for shotcrete N/A
+
+F3 0.401) 5000/1 Table 19.3.3.1 for concrete or Table 19.3.3.3 for shotcrete 26.4.2.2(b)
+
+iti ials(41 —
+Cementitious materials Types Calcium chloride
+ASTM C150 ASTM C595 ASTM C1157 admixture
+
+[TABLE: Table 19.3.3.1 for concrete or Table 19.3.3.3 for shotcrete 26.4]
+[TABLE_CONTEXT: This table specifies: sulfate exposure classes.]
+SO N/A 2500 No type restriction No type restriction No type restriction No restriction SI 0.50 4000 TI Types with (MS) MS No restriction
+designation 82 0.45 4500 visi Types with (HS) HS Not permitted
+designation
+
+Types with (HS)
+
+Option 1 0.45 4500 V plus pozzolan or designation plus HS plus pozzolan or Not permitted
+
+slag cement!” pozzolan or slag slag cement!”
+S3 cement!”
+
+Option 2 0.40 5000 viel Types with (HS) HS Not permitted
+
+designation
+
+WO N/A 2500 None aval N/A 2500 26.4.2.2(d) W2 0.50 4000 26.4.2.2(d)
+Maximum water-soluble chloride ion (CT) content in concrete, percent by mass of cementitious materials’”!°! Nonprestressed
+
+concrete Prestressed concrete Additional provisions
+
+CO N/A 2500 1.00 0.06 None Cl N/A 2500 0.30 0.06 C2 0.40 5000 0.15 0.06 Concrete cover!!!)
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; compressive strength f'c requirements.]
+(The w/em is based on all cementitious and supplementary cementitious materials in the concrete mixture. [lThe maximum w/cm limits do not apply to lightweight concrete.
+For plain concrete, the maximum w/cem shall be 0.45 and the minimum f,' shall be 4500 psi.
+
+(lA lternative combinations of cementitious materials to those listed are permitted for all sulfate exposure classes when tested for sulfate resistance and meeting the criteria in
+
+26.4.2.2(c). lFor seawater exposure, other types of portland cements with tricalcium aluminate (C3A) contents up to 10 percent are permitted if the w/em does not exceed 0.40.
+
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: sulfate exposure classes; chloride exposure classes and chloride ion content limits; portland cement type specifications and chemical requirements; cement chemical and physical property limits.]
+(Other available types of cement such as Type I or Type III are permitted in Exposure Classes S1 or S2 if the C3A contents are less than 8 percent for Exposure Class S1 or less than (The amount of the specific source of the pozzolan or slag cement to be used shall be at least the amount that has been determined by service record to improve sulfate resistance
+when used in concrete containing Type V cement. Alternatively, the amount of the specific source of the pozzolan or slag cement to be used shall be at least the amount tested in (SIIf Type V cement is used as the sole cementitious material, the optional sulfate resistance requirement of 0.040 percent maximum expansion in ASTM C150 shall be specified.
+
+5 percent for Exposure Class 82.
+accordance with ASTM C1012 and meeting the criteria in 26.4.2.2(c).
+(lThe mass of supplementary cementitious materials used in determining the chloride content shall not exceed the mass of the portland cement. (lCriteria for determination of chloride content are in 26.4.2.2. (1]Concrete cover shall be in accordance with 20.5.
+
+19.3.3 Additional requirements for freezing-and-thawing R19.3.3 Additional requirements forfreezing-and-thaw
+ing
+
+exposure exposure
+
+19.3.3.1 Concrete subject to freezing-and-thawing Expo- R19.3.3.1 A table of required air contents for concrete sure Classes F1, F2, or F3 shall be air entrained. Except as to resist damage from cycles of freezing and thawing is
+
+aci> American Concrete Institute - Copyrighted © Material — www.concrete.org

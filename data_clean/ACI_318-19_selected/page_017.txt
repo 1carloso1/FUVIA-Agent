@@ -1,0 +1,37 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 17/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 1: GENERAL 31
+
+
+
+[CODE] Wp = factor used to modify development length for
+
+[COMMENTARY] - Not. & Term.
+
+[CODE] headed reinforcement based on parallel tie reinforcement
+[CODE] w, = factor used to modify development length based on
+[CODE] confining reinforcement
+[CODE] ws = factor used to modify development length based on
+[CODE] reinforcement size
+[CODE] yw, = factor used to modify development length for casting location in tension
+Wy = factor used to modify development length for welded deformed wire reinforcement in tension
+Q, = amplification factor to account for overstrength of
+[CODE] the seismic-force-resisting system determined in
+[CODE] accordance with the general building code
+Q, = overstrength factor equal to the ratio of M,,/M,, at
+[CODE] the wall critical section
+[CODE] ®, = factor to account for dynamic shear amplification
+[CODE] 2.3—Terminology adhesive—chemical components formulated from organic polymers, or a combination of organic polymers and inorganic materials that cure if blended together. admixture—material other than water, aggregate, cementitious materials, and fiber reinforcement used as an ingredient, which is added to grout, mortar, or concrete, either before or during its mixing, to modify the freshly
+mixed, setting, or hardened properties of the mixture. ageregate—granular material, such as sand, gravel, crushed stone, iron blast-furnace slag, or recycled aggre- gates including crushed hydraulic cement concrete, used with a cementing medium to form concrete or mortar.
+
+[COMMENTARY] R2.3—Terminology
+[COMMENTARY] agegregate—The use of recycled aggregate is addressed in the Code in 2019. The definition of recycled materials in ASTM C33 is very broad and is likely to include mate- rials that would not be expected to meet the intent of the provisions of this Code for use in structural concrete. Use of recycled aggregates including crushed hydraulic-cement concrete in structural concrete requires additional precau- tions. See 26.4.1.2.1(c). aggregate, lightweight—In some standards, the term “lightweight aggregate” is being replaced by the term “low- density aggregate.” alternative cements—Alternative cements are described in the references listed in R26.4.1.1.1(b). Refer to 26.4.1.1.1(b) for precautions when using these materials in concrete covered by this Code. anchor—Cast-in anchors include headed bolts, hooked bolts (J- or L-bolt), and headed studs. Post-installed anchors include expansion anchors, undercut anchors, screw anchors, and adhesive anchors; steel elements for adhesive anchors include threaded rods, deformed reinforcing bars, or internally threaded steel sleeves with external deformations.
+Anchor types are shown in Fig. R2.1.
+
+[CODE] aggregate, lightweight—aggregate meeting the require-
+ments of ASTM C330 and having a loose bulk density of
+70 lb/ft or less, determined in accordance with ASTM C29. alternative cement—an inorganic cement that can be used as a complete replacement for portland cement or blended hydraulic cement, and that is not covered by applicable spec- tfications for portland or blended hydraulic cements. anchor—a steel element either cast into concrete or post-installed into a hardened concrete member and used to transmit applied loads to the concrete.
+
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

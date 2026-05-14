@@ -1,0 +1,42 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 154/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] 26.1.1 This chapter addresses (a) through (c):
+[CODE] (a) Design information that the licensed design professional shall specify in the construction documents, if applicable. (b) Compliance requirements that the licensed design professional shall specify in the construction documents, if applicable.
+
+[COMMENTARY] R26.1.1(a) and (b) Except for the inspection require-
+ments of 26.13, the provisions of this chapter are organized
+by design information and compliance requirements. Design information is project specific and developed during the structural design. It describes the basis of the design or provides information regarding the construction of the Work. Only design information that is applicable to the
+Work need be provided. Compliance requirements are general provisions that provide a minimum acceptable level of quality for construction of the
+Work. It is not the intent of the Code to require the licensed design professional to incorporate verbatim the compliance requirements into the construction documents. Some of these requirements may not be applicable to a specific project. Construction documents that incorporate the minimum applicable compliance requirements of this chapter are considered to comply with the Code, even if the require-
+ments are stated differently, exceed these minimum require- ments, or provide more detail.
+
+[CODE] (c) Inspection requirements that the licensed design professional shall specify in the construction documents, if applicable.
+
+[COMMENTARY] R26.1.1(c) Section 26.13 provides inspection provisions to be used in the absence of general building code inspec- tion provisions. These inspection requirements are intended to provide verification that the Work complies with the construction documents. The inspection requirements of the governing jurisdic- tion or the general building code take precedence over those included in this chapter. Refer to 26.13.1. ACI 311.4R provides guidance for inspection of concrete construction,
+and ACI 311.6 is areference specification for testing services for ready mixed concrete.
+
+[CODE] 26.2—Design criteria 26.2.1 Design information:
+
+[COMMENTARY] R26.2—Design criteria
+
+[CODE] (a) Name and year of issue of the Code, general building code, and any supplements governing design. (b) Loads used in design.
+
+[COMMENTARY] R26.2.1(a) and (b) Reference to the applicable version of the documents that govern the design including essential loading information, such as gravity and lateral loading, is to be included in the construction documents.
+
+[CODE] (c) Design work delegated to the contractor including applicable design criteria.
+
+[COMMENTARY] R26.2.1(c) Examples of design criteria include dimen- sions, loads, and other assumptions used during design that
+may affect the delegated portion of the Work.
+
+[CODE] 26.2.2 Compliance requirements:
+[CODE] (a) Design work delegated to the contractor shall be
+performed by a specialty engineer. (b) The contractor’s specialty engineer, relying on the documents identifying the portion of design work assigned, shall produce design work that is compatible
+with the construction documents and the design criteria
+provided by the licensed design professional in charge of the design work. (aci¥
+A
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

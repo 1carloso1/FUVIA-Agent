@@ -1,0 +1,48 @@
+[DOCUMENT: ASTM_C494-19]
+[PAGE: 11/15]
+[LAYOUT: continuous]
+============================================================
+All cagaic4ag4m - 19
+Test Concrete
+Batch 1 Batch 2 Batch 3
+Test Test Test
+Result T1 Result T2 Result T3
+
+= 71+72+T73
+T=
+
+3
+Reference Concrete
+Batch 1 Batch 2 Batch 3
+
+Test Test Test
+Result Ri Result R2 Result R3
+R= R1 + R2 + R3
+
+3
+FIG. X1.1 Schematic of Minimum Testing for Each Test and Test Age
+X2. VERIFICATION TESTING FOR SPECIFIC USE
+
+X2.1 The performance of an admixture in the test concrete
+prepared in accordance with this specification may not be indicative of actual performance with the concrete mixture to
+be used on a specific project. Therefore, it is advisable that the
+user of the admixture perform verification tests using the concrete making materials and mixture proportions that will be
+used on a specific project. Practice C1753/C1753M may be
+used in addition to the test methods in this specification to
+evaluate admixture performance for the project concrete. X2.2 Materials for Tests—The effects of an admixture on the time of setting and water requirement of concrete are
+known to vary with the time of its addition during the batching
+and mixing sequence. To test an admixture for use in specific
+work, the cement, pozzolan, aggregates, and air-entraining
+admixture used should be representative of those proposed for
+use in the work. Add the admixture in the same manner and at
+
+the same time during the batching and mixing sequence as it will be added on the job. Proportion the concrete mixtures to
+have the cementitious materials content specified for use in the
+work. If the maximum size of coarse aggregate is greater than
+25.0 mm [1 in.], screen the concrete over a 25.0-mm [1-in.] sieve before fabricating test specimens. X2.3. Other Use Conditions—Other conditions are known to affect the overall suitability of the concrete mixture for specific
+intended uses. These include the temperature of the materials or the surroundings, the relative humidity, the length of time
+between mixing and placing, the amount of mixing activity and other factors. These physical conditions may be incorporated into the tests with intention of revealing potential adverse interactions. As an example, the decrease of slump with time
+(slump loss) is a characteristic that should be investigated
+under job conditions.
+
+Copyright by ASTM Int'l (all rights reserved); Wed Sep 2 00:11:37 EDT 2020 11 Downloaded/printed by Indian Inst of Tech Chennai (Indian Inst of Tech Chennai) pursuant to License Agreement. No further reproductions authorized.

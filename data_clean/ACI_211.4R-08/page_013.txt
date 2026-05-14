@@ -1,0 +1,51 @@
+[DOCUMENT: ACI_211.4R-08]
+[PAGE: 13/23]
+[LAYOUT: continuous]
+============================================================
+211.4R-14
+ACI COMMITTEE REPORT
+Adjusting the mixture proportions to yield 27.0 i gives:
+
+Table 6.7—Adjusted companion mixtures
+Companion mixture
+
+Mixture No. 4 Mass, lb
+
+Basic No. 1 | No. 2 | No. 3 | No. 4
+
+Cement 635 Fly ash, Class C 342 Fine aggregate, dry 898 Coarse aggregate, dry 1866 Water (including 2.5 oz/cwt retarding admixture) 296
+
+mixture—] 20% | 25% | 30% | 35%
+Materials no ash ash ash ash ash
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: compressive strength f'c requirements.]
+Cement, lb 1007 788 | 738 | 684 | 617 Fly ash, Class C, lb — 197 | 243 | 287 | 332 Fine aggregate, dry, Ib 934 875 | 867 | 859 | 896 Coarse aggregate, dry, Ib 1845 1845 | 1845 | 1845 | 1858 Water, Ib" 302 | 296 | 294 | 294 | 285 Slump, in., before HRWRA 1.00 1.25 | 1.00 | 1.50 | 1.00 Retarder, oz/cwt 3.0 2.5 2.5 2.0 2.0 HRWRA, oz/cwt 11.0 11.0 | 10.0 | 9.5 9.0 Water from HRWRA, lb 5.60 5.60 | 4.80 | 4.60 | 4.30 Slump, in., after HRWRA 10.00 | 10.50} 9.00 | 10.25} 9.50 Laboratory strength, 28-day, psi] 11,750 |11,500}11,900]11,600)11,370 “Does not include water in HRWRA.
+
+The new mixture proportions result in a w/cm of 0.29. The desired ratio was 0.30; so the mass of cementitious material
+may be reduced. The percentage of fly ash for this mixture is
+35%, and should be maintained. The new mass of cementitious material is (296)/(0.30) = 959 lb. Of this, 35% should be fly ash, giving 335 lb of fly ash and 623 Ib of cement. The change in volume due to the reduction in cementitious material is
+(643 — 623)/(3.15 x 62.4) + (342 — 335)/(2.64 x 62.4) = 0.167 ft? Therefore, 0.167 ft? of fine aggregate should be added, which increases the mass of fine aggregate by (0.167)(2.59)(62.4)
+=19 Ib/yd? of concrete. The adjusted mixture proportions are:
+
+28-day compressive Concrete
+Mixture strength, psi temperature, °F
+Basic 11,160 94 Companion mixture No. 1 10,920 93 Companion mixture No. 2 10,820 89 Companion mixture No. 3 10,790 84 Companion mixture No. 4 10,290 82
+
+Cement 623 Ib Fly ash 335 Ib Fine aggregate, dry 859 Ib Coarse aggregate, dry 1854 Ib
+Water (including 2.5 oz/cwt retarding admixture) 288 lb
+
+With the exception of Companion Mixture No. 4, all mixtures produced field compressive strengths exceeding the laboratory compressive strength of 10,600 psi (73 MPa) at 28 days. The reduced concrete temperature and cementitious material content of Companion Mixture No. 3 made it more desirable to the ready mixed concrete producer. As ambient conditions or material properties vary, additional field adjustments may be necessary.
+
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: compressive strength f'c requirements; air content requirements; chemical admixture type classification and performance requirements; admixture water reduction and setting time effects.]
+2. In adding HRWRA to the adjusted mixture to produce a flowing concrete, it was found that 9 oz/cwt of cementitious material produced a slump of 9-1/2 in. under laboratory conditions. A retarding admixture (2.5 oz/cwt) was added to the concrete with mixing water, and the HRWRA was added approximately 15 minutes after initial mixing; 3. The HRWRA mixture had adequate workability; thus,
+no adjustment to the coarse aggregate content was necessary; 4. The air content of the HRWRA mixture was measured at 2.1%; thus, no correction was necessary; and 5. The average 28-day compressive strength of specimens cast from the laboratory trial mixture was 11,370 psi. 6.3.2.10.3 Summary of trial mixture performance— Table 6.7 is a summary of the results of the adjusted laboratory trial mixtures. 6.3.2.11 Step 11: Select optimum mixture proportions— All mixtures produced a 28-day laboratory compressive strength in excess of the required laboratory compressive strength of 10,600 psi. Therefore, any of the companion mixtures No. | through 4 can be selected for use on this project. Because experience shows that the average strength of field production concrete will be different than the strength of a laboratory trial batch, the contractor properly elected to
+make field trial batches for the basic and the companion mixtures to verify the anticipated compressive strength in the field. The mixtures were adjusted to the desired slumps, both before and after addition of the HRWRA, and compressive strength specimens were made. Concrete temperatures were also recorded. The test results are shown as follows.
+
+CHAPTER 7—HIGH-STRENGTH CONCRETE
+MIXTURE PROPORTIONING USING SILICA FUME
+7.1—Fundamental relationships Silica fume has a pronounced effect on concrete properties. This is especially so for high-strength concrete because of its physical and chemical properties. Silica fume increases the strength of concrete largely because it increases the strength of the bond between the cement paste and the aggregate particles (Mindess 1988). Silica fume combines with calcium hydroxide Ca(OH), a weak by-product of the cement hydra- tion process, which results in additional cementing products, thus increasing concrete strength and significantly reducing its permeability. Refer to ACI 234R for current and more comprehensive information on mechanism by which silica
+fume modifies cement paste, mortar, and concrete. 7.1.1 Cement and silica fume—Various types of portland
+cement have been used in conjunction with silica fume to
+meet specific project requirements, including high strength. Mixture proportions with portland cement that meets ASTM C150, for Type I or II and silica fume that meets the require-
+ments of ASTM C1240 are most commonly used. Concrete mixtures for high-strength concrete typically contain 600 to

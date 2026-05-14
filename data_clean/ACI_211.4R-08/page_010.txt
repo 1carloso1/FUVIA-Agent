@@ -1,0 +1,66 @@
+[DOCUMENT: ACI_211.4R-08]
+[PAGE: 10/23]
+[LAYOUT: continuous]
+============================================================
+211.4R-11
+SELECTING PROPORTIONS FOR HIGH-STRENGTH CONCRETE
+
+(0.68) x (101) x (27) = 1854 Ib
+
+Cement 984 Ib Fine aggregate, dry 963 |b Coarse aggregate, dry 1854 lb Water, including 3 oz/cwt’ admixture 295 Ib *
+Hundred mass of cement.
+
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: air content requirements.]
+6.3.2.4 Step 4: Estimate mixing water and air contents—
+Based on a slump of | to 2 in. and 1/2 in. maximum-size coarse aggregate, the first estimate of the required mixing
+water chosen from Table 6.4 is 295 Ib/yd? of concrete, and the entrapped air content, for mixtures made using HRWRA, is 2.0%. To correct for void content other than 35%, Eq. (6-2) is first used to compute the voids content of the fine aggregate to be used
+
+6.3.2.8 Step 9: Proportion companion mixtures using
+cement and fly ash 1. An ASTM Class C fly ash with a relative density of 2.64 is selected; 2. The recommended limits for replacement given in
+Table 6.6 for Class C fly ash are from 20 to 35%. Four
+companion mixtures should be proportioned, having fly ash
+replacement percentages as follows:
+
+[1 _ 105 | x 100 = 35.03% (2.59) x (62.4)
+The mixing water adjustment, calculated using Eq. (6-3), is
+
+Companion mixture No. 1 20% Companion mixture No. 2 25% Companion mixture No. 3 30% Companion mixture No. 4 35%
+
+(35.03 — 35) x 8 = +0.24 lb/yd? of concrete
+[TABLE: Table 6.6 for Class C fly ash are from 20 to 35%. Four]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; compressive strength f'c requirements; chemical admixture type classification and performance requirements.]
+The adjustment to the mixing water per cubic yard of concrete is negligible; therefore, 295 lb of water will be used.
+This required mixing water is not adjusted for the water in the HRWRA or other chemical admixtures. 6.3.2.5 Step 5: Select w/cem—For concrete to be made
+using HRWRA, 1/2 in. nominal maximum-size aggregate,
+and achieving an average compressive strength of 10,600 psi at 28 days in the field based on laboratory trial mixtures, the required w/cm chosen from Table 6.5 is interpolated to be 0.30. The compressive strengths listed in Table 6.5 are required average field strengths. 6.3.2.6 Step 6: Calculate content of cementitious
+material—The mass of cementitious material per cubic yard of concrete is
+
+3. For companion mixture No. 1, the mass of Class C fly ash per cubic yard of concrete is (0.20) x (984) = 197 lb. Therefore, the cement mass is (984) — (197) = 787 Ib. The
+masses of cement and fly ash per cubic yard of concrete for the remaining companion mixtures are calculated in a similar
+manner. The values are as follows:
+Companion mixture] Percent |Cement, lb} Class C fly ash, lb | Total, lb No. 1 20 787 197 984 No. 2 25 738 246 984 No. 3 30 689 295 984 No. 4 35 640 344 984
+4. For the first companion mixture, the volume of cement
+per cubic yard of concrete is (787)/(3.15 x 62.4) = 4.00 f°,
+and the fly ash per cubic yard is (197)/(2.64 x 62.4) = 1.2 f°,
+The volumes of cement, fly ash, and total cementitious material for each companion mixture are:
+
+(>) = 983.3 Ib 03
+The specifications do not set a minimum for cementitious
+materials content; thus, 984 Ib/yd? of cement will be used. 6.3.2.7 Step 7: Proportion basic mixture with cement only 1. Cement content per cubic yard = 984 Ib; and 2. The volumes per cubic yard of all materials, except fine aggregate, are as follows:
+
+Companion mixture |Cement, ft?| Class C fly ash, ft? Total, ft? No. 1 4.00 1.20 5.20 No. 2 3.75 1.49 5.24 No. 3 3.50 1.79 5.29 No. 4 3.25 2.09 5.34
+
+Cement (984)(3.15 x 62.4) = 5.01 f? Coarse aggregate (1854)/((2.76 x 62.4) = 10.77 f° Water (295)/(62.4) = 4.73 ft? Air (0.02) x (27) = 0.54 ft Total volume 21.04 ft?
+
+5. For all companion mixtures, the volumes of coarse aggregate, water, and air per cubic yard of concrete are the
+same as the basic mixture that contains no other cementitious material; however, the volume of cementitious material varies with each mixture. The required mass of fine aggregate per cubic yard of concrete for companion mixture No. | is calculated as follows:
+
+Therefore, the required volume of fine aggregate per cubic
+yard of concrete is (27.0 — 21.04) = 5.96 ft. Converting this to mass of fine aggregate in a dry condition, per cubic yard of concrete, the required mass of fine aggregate is
+
+Volume (per cubic
+Component yard of concrete, ft?)
+Cementitious material 5.20 Coarse aggregate 10.77
+
+(5.96) x (62.4) x (2.59) = 963 Ib

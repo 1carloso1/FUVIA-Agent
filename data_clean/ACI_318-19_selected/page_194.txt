@@ -1,0 +1,40 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 194/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+[COMMENTARY] suppliers, and the building official to allow timely identifica- tion of compliance or the need for corrective action. Inspection responsibility and the degree of inspec- tion required should be set forth in the contracts between the owner, architect, engineer, contractor, and inspector.
+Adequate resources should be provided to properly perform
+and oversee the inspection.
+
+[CODE] 26.13.1.3 Inspection of concrete placement and reinforce-
+ment for special moment frames, boundary elements of special structural walls, coupling beams, and precast concrete
+diaphragms assigned to SDC C, D, E, or F using moderate or high-deformability connections, shall be performed under the supervision of the licensed design professional responsible for the design, by a person under the supervision of a licensed design professional with demonstrated capability to supervise
+mspection of these elements or by a certified inspector. Instal- lation tolerances of precast concrete diaphragm connections shall be inspected for compliance with ACI 550.5.
+
+[COMMENTARY] R26.13.1.3 The purpose of this requirement is to verify that the detailing required in special moment frames and special structural walls is properly executed through inspec- tion by personnel who are certified to inspect these elements. Certification of inspectors should be acceptable to the juris- diction enforcing the general building code and as described in R26.13.1.2. Continuous construction inspection is needed for comple- tion of connections for precast concrete diaphragms designed in accordance with 18.12.1.1 to verify the tolerances speci- fied in ACI 550.5 are met.
+
+[CODE] 26.13.1.4 Inspection of reinforcement welding shall be
+performed by a qualified welding inspector in accordance
+with AWS D1.4. The weldability of reinforcement other than
+ASTM A706 shall be confirmed by documentation in accor- dance with 26.6.4.
+[CODE] 26.13.1.5 Inspection of the installation of post-installed expansion (torque-controlled and displacement-controlled), screw, and undercut anchors shall be performed by a certi- fied inspector or a qualified inspector specifically approved for that purpose by the Licensed Design Professional and the building official.
+
+[COMMENTARY] R26.13.1.5 The International Building Code (IBC 2018) requires inspection of all post-installed anchors. For post- installed expansion (torque-controlled and displacement- controlled), screw, and undercut anchors, monitoring of installation by a certified inspector is recommended to ensure required installation procedures are followed. Certi- fication is established through an independent assessment such as the ACI Post-Installed Concrete Anchor Installation Inspector program (ACI CPP 681.2-19), or similar program with equivalent requirements.
+
+[CODE] 26.13.1.6 The installation inspection of all adhesive anchors shall be performed by a certified inspector.
+
+[COMMENTARY] R26.13.1.6 The installation of all adhesive anchors requires imspection by a certified inspector. Certification is established
+through an independent assessment such as the ACI Adhesive
+Anchor Installation Inspector program (ACI CPP 681.1-17), or similar program with equivalent requirements. The installation of adhesive anchors identified in the construction documents as resisting sustained tensile loads in horizontal or upwardly inclined orientations (clockwise
+from 9 o’clock to 3 o’clock) poses challenges to the installer
+and requires particular attention to execution quality as well as an enhanced level of oversight. It is required that these
+anchor installations be inspected bya certified inspector who is continuously present when and where the installations are
+being performed.
+
+[CODE] 26.13.2 Inspection reports
+
+[COMMENTARY] R26.13.2 Inspection reports
+
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

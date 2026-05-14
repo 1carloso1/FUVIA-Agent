@@ -1,0 +1,65 @@
+[DOCUMENT: ASTM_C150-22]
+[PAGE: 5/9]
+[LAYOUT: continuous]
+============================================================
+Aly cisorcisom - 22
+
+Nore 8-—Comparative test data may be from qualification tests ner-
+formed by the manufacturer during formulation of the cement with
+limestone. 12.3 At the request of the purchaser, the manufacturer shall report the chloride content as determined using Test Methads
+Cii4, in percent by mass of the cement, in the manufacturer’s
+
+standard SI package for portland cements. To that end 42 keg [92.6 Ib}
+provides 4 convenient, even-numbered mass reasonably similar to the traditional 94-Ib [42.6 ke] package. i4. Storage i4.f The cement shall be stored in such a manner as to
+pernut easy access for proper mspection and identification of
+each shipment, and in a surtable weather-tight building that will protect the cement from dampness and minimize ware- house set. is, Manufacturer’s Certification 15.1 Upon request of the purchaser in the contract or order, a manufacturer’s report shall be furnished at the time of
+shipment stating the results of tests made on samples of the raaterial taken during production or transfer and certifying that the cernent conforms to applicable requirements of this spect- fication. Nore 11—Guidance on preparing the manufacturer’s report is provided
+
+Nore 9--Chiorides in concrele come from multiple ingredients and
+cement chloride content may be required to estimate concrete chioride content, Requirernents for concrete chloride content are provided in building codes and other documents. 13. Packaging and Package Marking 13.1 When the cement is delivered in packages, the words “Portland Cement,” the type of cement, the name and brand of the manufacturer, and the mass of the cement contained therem shall be plainly marked on each package. When the cement is
+an ajr-entrainmg type, the words “ai-entraining” shall be plainly marked on each package. Similar information shall be
+provided in the shipping documents accompanying the ship-
+ment of packaged or bulk cernent. All packages shall be in
+good condition at the time of inspection. Nore 10—With the change to SI units, it is desirable to establish a
+
+16. Keywords 16.1 hydraulic cement; portland cement; specification
+
+ANNEXES
+(Mandatory Information)
+Ad. CALCDOLATION OF POTENTIAL CEMENT PHASE COMPOSITION
+AL. AL values calculated as described in this annex shall
+be rounded in accordance with Practice &29. When evaluating
+conformance t0 3 specification, rund valies to the same
+number of places as the corresponding table entry before
+making comparisons. The expressing of chemical limitations
+by means of calculated assumed phases does not necessarily
+mean that the oxides are actually or entirely present as such
+
+properly qualified under the requirements of Test Methods ii. Ai,3 When the ratio of percentages of aluminum oxide to ferric oxide ts 0.64 or more, the percentages of tricalcium suicate, dicalctum silicate, tricalcenim altiminate, and tetracal-
+cium aluminoferrite shall be calculated from the chemical analysis as follows: Tricaicium silicaie (C.S)} = (4.071 x % CaO) - (7.600 x % SIO.) ~ (6.718 x % AlpOg} -- (1.430 x % Fe,Q,) ~ (2.852 x % SO3}
+
+Al.2 When expressing phases, C= CaQ, §S = 510,,
+A=ALQ,, F=Fe,0,. For example, C,A = 3Ca0-ALQ,. Th-
+tanium dioxide and phosphorus pentoxide (Ti0, and P.O) shall not be mcluded with the ALO, content (see Note Ali). Norse Al.i—When comparing oxide analyses and calculated phases
+from different sources or from different historic times, be aware that they
+may not have been reported on exactly the same basis. Chemical data
+obtained by Reference and Alternate Test Methods of Test Methods (1 i4
+(wet chemistry) may include titania and phosphorus as alumina unless
+proper correction has been made (see Test Methods (114), while data
+obtained by rapid instrumental methods usuatly do not. This can result in
+small differences in the calculated phases. Such differences are usually within the precision of the analytical methods, even when the methods are
+
+(Al1.4)
+Dicalciurn silicate (C.3) = (2.867 x % SID.) ~ (0.7544 x % C3}
+(A1.2)
+Tricalcium atuminate (CA) = (2.650 x % Al,O.s} — (1.692 « % Fe .O.)
+CALS)
+Tetracalcium aluminoferrite (CAF) = 3.043 x % Fe sO.
+(A1.4)
+AiL.3.1 When the alumina-ferric oxide ratio is fess than 0.64, a caictum aluminoferrite solid solution (expressed as ss(C AP + C,F)) is formed. No tricalcium aluminate will be
+
+Au, 1g POA RRGBLTAAL ARS REBRRPOA @aitdeena
+pu, | BO MRSER-ERLTS
+eHow LBS
+AA, 1, ean, MOP AB
+THEA, NIA AOR NAC) AB) KYA RAB saaCDBLOsAINA nA Ard, BH)“ Coapatarg oy) 20¢| Be) ¢, ¢ Bax

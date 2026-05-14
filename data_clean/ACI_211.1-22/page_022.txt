@@ -1,0 +1,59 @@
+[DOCUMENT: ACI_211.1-22]
+[PAGE: 22/26]
+[LAYOUT: continuous]
+============================================================
+SELECTING PROPORTIONS FOR NORMAL-DENSITY AND HIGH-DENSITY CONCRETE—GUIDE (ACI PRC-211.1-22) 23
+
+Table 9.2.72—Constituent weights
+Table 9.2.8—Constituent weights
+
+Mixture constituents Ib/yd3 Ib/ft3 Mixture constituents Ib/yds lb/ft? Mixing water 300 11.11 Mixing water 202 748 Cementitious materials 484 17.93 Cementitious materials 484 17.93 Coarse aggregate (SSD) 1927 71.37 Coarse aggregate (SSD) 1956 72.44 Fine aggregate (SSD) 1308 48.44 Fine aggregate (SSD) 1377 51.00
+
+Total weight 4019 148.85 Total weight 4019 148.85
+
+Fresh density at 1% air — 148.9 Fresh density — 148.9 Atr-free density — 150.4 Air-free density — 150.4
+
+[TABLE: Table 9.2.72—Constituent weights]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; chloride exposure classes and chloride ion content limits; air content requirements; aggregate physical property limits.]
+w/cm =300 Ib/484 Ib = 0.62 9.2.7.2 For the first laboratory trial batch, the constituent weights, as well as the expected fresh density and the air- free density (needed for computation of yield and air content per ASTM C138/C138M), are calculated as shown in Table 9.2.7.2 prior to the moisture adjustments. 9.2.8 Step 8: Moisture adjustment—The constituent weights for this mixture have been established. However, moisture adjustments may be necessary at the time of batching to properly manage the amount of water required to achieve the target performance requirements. This is usually
+due to the presence of water on the surface of aggregates that is available to hydrate cement as opposed to water absorbed
+by aggregates. Free water is the difference between the total amount of water subtracted by the absorbed water. If the aggregate moisture is above SSD, an adjustment should be made to the aggregate weights with the excess moisture
+above SSD being subtracted from the mixture water. This assures that the total amount of water in the batch equals the
+amount required as stated in Table 5.3.3. These adjustments are not apparent in the initial mixture proportioning phase
+and can only be determined after the trial batch is completed. For the materials available, tests indicate a total mois- ture content (MC%) of 2% for the coarse aggregate and 6% for the fine aggregate. Recalling that the absorptions of the coarse and fine aggregates were 0.5% and 0.7%, respec- tively, moisture-adjusted weights become 1+2%
+Coarse aggregate: 1927 x ———— = 1956 lb/yd?
+BBtv 1+0.5% 7 ; 1+6%
+Fine aggregate: 1308 x ———— = 1377 lb/yd?
+Seis 1+0.7%
+
+Table 9.2.9—Constituent weights Mixture constituents Original lb/ft? Batched Ib/ft? Mixing water 7.48 8.50 Cementitious materials 17.93 17.93 Coarse aggregate (SSD) 72.44 72.44 Fine aggregate (SSD) 51.00 51.00 Total weight 148.85 149.87 Fresh density 148.9 147.5 Air-free density 150.4 —
+Therefore, the water required for batching is
+300 Ib/yd? — 98 Ib/yd? = 202 Ib/yd?
+With aggregates adjusted to their current moisture condi- tion, the constituent weights are shown in Table 9.2.8. Note that after the moisture adjustments, the sum of the
+weights of the constituents per cubic yard (yd*) and per
+cubic foot (ft’) do not change from the original proportions. 9.2.9 Step 9: Post-trial batch—An initial 1 ft trial batch of this mixture was prepared. Although the quantity of water for the trial batch was proportioned to be 7.48/ft’, the amount of water added to reach the desired 3 to 4 in. slump resulted in a slump of 2 in. Therefore, to increase the slump to reach the design values of 3 to 4 in., an additional water content of 1.02 lb/ft? was added that increased the total water content to 8.50 lb/ft’. The batched weights are shown in Table 9.2.9. 9.2.9.1 The trial batch produced concrete with a 2 in.:
+slump that is below the 3 to 4 in. selected at Step 1. Even:
+with extra water of 1.02 lb/ft? added, slump was too low; therefore, additional water was needed. The mixing water in: the batch was not just the 7.48 lb/ft? that was weighed out,. but also included the free water on the aggregates. The free-:
+water weights are found by reversing the computations for: determining the moist weights from the SSD proportioning weights. The aggregate batched weight is first divided by | +
+MC%to return to oven-dry condition, and then multiplied by 1 + A% to bring the aggregate to SSD. The resulting equiva- lent SSD weight is subtracted from the batched weights to determine the amount of free water on the aggregates in the trial batch. Coarse aggregate + 0.5%
+72.44 (moist) x = 71.37 lb/ft? (SSD)
+
+The free water contributed by the coarse aggregate is the difference between the moisture-adjusted aggregate weight (just computed) and the SSD weight from Step 6. For coarse aggregate, free water is determined as
+1956 Ib/yd? — 1927 lb/yd? = 29 Ib/yd?
+For fine aggregate, free water is
+1377 Ib/yd3 — 1308 Ib/yd? = 69 Ib/yd?
+
+1+2%
+
+The total free water is the sum of the two amounts
+
+Free water = 72.44 lb/ft? — 71.37 lb/ft? = 1.07 lb/ft?
+
+29 Ib/yd? + 69 Ib/yd? = 98 Ib/yd?
+Copyright American Concrete Institute
+
+a
+American Concrete Institute — Copyrighted © Material — www.concrete.org aci
+Dy
+
+@seismicisolation

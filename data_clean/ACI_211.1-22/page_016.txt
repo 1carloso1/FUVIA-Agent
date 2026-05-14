@@ -1,0 +1,51 @@
+[DOCUMENT: ACI_211.1-22]
+[PAGE: 16/26]
+[LAYOUT: continuous]
+============================================================
+SELECTING PROPORTIONS FOR NORMAL-DENSITY AND HIGH-DENSITY CONCRETE—GUIDE (ACI PRC-211.1-22) 17
+
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; compressive strength f'c requirements; air content requirements; chemical admixture type classification and performance requirements.]
+10 Ib for each | in. required increase or decrease in slump. In cases where the addition of water is undesirable, the use
+of water-reducing admixtures can be considered. §.3.10.2 Adjustment 2—If the desired air content (for air-entrained concrete) was not achieved, re-estimate the
+admixture dosage for the required air content, and reduce or increase the mixing-water content of Section 5.5.1 by 5 Ib for each 1% by which the air content is to be increased or decreased from that of the previous trial batch. §.3.10.3 Adjustment 3—If the desired strength was not achieved, w/cm-versus-strength curves can be used to adjust the value. An example is shown in Chapter 9. The measured cement efficiency can also be used to adjust the strength. Cement efficiency is the strength gained from
+each pound of cement in a cubic yard. With units of psi/ lb/yd>, it is computed by dividing the trial batch strength
+by the weight of cement for a cubic yard of the trial batch. Dividing the difference between the intended strength and the measured strength by the cement efficiency results in the
+weight of cement to be added to a cubic yard, to increase, or subtracted to decrease the strength. To keep the w/cm constant, a water adjustment will be needed. The net volume
+change resulting from these changes is offset by an adjust-
+ment to the weight of sand to keep the yield constant at one cubic yard. An example is shown in Chapter 9. 5.3.10.4 Post-adjustments—Calculate new batch weights starting with Step 5 (Section 5.3.5) and modify the volume of coarse aggregate from Table 5.3.6, if necessary, to provide
+proper workability.
+
+Table 5.3.9.1—Batch weight summary”
+Design weight Batch weight
+Water Step 3 — Cementitious materials Step 5 a Coarse aggregate (SSD) Step 6 a Fine aggregate (SSD) Step 7 a Total weight — -
+“If chemical admixtures are used, record the admixture dosage (oz/yd*). Record the target air content percentage according to the provided values in Table 5.3.3 (Step 3). 5.3.9.1 Moisture adjustments—Typically, aggregates will
+have greater moisture content than their SSD condition. The amount batched will need to be increased from the design weight, expressed as SSD, by the free water on the aggre- gate so that the correct amount of aggregate is used. It can
+happen that the aggregate is so dry the amount to be weighed out needs to be decreased, with additional water added to bring it to SSD. The instructions that follow will work for both cases. To determine the weight of aggregate to be batched, use the following formula for each aggregate and then enter these values into the batch weight summary (Table 5.3.9.1)
+1+ MC9%
+Watched SS oa * Wesp (5.3.9.1)
+The difference between the batched water and the mixing-
+water weight from the mixture proportions is the weight of the free water. It is subtracted from the mixing-water weight for the weight of water to be batched. Enter this value into Table 5.3.9.1. The water added to the mixture plus the free
+water should equal the mixing-water weight. The total batch
+weight after moisture adjustments should match the total
+mixture weight. The total amount of materials will be needed to compute the yield. The procedure is illustrated in the examples of
+Chapter 9. 5.3.10 Step 10: Post-trial batch adjustments—The calcu- lated mixture proportions should be checked for required
+performance by means of trial batches prepared and tested in accordance with ASTM C192/C192M, or full-sized field batches. Only sufficient water should be used to produce the required slump regardless of the quantity assumed in selecting the trial proportions. The concrete should be
+checked for density and yield (ASTM C138/C138M) and for air content (ASTM C138/C138M; ASTM C173/C173M;
+ASTM C€231/C231M). It should also be carefully observed for workability, resistance to segregation, and finishing properties. Appropriate adjustments should be made in the proportions for subsequent batches to correct deficiencies in accordance with the following suggestions. 5.3.10.1 Adjustment !—Re-estimate the quantity of the required mixing water per cubic yard of concrete by multi- plying the net mixing-water content of the trial batch by 27
+and dividing the product by the yield of the trial batch in cubic feet. If the slump of the trial batch was not correct, increase or decrease the re-estimated quantity of water by
+
+CHAPTER 6—EFFECTS OF CHEMICAL
+ADMIXTURES
+6.1—Background Chemical admixtures are defined as liquids, or dispers- ible powders, used as ingredients in cementitious mixtures to improve their economy, properties, or both, in the plastic or hardened state. This chapter will provide basic information needed for proportioning of concrete mixtures incorporating chemical admixtures. Although the design method presented in this
+guide makes only passing mention of this, very little commer- cial concrete is produced without chemical admixtures. Chemical admixtures are used to tailor the properties of concrete mixtures to meet specific performance require-
+ments of a given project such as workability, time of setting, strength, shrinkage, durability, permeability, viscosity, rheology, color, and other properties. The type and dosage of chemical admixtures are selected based on the desired
+performance requirements. As water-reducing admixtures (WRAs) and air-entraining admixtures (AEAs) are among the most commonly used chemical admixtures in the concrete industry, this chapter will emphasize the effects
+of these two admixture types on mixture proportioning.
+However, admixtures other than WRA and AEA such as set retarders, accelerators, and shrinkage-reducing admix- tures are also used to meet various performance targets. For
+
+Copyright American Concrete Institute
+
+American Concrete Institute — Copyrighted © Material — www.concrete.org aci ¥
+
+@seismicisolation

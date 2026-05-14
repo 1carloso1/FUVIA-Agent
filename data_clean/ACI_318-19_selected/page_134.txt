@@ -1,0 +1,45 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 134/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] 350 ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] less than one-half of that required within the ductile pile region, and the maximum spacing shall be in accordance with Table 13.4.5.6(b). (e) If transverse reinforcement consists of rectangular
+hoops and crossties, the total cross-sectional area of lateral transverse reinforcement in the ductile region shall be the greater of Eq. (18.13.5.10.5c) and Eq. (18.13.5.10.5d).
+The hoops and crossties shall be equivalent to deformed bars not less than No. 3 in size, and rectangular hoop ends shall terminate at a corner with seismic hooks.
+[CODE] “\( A yt ch ce’ og
+[CODE] f! 14P.
+A,, = 0.12sb, 05+
+[CODE] (18.13.5.10.5d)
+[CODE] Sy SA,
+[CODE] and f,; shall not be taken as greater than 100,000 psi.
+[CODE] 18.13.5.10.6 For structures assigned to SDC C, D, E, or F, the maximum factored axial load for precast prestressed piles subjected to a combination of earthquake lateral force
+and axial load shall not exceed the following values:
+
+[COMMENTARY] R18.13.5.10.6 The axial load in precast prestressed piles is limited to preclude spalling of the concrete cover prior to the pile section experiencing flexural cracking, as this will result in a significant loss in pile resistance (Sritharan et al. 2016).
+
+[CODE] (a) 0.2f,'Ag for square piles (b) 0.4f,'A, for circular or octagonal piles
+[CODE] 18.13.6 Anchorage of piles, piers, and caissons
+
+[COMMENTARY] R18.13.6 Anchorage of piles, piers, and caissons
+[COMMENTARY] R18.13.6.1 A load path is necessary at pile caps to transfer tension forces from the reinforcing bars in the column or
+boundary element through the pile cap to the reinforcement of the pile or caisson. Examples of different types of pile connections to pile caps are available in ASCE/COPRI Stan- dard for the Seismic Design of Piers and Wharves (61-14).
+
+[CODE] 18.13.6.1 For structures assigned to SDC C, D, E, or F, the longitudinal reinforcement in piles, piers, or caissons resisting tension loads shall be detailed to transfer tension forces within the pile cap to supported structural members.
+[CODE] 18.13.6.2 For structures assigned to SDC C, D, E, or F, concrete piles and concrete filled pipe piles shall be connected to the pile cap by embedding the pile reinforcement in the pile cap a distance equal to the development length or by the use of field-placed dowels anchored in the concrete pile. For
+deformed bars, the compression development length is used if the pile is in compression. In the case of uplift, the tension
+development length is used without reduction in length for excess reinforcement.
+
+[COMMENTARY] R18.13.6.2 Development length is determined according to requirements of Chapter 25. Reductions in development length for calculated stresses less than f, are not permitted, as indicated in 25.4.10.2. Full development of the pile longi- tudinal reinforcement into the pile cap is intended to enable the capacity of the pile to pile cap connection to meet or
+exceed the pile section strength.
+
+[CODE] 18.13.6.3 For structures assigned to SDC D, E, or F, if tension forces induced by earthquake effects are transferred
+between pile cap or mat foundation and precast pile by rein- forcing bars grouted or post-installed in the top of the pile, the grouting system shall have been demonstrated by testing to develop at least 1.25f, of the bar.
+
+[COMMENTARY] R18.13.6.3 Grouted dowels in a blockout in the top of a precast concrete pile need to be developed, and testing is a practical means of demonstrating strength. Alternatively, reinforcing bars can be cast in the upper portion of the pile,
+exposed by chipping of concrete and mechanically spliced or welded to an extension.
+
+[CODE] (aci®
+—_
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

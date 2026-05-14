@@ -1,0 +1,38 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 193/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 9: CONSTRUCTION 555
+
+
+[COMMENTARY] R26.13.1.1 By inspection, this Code does not intend that the inspector should supervise the construction. Rather, it
+means the inspector should visit the project as necessary to
+observe the various stages of Work and determine that it is
+being performed in conformance with the construction docu- ments. The frequency of inspections should follow 26.13.3 for items requiring continuous or periodic inspection. Inspection does not relieve the contractor from the obliga- tion to follow the construction documents and to provide the designated quality and quantity of materials and workman- ship for all stages of the Work. This Code prescribes minimum requirements for inspec- tion of all structures within its scope. This Code is not a construction specification and any user of this Code may require higher standards of inspection than cited in the general building code or this Code if additional requirements are necessary. ACI 311.4R describes the recommended
+procedure for organizing and conducting concrete inspec-
+
+[CODE] 26.13.1.1 Concrete construction shall be inspected as required by the general building code, and as a minimum, the inspection shall comply with the requirements provided in 26.13. In the absence of a general building code, concrete construction shall be inspected in accordance with the provi- sions of this Code.
+
+[COMMENTARY] ‘Sf Construction
+oa
+[COMMENTARY] tion and serves as a guide to owners, architects, and engi- neers. ACI SP-2 describes methods of inspecting concrete construction that are generally accepted as good practice
+and serves as a guide in matters not covered by construction
+documents.
+
+[CODE] 26.13.1.2 Inspection of concrete construction shall be
+conducted by the licensed design professional responsible for the design, a person under the supervision of the licensed design professional, or a qualified inspector. The inspec- tion shall verify conformance with construction documents
+throughout the various Work stages. If an inspector conducts inspection of formwork, concrete placement, reinforcement,
+and embedments, the inspector shall be certified.
+
+[COMMENTARY] R26.13.1.2 The licensed design professional responsible for the design is in the best position to determine if construc- tion is in conformance with the construction documents.
+However, if the licensed design professional responsible for the design is not retained, inspection of construction through other licensed design professionals or through separate inspection organizations with demonstrated capability for
+performing the inspection may be used. Inspectors should establish their capability of performing inspection requirements by becoming certified to inspect
+and record the results of concrete construction, including pre-placement, placement, and post-placement through the
+ACI Concrete Construction Special Inspector Certification
+Program (ACI CPP 630.1-15) or equivalent. In some jurisdictions, legislation has established registra- tion or licensing procedures for persons performing certain inspection functions. The general building code should be reviewed, or the building official should be consulted to
+determine if any such requirements exist within a specific jurisdiction. The building official may be contacted for clari- fication of the inspection requirements if not clearly identi- fied in the general building code. If inspection is conducted independently of the licensed design professional responsible for the design, it is recommended that the licensed design professional responsible for the design
+review inspection reports and observe portions of the Work to verify that the design requirements are properly executed. Inspection reports should be distributed promptly to the
+owner, licensed design professional responsible for the design, contractor, appropriate subcontractors, appropriate
+[COMMENTARY] aci=
+_ IT
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

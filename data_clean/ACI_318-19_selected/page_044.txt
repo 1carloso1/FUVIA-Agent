@@ -1,0 +1,44 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 44/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+[COMMENTARY] R9.6.3.4 Tests (Roller and Russell 1990) have indicated the need to increase the minimum area of shear reinforce-
+ment as the concrete strength increases to prevent sudden shear failures when inclined cracking occurs. Therefore, expressions (a) and (c) in Table 9.6.3.4 provide for a gradual increase in the minimum area of transverse reinforcement
+with increasing concrete strength. Expressions (b) and (d) in Table 9.6.3.4 provide for a minimum area of transverse reinforcement independent of concrete strength and govern for concrete strengths less than 4400 psi. Tests (Olesen et al. 1967) of prestressed beams with minimum
+web reinforcement based on 9.6.3.4 indicate that the lesser of Ajmin ftom expressions (c) and (e) is sufficient to develop ductile behavior. Expression (e) is discussed in Olesen et al. (1967).
+
+[CODE] 9.6.3.4 If shear reinforcement is required and torsional effects can be neglected according to 9.5.4.1, Aymin shall be in accordance with Table 9.6.3.4.
+[CODE] Table 9.6.3.4—Required Aymin Beam type Aymin!S 7b,
+0.75.4 f’ > (a)
+Nonprestressed Sy and prestressed with Greater of: Apsfse < 0.4 Apsfou + Asfy) 50 Le )
+[CODE] Greater of:
+[CODE] Prestressed with A, fu > 50 Pe. Lesser of: (d)
+0.4(Apsfou + Ash) Fry
+[CODE] Ay fu [id
+80 f,d Yb, ©)
+[CODE] 9.6.4 Minimum torsional reinforcement
+
+[COMMENTARY] R9.6.4 Minimum torsional reinforcement
+
+[CODE] 9.6.4.1 A minimum area of torsional reinforcement shall be provided in all regions where 7, > oT, 1n accordance with 22.7.
+[CODE] 9.6.4.2 If torsional reinforcement is required, minimum transverse reinforcement (A, + 2A,)min/s shall be the greater
+of (a) and (b): (a) 0.78
+
+[COMMENTARY] R9.6.4.2 The differences in the definitions of A, and A, should be noted: A, is the area of two legs of a closed stirrup,
+whereas A, is the area of only one leg of a closed stirrup. If a stirrup group has more than two legs, only the legs adjacent to the sides of the beam are considered, as discussed in R9.5.4.3. Tests (Roller and Russell 1990) of high-strength rein- forced concrete beams have indicated the need to increase the minimum area of shear reinforcement to prevent shear failures when inclined cracking occurs. Although there are a limited number of tests of high-strength concrete beams in torsion, the equation for the minimum area of transverse closed stirrups has been made consistent with calculations required for minimum shear reinforcement.
+
+[CODE] b
+b) 50—
+(b) i,
+
+[COMMENTARY] R9.6.4.3 Under combined torsion and shear, the torsional cracking moment decreases with applied shear, which leads to a reduction in torsional reinforcement required to prevent brittle failure immediately after cracking. When subjected to pure torsion, reinforced concrete beam specimens with less than 1 percent torsional reinforcement by volume have failed at first torsional cracking (MacGregor and Ghoneim 1995). Equation 9.6.4.3(a) is based on a 2:1 ratio of torsion stress to shear stress and results in a torsional reinforce-
+ment volumetric ratio of approximately 0.5 percent (Hsu 1968). Tests of prestressed concrete beams have shown that a similar amount of longitudinal reinforcement is required.
+
+[CODE] 9.6.4.3 If torsional reinforcement is required, minimum area of longitudinal reinforcement A? min Shall be the lesser
+of (a) and (b):
+[CODE] 5 f’A
+(a) Sf = -(4)o, f, f,
+[CODE] 0) 5) fA, {2 fa f, fe S'S,
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

@@ -1,0 +1,43 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 21/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 1: GENERAL 35
+
+
+
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: chemical admixture type classification and performance requirements.]
+[CODE] used as part of a lateral-force-resisting system resist
+combined axial load, moment, and shear. See also moment frame. column capital—enlargement of the top of a concrete
+column located directly below the slab or drop panel that is cast monolithically with the column. compliance requirements—construction-related code requirements directed to the contractor to be incorporated into construction documents by the licensed design profes- sional, as applicable. composite concrete flexural members—concrete flex- ural members of precast or cast-in-place concrete elements, constructed in separate placements but connected so that all elements respond to loads as a unit. compression-controlled section—cross section in which the net tensile strain in the extreme tension reinforcement at
+nominal strength is less than or equal to the compression- controlled strain limit. compression-controlled strain limit—net tensile strain at balanced strain conditions. concrete—mixture of portland cement or any other cementitious material, fine aggregate, coarse aggregate, and water, with or without admixtures. concrete, all-lightweight—lightweight concrete containing only lightweight coarse and fine aggregates that conform to
+ASTM C330. concrete, lightweight—concrete containing lightweight ageregate and having an equilibrium density, as determined
+by ASTM C567, between 90 and 135 Ib/ft*. concrete, nonprestressed—teinforced concrete with at least the minimum amount of nonprestressed reinforcement
+and no prestressed reinforcement; or for two-way slabs, with less than the minimum amount of prestressed reinforcement.
+
+[COMMENTARY] e Not. & Term.
+[COMMENTARY] compliance requirements—AlIthough primarily directed to the contractor, the compliance requirements are also
+commonly used by others involved with the project.
+[COMMENTARY] N
+[COMMENTARY] concrete, nonprestressed—Nonprestressed concrete usually contains no prestressed reinforcement. Prestressed
+two-way slabs require a minimum level of compressive stress in the concrete due to effective prestress in accordance
+with 8.6.2.1. Two-way slabs with less than this minimum level of precompression are required to be designed as nonprestressed concrete. concrete, normalweight—Normalweight concrete typi- cally has a density (unit weight) between 135 and 160 Ib/ft’,
+and is normally taken as 145 to 150 lb/ft’. concrete, plain—The presence of reinforcement, nonpre- stressed or prestressed, does not exclude the member from being classified as plain concrete, provided all requirements
+of Chapter 14 are satisfied.
+
+[CODE] concrete, normalweight—concrete containing only coarse and fine aggregates that conform to ASTM C33 and
+having a density greater than 135 lb/ft’. concrete, plain—structural concrete with no reinforce-
+ment or with less than the minimum amount of reinforce-
+ment specified for reinforced concrete.
+[CODE] concrete, precast—structural concrete element cast else-
+where than its final position in the structure. concrete, prestressed—treinforced concrete in which internal stresses have been introduced by prestressed rein-
+forcement to reduce potential tensile stresses in concrete resulting from loads, and for two-way slabs, with at least the
+minimum amount of prestressed reinforcement.
+
+[COMMENTARY] concrete, prestressed—Classes of prestressed flex- ural members are defined in 24.5.2.1. Prestressed two-way slabs require a minimum level of compressive stress in the concrete due to effective prestress in accordance with 8.6.2.1. Although the behavior of a prestressed member with
+unbonded tendons may vary from that of members with continuously bonded prestressed reinforcement, bonded
+and unbonded prestressed concrete are combined with nonprestressed concrete under the generic term “reinforced concrete.” Provisions common to both prestressed and
+[COMMENTARY] (aci¥
+A
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

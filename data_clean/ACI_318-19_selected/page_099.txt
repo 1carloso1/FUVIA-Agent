@@ -1,0 +1,21 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 99/196]
+[LAYOUT: continuous]
+============================================================
+PART 5: EARTHQUAKE RESISTANCE 315
+CODE COMMENTARY
+Precast concrete frame systems composed of elements joined using strong connections are intended to experience flexural yielding outside the connections. Strong connec-
+a Seismic
+tions include the length of the mechanical splice hardware as shown in Fig. R18.9.2.2. Capacity-design techniques are
+used in 18.9.2.2(c) to ensure the strong connection remains elastic following formation of plastic hinges. Additional
+column requirements are provided to avoid hinging and strength deterioration of column-to-column connections. Strain concentrations have been observed to cause brittle fracture of reinforcing bars at the face of mechanical splices in laboratory tests of precast beam-column connections (Palmieri et al. 1996). Locations of strong connections should
+be selected carefully or other measures should be taken, such as debonding of reinforcing bars in highly stressed regions, to avoid strain concentrations that can result in premature fracture of reinforcement.
+
+18.9.2 General R18.9.2 General
+18.9.2.1 Special moment frames with ductile connections constructed using precast concrete shall satisfy (a) through (c):
+(a) Requirements of 18.6 through 18.8 for special moment frames constructed with cast-in-place concrete (b) V, for connections calculated according to 22.9 shall
+be at least 2V,, where V, is in accordance with 18.6.5.1 or 18.7.6.1 (c) Mechanical splices of beam reinforcement shall be located not closer than h/2 from the joint face and shall satisfy 18.2.7
+18.9.2.2 Special moment frames with strong connections constructed using precast concrete shall satisfy (a) through (e):
+(a) Requirements of 18.6 through 18.8 for special moment frames constructed with cast-in-place concrete (b) Provision 18.6.2.1(a) shall apply to segments between locations where flexural yielding is intended to occur due to design displacements (c) Design strength of the strong connection, oS, shall be at least S, (d) Primary longitudinal reinforcement shall be made continuous across connections and shall be developed outside both the strong connection and the plastic hinge region (e) For column-to-column connections, oS, shall be at least 1.4S,, oM,, shall be at least 0.4M,, for the column within the story height, and oV, shall be at least V. in accordance with 18.7.6.1
+
+American Concrete Institute — Copyrighted © Material — www.concrete.org aci >

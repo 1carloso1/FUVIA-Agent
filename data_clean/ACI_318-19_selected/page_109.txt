@@ -1,0 +1,38 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 109/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 5: EARTHQUAKE RESISTANCE 325
+
+
+[COMMENTARY] Equation (18.10.6.2b) is based on the mean top-of-wall drift capacity at 20 percent loss of lateral strength proposed
+by Abdullah and Wallace (2019). The requirement that drift
+[COMMENTARY] Seismic
+18
+[COMMENTARY] capacity exceed 1.5 times the drift demand results in a low probability of strength loss for the design earthquake. The expression for b in (11) is derived from Eq. (18.10.6.2b),
+assuming values of V,/(8Ae Jf! ) and 6,/h,,; of approxi-
+mately 1.0 and 0.015, respectively. If b varies over c, an average or representative value of b should be used. For example, at the flanged end of a wall, b should be taken equal to the effective flange width defined in 18.10.5.2, unless c extends into the web, then a weighted average should be
+used for b. At the end of a wall without a flange, b should be taken equal to the wall thickness. If the drift capacity does not exceed the drift demand for a trial design, then changes to the design are required to increase wall drift capacity, reduces wall drift demand, or both, such that drift capacity
+exceeds drift demand for each wall in a given building.
+
+[CODE] 18.10.6.3 Structural walls not designed in accordance with 18.10.6.2 shall have special boundary elements at bound- aries and edges around openings of structural walls where the maximum extreme fiber compressive stress, corre- sponding to load combinations including earthquake effects E, exceeds 0.2f,". The special boundary element shall be permitted to be discontinued where the calculated compres- sive stress 1s less than 0.15f,". Stresses shall be calculated for the factored loads using a linearly elastic model and gross section properties. For walls with flanges, an effective flange
+width as given in 18.10.5.2 shall be used.
+
+[COMMENTARY] R18.10.6.3 By this procedure, the wall is considered to be acted on by gravity loads and the maximum shear and
+moment induced by earthquake in a given direction. Under this loading, the compressed boundary at the critical section resists the tributary gravity load plus the compressive resul- tant associated with the bending moment. Recognizing that this loading condition may be repeated
+many times during the strong motion, the concrete is to be confined where the calculated compressive stresses exceed a nominal critical value equal to 0.2f,'. The stress is to be calculated for the factored forces on the section assuming linear response of the gross concrete section. The compres- sive stress of 0.2f.' 1s used as an index value and does not necessarily describe the actual state of stress that may
+develop at the critical section under the influence of the actual inertia forces for the anticipated earthquake intensity.
+
+[CODE] 18.10.6.4 If special boundary elements are required by 18.10.6.2 or 18.10.6.3, (a) through (k) shall be satisfied: (a) The boundary element shall extend horizontally from the extreme compression fiber a distance at least the greater of c — 0.14, and c/2, where c is the largest neutral axis depth calculated for the factored axial force and
+nominal moment strength consistent with 6,. (b) Width of the flexural compression zone, b, over the horizontal distance calculated by 18.10.6.4(a), including flange if present, shall be at least ,,/16. (c) For walls or wall piers with h,,/f,, > 2.0 that are effec- tively continuous from the base of structure to top of wall, designed to have a single critical section for flexure
+and axial loads, and with c/¢,, > 3/8, width of the flex- ural compression zone 6 over the length calculated in 18.10.6.4(a) shall be greater than or equal to 12 in. (d) In flanged sections, the boundary element shall include the effective flange width in compression and shall extend at least 12 in. into the web.
+
+[COMMENTARY] R18.10.6.4 The horizontal dimension of the special
+boundary element is intended to extend at least over the length where the concrete compressive strain exceeds the critical value. For flanged wall sections, including box shapes, L-shapes, and C-shapes, the calculation to deter-
+mine the need for special boundary elements should include a direction of lateral load consistent with the orthogonal combinations defined in ASCE/SEI 7. The value of ¢/2 in 18.10.6.4(a) is to provide a minimum length of the special
+boundary element. Good detailing practice is to arrange the longitudinal reinforcement and the confinement reinforce-
+ment such that all primary longitudinal reinforcement at the wall boundary is supported by transverse reinforcement. A slenderness limit is introduced into the 2014 edition
+of this Code based on lateral instability failures of slender wall boundaries observed in recent earthquakes and tests (Wallace 2012; Wallace et al. 2012). For walls with large cover, where spalling of cover concrete would lead to a
+[COMMENTARY] aci=
+IT
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

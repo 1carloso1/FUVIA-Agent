@@ -1,0 +1,93 @@
+[DOCUMENT: ASTM_C150-22]
+[PAGE: 3/9]
+[LAYOUT: continuous]
+============================================================
+All c150/C150M - 22
+seri?
+TABLE 2 Optional Composition Requirements“
+
+II(MH) and Ill and
+Applicable Test
+Cement Type land!IA_ Il and IIA IV V Remarks
+Method II(MH)A IA
+Tricalcium aluminate (C.A),2 max, % See Annex A1 Lee Lee 8 Lee ... For moderate sulfate resistance.
+Tricalcium aluminate (C.A),2 max, % See Annex A1 Lee Lee Lee 5 Lee ... For high sulfate resistance.
+
+4 These optional requirements apply only when specifically requested. Verify availability before ordering (see Note 2).
+® See Annex A1 for calculation.
+
+TABLE 3 Standard Physical Requirements
+
+Applicable
+Cement Type4 Test IA l| IA II(MH) I(MH)A III IA IV Vv
+
+Method
+Air content of mortar,’ volume %: C185
+
+max 12 22 12 22 12 22 12 22 12 12
+min Lae 16 Lae 16 Lae 16 Lae 16
+
+Fineness, specific surface, m?/kg Air permeability test C204
+
+min 260 260 260 260 260 260 Lee Lee 260 260
+max Lee _ _ a 430° 430° a Lae 430
+
+Strength, not less than the values
+shown for the ages indicated as fol-
+lows:? Compressive strength, MPa [psi]: C109/
+C109M
+1 day a Lae Lae Lae a Lae 12.0 10.0
+
+[1740] [1450]
+3 days 12.0 10.0 10.0 8.0 10.0 8.0 24.0 19.0 Lee 8.0 [1740] [1450] [1450] [1160] [1450] [1160] [3480] [2760] [1160]
+7 days 19.0 16.0 17.0 14.0 17.0 14.0 Lae Lae 7.0 15.0 [2760] [2320] [2470] [2030] [2470] [2030] [1020] [2180]
+28 days Le Lae Lae Lae Lae Lae 17.0 21.0
+
+[2470] [3050]
+
+Time of setting; Vicat test:® C191
+
+Time of setting, minutes, 45 45 45 45 45 45 45 45 45 45 not less than
+Time of setting, minutes, 375 375 375 375 375 375 375 375 375 375
+
+not more than
+
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: air content requirements; cement chemical and physical property limits.]
+A See Note 2.
+® Compliance with the requirements of this specification does not necessarily ensure that the desired air content will be obtained in concrete.
+© Maximum fineness limits do not apply if the sum of C3S + 4.75(CA) is less than or equal to 90, or the cement complies with the heat of hydration limit in Table 4.
+° The strength at any specified test age shall be not less than that attained at any previous specified test age.
+
+= The time of setting is that described as initial setting time in Test Method C191.
+
+TABLE 4 Optional Physical Requirements”
+wee landil lAand IIA II(MH) lI(MH)A Mm IIA Ni Vv
+
+Cement Type
+
+Early stiffening, final penetration, min, % C451 50 50 50 50 50 50 50 50
+Heat of hydration: 3 days, max, kJ/kg [cal/g] C1702 a a 335 [80]? 335 [80] a a 200 [50]° 7 days, max, kJ/kg [cal/g] 225 [55]°
+
+Isothermal Conduction Calorimetry:
+Strength, not less than the values shown: Compressive strength, MPa [psi] C109/C109M 28 days 28.0 22.0 28.0 22.0
+
+[TABLE: TABLE 4 Optional Physical Requirements”]
+[TABLE_CONTEXT: This table specifies: chloride exposure classes and chloride ion content limits; portland cement type specifications and chemical requirements; cement chemical and physical property limits.]
+[4060] [3190] [4060] [3190]
+Sulfate resistance,” 14 days, max, % expansion C452 al al al a 0.040 Initial set, min, not less than 60 60 60 60 60 60 60 60 Final set, min, not more than 600 600 600 600 600 600 600 600 4 These optional requirements apply only when specifically requested. Verify availability before ordering (see Note 2).
+® The limit for the sum of C3S + 4.75(C3A) in Table 1 shall not apply when the cement complies with this limit.
+© The limits of C,S, C2S, C3A, and Fe.O, in Table 1 shall not apply when the cement complies with this limit.
+° When the sulfate resistance is specified, it shall be instead of the limits of C,A, C,AF + 2(C3A), and Fe,0Oz listed in Table 1.
+© Cement meeting the high sulfate resistance limit for Type V is deemed to meet the moderate sulfate resistance requirement of Type II and Type II(MH).
+
+Gillmore test: C266
+
+inorganic processing addition shall be used at a time. For — meet the requirements of Specification C465 for the inorganic
+amounts greater than 1.0 %, they shall have been shown to processing addition in the amount used or greater. If an
+
+AH, Ng POA RRABAAAL BRS RREMABPOA Quid ony , . BOARSER ERAT MBBS 1 LABELS,
+AA, 1 Ane, MOPAR
+THEA, MRE AOR TM) MB) Kew RAB Baa OB
+Loseina nA Ar, BH) oC napatarg
+co) 25¢ Bu) «, ¢ Bwxx

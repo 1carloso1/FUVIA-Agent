@@ -1,0 +1,75 @@
+[DOCUMENT: ACI_211.4R-08]
+[PAGE: 22/23]
+[LAYOUT: continuous]
+============================================================
+211.4R-23
+SELECTING PROPORTIONS FOR HIGH-STRENGTH CONCRETE
+
+= 8680(0.8772)
+
+130% ;
+Grade 100 slag cement Relative 28-day strength bas | Maxima
+© 120% |
+c SCI = 114% “ SCI = 113% at 50% slag cement
+ad [ a ¢ XV
+5 110% aN
+cre) ma
+a.
+E 100%
+O | 5)
+& 90%
+° y 80% —* 10 20 30 40 50 60 70 80 90 100
+
+= 7610 psi
+8.3.2.2.6 Step 6—The concrete producer already has a portland cement concrete mixture that achieves 8700 psi, as follows:
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: air content requirements; chemical admixture type classification and performance requirements.]
+Materials Mass, Ib/yd? Relative density | Volume, ft? Portland cement 705 3.15 3.587 Coarse aggregate
+(saturated surface-dry) 1830 2.72 10.782 Fine aggregate
+(saturated surface-dry) 1355 2.63 8.258 Water 240 1.00 3.846 Admixture WRA 1.35 1.2 0.018 Admixture HWRA 7.8 1.2 0.104 Anticipated entrapped
+air content 1.5% _ 0.405
+
+Slag cement dosage, %
+Fig. 8.4—Expected relative 28-day compressive strength
+curve for concrete mixtures made with portland cement and
+the indicated percent of ASTM C989, Grade 100 slag cement.
+
+Total = 27.00
+Final w/em = 0.34
+
+8.3.2.3.2 Step 2—Because this will be a laboratory trial batch mixture that has never been produced before with the
+given materials, Eq. (3-3) applies. Therefore
+
+$.3.2.2.7 Step 7—
+Amount of slag cement = 705(0.45) = 317 Ib/yd>
+Amount of portland cement = 705 — 317 = 388 Ib/yd? 8.3.2.2.8 Step S—Finally, the yield for first trial mixture containing slag cement is adjusted as follows:
+
+fi, = LAF! +700 (3-3)
+fi. = 1.1(8700) + 700
+fi. = 10,271 psi
+
+Trial mixture Method B
+
+8.3.2.3.3 Step 3—A slag component index/slag cement content diagram has not been developed, and a Grade 120 slag cement was initially considered for the project. The slag
+cement has a relative density of 2.85, and it usually achieves
+approximately 30% more strength than reference portland
+cement concrete mixtures. For an optimized mixture proportion, an SCI curve similar to that shown in Fig. 8.2 is
+needed. Several trial batches with a range of 40 to 50% slag
+cement would be prepared and tested in expectation of a
+peak similar to that in Fig. 8.2. An arbitrary selection of 40% slag cement content by the concrete producer is used herein. 8.3.2.3.4 Step 4—Figure 8.5 indicates that at the arbi- trarily selected 40% slag cement content, the compressive strength of the 40% slag cement mixture may be expected to
+be 128% of the compressive strength of the basic mixture. 8.3.2.3.5 Step 5—Calculate the portion of the required average compressive strength f,’. that is relegated to portland cement. PCyyg, = (fy, \LOO/[SCI %])
+spsi
+
+Materials Mass, Ib/yd? Relative density | Volume, fe Portland cement 388 3.15 1.974 Slag cement, Grade 100 317 2.85 1.783
+(saturated surface-dry) 1830 2.72 10.782 Water 240 1.00 3.846 Admixture WRA 1.35 1.2 0.018 Admixture HRWRA 7.80 1.2 0.104 Anticipated entrapped air 1.5% - 0.405
+content
+Subtotal = 18.912
+Fine aggregate required to adjust yield = 27.0 — 18.912 = 8.088 ft? Mass of fine aggregate at saturated surface-dry = 8.088 x 2.63 x 62.4 = 1327 Ib
+Final w/cm = 0.34
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; compressive strength f'c requirements.]
+8.3.2.2.9 Step 9—The results of the trial mixture should be reviewed. Additional batches with different w/cm
+may be needed. The construction schedule may warrant the preparation of several trial batches initially. 8.3.2.2.10 Step 10—Because the basic mixture infor- mation is already known, the basic mixture need not be batched. 8.3.2.3 Example 2, Method B—A project has a 56-day specified compressive strength of 8700 psi for one class of interior concrete. The maximum allowed slump is 8 in. Grade 120 slag cement will be used. 8.3.2.3.1 Step 1—f = 8700 psi at 56 days; slump = up to 8 in.; no air entrainment is needed.
+
+= (10,270)(100/128) = 10,270(0.78125) = 8020 psi
+8.3.2.3.6 Step 6—A portland cement mixture (basic mixture) achieving 8700 psi at 28 days that uses all of the concrete materials initially considered for use on the project is located. Because the specification has a 56-day strength

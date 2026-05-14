@@ -1,0 +1,52 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 174/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] 536 ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] (f) Type and location of end-bearing splices. (g) Type and location of welded splices and other required
+welding of reinforcing bars. (h) ASTM designation for protective coatings of nonpre- stressed reinforcement. (1) Corrosion protection for exposed reinforcement intended to be bonded with extensions on future Work.
+
+[COMMENTARY] R26.6.1.1(g) Refer to R26.6.4.
+
+[CODE] 26.6.1.2 Compliance requirements:
+[CODE] (a) Mill test reports for reinforcement shall be submitted. (b) Nonprestressed reinforcement with rust, mill scale, or a combination of both shall be considered satisfac- tory, provided a hand-wire-brushed representative test specimen of the reinforcement complies with the appli- cable ASTM specification for the minimum dimensions (including height of deformations) and weight per unit length.
+
+[COMMENTARY] R26.6.1.2(b) Specific limits on rust are based on tests
+(Kemp et al. 1968) plus a review of earlier tests and recom- mendations. Kemp et al. (1968) provides guidance with regard to the effects of rust and mill scale on bond charac- teristics of deformed reinforcing bars. Research has shown that a normal amount of rust increases bond. Normal rough
+handling generally removes rust that is loose enough to impair the bond between the concrete and reinforcement.
+
+[CODE] (c) Prestressing reinforcement shall be free of mill scale, pitting, and excessive rust. A light coating of rust shall be permitted. (d) At the time concrete is placed, reinforcement to be
+bonded shall be clean of ice, mud, oil, or other deleterious coatings that decrease bond.
+
+[COMMENTARY] R26.6.1.2(c) Guidance for evaluating the degree of rusting
+on strand is given in Sason (1992).
+[COMMENTARY] R26.6.1.2(d) The use of epoxy coating in accordance with 20.5.2 is permitted. Materials used for the protection of prestressed reinforcement against corrosion in unbonded tendons are not considered to be contaminants as described in this provision.
+
+[CODE] 26.6.2 Placement
+
+[COMMENTARY] R26.6.2 Placement
+
+[CODE] 26.6.2.1 Design information:
+
+[COMMENTARY] R26.6.2.1 Generally accepted practice, as reflected in ACI 117, has established tolerances on total depth (formwork or finish) and fabrication of closed ties, stirrups, spirals, and truss bent reinforcing bars. The licensed design profes- sional should specify more restrictive tolerances than those permitted by the Code when necessary to minimize the accu- mulation of tolerances resulting in excessive reduction in effective depth or cover. More restrictive tolerances have been placed on minimum clear distance to formed soffits because of their importance for durability and fire protection and because reinforcement is usually supported in such a manner that the specified toler- ance is practical. More restrictive tolerances than those required by the Code
+may be desirable for prestressed concrete. In such cases, the construction documents should specify the necessary toler- ances. Recommendations are provided in ACI ITG-7. The Code permits a reinforcement placement tolerance
+on effective depth d that is directly related to the flexural
+and shear strength of the member. Because reinforcement is placed with respect to edges of members and formwork surfaces, dis not always conveniently measured in the field. This provision is included in the design information section
+
+[CODE] (a) Tolerances on location of reinforcement taking into consideration tolerances on d and specified concrete cover in accordance with Table 26.6.2. 1(a).
+[CODE] Table 26.6.2.1(a)—Tolerances on d and specified
+cover
+[CODE] Tolerance on
+[CODE] d, in. d, in. Tolerance on specified concrete cover, in.!! —3/8
+<8 +3/8 Smaller of:
+[CODE] — (1/3) - specified cover
+[CODE] —1/2
+>8 +1/2 Smaller of:
+[CODE] — (1/3) - specified cover
+[CODE] (ITolerance for cover to formed soffits is —1/4 in.
+[CODE] (b) Tolerance for longitudinal location of bends and ends
+of reinforcement in accordance with Table 26.6.2. 1(b). The tolerance for specified concrete cover in Table 26.6.2. 1(a) shall also apply at discontinuous ends of members. (c) Tolerance for spacing of hoops in members of interme- diate and special seismic systems: (aci®
+—_
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

@@ -1,0 +1,76 @@
+[DOCUMENT: ACI_211.4R-08]
+[PAGE: 23/23]
+[LAYOUT: continuous]
+============================================================
+211.4R-24 ACI COMMITTEE REPORT
+150% Grade 120 slag cement Relative 28-day Table 8.3—Reference mixtures
+
+compressive strength Basic mixture | Slag cement mixture
+x 140%
+oO 5 Relative | Amount, |Volume,} Amount, | Volume,
+= 130% SCI = 128% a ew Units density | Ib/yd? iw Ib/yd? iw ra vy 7 ‘ Portland cement 3.15 750 3.82 450 2.29 = 120% a Slag cement 2.85 — — 300 1.69 a. 110% me Coarse aggregate
+E ° “ (saturated 2.68 1720 10.29 1720 10.29
+a surface-dry)
+2 100% =
+> ° Fine aggregate
+w ° (saturated 2.63 1352 8.24 1326 8.08
+90% v surface-dry)
+80% Water 1.0 232 3.72 232 3.72
+
+(e} T T T T T T T T T T T T T T T T T T T T
+
+10 20 30 40 50 60 70 80 90 100 WRA, oz/yd° 1.2 22 0.02 22 0.02
+Slag cement dosage, % HRWRA, ov/yd2 | 1.2 114 0.1 114 0.1
+
+. . . . Entrapped air
+Fig. 8.5—Estimated relative 28-day compressive strength content _ 3% 0.81 3% 0.81
+curve for concrete mixtures made with various amounts of Totall 27.00 97.00
+portland cement and the indicated percent of ASTM C989, Slump, in. 6 8
+
+Grade 120 slag cement and the expected results of the trial ‘Age, days psi psi
+batch with 40% slag cement. i 4130 7450 6910 6670
+requirement, using a mixture achieving 8700 psi at 28 days Compressive 7870 8630
+
+. . . . . stren.
+will be conservative. The mixture is shown in Table 8.3 as . 228 9210 10,150 the actual job record. 56 9450 11,600
+
+90 11,060 13,480
+
+Basic mixture Method B
+[TABLE: Table 8.3 as . 228 9210 10,150 the actual job record. 56 94]
+[TABLE_CONTEXT: This table specifies: air content requirements; chemical admixture type classification and performance requirements.]
+Materials Mass, lb/yd? Relative density |Volume, ft? Portland cement 705 3.15 3.587 Coarse aggregate
+(saturated surface-dry) 1830 2.72 10.782 Fine aggregate
+(saturated surface-dry) 1355 2.63 8.257 Water 240 1.00 3.846 Admixture WRA 1.35 1.2 0.018 Admixture HRWRA 78 1.2 0.104 Anticipated entrapped 15% 0.405
+air content
+
+CHAPTER 9—REFERENCES
+9.1—Referenced standards and reports The standards and report listed below were the latest editions at the time this document was prepared. Because these standards and reports are revised frequently, the reader is advised to contact the proper sponsoring group for the latest version.
+American Concrete Institute 201.2R Guide to Durable Concrete 211.1 Standard Practice for Selecting Proportions for Normal, Heavyweight, and Mass Concrete
+214R Evaluation of Strength Test Results of Concrete
+232.1R Use of Raw or Processed Natural Pozzolans in Concrete
+232.2R Use of Fly Ash in Concrete
+233R Slag Cement in Concrete and Mortar
+234R Guide for the Use of Silica Fume in Concrete 301 Specifications for Structural Concrete 318 Building Code Requirements for Structural Concrete
+363R Report on High-Strength Concrete
+363.2R Guide to Quality Control and Testing of High-
+
+Total = 27.00
+Final w/cm = 0.34
+8.3.2.3.7 Step 7—
+Amount of slag cement = 705 (0.40) = 282 Ib/yd?
+Amount of portland cement = 705 — 282 = 423 Ib/yd? 8.3.2.3.8 Step S—The slag cement trial batch proportions:
+Materials Mass, lb/yd? | Relative density | Volume, ft* Portland cement 423 3.15 2.152 Slag cement, Grade 120 282 2.85 1.586 Saturated surface-dry | 1830 2.72 10.782 Water 240 1.00 3.846 Admixture WRA 1.35 1.20 0.018 Admixture HRWRA 78 1.20 0.104 Anticipated air content 1.5% 0.405
+
+Strength Concrete
+ASTM International C29/C29M Test Method for Bulk Density (“Unit Weight”) and Voids in Aggregate
+C33 Specification for Concrete Aggregates
+C150 Specification for Portland Cement
+C192/C192M Practice for Making and Curing Concrete
+
+Subtotal = 18.893
+Fine aggregate required to adjust yield = 27.0 — 18.893 = 8.107 ft Fine aggregate at saturated surface-dry = 8.107 x 2.63 x 62.4 = 1330 lb
+
+Test Specimens in the Laboratory
+
+Final w/cem = 0.34

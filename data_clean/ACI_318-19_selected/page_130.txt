@@ -1,0 +1,29 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 130/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] 18.13.5.4 For structures assigned to SDC C, D, E, or F, hoops, spirals, and ties in deep foundation members shall be terminated with seismic hooks.
+[CODE] 18.13.5.5 For structures assigned to SDC D, E, or F or located in Site Class E or F, concrete deep foundation
+members shall have transverse reinforcement in accordance with 18.7.5.2, 18.7.5.3, and Table 18.7.5.4 Item (e) within seven member diameters above and below the interfaces
+between strata that are hard or stiff and strata that are liquefi- able or soft.
+
+[COMMENTARY] R18.13.5.5 During earthquakes, piles can be subjected to high flexural and shear demands at points of discontinuity,
+such as at interfaces between stiff and soft soil strata. ASCE/
+SEI 7 defines limits for soil strata. Transverse reinforce-
+ment is required in these regions to provide ductile behavior. In determining the portions of a pile with increased trans- verse reinforcement, accommodations are often made to the length of the reinforced zone for transverse reinforcement to account for variations in the driven pile tip elevations and variations in the interface elevations between stiff and soft soil strata.
+
+[CODE] 18.13.5.6 For structures assigned to SDC D, E, or F, in foundations supporting one- and two-story stud bearing wall construction, concrete piles, piers or caissons, and foun- dation ties are exempt from the transverse reinforcement requirements of 18.13.5.3 through 18.13.5.5.
+[CODE] 18.13.5.7 Uncased cast-in-place drilled or augered concrete piles or piers
+
+[COMMENTARY] R18.13.5.7 Uncased cast-in-place drilled or augered concrete piles or piers
+[COMMENTARY] R18.13.5.7.1 Longitudinal and transverse reinforcement requirements prescribed by this section result in ductility consistent with the applicable Seismic Design Category
+(SDC) to withstand ground deformation that occurs during earthquakes. Where piles are subjected to significant uplift forces, the longitudinal reinforcement length required by analysis may
+exceed the minimum reinforcement length requirements. Transverse reinforcement is required at the top of the pile to provide ductile performance where flexural yielding can potentially occur. For SDC D, E, and F and Site Classes A, B, C, and D, one-half of the transverse reinforcement for special moment frame columns is acceptable because some level of confinement is attributed to competent soils. For Site Class E and F, full column confinement is required because the soils are either liquefiable or not considered competent
+enough to provide confinement.
+
+[CODE] 18.13.5.7.1 For structures assigned to SDC C, D, E, or F, reinforcement shall be provided in uncased cast-in-place drilled or augered concrete piles where required by analysis
+and in accordance with the requirements in Table 18.13.5.7.1.
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

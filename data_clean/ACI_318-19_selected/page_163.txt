@@ -1,0 +1,40 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 163/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 9: CONSTRUCTION 525
+
+
+[COMMENTARY] tested in accordance with ASTM C1152. Total chloride ion content of admixtures is reported by the supplier. Calcu- lated total chloride ion content determined in this manner is conservative. If calculated total chloride ion content exceeds the limits in Table 19.3.2.1, the concrete materials can be adjusted until compliance is achieved, or water-soluble chlo- ride ion content can be determined using 26.4.2.2(e)(2).
+[COMMENTARY] R26.4.2.2(e)(2) This option is to determine the water-soluble chloride ion content in hardened concrete by ASTM C1218 and is an alternative to 26.4.2.2(e)(1) if the total chloride ion content calculated in accordance with 26.4.2.2(e)(1) exceeds the limits
+of Table 19.3.2.1. The chloride ions present in the pore water solution impact the corrosion of reinforcement or embedded metal. To estimate the water-soluble chloride ion content in the concrete that can impact corrosion, ASTM C1218 is used after a period of hydration. The chlorides in some materials, like aggregates, are not available as water-soluble chlorides.
+
+[CODE] (2) Determining water-soluble chloride ion content of
+hardened concrete in accordance with ASTM C1218 at age between 28 and 42 days.
+
+[COMMENTARY] ‘Se Construction
+_
+[COMMENTARY] Furthermore, some chlorides initially in solution will be
+bound by hydration of cementitious materials. Chlorides insoluble in water are not considered to accelerate corrosion of embedded metals.
+
+[CODE] (f) For prestressed concrete, admixtures containing
+calcium chloride are prohibited. (g) For concrete placed on or against stay-in-place galva- nized steel forms, maximum water soluble chloride ion content shall be 0.30 percent by mass of cementitious materials unless a more stringent limit for the member is specified.
+
+[COMMENTARY] R26.4.2.2(g) The contractor might select a construction option not shown in the construction documents. Because of the critical nature of placements against stay-in-place galvanized steel forms, the Code requires a more stringent chloride ion limit than what may be shown in the construc- tion documents. For example, if a member was originally specified in the construction documents with a chloride limit of 1.00 percent, use of stay-in-place galvanized steel forms results in a change to the more stringent limit of 0.30 percent.
+[COMMENTARY] R26.4.2.2(h) ASTM C567 provides two methods for determining equilibrium density. To measure equilibrium density, specimens are maintained at 73°F and 50 percent relative humidity until they achieve constant mass. This
+measurement can take in excess of 2 months. Alternatively, the calculated equilibrium density can be more rapidly estimated from the oven-dry density. The licensed design professional can require the measurement of equilibrium density in accordance with ASTM C567.
+
+[CODE] (h) For lightweight concrete, fresh density shall be deter-
+mined in accordance with ASTM C138 that corresponds with the specified equilibrium density determined in accordance with ASTM C5067. The fresh density corre-
+sponding to the specified equilibrium density shall be used as the basis of acceptance.
+[CODE] (1) Steel fiber-reinforced concrete used for shear resistance shall satisfy (1) and (2): (1) Conform to ASTM C1116. (2) Contain at least 100 lb of deformed steel fibers per cubic yard of concrete.
+[CODE] 26.4.3 Proportioning of concrete mixtures
+
+[COMMENTARY] R26.4.3 Proportioning of concrete mixtures
+[COMMENTARY] The 2014 edition of the Code deleted the statistical requirements for proportioning concrete that were contained in previous editions. This information was removed from the Code because it is not the responsibility of the licensed
+
+[CODE] 26.4.3.1 Compliance requirements:
+
+[COMMENTARY] aci
+_IT
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

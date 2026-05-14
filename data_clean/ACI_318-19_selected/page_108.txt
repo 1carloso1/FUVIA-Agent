@@ -1,0 +1,49 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 108/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] 324 ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+[COMMENTARY] the strength and deformation capacity of the wall; therefore, to simplify design, a single value of effective flange width
+based on an estimate of the effective tension flange width is
+used in both tension and compression.
+
+[CODE] 18.10.6 Boundary elements of special structural walls
+
+[COMMENTARY] R18.10.6 Boundary elements of special structural walls
+
+[CODE] 18.10.6.1 The need for special boundary elements at the edges of structural walls shall be evaluated in accordance
+with 18.10.6.2 or 18.10.6.3. The requirements of 18.10.6.4
+and 18.10.6.5 shall also be satisfied.
+
+[COMMENTARY] R18.10.6.1 Two design approaches for evaluating detailing requirements at wall boundaries are included in 18.10.6.1. Provision 18.10.6.2 allows the use of displace-
+ment-based design of walls, in which the structural details are determined directly on the basis of the expected lateral displacements of the wall. The provisions of 18.10.6.3 are similar to those of the 1995 Code, and have been retained because they are conservative for assessing required trans- verse reinforcement at wall boundaries for many walls. Provisions 18.10.6.4 and 18.10.6.5 apply to structural walls designed by either 18.10.6.2 or 18.10.6.3.
+
+[CODE] 18.10.6.2 Walls or wall piers with h,,.,/£, = 2.0 that are effectively continuous from the base of structure to top of wall and are designed to have a single critical section for flexure and axial loads shall satisfy (a) and (b):
+
+[COMMENTARY] R18.10.6.2 This section is based on the assumption that inelastic response of the wall is dominated by flexural action at a critical, yielding section. The wall should be propor- tioned and reinforced so that the critical section occurs
+where intended. Equation (18.10.6.2a) follows from a displacement-
+based approach (Moehle 1992; Wallace and Orakcal 2002).
+The approach assumes that special boundary elements are required to confine the concrete where the strain at the
+extreme compression fiber of the wall exceeds a critical value when the wall is displaced to 1.5 times the design displacement. Consistent with a displacement-based design approach, the design displacement in Eq. (18.10.6.2a) is taken at the top of the wall, and the wall height is taken as the height above the critical section. The multiplier of 1.5
+on design displacement was added to Eq. (18.10.6.2) in the
+2014 Code to produce detailing requirements more consis- tent with the building code performance intent of a low prob- ability of collapse in Maximum Considered Earthquake level shaking. The lower limit of 0.005 on the quantity 6,/Rycs requires special boundary elements if wall boundary longi- tudinal reinforcement tensile strain does not reach approxi- mately twice the limit used to define tension-controlled
+beam sections according to 21.2.2. The lower limit of 0.005
+on the quantity 6,/h,-. requires moderate wall deformation capacity for stiff buildings. The neutral axis depth ¢ in Eq. (18.10.6.2) is the depth calculated according to 22.2 corresponding to development
+of nominal flexural strength of the wall when displaced in the same direction as 6,. The axial load is the factored axial load that is consistent with the design load combination that
+produces the design displacement 6,. The height of the special boundary element is based on estimates of plastic hinge length and extends beyond the
+zone over which yielding of tension reinforcement and spalling of concrete are likely to occur.
+
+[CODE] (a) Compression zones shall be reinforced with special
+boundary elements where
+[CODE] 1.56 £
+u > Ww
+[CODE] (18.10.6.2a)
+[CODE] h 600c
+wes
+[CODE] and ¢ corresponds to the largest neutral axis depth calcu- lated for the factored axial force and nominal moment strength consistent with the direction of the design displacement 6,. Ratio 6,/hy-; shall not be taken less than 0.005. (b) If special boundary elements are required by (a), then (i) and either (ii) or (11) shall be satisfied. (1) Special boundary element transverse reinforcement shall extend vertically above and below the critical section a least the greater of f,, and M,,/4V,,, except as permitted in 18.10.6.4(1). (ii) b > ./0.025/c, (iti) 6M yes > 1.56,/Myes, where:
+[CODE] 6 ty t(f [<)- 4 (18.10.6.2b)
+h,., 100| S0\b)\ib) spa,
+[CODE] The value of 6,/hy,5 in Eq. (18.10.6.2b) need not be taken less than 0.015.
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org
+[CODE] \

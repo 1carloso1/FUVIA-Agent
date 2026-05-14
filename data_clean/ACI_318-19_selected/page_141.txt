@@ -1,0 +1,46 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 141/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] 358 ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+[COMMENTARY] concrete properties from Table 19.3.2.1 to include in the construction documents. The Code does not include provisions for especially severe exposures, such as acids or high temperatures.
+
+[CODE] 19.3.1 Exposure categories and classes
+
+[COMMENTARY] R19.3.1 Exposure categories and classes
+
+[CODE] 19.3.1.1 The licensed design professional shall assign exposure classes in accordance with the severity of the anticipated expo- sure of members for each exposure category in Table 19.3.1.1.
+
+[COMMENTARY] The Code addresses four exposure categories that affect the requirements for concrete to ensure adequate durability: Exposure Category F applies to concrete exposed to moisture and cycles of freezing and thawing, with or without deicing chemicals. Exposure Category S applies to concrete in contact with soil or water containing deleterious amounts of water- soluble sulfate ions. Exposure Category W applies to concrete in contact with water. Exposure Category C applies to nonprestressed and prestressed concrete exposed to conditions that require addi- tional protection against corrosion of reinforcement. Severity of exposure within each category is defined
+by classes with increasing numerical values representing increasingly severe exposure conditions. A classification of 0 is assigned if the exposure severity has negligible effect (is benign) or the exposure category does not apply to the member. The following discussion provides assistance for selecting the appropriate exposure class for each of the exposure cate- gories. Members are required to be assigned to four exposure classes, one for each exposure category, and are also required to meet the most restrictive requirements of all of these expo- sures. For example, the slabs of a parking garage in a cold climate might be assigned to Exposure Classes F3, SO, W2,
+and C2, and a potable water tank inside a heated building
+might be assigned to Exposure Classes FO, SO, W2, and C1. Exposure Category F: Whether concrete is damaged by cycles of freezing and thawing depends on the amount of water in the pores of the concrete at the time of freezing
+(Powers 1975). The amount of water present may be described in terms of the degree of saturation of the concrete. If the degree of saturation is high enough, there will be sufficient water in the concrete pores to produce internal tensile stresses large enough to cause cracking when the
+water freezes and expands. The entire member need not be saturated to be susceptible to damage. For example, if the top 3/8 in. of a slab or outer 1/4 in. of a wall is saturated, those portions are vulnerable to damage from freezing and thawing, regardless of how dry the interior may be. For any portion of a member to be resistant to freezing
+and thawing, that portion of the concrete needs to have sufficient entrained air and adequate strength. Adequate strength is obtained by requiring a low w/em, which also reduces the pore volume and increases resistance to water penetration. Entrained air makes it more difficult for the
+
+[CODE] Table 19.3.1.1—Exposure categories and classes Category Class
+Condition
+[CODE] Concrete not exposed to freezing-and-
+FO thawing cycles Concrete exposed to freezing-and-thawing
+[CODE] cycles with limited exposure to water
+Freezing and thawing (F) 2 Concrete exposed to freezing-and-thawing
+[CODE] cycles with frequent exposure to water Concrete exposed to freezing-and-thawing
+[CODE] F3 cycles with frequent exposure to water and
+[CODE] exposure to deicing chemicals Water-soluble sulfate Dissolved sulfate (SO,7) in soil, (SO,7) in water,
+percent by mass!!! ppm”!
+[CODE] SO SO.7 < 0.10 SO? < 150
+[CODE] Sulfate (S) _
+< <
+st | 0.10<S02-<020 | P2SS08 < 1500
+[CODE] or seawater
+[CODE] S2 0.20 < SO, < 2.00 | 1500 < SO,4? < 10,000 83 SO,7° > 2.00 SO,7 >10,000 Wo Concrete dry in service
+[CODE] In contact al Concrete in contact with water where low with water permeability is not required (W) Ww? Concrete in contact with water where low
+[CODE] permeability is required
+[CODE] CO Concrete dry or protected from moisture
+[CODE] Corrosion Cl Concrete exposed to moisture but not to an protection of external source of chlorides reinforcement Concrete exposed to moisture and an (C) C2 external source of chlorides from deicing
+[CODE] chemicals, salt, brackish water, seawater, or spray from these sources
+[CODE] (Percent sulfate by mass in soil shall be determined by ASTM C1580. ?lConcentration of dissolved sulfates in water, in ppm, shall be determined by ASTM
+D516 or ASTM D4130.
+[CODE] American Concrete Institute —- Copyrighted © Material — www.concrete.org

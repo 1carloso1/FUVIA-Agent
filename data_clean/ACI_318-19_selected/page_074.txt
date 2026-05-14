@@ -1,0 +1,26 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 74/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+[COMMENTARY] the yield region has been related to the relative magnitudes
+of nominal and yield moments (ACI 352R). According to this interpretation, the greater the ratio of nominal to yield
+moment, the longer the yield region. Chapter 20 requires that the ratio of actual tensile strength to actual yield strength
+be at least 1.25 for ASTM A615 Grade 60. The restrictions on the value of f,, apply to all types of transverse reinforcement, including spirals, circular hoops, rectilinear hoops, and crossties. Research results (Budek et al. 2002; Muguruma and Watanabe 1990; Sugano et al. 1990) indicate that higher yield strengths can be used effectively as confinement reinforcement as specified in 18.7.5.4. The increases to 80,000 psi and 100,000 psi for shear design of some special seismic system members is
+based on research indicating the design shear strength can be
+developed (Wallace 1998; Aoyama 2001; Budek et al. 2002; Sokoli and Ghannoum 2016; Cheng et al. 2016; Huq et al.
+2018; Weber-Kamin et al. 2019). The 60,000 psi restriction
+on the value of fi, for deformed bar in 20.2.2.4 for calcu- lating nominal shear strength is intended to limit the width of shear cracks at service-level loads. Service-level cracking is not a concern in members of the seismic-force-resisting
+system subjected to design-level earthquake forces.
+
+[CODE] 18.2.7 Mechanical splices in special moment frames and special structural walls
+
+[COMMENTARY] R18.2.7 Mechanical splices in special moment frames and special structural walls
+[COMMENTARY] In a structure undergoing inelastic deformations during
+an earthquake, the tensile stresses in reinforcement may
+approach the tensile strength of the reinforcement. The requirements for Type 2 mechanical splices are intended to avoid a splice failure when the reinforcement is subjected to expected stress levels in yielding regions. Type 1 mechanical splices on any grade of reinforcement and Type 2 mechan- ical splices on Grade 80 and Grade 100 reinforcement may not be capable of resisting the stress levels expected in yielding regions. The locations of these mechanical splices are restricted because tensile stresses in reinforcement in yielding regions can exceed the strength requirements of 18.2.7.1. The restriction on all Type 1 mechanical splices
+and on Type 2 mechanical splices on Grade 80 and Grade 100 reinforcement applies to all reinforcement resisting earthquake effects, including transverse reinforcement. Recommended detailing practice would preclude the use of splices in regions of potential yielding in members resisting earthquake effects. If use of mechanical splices in regions of potential yielding cannot be avoided, there should
+be documentation on the actual strength characteristics of the bars to be spliced, on the force-deformation characteristics of the spliced bar, and on the ability of the mechanical splice to be used to meet the specified performance requirements. Although mechanical splices as defined by 18.2.7 need not be staggered, staggering is encouraged and may be necessary for constructibility or provide enough space around the splice for installation or to meet the clear spacing requirements.
+
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

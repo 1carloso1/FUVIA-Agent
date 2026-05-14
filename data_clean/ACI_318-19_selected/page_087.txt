@@ -1,0 +1,59 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 87/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 5: EARTHQUAKE RESISTANCE 303
+
+
+
+[CODE] (c) For Grade 60, 6d, of the smallest primary flexural reinforcing bar excluding longitudinal skin reinforcement required by 9.7.2.3 (d) For Grade 80, 5d, of the smallest primary flexural reinforcing bar excluding longitudinal skin reinforcement required by 9.7.2.3
+
+[COMMENTARY] 6d, extension \
+Crosstie as defined in 25.3.5
+[COMMENTARY] Detail B NN.
+7 Sdp2 3 in.
+A extension
+[COMMENTARY] ions Fa
+[COMMENTARY] Consecutive crossties
+engaging the same longitudinal bars have their 90-degree hooks on
+opposite sides
+
+[CODE] 18.6.4.5 Where hoops are required, they shall be designed to resist shear according to 18.6.5.
+[CODE] 18.6.4.6 Where hoops are not required, stirrups with seismic hooks at both ends shall be spaced at a distance not
+more than d/2 throughout the length of the beam.
+
+[COMMENTARY] hy
+[COMMENTARY] Detail A
+
+[CODE] 18.6.4.7 In beams having factored axial compressive force exceeding A, f,'/10, hoops satisfying 18.7.5.2 through 18.7.5.4 shall be provided along lengths given in 18.6.4.1.
+Along the remaining length, hoops satisfying 18.7.5.2 shall
+have spacing s not exceeding the least of 6 in., 6d, of the smallest Grade 60 enclosed longitudinal beam bar, and 5d, of the smallest Grade 80 enclosed longitudinal beam bar. Where concrete cover over transverse reinforcement
+exceeds 4 in., additional transverse reinforcement having
+cover not exceeding 4 in. and spacing not exceeding 12 in. shall be provided.
+
+[COMMENTARY] i] |
+[COMMENTARY] I
+Maximum
+spacing between
+bars restrained by
+legs of crossties or hoops = 14 in.
+[COMMENTARY] Fig. R18.6.4— Examples of overlapping hoops and illustra- tion of limit on maximum horizontal spacing of supported longitudinal bars.
+
+[CODE] 18.6.5 Shear strength
+
+[COMMENTARY] R18.6.5 Shear strength
+[COMMENTARY] Unless a beam possesses a moment strength that is on the order of 3 or 4 times the design moment, it should be
+assumed that it will yield in flexure in the event of a major earthquake. The design shear force should be selected so as to be a good approximation of the maximum shear that may develop in a member. Therefore, required shear strength for frame members is related to flexural strengths of the designed member rather than to factored shear forces indi- cated by lateral load analysis. The conditions described by 18.6.5.1 are illustrated in Fig. R18.6.5. The figure also shows that vertical earthquake effects are to be included, as is typi- cally required by the general building code. For example,
+ASCE/SEI 7 requires vertical earthquake effects, 0.2Sps, to be included. Because the actual yield strength of the longitudinal reinforcement may exceed the specified yield strength and because strain hardening of the reinforcement is likely to
+
+[CODE] 18.6.5.1 Design forces
+[CODE] The design shear force V, shall be calculated from consid- eration of the forces on the portion of the beam between faces of the joints. It shall be assumed that moments of opposite sign corresponding to probable flexural strength, M,,, act at the joint faces and that the beam is loaded with the factored gravity and vertical earthquake loads along its span.
+[CODE] 18.6.5.2 Transverse reinforcement
+[CODE] Transverse reinforcement over the lengths identified in 18.6.4.1 shall be designed to resist shear assuming V, = 0
+when both (a) and (b) occur:
+
+[COMMENTARY] www.concrete.org
+aci=
+A
+
+[CODE] American Concrete Institute — Copyrighted © Material —

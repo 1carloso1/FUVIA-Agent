@@ -1,0 +1,65 @@
+[DOCUMENT: ASTM_C494-19]
+[PAGE: 7/15]
+[LAYOUT: continuous]
+============================================================
+Ally cag4ic4ag4m - 19
+
+of water in the batch as the mass of water in the batch in excess
+of that present as absorbed water in the aggregates. Determine the water-cement ratio by dividing the net mass of water by the
+mass of cement in the batch. 14.6.2 Calculate the volume of concrete in the batch by dividing the total mass of the materials in the batch by the density measured in accordance with Test Method C138/
+C138M. Record the volume to the nearest 0.001 m° [0.1 ft*]. 14.6.3 Calculate the water content, in units of kg/m? [lb/ft*],
+of each batch by dividing the net mass of water in the batch by the volume of the batch. Calculate the relative water content of the test concrete as a percentage of the water content of the reference concrete by dividing the average water content of the
+batches of the test concrete by the average water content of the
+batches of the reference concrete and multiplying the quotient
+by 100 %. 15. Preparation of Test Specimens 15.1 As required by Section 16, make specimens for tests of
+hardened concrete, representing each test and test age from at least three separate batches for each category of concrete. Table
+2 shows the minimum number of specimens to be made from three batches of each category (see Note 8). Make at least one
+specimen for each test and test age from each batch of concrete, except make at least two specimens for the freezing
+and thawing test from each batch of concrete. The preparation
+of all specimens can be completed in one, two, or three days of
+mixing, provided the same number of batches of test concrete
+and reference concrete are made on the same day. Nore 8—More than the minimum number of specimens should be
+prepared for tests of hardened concrete to provide replacements for
+specimens that may be found to be faulty or not consolidated properly (see 15.2). 15.2 Examination of Specimens—Visually examine all
+specimens after removal from their molds. If any specimen is
+found to be faulty, it shall be discarded (see Note 9). In addition, measure and record the mass of each type of
+specimen. Note any specimen that appears to have a low mass,
+which may indicate inadequate consolidation. Visually exam- ine specimens after testing and note any unexpected condi- tions. If test results for such noted specimens are statistical outliers, discard the results for those specimens. Use Practice
+
+E178 to establish if a test result is a statistical outlier. It is permitted to substitute outliers with test results from replace-
+ment specimens. The test result reported for each category of concrete and test age shall be the average of the individual test determinations of the specimens tested. If one specimen or one test determination is discarded without replacement, it shall be the average of the remaining test determinations. If more than
+one specimen representing a given test at a given age is found faulty either before or after testing and replacement specimens are not available, the test results shall be disregarded and the test shall be repeated. Note 9—Examples of faulty specimens include specimens with evi-
+dence of incomplete consolidation, specimens damaged during mold removal, or defective placement of gage studs in length change prisms.
+16. Test Specimens of Hardened Concrete 16.1 Number of Specimens—Make at least three batches for
+each category of concrete to be compared. For each batch,
+make at least two test specimens for freezing and thawing tests
+and at least one test specimen for each other type of test and test age indicated in Table 2. The number of test ages for
+compressive strength includes test ages for demonstrating provisional compliance. 16.2 Types of Specimens—Specimens shall be prepared in
+accordance with the following: 16.2.1 Compressive Strength—Make and cure 150 by
+300 mm [6 by 12 in.] or 100 by 200 mm [4 by 8 in.] cylinders in accordance with Practice C192/C192M. 16.2.2 Flexural Strength—Make and cure beams with a cross-section of 75 by 75 mm [3 by 3 in.] in accordance with Practice C192/C192M. 16.2.3 Resistance to Freezing and Thawing—Prisms shall
+be made and cured in accordance with the applicable require-
+ments of Practice C192/C192M. Prism dimensions shall be as required by Test Method C666/C666M. The air content of the mixtures shall be as specified in 12.2.2. 16.2.4 Length Change—Make and cure test specimens in accordance with Test Method C157/C157M. The moist-curing period, including the period in the molds, shall be 14 days.
+
+TABLE 2 Minimum Number of Specimens
+
+Number of Categories of
+Batches for Each
+Test Number of Test Ages Concrete Category of Concrete Number of Specimens, min
+
+Water content 1 2 3 A
+Slump 1 2 3 A
+
+Air content 1 2 3 A
+Time of setting 8 2 3 6
+Compressive strength Types B, C, E, and S 5 2 3 30
+Types A and D 6° 2 3 36
+Types F andG 7° 2 3 42 Flexural strength 3 2 3 18
+Freezing and thawing 1 2 3 12°
+Length change 1 2 3 6
+
+4 Determined on each batch of concrete mixed.
+> See 14.5.
+© Includes test ages for demonstrating provisional compliance. Two specimens per batch. For other tests of hardened concrete, one specimen per test age for each batch.
+Copyright by ASTM Int'l (all rights reserved); Wed Sep 2 00:11:37 EDT 2020
+7
+Downloaded/printed by Indian Inst of Tech Chennai (Indian Inst of Tech Chennai) pursuant to License Agreement. No further reproductions authorized.

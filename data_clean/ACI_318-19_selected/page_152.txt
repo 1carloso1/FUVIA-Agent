@@ -1,0 +1,15 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 152/196]
+[LAYOUT: continuous]
+============================================================
+PART 6: MATERIALS & DURABILITY 369
+CODE COMMENTARY
+nized steel forms will be used. Use of aluminum embed-
+ments is covered in 26.8.2. Use of stay-in-place galvanized steel forms is covered in 26.4.2.2.
+oa Concrete
+
+19.4—Grout durability requirements 19.4.1 Water-soluble chloride ion content of grout for
+bonded tendons shall not exceed 0.06 percent when tested in
+accordance with ASTM C1218, measured by mass of chlo- ride ion to mass of cementitious materials.
+
+American Concrete Institute — Copyrighted © Material — www.concrete.org aci }

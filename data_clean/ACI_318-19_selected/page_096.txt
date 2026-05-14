@@ -1,0 +1,52 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 96/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+[COMMENTARY] Requirement (c) on joint aspect ratio applies only to
+beams that are designated as part of the seismic-force- resisting system. Joints having depth less than half the beam depth require a steep diagonal compression strut across the joint, which may be less effective in resisting joint shear. Tests to demonstrate performance of such joints have not
+been reported in the literature.
+
+[CODE] 18.8.2.3.1 Concrete used in joints with Grade 80 longitu- dinal reinforcement shall be normalweight concrete.
+
+[COMMENTARY] R18.8.2.3.1 Test data justifying the combination of light- weight concrete and Grade 80 longitudinal reinforcement in joints are not available.
+
+[CODE] 18.8.3 Transverse reinforcement
+
+[COMMENTARY] R18.8.3 Zransverse reinforcement
+
+[CODE] 18.8.3.1 Joint transverse reinforcement shall satisfy 18.7.5.2, 18.7.5.3, 18.7.5.4, and 18.7.5.7, except as permitted in 18.8.3.2.
+
+[COMMENTARY] The Code requires transverse reinforcement in a joint regardless of the magnitude of the calculated shear force.
+
+[CODE] 18.8.3.2 Where beams frame into all four sides of the joint and where each beam width is at least three-fourths the column width, the amount of reinforcement required by 18.7.5.4 shall be permitted to be reduced by one-half, and the spacing required by 18.7.5.3 shall be permitted to be increased to 6 in. within the overall depth of the shallowest
+framing beam.
+
+[COMMENTARY] R18.8.3.2 The amount of confining reinforcement may be reduced and the spacing may be increased if beams of adequate dimensions frame into all four sides of the joint.
+
+[CODE] 18.8.3.3 Longitudinal beam reinforcement outside the
+column core shall be confined by transverse reinforcement passing through the column that satisfies spacing require-
+ments of 18.6.4.4, and requirements of 18.6.4.2, and 18.6.4.3, if such confinement is not provided by a beam framing into the joint.
+
+[COMMENTARY] R18.8.3.3 The required transverse reinforcement, or transverse beam if present, is intended to confine the beam longitudinal reinforcement and improve force transfer to the
+beam-column joint. An example of transverse reinforcement through the
+column provided to confine the beam reinforcement passing outside the column core is shown in Fig. R18.6.2. Additional detailing guidance and design recommendations for both interior and exterior wide-beam connections with beam rein- forcement passing outside the column core may be found in
+ACI 352R.
+
+[CODE] 18.8.4 Shear strength
+
+[COMMENTARY] R18.8.4 Shear strength
+
+[CODE] 18.8.4.1 Joint shear force V,, shall be calculated on a plane at mid-height of the joint from calculated forces at the joint faces using tensile and compressive beam forces determined in accordance with 18.8.2.1 and column shear consistent
+with beam probable flexural strengths M,,.
+
+[COMMENTARY] The shear strength values given in 18.8.4.3 are based on the recommendation in ACI 352R for joints with members that are expected to undergo reversals of deformation into the inelastic range, although the ACI 352R definition of effective cross-sectional joint area is sometimes different.
+The given nominal joint shear strengths do not explicitly consider transverse reinforcement in the joint because tests
+of joints (Meinheit and Jirsa 1977) and deep beams (Hiro-
+sawa 1977) have indicated that joint shear strength is not sensitive to transverse reinforcement if at least the required
+minimum amount is provided in the joint. Cyclic loading tests of joints with extensions of beams with lengths at least equal to their depths have indicated similar joint shear strengths to those of joints with continuous beams. These findings suggest that extensions of beams and
+
+[CODE] 18.8.4.2 @ shall be in accordance with 21.2.4.4.
+[CODE] 18.8.4.3 V,, of the joint shall be in accordance with Table 18.8.4.3.
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

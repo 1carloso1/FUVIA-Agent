@@ -1,0 +1,42 @@
+[DOCUMENT: ACI_211.4R-08]
+[PAGE: 9/23]
+[LAYOUT: continuous]
+============================================================
+ACI COMMITTEE REPORT
+211.4R-10
+
+5. w/cem—If the required concrete compressive strength is not achieved using the w/cm recommended in Fabic &3, additional trial mixtures with lower w/cm should be tested. If this does not result in increased compressive strengths, the
+adequacy of the materials used should be reviewed. 6.2.3.11 Step 11: Select optimum mixture proportions—
+Once the trial mixture proportions have been adjusted to produce the desired properties, strength specimens should be cast from trial batches made under the expected field conditions according to the requirements of ACI 318. Practicalities of production and quality control procedures are better evaluated
+when production-size trial batches are prepared using the equipment and procedures that are to be used in the actual work.
+
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; air content requirements; chemical admixture type classification and performance requirements.]
+cementitious material should be calculated by adding the
+volume of cement and the volume of fly ash; and 5. Fine aggregate content—Having determined the volume of cementitious material per cubic yard of concrete for each
+companion trial mixture, and given the previously determined
+volumes per cubic yard of coarse aggregate, water, and entrapped air (Sieg %), the fine aggregate content of each
+companion trial mixture is calculated using the absolute
+volume method. 6.2.3.9 Step 9: Trial mixtures—For each of the trial mixtures proportioned in Sisgs { through 3, a laboratory trial batch should be produced to determine the workability and strength characteristics of the mixtures. The masses of fine aggregate, coarse aggregate, and water should be adjusted to correct for the moisture condition of the aggregates used.
+Each trial batch should be such that, after a thorough mixing,
+a uniform concrete mixture of at least 3.0 ft*, or larger if necessary, to conduct the freshly mixed concrete testing, and fabricate the required number of test specimens. 6.2.3.10 Step 10: Adjust trial mixture proportions—If the desired properties of the concrete are not obtained, the original trial mixture proportions should be adjusted according to the following guidelines to produce the desired workability. 1. Initial slump—If the initial slump of the trial mixture is not within the desired range, the mixing water or the admixture dosage should be adjusted. The mass of cementitious material in the mixture should be adjusted to maintain the desired w/cm.
+The fine aggregate content should then be adjusted to ensure proper yield of the concrete; 2. HRWRA dosage rate—If HRWRA is used, different
+dosage rates should be tried to determine the effect on strength and workability of the concrete mixture. Because of the nature of high-strength concrete mixtures, higher dosage rates than those recommended by the admixture manufacturer
+may still function without segregation. Also, because the time of addition of the HRWRA and concrete temperature
+can impact the effectiveness of the admixture, its use in laboratory trial mixtures may have to be adjusted for field conditions. In practice, redosing with HRWRA to restore workability results in increased strengths at nearly all test ages; however, an excessive dosage of HRWRA can retard the initial setting time of concrete, which may increase the potential for plastic shrinkage cracking on flatwork applications; 3. Coarse aggregate content—Once the concrete trial mixture has been adjusted to the desired slump, it should be determined if the mixture is too harsh for job placement or finishing requirements. If needed, the coarse aggregate content may be reduced, and the fine aggregate content adjusted accordingly to ensure proper yield. This may, however, increase the water demand of the mixture, thereby increasing the required content of cementitious material to maintain a given w/cm. In addition, a reduction in coarse aggregate content may result in a lower modulus of elasticity for the hardened concrete; 4. Air content—If air entrainment is required and the
+measured air content differs significantly from the designed proportion calculations, then the dosage should be adjusted to maintain yield; and
+
+6.3—Sample calculations 6.3.1 Introduction—An example is presented herein to illustrate the mixture proportioning procedure for high-strength concrete discussed in the preceding section. Laboratory trial batch results will depend on the actual materials used. In this
+example, Type I cement having a relative density of 3.15 is used. 6.3.2 Example—High-strength concrete is required for the
+columns in the first three floors of a high-rise office building.
+The specified compressive strength is 9000 psi at 28 days.
+Due to the close spacing of steel reinforcement in the
+columns, the largest nominal maximum-size aggregate that can be used is 1/2 in. A fine aggregate that meets ASTM C33 limits will be used, which has the following properties: 1. FM = 2.9 fineness modulus; 2. RDog = 2.59 relative density, based on oven-dry; 3. Abs = 1.1% absorption, based on oven-dry; 4. BD = 105 lb/ft? bulk density; and 5. HRWRA anda set-retarding admixtures will be used. 6.3.2.1 Step 1: Select slump and required concrete
+strength—Because an HRWRA is used, the concrete will be designed based on a slump of 1 to 2 in. before the addition of the HRWRA according to Yabis §.). In this example, the ready mixed concrete producer has no previous history with high-strength concrete, and therefore should select proportions based on laboratory trial mixtures. Using Eq. (3-3), the required average strength used for selection of concrete proportions is
+fe = 1.10 x (9000) + 700 = 10,600 psi (3-3)
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: aggregate grading and sieve analysis requirements; aggregate physical property limits.]
+6.3.2.2 Step 2: Select maximum size of aggregate—
+Based on the guidelines in Ysiiic &.2, a crushed limestone having a nominal maximum size of 1/2 in. will be used. The crushed limestone properties are as follows: 1. RDoqg = 2.76 relative density, based on oven-dry; 2. Abs = 0.7% absorption, based on oven-dry; and 3. BD = 101 lb/ft? bulk density.
+The grading of the aggregate should comply with ASTM C33, No. 7, 1/2 in. coarse aggregate. 6.3.2.3 Step 3: Select optimum coarse aggregate content—
+The optimum coarse aggregate content, selected from ‘atic 6.3, is 0.68 per unit volume of content. The dry mass of coarse aggregate per cubic yard of concrete, Wy,., is then

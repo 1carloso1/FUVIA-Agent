@@ -1,0 +1,45 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 69/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 5: EARTHQUAKE RESISTANCE 285
+[COMMENTARY] CHAPTER 18—EARTHQUAKE-RESISTANT STRUCTURES
+
+
+
+[CODE] 18.1—Scope 18.1.1 This chapter shall apply to the design of nonpre- stressed and prestressed concrete structures assigned to
+Seismic Design Categories (SDC) B through F, including,
+where applicable:
+
+[COMMENTARY] R18.1—Scope Chapter 18 does not apply to structures assigned to
+Seismic Design Category (SDC) A. For structures assigned
+[COMMENTARY] Seismic
+18
+[COMMENTARY] to SDC B and C, Chapter 18 applies to structural systems designated as part of the seismic-force-resisting system. For structures assigned to SDC D through F, Chapter 18 applies to both structural systems designated as part of the seismic- force-resisting system and structural systems not designated as part of the seismic-force-resisting system. Chapter 18 contains provisions considered to be the
+minimum requirements for a cast-in-place or precast concrete structure capable of sustaining a series of oscil- lations into the inelastic range of response without critical deterioration in strength. The integrity of the structure in the inelastic range of response should be maintained because the design earthquake forces defined in documents such as
+ASCE/SEI 7, the 2018 IBC, the UBC (ICBO 1997), and the NEHRP (FEMA P749) provisions are considered less than those corresponding to linear response at the antici- pated earthquake intensity (FEMA P749; Blume et al. 1961;
+Clough 1960; Gulkan and Sozen 1974). The design philosophy in Chapter 18 is for cast-in-place concrete structures to respond in the nonlinear range when subjected to design-level ground motions, with decreased stiffness and increased energy dissipation but without crit- ical strength decay. Precast concrete structures designed in accordance with Chapter 18 are intended to emulate cast- in-place construction, except 18.5, 18.9.2.3, and 18.11.2.2,
+which permit precast construction with alternative yielding
+mechanisms. The combination of reduced stiffness and increased energy dissipation tends to reduce the response accelerations and lateral inertia forces relative to values that
+would occur were the structure to remain linearly elastic and lightly damped (Gulkan and Sozen 1974). Thus, the use of design forces representing earthquake effects such as those in ASCE/SEI 7 requires that the seismic-force-resisting
+system retain a substantial portion of its strength into the inelastic range under displacement reversals. The provisions of Chapter 18 relate detailing require-
+ments to type of structural framing and SDC. Seismic design categories are adopted directly from ASCE/SEI 7, and relate to considerations of seismic hazard level, soil type, occu- pancy, and use. Before the 2008 Code, low, intermediate,
+and high seismic risk designations were used to delineate detailing requirements. For a qualitative comparison of seismic design categories and seismic risk designations, refer to Table R5.2.2. The assignment of a structure to a SDC is regulated by the general building code (refer to 4.4.6.1).
+
+[CODE] (a) Structural systems designated as part of the seismic- force-resisting system, including diaphragms, moment frames, structural walls, and foundations (b) Members not designated as part of the seismic-force- resisting system but required to support other loads while
+undergoing deformations associated with earthquake effects
+[CODE] 18.1.2 Structures designed according to the provisions
+of this chapter are intended to resist earthquake motions
+through ductile inelastic response of selected members.
+[CODE] 18.2—General 18.2.1 Structural systems
+
+[COMMENTARY] R18.2—General Structures assigned to SDC A need not satisfy require-
+ments of Chapter 18 but must satisfy all other applicable requirements of this Code. Structures assigned to Seismic
+Design Categories B through F must satisfy requirements of
+
+[CODE] 18.2.1.1 All structures shall be assigned to a SDC in accor-
+dance with 4.4.6.1.
+
+[COMMENTARY] aci*
+_
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

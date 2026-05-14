@@ -1,0 +1,52 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 103/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 5: EARTHQUAKE RESISTANCE
+[COMMENTARY] 319
+
+
+[COMMENTARY] ! Longitudinal bar
+_- at boundary region
+
+[CODE] Floor slab \
+
+[COMMENTARY] - Seismic
+[COMMENTARY] 4
+Z
+[COMMENTARY] Critical section for A
+flexure and axial loads
+A > min. Asx
+[COMMENTARY] No splice region
+[COMMENTARY] 20 ft.
+[COMMENTARY] Critical section
+[COMMENTARY] 2hy
+[COMMENTARY] ‘
+V
+[COMMENTARY] Note: For clarity, only part of the required reinforcement is shown.
+[COMMENTARY] (a) Elevation
+- ic
+
+[CODE] Boundary region
+[CODE] Wall intersection
+
+[COMMENTARY] boundary region . y
+a mat)
+[COMMENTARY] | X | X | X |
+t be
+
+[CODE] be
+
+[COMMENTARY] (b) Section A-A
+
+[CODE] Fig. R18.10.2.3—Wall boundary regions within heights where lap splices are not permitted.
+
+[COMMENTARY] R18.10.2.4 This provision is based on the assumption that inelastic response of the wall is dominated by flexural action at a critical, yielding section. The wall should be propor- tioned so that the critical section occurs where intended. If there is potential for more than one critical section, it is prudent to provide the minimum boundary reinforcement at all such sections.
+
+[CODE] 18.10.2.4 Walls or wall piers with h,/f, > 2.0 that are effectively continuous from the base of structure to top of
+wall and are designed to have a single critical section for flexure and axial loads shall have longitudinal reinforce-
+ment at the ends of a vertical wall segment that satisfies (a) through (c).
+
+[COMMENTARY] aci>
+_a
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

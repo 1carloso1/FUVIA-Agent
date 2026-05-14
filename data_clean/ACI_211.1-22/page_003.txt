@@ -1,0 +1,50 @@
+[DOCUMENT: ACI_211.1-22]
+[PAGE: 3/26]
+[LAYOUT: continuous]
+============================================================
+4 SELECTING PROPORTIONS FOR NORMAL-DENSITY AND HIGH-DENSITY CONCRETE—GUIDE (ACI PRC-211.1-22)
+
+2.2—Definitions Please refer to the latest version of ACI Concrete Termi- nology for a comprehensive list of definitions. Definitions provided herein complement that resource. cement efficiency—the strength gained from each pound
+of cement in a cubic yard. With units of psi/lb/yd>, it is
+computed by dividing the strength by the weight of cement for a cubic yard of concrete mixture. dry-rodded unit weight—weight per unit volume of
+oven-dry aggregate compacted by rodding. It is also known as “dry-rodded density.” In this guide, dry-rodded density is
+used as the preferred term. finishability—the ability to level, smooth, consolidate,
+and otherwise treat surfaces of fresh or recently placed concrete to produce a desired appearance and surface. specific gravity—the ratio of weight of a volume of a material at a stated temperature to the weight of the same
+volume of distilled water at that stated temperature (refer to ASTM C125 for details). It is also known as “rela- tive density.” In this guide, specific gravity is used as the preferred term. unit weight—the weight per unit volume of a material. It is also known as “density.” In this guide, density is used as the preferred term. weight—the amount or quantity of heaviness. It is also
+known as “mass.” In this guide, weight is used as the preferred term.
+
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; air content requirements; chemical admixture type classification and performance requirements.]
+as a decimal. The abbreviation of “cm” represents cement
+and supplementary cementitious materials (SCMs) such as fly ash, silica fume, and slag cement, as discussed further in
+Chapter 7. Differences in strength at a given w/cm may result from changes in placement or curing conditions; the maximum size, gradation, surface texture, particle shape, strength,
+and stiffness of aggregates; differences in cement types or sources; air content; and the use of chemical admixtures that affect the cement hydration process or that develop cementitious properties themselves. Because most of these factors are measurable, they are accounted for in the recom-
+mendations for quantity of water. Accurate predictions of strength and the meeting of strength targets should be based
+on trial batches, or experience with the project materials
+and requirements.
+3.2—Workability Workability is that property of freshly mixed concrete that determines the ease with which it can be mixed, placed, consolidated, and finished to a homogeneous condition. It is affected by water quantity, aggregate grading, particle shape,
+and proportions of aggregate, as well as by the amounts and qualities of cement and other cementitious materials, chem- ical admixtures, amount of entrained air, and the consistency
+of the mixture.
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: chloride exposure classes and chloride ion content limits; chemical admixture type classification and performance requirements.]
+3.3—Consistency Consistency is the degree to which a freshly mixed concrete resists deformation—that is, its ability to flow. It is measured in terms of slump (ASTM C143/C143M); the higher the slump, the more mobile the mixture will be. This ability to flow affects the ease with which the concrete can be placed. In properly proportioned concrete, the unit water content required to produce a given slump will depend on several factors. The water requirement increases as aggregates
+become more angular and rough-textured (but this disadvan- tage may be offset by improvements in other characteristics such as bond to cement paste). The required mixing water decreases as the maximum size of well-graded aggregate is increased, or the level of air entrainment increases. Mixing-
+water requirements usually are reduced by water-reducing admixtures (ACI 212.3R). Slump characteristics are used for developing special concretes such as self-consolidating concrete (ACI 237R), or other applications needing close control of workability (ACI 238.1R).
+
+CHAPTER 3—CONCRETE PROPERTIES
+The selection of concrete proportions involves matching the requirements of the project with the materials and
+methods available. In this chapter, some of the commonly encountered properties that go into specifying, designing,
+and proportioning concrete will be discussed. Concrete properties describe the way concrete behaves while being mixed, placed, cured, or in use. Concrete proportions usually consider workability, strength, and durability needed for the specific applica- tion. Other properties may need to be considered to ensure meeting the expectations of the installed materials. These properties include pumpability, finishability, bleeding, density, heat generation, and permeability. For concrete slabs, mortar content and admixtures used can significantly affect finishing and set characteristics of the concrete mate- rials. A project can impose the need for a particular property such as rapid strength gain, modulus of elasticity, filling of a Steel-congested space, color, and architectural finish. For some of these properties, well-established relationships are
+known. For others, the relationship between the specific property and the mixture design can generally be described, with the details worked out through trial batches.
+
+3.4—Strength Conventionally, the average of two 6 x 12 in. or three
+4 x 8 in. cylinders fabricated, cured, and tested at the age
+of 28 days is the value accepted as concrete’s compressive strength (ASTM C39/C39M). It is used as a controlling value for structural design, concrete proportioning, and evaluation
+of concrete. Concrete is commonly specified with compres- sive strengths from 2500 psi to greater than 10,000 psi. The variable nature of its constituents, the effects of the place- ment, and curing environment all affect concrete strength. Strength is affected by variations in mixture constituents,
+
+3.1—Water-cementitious materials ratio (w/cm) It has long been known (Abrams 1918) that for a given set of materials and conditions, concrete strength and durability are directly related to the w/cm. This is the ratio of the weight
+of water, excluding that absorbed by the aggregate, divided
+by the weight of cementitious materials in a mixture, stated Conmon any Ea ee Institute
+0 [o7 By
+American Concrete Institute — Copyrighted © Material — www.concrete.org
+@seismicisolation

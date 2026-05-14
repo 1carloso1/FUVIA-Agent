@@ -1,0 +1,57 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 58/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] 9.8.3.1 If fillers not complying with 9.8.2.1 or removable
+forms are used, slab thickness shall be at least the greater of one-twelfth the clear distance between ribs and 2 in.
+
+[COMMENTARY] R9.9—Deep beams R9.9.1 General
+
+[CODE] 9.9—Deep beams 9.9.1 General
+
+[COMMENTARY] R9.9.1.1 The behavior of deep beams is discussed in Schlaich et al. (1987), Rogowsky and MacGregor (1986),
+Marti (1985), and Crist (1966). For a deep beam supporting gravity loads, this provision applies if the loads are applied
+on the top of the beam and the beam is supported on its
+bottom face. If the loads are applied through the sides or
+bottom of such a member, the strut-and-tie method, as defined in Chapter 23 should be used to design reinforce-
+ment to internally transfer the loads to the top of the beam
+and distribute them to adjacent supports.
+
+[CODE] 9.9.1.1 Deep beams are members that are loaded on one face and supported on the opposite face such that strut-like
+compression elements can develop between the loads and supports and that satisfy (a) or (b):
+[CODE] (a) Clear span does not exceed four times the overall
+member depth h (b) Concentrated loads exist within a distance 2h from the face of the support
+
+[COMMENTARY] R9.9.1.2 The Code does not contain detailed requirements for designing deep beams for moment, except that a nonlinear strain distribution should be considered. Guidance for the design of deep beams for flexure is given in Chow et al. (1953), Port- land Cement Association (1946), and Park and Paulay (1975).
+
+[CODE] 9.9.1.2 Deep beams shall be designed taking into account nonlinear distribution of longitudinal strain over the depth of the beam.
+[CODE] 9.9.1.3 The strut-and-tie method in accordance with Chapter 23 is deemed to satisfy 9.9.1.2.
+[CODE] 9.9.2 Dimensional limits
+
+[COMMENTARY] R9.9.2 Dimensional limits
+[COMMENTARY] R9.9.2.1 This limit imposes a dimensional restriction to control cracking under service loads and to guard against diagonal compression failures in deep beams.
+
+[CODE] 9.9.2.1 Except as permitted by 23.4.4, deep beam dimen- sions shall be selected such that:
+[CODE] V, < o10,/ f’b,d (9.9.2.1)
+[CODE] 9.9.3 Reinforcement limits
+
+[COMMENTARY] R9.9.3 Reinforcement limits
+[COMMENTARY] R9.9.3.1 The minimum reinforcement requirements of this section are to be used irrespective of the method used for design and are intended to control the width and propa- gation of inclined cracks. Tests (Rogowsky and MacGregor 1986; Marti 1985; Crist 1966) have shown that vertical shear reinforcement, perpendicular to the longitudinal axis of the
+member, is more effective for member shear strength than horizontal shear reinforcement, parallel to the longitudinal axis of the member, in a deep beam; however, the specified
+minimum reinforcement is the same in both directions to control the growth and width of diagonal cracks.
+
+[CODE] 9.9.3.1 Distributed reinforcement along the side faces of
+deep beams shall be at least that required in (a) and (b):
+[CODE] (a) The area of distributed reinforcement perpendicular to the longitudinal axis of the beam, A,, shall be at least 0.0025b,,s, where s is the spacing of the distributed trans- verse reinforcement. (b) The area of distributed reinforcement parallel to the longitudinal axis of the beam, A,,, shall be at least 0.0025b,,52, where s2 is the spacing of the distributed longitudinal reinforcement.
+[CODE] 9.9.3.2 The minimum area of flexural tension reinforce- ment, Ax min, Shall be determined in accordance with 9.6.1.
+
+[COMMENTARY] R9.9.4 Reinforcement detailing
+
+[CODE] 9.9.4 Reinforcement detailing
+[CODE] 9.9.4.1 Concrete cover shall be in accordance with 20.5.1.
+[CODE] aci>
+I
+[CODE] American Concrete Institute — Copyrighted © Material — www.concrete.org

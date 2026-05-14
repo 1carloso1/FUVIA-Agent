@@ -1,0 +1,106 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 131/196]
+[LAYOUT: continuous]
+============================================================
+PART 5: EARTHQUAKE RESISTANCE
+347
+CODE COMMENTARY
+
+Table 18.13.5.71—Minimum reinforcement for uncased cast-in-place or augered concrete piles or piers SDC C- SDC D, E, and F- SDC D, E, and F-
+Minimum reinforcement All Site Classes Site Class A, B, C, and D Site Class E and F
+
+oo Seismic
+
+0.0025 0.005 0.005
+Minimum longitudinal reinforcement . _. (minimum number of bars in
+ratio (minimum number of bars)
+accordance with 10.7.3.1)
+
+(minimum number of bars in
+accordance with 10.7.3.1)
+(minimum number of bars in accordance with 10.7.3.1) Longest of (a) through (d): (a) 1/2 pile length
+
+Longest of (a) through (d): (a) 1/3 pile length
+
+(b) 10 ft
+
+(b) 10 ft
+Minimum reinforced pile length (c) 3 times the pile diameter
+
+Full length of pile except in
+(c) 3 times the pile diameter
+accordance with [1] or [2].
+(d) Flexural length of pile - distance from bottom of pile cap to where 0.4M. exceeds M,,
+
+(d) Flexural length of pile - distance from bottom of pile cap to where 0.4M_ exceeds M,,
+
+3 times the pile diameter from the
+7 times the pile diameter from the
+3 times the pile diameter from the
+
+Length of reinforcement zone bottom of the pile cap
+
+bottom of the pile cap
+bottom of the pile cap Minimum of No. 3 closed tie or 3/8 in. diameter spiral for piles < 20 in.
+
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: particle size distribution limits by sieve size.]
+Transverse ; . ; diameter
+confinement Type of transverse Closed ues or spirals with a Minimum No. 4 closed tie or 1/2 in. diameter spiral for piles > 20 in.
+reinforcement reinforcement minimum 3/8 in. diameter diameter
+
+zone In accordance with 18.7.5.2
+
+Spacing and amount . In accordance with 18.7.5.3 and not | In accordance with 18.7.5.3 and not
+Spacing shall not exceed lesser of . .
+of transverse 6 in. or 8 longitudinal bar diameters less than one-half the requirement | less than the requirement of Table
+reinforcement y 8 of Table 18.7.5.4 Item (e) 18.7.5.4 Item (e).
+
+[TABLE: Table 18.7.5.4 Item (e) 18.7.5.4 Item (e).]
+[TABLE_CONTEXT: This table specifies: particle size distribution limits by sieve size.]
+Minimum of No. 3 closed tie or 3/8 in. diameter spiral for piles < 20 in.
+y diameter
+Type of transverse | Closed ties or spirals with minimum | Minimum of No. 4 closed tie or 1/2 in. diameter spiral for piles > 20 in.
+Transverse reinforcement 3/8 in. diameter gigimeter
+reinforcement
+
+In accordance with 18.7.5.2
+
+in remainder of reinforced pile length Spacing and amount
+
+Spacing shall not exceed the least of (a) through (c):
+(a) 12 longitudinal bar diameters (b) 1/2 the pile diameter
+
+Maximum spacing of 16
+of transverse
+longitudinal bar diameters
+reinforcement
+
+(c) 12 in.
+
+[1] For piles sufficiently embedded in firm soil or rock, reinforcement shall be permitted to be terminated a length above the tip equal to the lesser of 5 percent of the pile length and [2] In lieu of providing full length minimum flexural reinforcement, the deep foundation element shall be designed to withstand maximum imposed curvatures from the earthquake
+ground motions and structural response. Curvatures shall include free-field soil strains modified for soil-foundation-structure interaction coupled with foundation element deforma- tions associated with earthquake loads imparted to the foundation by the structure. Minimum reinforced length shall not be less than the requirement for SDC D, E, or F; Site Class D.
+
+33 percent of the length of the pile within rock or firm soil.
+18.13.5.7.2 Minimum longitudinal and transverse rein-
+forcement shall be provided along minimum reinforced lengths measured from the top of the pile in accordance with
+Table 18.13.5.7.1.
+
+R18.13.5.7.3 Reinforcement should extend fz beyond the point where plain concrete is no longer adequate to resist the factored moment.
+
+18.13.5.7.3 Longitudinal reinforcement shall extend at least the development length in tension beyond the flexural length of the pile, which is defined in Table 18.13.5.7.1 as the distance
+from the bottom of the pile cap to where 0.4M,,.> M,,.
+
+R18.13.5.8 Metal-cased concrete piles
+
+18.13.5.8 Metal-cased concrete piles
+18.13.5.8.1 For structures assigned to SDC C, D, E, or F, longitudinal reinforcement requirements and minimum reinforced lengths for metal-cased concrete piles shall be the same as for uncased concrete piles in 18.13.5.7.
+
+R18.13.5.8.2 Spiral-welded metal casing with the speci- fied wall thickness provides confinement equivalent to
+
+18.13.5.8.2 Metal-cased concrete piles shall have a spiral-
+welded metal casing of a thickness not less than 0.0747 in.
+
+aci=
+A
+American Concrete Institute - Copyrighted © Material - www.concrete.org

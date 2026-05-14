@@ -1,0 +1,39 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 161/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 9: CONSTRUCTION 523
+
+
+[COMMENTARY] R26.4.2.1(b) Durability requirements for concrete are
+based on exposure classification of members as given in 19.3. Therefore, the exposure classes applicable to the
+members establish the basis for the requirements for concrete mixtures. Section 19.3.1 requires the licensed design profes- sional to assign exposure classes for different members in the structure. Concrete mixtures should be specified accord- ingly, but the Code does not require the assigned exposure classes to be explicitly stated in the construction documents. If the licensed design professional is requiring the contractor to determine concrete properties by specifying ACI 301, the
+assigned exposure classes for all members will need to be stated explicitly in the construction documents.
+
+[CODE] (b) At the option of the licensed design professional, expo- sure classes based on the severity of the anticipated expo- sure of members.
+
+[COMMENTARY] R26.4.2.1(c) If design or construction requirements dictate that in-place strength of concrete be achieved at specific ages or stages of construction, these requirements
+should be stated explicitly in the construction documents.
+
+[CODE] (c) The required compressive strength at designated stages
+of construction for each part of the structure designed by the licensed design professional.
+
+[COMMENTARY] ‘fe Construction
+oo
+[COMMENTARY] Typical stages of construction when the required compressive strength of concrete needs to be specified include at removal
+of formwork and shores. Additionally, required compressive strength of concrete should be specified for: 1) cast-in-place post-tensioned concrete at the application of post-tensioning; 2) precast concrete at stripping from the forms and during handling, shipping, and erection; and 3) precast, prestressed concrete at transfer of prestress, at stripping from the forms,
+and during handling, shipping, and erection. For portions of the structure that are not designed by the licensed design professional, refer to 26.4.2.2(a).
+
+[CODE] 26.4.2.2 Compliance requirements:
+[CODE] (a) The required compressive strength at designated stages
+of construction for each part of the structure not designed
+by the licensed design professional shall be submitted for review. (b) For members identified in construction documents as subject to cycles of freezing and thawing and applica- tion of deicing chemicals, supplementary cementitious materials, including fly ash and natural pozzolans, silica
+fume, and slag cement, shall not exceed the maximum
+percentage allowed in Table 26.4.2.2(b) and shall satisfy (1) and (2). (1) Supplementary cementitious materials, including fly
+ash and natural pozzolans, silica fume, and slag cement,
+used in the manufacture of ASTM C595 and C1157
+blended cements shall be included in assessing compli-
+ance with the limits in Table 26.4.2.2(b). (2) The individual limits in Table 26.4.2.2(b) shall apply regardless of the number of cementitious materials in a concrete mixture.
+
+[COMMENTARY] R26.4.2.2(b) These limits on supplementary cementitious materials are applicable to concrete mixtures for members assigned to Exposure Class F3.
+[COMMENTARY] American Concrete Institute — Copyrighted © Material — www.concrete.org

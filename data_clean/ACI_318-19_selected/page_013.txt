@@ -1,0 +1,80 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 13/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 1: GENERAL
+[COMMENTARY] 27
+
+
+
+[CODE] Vig
+[CODE] total factored shear force applied to anchor group, Ib
+
+[COMMENTARY] a Not. & Term.
+
+[CODE] Vuai
+[CODE] factored shear force applied to most highly stressed
+anchor in a group of anchors, Ib factored shear force along contact surface in
+composite concrete flexural member, Ib
+[CODE] x h
+[CODE] factored horizontal shear in a story, Ib
+[CODE] SSS
+[CODE] factored shear force at section in the x-direction, lb
+[CODE] B® 4
+=
+[CODE] factored shear force at section in the y-direction, Ib shear strength in the x-direction shear strength in the y-direction density, unit weight, of normalweight concrete or
+equilibrium density of lightweight concrete, Ib/ft*
+
+[COMMENTARY] width of a strut perpendicular to the axis of the
+[COMMENTARY] Ws
+[COMMENTARY] strut, in. effective height of concrete concentric with a tie,
+used to dimension nodal zone, in.
+maximum effective height of concrete concentric
+
+[CODE] effective tie width in a strut-and-tie model, in.
+
+[COMMENTARY] Wi
+[COMMENTARY] Wimax =
+[COMMENTARY] with a tie, in.
+
+[CODE] factored load per unit length of beam or one-way
+[CODE] Wu
+[CODE] slab, Ib/in.
+[CODE] w/em =
+[CODE] water-cementitious materials ratio effect of wind load
+
+[COMMENTARY] service-level wind load, lb
+
+[CODE] distance from centroidal axis of gross section,
+[CODE] yr
+[CODE] neglecting reinforcement, to tension face, in. angle defining the orientation of reinforcement coefficient defining the relative contribution of
+[CODE] O,
+[CODE] concrete strength to nominal wall shear strength ratio of flexural stiffness of beam section to flex-
+
+[COMMENTARY] Ecplp/Ecsls
+
+[CODE] Oy
+
+[COMMENTARY] Oy
+
+[CODE] ural stiffness of a width of slab bounded laterally by centerlines of adjacent panels, if any, on each side of the beam average value of o, for all beams on edges of a panel
+[CODE] On
+[CODE] constant used to calculate V. in slabs and footings
+minimum angle between unidirectional distributed
+[CODE] Os Oy
+[CODE] reinforcement and a strut ratio of long to short dimensions: clear spans for
+two-way slabs, sides of column, concentrated load or reaction area; or sides of a footing
+[CODE] B,
+[CODE] ratio of area of reinforcement cut off to total area of tension reinforcement at section
+[CODE] B.
+[CODE] confinement modification factor for struts and nodes in a strut-and-tie model
+[CODE] Bans
+[CODE] ratio used to account for reduction of stiffness of
+columns due to sustained axial loads
+[CODE] Bas
+[CODE] the ratio of maximum factored sustained shear within a story to the maximum factored shear in that story associated with the same load combination
+[CODE] Bn
+[CODE] factor used to account for the effect of the anchorage
+of ties on the effective compressive strength of a nodal zone factor used to account for the effect of cracking and confining reinforcement on the effective compres- sive strength of the concrete in a strut
+
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org aci BD

@@ -1,0 +1,38 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 105/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 5: EARTHQUAKE RESISTANCE 321
+
+
+
+[CODE] 18.10.3.1 The design shear force V, shall be calculated by:
+
+[COMMENTARY] R18.10.3.1 Design shears for structural walls are obtained
+from lateral load analysis with appropriate load factors increased to account for: (i) flexural overstrength at critical
+
+[CODE] V, = Q,0,V, <3V, (18.10.3.1)
+
+[COMMENTARY] (> Seismic
+[COMMENTARY] sections where yielding of longitudinal reinforcement is expected; and (ii) dynamic amplification due to higher mode effects, as illustrated in Fig. R18.10.3.1. The approach used to determine the amplified shear forces is similar to that used in New Zealand Standard 3101 (2006). Because M,, and M,,
+depend on axial force, which varies for different load combi- nations, and loading direction for flanged and coupled walls, the condition producing the largest value of Q, should be used. Although the value of 1.5 in 18.10.3.1.2 is greater than the minimum value obtained for the governing load combina- tion with a ¢ factor of 0.9 and a tensile stress of at least 1.25/, in the longitudinal reinforcement, a value greater than 1.5 may
+be appropriate if provided longitudinal reinforcement exceeds that required. Dynamic amplification is not significant in walls with h,,/f,, <2. A limit of 0.007h,,,, is imposed on n, to account for buildings with large story heights. The application
+of Q, to V,, does not preclude the application of a redundancy factor if required by the general building code.
+
+[CODE] where V,,, ®,, and @, are defined in 18.10.3.1.1, 18.10.3.1.2,
+and 18.10.3.1.3, respectively.
+[CODE] 18.10.3.1.1 V,, is the shear force obtained from code lateral load analysis with factored load combinations.
+[CODE] 18.10.3.1.2 Q, shall be in accordance with Table 18.10.3.1.2.
+[CODE] Table 18.10.3.1.2—Overstrength factor Q, at critical
+section
+[CODE] Condition Q, M, JM,
+Myeslby > 1.5 Greater of
+[CODE] 1.52]
+[CODE] "Il For the load combination producing the largest value of Q,, (1 Unless a more detailed analysis demonstrated a smaller value, but not less than 1.0.
+[CODE] 18.10.3.1.3 For walls with h,,,,/f,, < 2.0, @, shall be taken as 1.0. Otherwise, , shall be calculated as:
+[CODE] , = 0.94 n, <6 ! (18.10.3.1.3)
+@, =1.3+—5 <18 n,>6
+[CODE] 30
+[CODE] where 7, shall not be taken less than the quantity 0.007h,,s.
+
+[COMMENTARY] American Concrete Institute - Copyrighted © Material - www.concrete.org

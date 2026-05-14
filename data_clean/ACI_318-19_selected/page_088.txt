@@ -1,0 +1,17 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 88/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+
+[COMMENTARY] take place at a joint subjected to large rotations, required shear strengths are determined using a stress of at least 1.25f, in the longitudinal reinforcement. Experimental studies (Popov et al. 1972) of reinforced concrete members subjected to cyclic loading have demon- strated that more shear reinforcement is required to ensure a flexural failure if the member is subjected to alternating nonlinear displacements than if the member is loaded in only
+one direction: the necessary increase of shear reinforcement
+being higher in the case of no axial load. This observation is reflected in the Code (refer to 18.6.5.2) by eliminating the term representing the contribution of concrete to shear strength. The added conservatism on shear is deemed neces- sary in locations where potential flexural hinging may occur.
+However, this stratagem, chosen for its relative simplicity,
+should not be interpreted to mean that no concrete is required to resist shear. On the contrary, it may be argued that the concrete core resists all the shear with the shear (transverse) reinforcement confining and strengthening the concrete. The confined concrete core plays an important role in the behavior of the beam and should not be reduced to a minimum just because the design expression does not explicitly recognize it.
+
+[CODE] (a) The earthquake-induced shear force calculated in
+accordance with 18.6.5.1 represents at least one-half of the maximum required shear strength within those lengths. (b) The factored axial compressive force P, including earthquake effects is less than A,f-'/20.
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

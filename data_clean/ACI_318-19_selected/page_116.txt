@@ -1,0 +1,45 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 116/196]
+[LAYOUT: continuous]
+============================================================
+332 ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+CODE COMMENTARY
+
+; fl
+(i) 0.09sb. —
+A ,
+(ii) 0.35, [2 ie
+Ay fir
+Longitudinal spacing of transverse reinforcement shall not exceed the lesser of 6 in. and 6d, of the smallest diagonal bars. Spacing of crossties or legs of hoops both vertically and horizontally in the plane of the beam cross section shall not exceed 8 in. Each crosstie and
+each hoop leg shall engage a longitudinal bar of equal or greater diameter. It shall be permitted to configure
+hoops as specified in 18.6.4.3.
+Horizontal beam reinforcement at wall Avg = total area of reinforcement in
+does not develop fy / each group of diagonal bars
+nee
+—~_
+Ne Note:
+
+For clarity, only part of the
+ia required reinforcement is shown
+SA ~~ An aN on each side of the line of
+
+— aa symmetry.
+— <a
+| =
+—— !
+/—Wall boundary _
+
+reinforcement
+
+Elevation L
+
+Transverse reinforcement | spacing measured perpendicular to the axis of the diagonal bars not to exceed 14 in.
+NeTransverse reinforcement
+spacing measured perpendicular to the axis of the diagonal bars not to exceed 14 in.
+
+Section A-A
+
+Fig. R18.10.7a—Confinement ofindividual diagonals in coupling beams with diagonally oriented reinforcement. Wall boundary
+
+reinforcement shown on one side only for clarity, ( aci> American Concrete Institute - Copyrighted © Material — www.concrete.org

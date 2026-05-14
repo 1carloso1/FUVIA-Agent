@@ -1,0 +1,50 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 6/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] and moments resisted by precast member acting alone
+compressive stress in concrete due only to effective
+[CODE] toe=
+[CODE] prestress forces, after allowance for all prestress losses, at extreme fiber of section if tensile stress is
+caused by externally applied loads, psi
+[CODE] Ios=
+[CODE] stress in prestressed reinforcement at nominal flex- ural strength, psi specified tensile strength of prestressing reinforce- ment, psi specified yield strength of prestressing reinforce-
+[CODE] toy =
+[CODE] ment, psi
+modulus of rupture of concrete, psi
+[CODE] io
+[CODE] tensile stress in reinforcement at service loads, excluding prestressed reinforcement, psi
+compressive stress in reinforcement under factored l| l| loads, excluding prestressed reinforcement, psi effective stress in prestressed reinforcement, after
+allowance for all prestress losses, psi
+
+[COMMENTARY] fx = Stress in the i-th layer of surface reinforcement, psi
+
+[CODE] extreme fiber stress in the precompressed tension
+zone calculated at service loads using gross section properties after allowance of all prestress losses,
+psi
+[CODE] Futa = specified tensile strength of anchor steel, psi
+= specified yield strength for nonprestressed rein-
+[CODE] forcement, psi
+[CODE] fra = specified yield strength of anchor steel, psi
+= specified yield strength of transverse reinforce-
+[CODE] ment, psi effect of service load due to fluids with well-defined pressures and maximum heights
+= nominal strength at face of a nodal zone, lb nominal strength of a strut, Ib
+nominal strength ofa tie, Ib factored force on the face of a node, Ib factored compressive force in a strut, Ib factored tensile force in a tie, lb overall thickness, height, or depth of member, in. thickness of member in which an anchor is located,
+measured parallel to anchor axis, in.
+
+[COMMENTARY] hane = dimension of anchorage device or single group of
+[COMMENTARY] closely spaced devices in the direction of bursting being considered, in.
+
+[CODE] effective embedment depth of anchor, in.
+
+[COMMENTARY] ef — limiting value of h.; where anchors are located less than 1.5h,, from three or more edges, in.; refer to Fig. R17.6.2.1.2
+
+[CODE] = effective embedment depth of shear lug, in.
+= embedment depth of shear lug, in. her sl
+[CODE] story height for story x, in.
+[CODE] Igy =
+[CODE] laterally unsupported height at extreme compres- sion fiber of wall or wall pier, in., equivalent to @,, for compression members
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

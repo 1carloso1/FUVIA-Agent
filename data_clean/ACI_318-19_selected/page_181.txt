@@ -1,0 +1,46 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 181/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 9: CONSTRUCTION 543
+
+[CODE] (d) Corrosion protection for exposed embedments
+intended to be connected with future Work.
+[CODE] 26.8.2 Compliance requirements:
+[CODE] (a) Type, size, details, and location of embedments not
+shown in the construction documents shall be submitted for review by the licensed design professional. (b) Aluminum embedments shall be coated or covered to prevent aluminum-concrete reaction and electrolytic action between aluminum and steel. (c) Pipes and fittings not shown in the construction docu-
+ments shall be designed to resist effects of the material, pressure, and temperature to which they will be subjected. (d) No liquid, gas, or vapor, except water not exceeding
+90°F or 50 psi pressure, shall be placed in the pipes until the concrete has attained its specified strength. (e) In solid slabs, piping, except for radiant heating or
+snow melting, shall be placed between top and bottom reinforcement. (f) Conduit and piping shall be fabricated and installed so that cutting, bending, or displacement of reinforcement
+from its specified location is not required.
+
+[COMMENTARY] ‘fe Construction
+a
+[COMMENTARY] R26.9—Additional requirements for precast
+concrete
+
+[CODE] 26.9—Additional requirements for precast
+concrete 26.9.1 Design information:
+
+[COMMENTARY] R26.9.1(a) Design of precast members and connections is particularly sensitive to tolerances on the dimensions of individual members and on their location in the structure.
+To prevent misunderstanding, the tolerances used in design
+should be specified in the construction documents. Instead of
+specifying individual tolerances, the standard industry toler-
+ances assumed in design may be specified. It 1s important to specify any deviations from standard industry tolerances. The tolerances required by 26.6.2 are considered to be a
+minimum acceptable standard for reinforcement in precast concrete. Industry-standard product and erection toler-
+ances are provided in ACI ITG-7. Interfacing tolerances for precast concrete with cast-in-place concrete are provided in
+ACI 117.
+
+[CODE] (a) Dimensional tolerances for precast members and inter- facing members.
+
+[COMMENTARY] R26.9.1(b) If the devices, embedments, or related rein-
+forcement are not designed by the licensed design profes- sional, these details should be provided in shop drawings in
+accordance with 26.9.2(c).
+
+[CODE] (b) Details of lifting devices, embedments, and related
+reinforcement required to resist temporary loads from handling, storage, transportation, and erection, if designed
+by the licensed design professional.
+[CODE] 26.9.2 Compliance requirements:
+[CODE] (a) Members shall be marked to indicate location and orientation in the structure and date of manufacture. (b) Identification marks on members shall correspond to erection drawings.
+
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

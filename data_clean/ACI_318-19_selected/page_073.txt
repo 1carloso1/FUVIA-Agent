@@ -1,0 +1,49 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 73/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 5: EARTHQUAKE RESISTANCE 289
+
+
+
+[CODE] 18.2.4 Strength reduction factors
+
+[COMMENTARY] R18.2.4 Strength reduction factors
+
+[CODE] 18.2.4.1 Strength reduction factors shall be in accordance with Chapter 21.
+
+[COMMENTARY] R18.2.4.1 Chapter 21 contains strength reduction factors
+[COMMENTARY] Seismic
+18
+[COMMENTARY] for all members, joints, and connections of earthquake-resis- tant structures, including specific provisions in 21.2.4 for buildings that use special moment frames, special structural walls, and intermediate precast walls.
+
+[CODE] 18.2.5 Concrete in special moment frames and special structural walls
+
+[COMMENTARY] R18.2.5 Concrete in special moment frames and special structural walls
+
+[CODE] 18.2.5.1 Specified compressive strength of concrete in special moment frames and special structural walls shall be in accordance with the special seismic systems requirements of Table 19.2.1.1.
+
+[COMMENTARY] Requirements of this section refer to concrete quality in frames and walls that resist earthquake-induced forces.
+The maximum specified compressive strength of light- weight concrete to be used in structural design calcula- tions is limited to 5000 psi, primarily because of paucity of experimental and field data on the behavior of members
+made with lightweight concrete subjected to displacement reversals in the nonlinear range. If convincing evidence is developed for a specific application, the limit on maximum specified compressive strength of lightweight concrete may
+be increased to a level justified by the evidence.
+
+[CODE] 18.2.6 Reinforcement in special moment frames and special structural walls
+
+[COMMENTARY] R18.2.6 Reinforcement in special moment frames and special structural walls
+
+[CODE] 18.2.6.1 Reinforcement in special moment frames and special structural walls shall be in accordance with the special seismic systems requirements of 20.2.2.
+
+[COMMENTARY] R18.2.6.1 Nonprestressed reinforcement for seismic systems is required to meet 20.2.2.4 and 20.2.2.5. Starting
+with ACI 318-19, ASTM A706 Grades 80 and 100 reinforce-
+ment is permitted to resist moments, axial, and shear forces in special structural walls and all components of special structural walls, including coupling beams and wall piers.
+ASTM A706 Grade 80 reinforcement is also permitted in special moment frames. Results of tests and analytical studies presented in NIST (2014) and Sokoli and Ghannoum (2016) indicate that properly detailed beams and columns of special
+moment frames with ASTM A706 Grade 80 reinforcement exhibit strength and deformation capacities similar to those of members reinforced with Grade 60 reinforcement. The use of Grade 100 reinforcement is not allowed in special
+moment frames because there is insufficient data to demon- strate satisfactory seismic performance. To allow the use of ASTM A706 Grade 80 and 100 rein- forcement, the 2019 Code includes limits for spacing of transverse reinforcement to provide adequate longitudinal bar support to control longitudinal bar buckling. In special
+moment frames, the use of Grade 80 reinforcement requires increased joint depths to prevent excessive slip of beam bars passing through beam-column joints (18.8.2.3). The requirement for a tensile strength greater than the yield strength of the reinforcement (20.2.2.5, Table 20.2.1.3(b)) is
+based on the assumption that the capability of a structural
+member to develop inelastic rotation capacity is a func- tion of the length of the yield region along the axis of the
+member. In interpreting experimental results, the length of
+[COMMENTARY] aci=
+—_
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

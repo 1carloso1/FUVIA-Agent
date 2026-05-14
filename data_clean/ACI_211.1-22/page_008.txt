@@ -1,0 +1,81 @@
+[DOCUMENT: ACI_211.1-22]
+[PAGE: 8/26]
+[LAYOUT: continuous]
+============================================================
+SELECTING PROPORTIONS FOR NORMAL-DENSITY AND HIGH-DENSITY CONCRETE—GUIDE (ACI PRC-211.1-22) 9
+
+Table 4.7.3.2—Limits on supplementary cementi-
+tious materials for concrete assigned to Exposure Class F3 (ACI 301-20 Table 4.2.1.1(b))
+
+[TABLE: Table 4.7.3.2—Limits on supplementary cementi-]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; compressive strength f'c requirements; freezing and thawing exposure classes; air content requirements.]
+Table 4.7.3b—Requirements for concrete by
+Exposure Category F for freezing-and-thawing
+exposure (ACI 301-20 Table 4.2.2.6(c)) Exposure | Maximum | Minimum Additional class wiemTM Sc, psi Air content requirements FO NA 2500 NA Fl 0.55 3500 Table 4.2.2.6(c)1 NA F2 0.45 4500 Table 4.2.2.6(c)1 NA Table
+F3 0.40 5000 Table 4.2.2.6(c)1 4.2.1.1) F3
+plain 0.45 4500 | Table 4.2.2.6(c)1 Table 4.2.1.1(b)
+concrete *The maximum w/cm limits do not apply to lightweight concrete. Table 4.7.3c—Requirements for Exposure Category
+W in contact with water (ACI 301-20 Table 4.2.2.6(d))
+
+Maximum % of total
+cementitious material
+Supplementary cementitious material by mass* Fly ash or natural pozzolans conforming to 25
+ASTM C618
+Slag cement conforming to ASTM C989/ 50
+C989M
+Silica fume conforming to ASTM C1240 10 Total offly ash or natural pozzolans, slag
+a: 50t
+cement, and silica fume Total of fly ash or natural pozzolans and 35
+silica fume
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; compressive strength f'c requirements; exposure class requirements for concrete durability; freezing and thawing exposure classes; sulfate exposure classes; water exposure classes; chloride exposure classes and chloride ion content limits; portland cement type specifications and chemical requirements.]
+“Total cementitious material also inchides ASTM C150/C150M, C595/C595M, and
+C1157/C1157M cement. The maximum percentages above shall include: (a) Fly ash or natural pozzolans present in ASTM C1157/C1157M or C595/C595M Type IP blended cement. (b) Slag cement present in ASTM C1157/C1157M or C595/C595M Type IS blended cement. (c) Silica fume conforming toASTM C1240 present in ASTM C1 157/C1157M or C595/C595M Type IP blended cement. tFly ash or natural pozzolans and silica fume shall constitute no more than 25% and 10%, respectively, of the total mass of the cementitious materials. Table 4.7.3.3—Sulfate concentration ranges
+for each sulfate exposure (ACI 201.2R-16
+Table 6.1.4.1(a)) Sulfate exposure | Water-soluble sulfate (SO,) in | Sulfate (SO,) in class soil (Y% by weight) water (ppm) SO, Negligible’ 0.00 to 0.10 0 to 150 S1, Moderate’ 0.10 to 0.20 150 to 1500 S2, Severe 0.20 to 2.00 1500 to 10,000 S3, Very severe over 2.00 over 10,000 “When sulfate can be replenished by flowing water or from another exterior source, the presence of 0 to 150 ppm of sulfate should be considered moderate exposure. ‘If the concrete will be exposed to sulfates, a maximum w/cm of 0.50 with a
+minimum
+f,' of 4000 psi is needed for moderate exposure. For the severe and very severe exposures, a w/cnt of 0.45 and a minimum strength of 4500 psi are needed. 4.7.3.2 When SCMs are used for Exposure Class F3, limits on their use are listed in Table 4.7.3.2. 4.7.3.3 Sulfate exposure—Table 4.7.3.3 lists the sulfate
+concentration ranges for each sulfate exposure class. Expo-
+sure to seawater can be considered an equivalent to moderate sulfate exposure. Sulfate concentration ranges for the sulfate exposure classes are in Table 4.7.3.3. When sulfate exposure is anticipated, consult ACI 201.2R. 4.7.3.4 Permeability—There are also Permeability Cate-
+gories WO and WI for structures in constant contact with
+water. In the first case, permeability is not a consideration; in the second case, it is. In Table 4.7.3c, concrete exposed to water where perme- ability is not an issue has only a requirement of 2500 psi.
+Concrete exposed to water where permeability is an issue
+such as concrete used in a water barrier element—that is, the
+wall of a water tank—can have a maximum w/cm of 0.50
+and minimum compressive strength of 4000 psi. 4.7.3.5 Corrosion protection—Finally, there is the corro-
+sion class with Categories CO through C2. In the CO cate-
+gory, the structure is dry or protected from moisture. In the
+
+Maximum | Minimum Additional minimum
+[TABLE: Table 4.7.3.3—Sulfate concentration ranges]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; compressive strength f'c requirements; exposure class requirements for concrete durability; water exposure classes.]
+Exposure class wiem* St, psi requirements WoO NA 2500 None
+Wi NA 2500 4.2.2.6{a) W2 0.50 4000 4.2.2.6(a) “The maximum w/cm limits do not apply to lightweight concrete. Table 4.7.3d—Requirements for Exposure Cate- gory C for conditions requiring corrosion protec-
+tion of reinforcement (ACI 301-20 Table 4.2.2.6(e))
+Maximum water-soluble chloride ion (CI) content in concrete, % by mass of
+cementitious materials'
+Exposure |Maximum | Minimum class wien" /, psi
+Non-prestressed concrete
+CO NA 2500 1.00 Cl NA 2500 0.30 C2 0.40 5000 0.15
+Prestressed concrete
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; chloride exposure classes and chloride ion content limits; air content requirements.]
+CO NA 2500 0.06 Cl NA 2500 0.06
+C2 0.40 5000 0.06 *The maximum w/cm limits do not apply to lightweight concrete. iThe maximum cementitious materials contentused in determining chloride content shall not exceed two times the mass of portland cement. Table 4.7.3.1—Total air content for concrete
+exposed to cycles of freezing and thawing
+(ACI 301-20 Table 4.2.2.6(c)1)
+Total air content, %*
+[TABLE: Table 4.7.3.1—Total air content for concrete]
+[TABLE_CONTEXT: This table specifies: freezing and thawing exposure classes; particle size distribution limits by sieve size.]
+Nominal maximum Exposure Classes aggregate size, in. F2 and F3 Exposure Class F1 3/8 7.5 6.0 1/2 7.0 5.5 3/4 6.0 5.0
+1 6.0 4.5 1-1/2 5.5 4.5 2 5.0 4.0 3 4.5 3.5
+*Tolerance on air content as delivered shall be +1.5%.
+tFor
+f,‘ equal to or greater than 5000 psi, it is acceptable to reduce air content by 1.0 percentage point.
+
+(aci>
+
+Copyright American Concrete Institute
+
+American Concrete Institute — Copyrighted © Material — www.concrete.org
+@seismicisolation

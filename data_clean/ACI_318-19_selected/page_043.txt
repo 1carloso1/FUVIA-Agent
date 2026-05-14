@@ -1,0 +1,30 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 43/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 3: MEMBERS 137
+
+
+[COMMENTARY] greater than 3.5/f! b,d (Parra-Montesinos 2006). There are no data for the use of steel fibers as shear reinforcement in concrete beams exposed to chlorides from deicing chemi- cals, salt, salt water, brackish water, seawater, or spray from these sources. Where steel fibers are used as shear reinforce-
+ment in corrosive environments, corrosion protection should be considered. Joists are excluded from the minimum shear reinforce-
+ment requirement as indicated because there is a possibility of load sharing between weak and strong areas. Even when V,, is less than orf! b,d, the use of some
+web reinforcement is recommended in all thin-web, post- tensioned members such as joists, waffle slabs, beams,
+and T-beams, to reinforce against tensile forces in webs resulting from local deviations from the design tendon profile and to provide a means of supporting the tendons in the design profile during construction. If sufficient support is not provided, lateral wobble and local deviations from
+[COMMENTARY] -) Beams
+[COMMENTARY] the smooth parabolic tendon profile assumed in design may result during placement of the concrete. In such cases, the deviations in the tendons tend to straighten out when the
+tendons are stressed. This process may impose large tensile stresses in webs, and severe cracking may develop if no
+web reinforcement is provided. Unintended curvature of the tendons, and the resulting tensile stresses in webs, may
+be minimized by securely tying tendons to stirrups that are rigidly held in place by other elements of the reinforcement cage. The recommended maximum spacing of stirrups used for this purpose is the smaller of 1.5% or 4 ft. If applicable, the shear reinforcement provisions of 9.6.3 and 9.7.6.2.2 will require closer stirrup spacings. For repeated loading of beams, the possibility of inclined diagonal tension cracks forming at stresses appreciably smaller than under static loading should be taken into account in design. In these instances, use of at least the minimum shear reinforcement expressed by 9.6.3.4 is recommended
+even though tests or calculations based on static loads show that shear reinforcement is not required.
+
+[CODE] 9.6.3.2 For prestressed beams, a minimum area of shear reinforcement, Aymin, Shall be provided in all regions where V,, > 0.50V, except for the cases in Table 9.6.3.1. For these cases, at least Ay min Shall be provided where V, > Ve.
+
+[COMMENTARY] R9.6.3.3 When a beam is tested to demonstrate that its shear and flexural strengths are adequate, the actual beam
+dimensions and material strengths are known. Therefore, the test strengths are considered the nominal strengths V, and M,,. Considering these strengths as nominal values ensures that if the actual material strengths in the field were less than specified, or the member dimensions were in error such as to result in a reduced member strength, a satisfactory margin of safety will be retained due to the strength reduction factor 9.
+
+[CODE] 9.6.3.3 If shown by testing that the required M, and V,, can be developed, 9.6.3.1 and 9.6.3.2 need not be satisfied.
+Such tests shall simulate effects of differential settlement, creep, shrinkage, and temperature change, based on a real- istic assessment of these effects occurring in service.
+
+[COMMENTARY] aci=
+IT
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

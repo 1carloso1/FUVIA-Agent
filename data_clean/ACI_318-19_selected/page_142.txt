@@ -1,0 +1,29 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 142/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 6: MATERIALS & DURABILITY 359
+
+
+[COMMENTARY] concrete to become saturated and allows for expansion of the water when it freezes. Exposure class varies with degree of exposure to water, as this will influence the likelihood that any portion of the concrete will be saturated when exposed to cyclic freezing
+and thawing. Conditions that increase the potential for satu-
+[COMMENTARY] oo Concrete
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: exposure class requirements for concrete durability; freezing and thawing exposure classes; air content requirements; aggregate physical property limits.]
+[COMMENTARY] ration include longer-duration or more-frequent contact
+with water without intervening drainage or drying periods.
+The likelihood that concrete in a member will be saturated
+depends on project location, member location and orienta- tion in the structure, and climate. Records of performance of similar members in existing structures in the same general location can also provide guidance in assigning exposure classes. Exposure Category F is subdivided into four exposure classes: (a) Exposure Class FO is assigned to concrete that will not
+be exposed to cycles of freezing and thawing. (b) Exposure Class F1 is assigned to concrete that will be
+exposed to cycles of freezing and thawing and that will
+have limited exposure to water. Limited exposure to water implies some contact with water and water absorption;
+however, it is not anticipated that the concrete will absorb sufficient water to become saturated. The licensed design professional should review the exposure conditions care- fully to support the decision that the concrete is not antici- pated to become saturated before freezing. Even though concrete in this exposure class is not expected to become saturated, a minimum entrained air content of 3.5 to 6 percent is required to reduce the potential for damage in case portions of the concrete member become saturated. (c) Exposure Class F2 is assigned to concrete that will
+be exposed to cycles of freezing and thawing and that will have frequent exposure to water. Frequent exposure to water implies that some portions of the concrete will absorb sufficient water such that over time they will have the potential to be saturated before freezing. If there is
+doubt about whether to assign Exposure Classes F1 or F2 to a member, the more conservative choice, F2, should
+be selected. Exposure Classes F1 and F2 are conditions
+where exposure to deicing chemicals is not anticipated. (d) Exposure Class F3 is assigned to concrete that will be
+exposed to cycles of freezing and thawing with the same
+degree of exposure to water as Exposure Class F2. Addi- tionally, concrete in Exposure Class F3 is anticipated to
+be exposed to deicing chemicals. Deicing chemicals can increase water absorption and retention (Spragg et al. 2011), which would enable the concrete to become satu- rated more readily. Table R19.3.1 provides examples of concrete members for
+each of these exposure classes.
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org aci y

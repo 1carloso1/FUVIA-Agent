@@ -1,5 +1,5 @@
-# Stack Normativo — FUVIA Virtual Resident Engineer
-# Versión definitiva con justificación de selección de capítulos
+# Stack Normativo — FUVIA 
+# Justificación de Selección de Capítulos
 
 ---
 
@@ -131,13 +131,13 @@ No contiene secciones fuera del scope del agente.
 
 ## RESUMEN EJECUTIVO
 
-| Documento | Versión | Contenido indexado |
-|---|---|---|
-| ACI 211.1 | -22 | Chapters 1-9 |
-| ACI 211.4R | -08 | Chapters 1-8 |
-| ACI 318-19 | -19 | Caps. 2, 9, 10, 18, 19, 26 (parciales) |
-| ASTM C150 | -22 | Completo |
-| ASTM C33 | -13 | Completo |
-| ASTM C494 | -19 | Completo |
+| Documento | Versión | Contenido | Capítulos indexados |
+|---|---|---|---|
+| ACI 211.1 | -22 | Dosificación de concreto convencional (NC) | 1–9 |
+| ACI 211.4R | -08 | Dosificación de concreto de alta resistencia (HPC) | 1–8 |
+| ACI 318-19 | -19 | Requisitos estructurales y de durabilidad | 2, 9, 10, 18, 19, 26 |
+| ASTM C150 | /C150M-22 | Especificaciones de cemento Portland | Completo |
+| ASTM C33 | /C33M-13 | Especificaciones de agregados | Completo |
+| ASTM C494 | /C494M-19 | Especificaciones de aditivos químicos | Completo |
 
-**Total estimado:** ~200 páginas de contenido técnico indexado.
+**Total de páginas indexadas:** ~310 páginas de contenido técnico normativo.

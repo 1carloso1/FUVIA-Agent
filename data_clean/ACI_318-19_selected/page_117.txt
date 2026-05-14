@@ -1,0 +1,57 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 117/196]
+[LAYOUT: continuous]
+============================================================
+PART 5: EARTHQUAKE RESISTANCE 333
+CODE COMMENTARY
+
+Horizontal beam —~| |= Spacing not exceeding
+reinforcement at wall smaller of 6 in. and 6d, Ayq = total area of reinforcement in
+does not “_— yO > / each group of diagonal bars
+
+5218 7 om)
+—_ ” Z v\ Note:
+
+P=: 4 For clarity, only part of the
+
+<a r required reinforcement is shown
+—~ hf Las 7 & on each side of the line of
+
+= [ symmetry.
+
+aeete
+—— | | =Wall boundary
+
+_| | d, reinforcement
+
+1) | B : \
+Ln >|
+Elevation
+ame
+
+e Note: Consecutive crossties engaging the same longitudinal
+
+7
+
+bar have their 90-degree hooks on opposite sides of beam.
+
+SC edeeele ° ° y j Transverse reinforcement
+spacing not to exceed 8 in.
+Transverse le e Ne ly reinforcement L4 ; f
+spacing not to poe
+exceed 8 in.
+Section B-B
+
+Fig. R18.10.7b—Full confinement of diagonally reinforced concrete beam section in coupling beams with diagonally oriented
+
+reinforcement. Wall boundary reinforcement shown on one Side only for clarity.
+18.10.8 Wall piers R18.10.8 Wall piers
+
+18.10.8.1 Wall piers shall satisfy the special moment frame Door and window placements in structural walls some- requirements for columns of 18.7.4, 18.7.5, and 18.7.6, with times lead to narrow vertical wall segments that are consid- joint faces taken as the top and bottom of the clear height of ered to be wall piers. The dimensions defining wall piers are the wall pier. Alternatively, wall piers with (f,,/b,,) > 2.5 shall given in Chapter 2. Shear failures of wall piers have been satisfy (a) through (f): observed in previous earthquakes. The intent of this section
+
+is to provide sufficient shear strength to wall piers such that
+
+(a) Design shear force shall be calculated in accordance inelastic response, if it occurs, will be primarily in flexure. with 18.7.6.1 with joint faces taken as the top and bottom The provisions apply to wall piers designated as part of the of the clear height of the wall pier. If the general building seismic-force-resisting system. Provisions for wall piers not
+code includes provisions to account for overstrength of designated as part of the seismic-force-resisting system are the seismic-force-resisting system, the design shear force given in 18.14. The effect of all vertical wall segments on the
+
+American Concrete Institute — Copyrighted © Material — www.concrete.org aci

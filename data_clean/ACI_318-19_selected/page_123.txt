@@ -1,0 +1,44 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 123/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 5: EARTHQUAKE RESISTANCE 339
+
+
+
+[CODE] floor or roof elements, acting as diaphragms and not relying
+on composite action with the precast elements to resist the design earthquake forces, shall be at least 2-1/2 in. thick.
+
+[COMMENTARY] roof systems. Thicker slabs are required if the topping slab is not designed to act compositely with the precast system to resist the design earthquake forces.
+[COMMENTARY] = Seismic
+
+[CODE] 18.12.7 Reinforcement
+
+[COMMENTARY] R18.12.7 Reinforcement
+
+[CODE] 18.12.7.1 The minimum reinforcement ratio for
+diaphragms shall be in conformance with 24.4. Except for post-tensioned slabs, reinforcement spacing each way in floor or roof systems shall not exceed 18 in. Where welded wire reinforcement is used as the distributed reinforcement to resist shear in topping slabs placed over precast floor
+and roof elements, the wires parallel to the joints between the precast elements shall be spaced not less than 10 in. on center. Reinforcement provided for shear strength shall be continuous and shall be distributed uniformly across the shear plane.
+
+[COMMENTARY] R18.12.7.1 Minimum reinforcement ratios for diaphragms correspond to the required amount of temperature and shrinkage reinforcement (refer to 24.4). The maximum spacing for reinforcement is intended to control the width of inclined cracks. Minimum average prestress requirements (refer to 24.4.4.1) are considered to be adequate to limit the crack widths in post-tensioned floor systems; therefore, the
+maximum spacing requirements do not apply to these systems. The minimum spacing requirement for welded wire rein- forcement in topping slabs on precast floor systems is to avoid fracture of the distributed reinforcement during an earth- quake. Cracks in the topping slab open immediately above the
+boundary between the flanges of adjacent precast members, and the wires crossing those cracks are restrained by the transverse wires (Wood et al. 2000). Therefore, all the deformation associ- ated with cracking should be accommodated in a distance not greater than the spacing of the transverse wires. A minimum spacing of 10 in. for the transverse wires is required to reduce the likelihood of fracture of the wires crossing the critical cracks during a design earthquake. The minimum spacing require-
+ments do not apply to diaphragms reinforced with individual bars, because strains are distributed over a longer length.
+
+[CODE] 18.12.7.2 Bonded tendons used as reinforcement to resist collector forces, diaphragm shear, or flexural tension shall be designed such that the stress due to design earthquake forces
+does not exceed 60,000 psi. Precompression from unbonded
+tendons shall be permitted to resist diaphragm design forces if a seismic load path is provided.
+[CODE] 18.12.7.3 All reinforcement used to resist collector forces,
+diaphragm shear, or flexural tension shall be developed or spliced for f, in tension.
+
+[COMMENTARY] R18.12.7.3 Bar development and lap splices are designed according to requirements of Chapter 25 for reinforcement in tension. Reductions in development or splice length for calculated stresses less than f, are not permitted, as indicated in 25.4.10.2.
+
+[CODE] 18.12.7.4 Type 2 splices are required where mechanical splices on Grade 60 reinforcement are used to transfer forces between the diaphragm and the vertical elements
+of the seismic-force-resisting system. Grade 80 and Grade 100 reinforcement shall not be mechanically spliced for this application.
+[CODE] 18.12.7.5 Longitudinal reinforcement for collectors shall
+be proportioned such that the average tensile stress over length (a) or (b) does not exceed of, where the value off, is limited to 60,000 psi.
+
+[COMMENTARY] R18.12.7.5 Table 20.2.2.4(a) permits the maximum design yield strength to be 80,000 psi for portions of a collector, for example, at and near critical sections. The average stress in the collector is limited to control diaphragm cracking over the length of the collector. The calculation of average stress along the length is not necessary if the collector is
+[COMMENTARY] aci*>
+_A
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

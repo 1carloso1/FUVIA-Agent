@@ -1,0 +1,55 @@
+[DOCUMENT: ASTM_C494-19]
+[PAGE: 3/15]
+[LAYOUT: continuous]
+============================================================
+Ail caga/c4g4am - 19
+
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: chemical admixture type classification and performance requirements; admixture water reduction and setting time effects.]
+3.2.8 water-reducing and retarding admixture, n—an ad-
+mixture that reduces the quantity of mixing water required to
+produce concrete of a given slump and increases the time of setting of concrete. 3.2.9 water-reducing, high-range, and retarding admixture,
+n—an admixture that reduces the quantity of mixing water required to produce concrete of a given slump by 12 % or greater and increases the time of setting of concrete. 3.2.10 specific performance admixture, n—an admixture that provides a desired performance characteristic(s) other than
+reducing water content, or changing the time of setting of concrete, or both, without any adverse effects on fresh,
+hardened and durability properties of concrete as specified herein, excluding admixtures that are used primarily in the
+manufacture of dry-cast concrete products. 3.2.10.1 Discussion—Other specific performance character- istics include, but are not limited to, shrinkage reduction, mitigation of alkali-silica reaction, and viscosity modification.
+Admixtures used for the purposes of reducing water content or
+changing the time of setting of concrete are classified within the Type A through Type G grouping. Plasticizing, water- repellent, and efflorescence-controlling admixtures are ex-
+amples of admixtures that are used in the manufacture of dry-cast concrete products.
+
+oven drying, and relative density (specific gravity) of the
+supplied admixture are within the limits in Section 6 when
+compared with the initial sample tested under Level | of this specification. 6. Uniformity and Equivalence 6.1 If specified by the purchaser, the uniformity of a lot, or the equivalence of different lots from the same source shall be established by complying with the following requirements: 6.1.1 Infrared Analysis—The infrared absorption spectra of the initial sample and the test sample, obtained as specified in 18.1, shall be equivalent. Two infrared absorption spectra are
+considered equivalent if the same infrared absorption frequen- cies at the same relative intensities are present in both spectra.
+Refer to Appendix X3 for additional guidance. 6.1.2 Residue by Oven Drying (Liquid Admixtures)—When dried as specified in 18.2, the oven-dried residues of the initial
+sample and of subsequent samples shall be within +12 % of the mid-point of the manufacturer’s stated range, but not
+exceeding the manufacturer’s stated limits. Notre 5—As an example, for an admixture produced with a residue
+range from 27 to 35%, the manufacturer would provide maximum
+acceptable limits of 27.3 to 34.7 %, representing +12 % of the mid-point
+of the limits, where the mid-point is 31.0 %. 6.1.3 Residue by Oven Drying (Nonliquid Admixtures)—
+When dried as specified in 18.3, the oven-dried residues of the initial sample and of the subsequent samples shall be within a
+range of variation not greater than +4 percentage points. 6.1.4 Relative Density (Specific Gravity) (Liquid
+Admixtures)—When tested as specified in 18.4, the relative density (specific gravity) of the initial sample and subsequent test samples shall not differ from the mid-point of the manu- facturer’s stated range by more than 10 % of the difference
+between the mid-point of the manufacturer’s stated range and that of reagent water. If 10 % of the difference between the relative density (specific gravity) of the initial sample and
+water is less than 0.01, use the value 0.01 as the maximum
+allowable difference. Reagent water conforming to Specifica- tion D1193, Types III or IV, and prepared by distillation ion
+exchange, reverse osmosis, electrodialysis, or a combination of these procedures is adequate. 6.2 If the nature of the admixture or the analytical capability
+of the purchaser make some or all of these procedures unsuitable, other requirements for uniformity and equivalence
+from lot to lot or within a lot shall be established by agreement
+between the purchaser and the manufacturer. 7. Packaging and Marking 7.1 If the admixture is delivered in packages or containers, the proprietary name of the admixture, the type under this specification, and the net mass or volume shall be plainly
+marked thereon. Similar information shall be provided in the shipping advices accompanying packaged or bulk shipments of admixtures. 8. Storage 8.1 The admixture shall be stored in such a manner as to
+permit access for inspection and identification of each
+
+4. Ordering Information 4.1 The purchaser shall specify the type of chemical admix- ture desired, and in the case of a Type S admixture the specific
+performance characteristic(s) required.
+5. General Requirements 5.1 For initial compliance with this specification, test con- crete made with one of the admixtures shown in 1.1 shall
+conform to the respective requirements prescribed in Table 1. 5.2 The purchaser is allowed to require a limited retesting to
+confirm current compliance of the admixture to specification requirements. The limited retesting covers physical properties
+and performance of the admixture. 5.2.1 The physical properties retesting shall consist of
+uniformity and equivalence tests for infrared analysis, residue
+by oven drying, and relative density (specific gravity). 5.2.2 The performance property retesting shall consist of
+water content of fresh concrete, setting time, and compressive strength at 3, 7, and 28 days. 5.3 At the request of the purchaser, the manufacturer shall state in writing the chloride content of the admixture. 5.4 At the request of the purchaser, the manufacturer shall
+provide data to substantiate the specific performance charac- teristic(s) stated by the manufacturer for a Type S admixture. 5.5 Tests for uniformity and equivalence, as indicated in
+Section 6, shall be made on the initial sample and the results retained for reference and comparison with the results of tests
+of samples taken from elsewhere within the lot or subsequent lots of admixture. 5.6 At the request of the purchaser, the manufacturer shall state in writing that the infrared analysis spectrum, residue by
+Copyright by ASTM Int'l (all rights reserved); Wed Sep 2 00:11:37 EDT 2020 3 Downloaded/printed by Indian Inst of Tech Chennai (Indian Inst of Tech Chennai) pursuant to License Agreement. No further reproductions authorized.

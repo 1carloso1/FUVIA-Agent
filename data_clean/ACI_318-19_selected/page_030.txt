@@ -1,0 +1,30 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 30/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] the requirements of ASTM A615, A706, or A955 shall be considered as ductile steel elements. stirrup—teinforcement used to resist shear and torsion forces in a member; typically deformed bars, deformed wires, or welded wire reinforcement either single leg or bent into L, U, or rectangular shapes and located perpendicular to, or at an angle to, longitudinal reinforcement. See also tie. strength, design—nominal strength multiplied by a strength reduction factor 9. strength, nominal—strength of a member or cross section calculated in accordance with provisions and assumptions of the strength design method of this Code before application
+of any strength reduction factors.
+
+[COMMENTARY] stirrup—The term “stirrup” is usually applied to trans- verse reinforcement in beams or slabs and the term “ties” or “hoops” to transverse reinforcement in compression members.
+[COMMENTARY] strength, nominal—Nominal or specified values of mate- rial strengths and dimensions are used in the calculation
+of nominal strength. The subscript n is used to denote the
+nominal strengths; for example, nominal axial load strength P,,, nominal moment strength M,, and nominal shear strength V,. For additional discussion on the concepts and
+nomenclature for strength design, refer to the Commentary of Chapter 22. strength, required—The subscript uw is used only to denote the required strengths; for example, required axial load strength P,,, required moment strength M,,, and required shear strength V,, calculated from the applied factored loads
+and forces. The basic requirement for strength design may
+be expressed as follows: design strength > required strength; for example, oP, > P,; 0M, = M,; oV, = V,,. For additional discussion on the concepts and nomenclature for strength design, refer to the Commentary of Chapter 22. stretch length—Length of an anchor over which inelastic elongations are designed to occur under earthquake load- ings. Examples illustrating stretch length are shown in Fig. R17.10.5.3.
+
+[CODE] strength, required—strength of a member or cross section required to resist factored loads or related internal
+moments and forces in such combinations as stipulated in this Code.
+[CODE] stretch length—length of anchor, extending beyond concrete in which it is anchored, subject to full tensile load applied to anchor, and for which cross-sectional area is
+minimum and constant. structural concrete—concrete used for structural purposes, including plain and reinforced concrete. structural diaphragm—member, such as a floor or roof slab, that transmits forces acting in the plane of the member to vertical elements of the lateral-force-resisting system. A structural diaphragm may include chords and collectors as part of the diaphragm. structural integrity—ability of a structure through strength, redundancy, ductility, and detailing of reinforce-
+ment to redistribute stresses and maintain overall stability if localized damage or significant overstress occurs. structural system—interconnected members designed to
+meet performance requirements. structural truss—assemblage of reinforced concrete
+members subjected primarily to axial forces. structural wall—wall proportioned to resist combina- tions of moments, shears, and axial forces in the plane of the wall; a shear wall is a structural wall. structural wall, ductile coupled—a_ seismic-force- resisting-system complying with 18.10.9. structural wall, ordinary reinforced concrete—a wall
+complying with Chapter 11. structural wall, ordinary plain concrete—a_ wall
+complying with Chapter 14.
+[CODE] aci®
+_4
+[CODE] American Concrete Institute — Copyrighted © Material — www.concrete.org

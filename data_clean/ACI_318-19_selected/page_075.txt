@@ -1,0 +1,47 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 75/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 5: EARTHQUAKE RESISTANCE 291
+
+
+
+[CODE] 18.2.7.1 Mechanical splices shall be classified as (a) or (b): (a) Type 1 — Mechanical splice conforming to 25.5.7 (b) Type 2 — Mechanical splice conforming to 25.5.7 and capable of developing the specified tensile strength of the spliced bars
+[CODE] 18.2.7.2 Except for Type 2 mechanical splices on Grade
+60 reinforcement, mechanical splices shall not be located within a distance equal to twice the member depth from the
+column or beam face for special moment frames or from critical sections where yielding of the reinforcement is likely to occur as a result of lateral displacements beyond the linear
+range of behavior. Type 2 mechanical splices on Grade 60 reinforcement shall be permitted at any location, except as noted in 18.9.2.1(c).
+[CODE] 18.2.8 Welded splices in special moment frames and special structural walls
+
+[COMMENTARY] R18.2.8 Welded splices in special moment frames and special structural walls
+
+[CODE] 18.2.8.1 Welded splices in reinforcement resisting earth- quake-induced forces shall conform to 25.5.7 and shall not
+be located within a distance equal to twice the member depth
+from the column or beam face for special moment frames or
+from critical sections where yielding of the reinforcement is likely to occur as a result of lateral displacements beyond the linear range of behavior.
+
+[COMMENTARY] R18.2.8.1 Welding of reinforcement should be in accor- dance with AWS D1.4 as required in Chapter 26. The loca- tions of welded splices are restricted because reinforcement tension stresses in yielding regions can exceed the strength requirements of 25.5.7. The restriction on welded splices applies to all reinforcement resisting earthquake effects, including transverse reinforcement.
+
+[CODE] 18.2.8.2 Welding of stirrups, ties, inserts, or other similar
+elements to longitudinal reinforcement required by design shall not be permitted.
+
+[COMMENTARY] R18.2.8.2 Welding of crossing reinforcing bars can lead to local embrittlement of the steel. If welding of crossing bars is used to facilitate fabrication or placement of rein- forcement, it should be done only on bars added for such purposes. The prohibition of welding crossing reinforcing bars does not apply to bars that are welded with welding operations under continuous, competent control, as in the
+manufacture of welded-wire reinforcement.
+
+[CODE] 18.3—Ordinary moment frames 18.3.1 Scope
+
+[COMMENTARY] R18.3—Ordinary moment frames This section applies only to ordinary moment frames assigned to SDC B. The provisions for beam reinforcement are intended to improve continuity in the framing members
+and thereby improve lateral force resistance and structural integrity; these provisions do not apply to slab-column
+moment frames. The provisions for columns are intended to provide additional capacity to resist shear for columns with proportions that would otherwise make them more suscep- tible to shear failure under earthquake loading.
+
+[CODE] 18.3.1.1 This section shall apply to ordinary moment frames forming part of the seismic-force-resisting system.
+[CODE] 18.3.2 Beams shall have at least two continuous bars at both top and bottom faces. Continuous bottom bars shall
+have area not less than one-fourth the maximum area of
+bottom bars along the span. These bars shall be anchored to develop f, in tension at the face of support.
+[CODE] 18.3.3 Columns having unsupported length f,, < 5c; shall
+have oV,, at least the lesser of (a) and (b):
+[CODE] (a) The shear associated with development of nominal
+moment strengths of the column at each restrained end of the unsupported length due to reverse curvature bending.
+Column flexural strength shall be calculated for the factored
+
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

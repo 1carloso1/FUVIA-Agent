@@ -1,0 +1,33 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 45/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 3: MEMBERS 139
+
+
+
+[CODE] 9.7—Reinforcement detailing 9.7.1 General
+
+[COMMENTARY] R9.7—Reinforcement detailing
+
+[CODE] 9.7.1.1 Concrete cover for reinforcement shall be in accor-
+dance with 20.5.1.
+[CODE] 9.7.1.2 Development lengths of deformed and prestressed reinforcement shall be in accordance with 25.4.
+[CODE] 9.7.1.3 Splices of deformed reinforcement shall be in accordance with 25.5.
+[CODE] 9.7.1.4 Along development and lap splice lengths of longi- tudinal bars with f, = 80,000 psi, transverse reinforcement shall be provided such that K,, shall not be smaller than 0.5d;.
+[CODE] 9.7.1.5 Bundled bars shall be in accordance with 25.6.
+[CODE] 9.7.2 Reinforcement spacing
+
+[COMMENTARY] R9.7.2 Reinforcement spacing
+[COMMENTARY] O) Beams
+
+[CODE] 9.7.2.1 Minimum spacing s shall be in accordance with 25.2.
+[CODE] 9.7.2.2 For nonprestressed and Class C prestressed beams, spacing of bonded longitudinal reinforcement closest to the tension face shall not exceed s given in 24.3.
+[CODE] 9.7.2.3 For nonprestressed and Class C prestressed beams
+with h exceeding 36 in., longitudinal skin reinforcement shall be uniformly distributed on both side faces of the beam for a distance h/2 from the tension face. Spacing of skin rein-
+forcement shall not exceed s given in 24.3.2, where c, is the clear cover from the skin reinforcement to the side face. It shall be permitted to include skin reinforcement in strength calculations if a strain compatibility analysis is made.
+
+[COMMENTARY] R9.7.2.3 For relatively deep beams, some reinforcement should be placed near the vertical faces of the tension zone to control cracking in the web (Frantz and Breen 1980;
+Frosch 2002), as shown in Fig. R9.7.2.3. Without such auxil- iary reinforcement, the width of the cracks in the web may
+exceed the crack widths at the level of the flexural tension reinforcement. The size of the skin reinforcement is not specified; research has indicated that the spacing rather than bar size is of primary importance (Frosch 2002). Bar sizes No. 3 to No. 5, or welded wire reinforcement with a minimum area of 0.1 in.” per foot of depth, are typically provided.
+[COMMENTARY] American Concrete Institute — Copyrighted © Material — www.concrete.org

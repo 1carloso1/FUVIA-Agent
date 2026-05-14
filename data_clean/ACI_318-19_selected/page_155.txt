@@ -1,0 +1,50 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 155/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 9: CONSTRUCTION 517
+
+[CODE] (c) The contractor shall submit necessary information to the licensed design professional to confirm that the specialty engineer complied with the documents identi-
+fying the portion of the design work assigned.
+
+[COMMENTARY] R26.3—Member information
+
+[CODE] 26.3—Member information 26.3.1 Design information:
+
+[COMMENTARY] R26.3.1(a) Construction tolerances for member size and
+location can be incorporated in construction documents by
+reference to ACI 117 for cast-in-place construction or to
+ACI ITG-7 for precast construction. Specific project toler-
+ances that are more restrictive or that are not covered in these references should also be included in the construction
+documents.
+
+[CODE] (a) Member size, location, and related tolerances.
+[CODE] (b) Members to be constructed using shotcrete. (c) Identify structural members for which modulus of elas- ticity testing of concrete mixtures is required. | 26.3.2 Compliance requirements:
+
+[COMMENTARY] oo Construction
+
+[CODE] (a) Use of shotcrete for structural members not identified in the construction documents as required to be placed by shotcrete shall be permitted in accordance with the project
+contract documents.
+
+[COMMENTARY] R26.3.2(a) If the contractor submits a request to use shot-
+crete for portions of the structure, the licensed design profes-
+sional should make the contractor aware that the proposal
+must take into consideration provisions in governing shot- crete listed in R4.2.1.1.
+[COMMENTARY] R26.4—Concrete materials and mixture
+requirements R26.4.1 Concrete materials
+
+[CODE] 26.4—Concrete materials and mixture
+requirements 26.4.1 Concrete materials
+
+[COMMENTARY] R26.4.1.1 Cementitious materials
+
+[CODE] 26.4.1.1 Cementitious materials
+[CODE] 26.4.1.1.1 Compliance requirements:
+[CODE] (a) Cementitious materials shall conform to the speci- fications in Table 26.4.1.1.1(a), except as permitted in 26.4.1.1.1(b).
+[CODE] Table 26.4.1.1.1(a)—Specifications for cementitious
+materials Cementitious material Specification
+[CODE] Portland cement ASTM C150 Blended hydraulic cements an” Noeit Sty Is Expansive hydraulic cement ASTM C845 Hydraulic cement ASTM C1157 Fly ash and natural pozzolan ASTM Col18 Slag cement ASTM C989 Silica fume ASTM C1240 (b) Alternative cements shall be permitted if approved by
+the licensed design professional and the building official.
+
+[COMMENTARY] R26.4.1.1.1(b) Provisions for strength and durability in Chapter 19 and many requirements in Chapter 26 are based
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org ( aci>

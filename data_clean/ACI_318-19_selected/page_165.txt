@@ -1,0 +1,54 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 165/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 9: CONSTRUCTION 527
+
+
+[COMMENTARY] tioning method should be its ability to preserve this presumed level of risk. Refer to ACI 214R for additional information.
+
+[CODE] (c) The concrete materials used to develop the concrete
+mixture proportions shall correspond to those to be used in the proposed Work. (d) If different concrete mixtures are to be used for different portions of proposed Work, each mixture shall
+comply with the concrete mixture requirements stated in the construction documents.
+
+[COMMENTARY] R26.4.3.1(d) If more than one concrete mixture is used for the project, each mixture is required to satisfy Code require- ments. A change in concrete constituents, such as sources or types of cementitious materials, aggregates, or admix- tures, is considered a different mixture. A minor change in
+mixture proportions made in response to field conditions is not considered a new mixture. Concrete mixture requirements to be placed in the construction documents are given in 26.4.2. 1(a).
+
+[CODE] (e) Shotcrete mixture proportions shall be established so that shotcrete satisfies (1) through (3): (1) Can be placed without segregation and fully encase reinforcement. (2) Meets durability requirements given in the construc- tion documents. (3) Conforms to strength test requirements for shotcrete.
+
+[COMMENTARY] oa Construction
+
+[CODE] 26.4.4 Documentation of concrete mixture characteristics
+
+[COMMENTARY] R26.4.4 Documentation ofconcrete mixture characteristics
+
+[CODE] 26.4.4.1 Compliance requirements:
+
+[COMMENTARY] R26.4.4.1(a) Review of the proposed concrete mixture is necessary to ensure that it is appropriate for the project and
+meets all of the requirements for strength and durability as established by the licensed design professional. The licensed design professional typically reviews the documentation on a proposed concrete mixture to evaluate the likelihood that the concrete will meet the strength-test acceptance require-
+ments of 26.12.3 and that acceptable materials are used. The statistical principles discussed in ACI 214R can be useful in evaluating the likelihood that a proposed mixture will meet the strength-test requirements of 26.12.3. Concrete mixture requirements to be placed in the construction documents are given in 26.4.2. 1(a).
+
+[CODE] (a) Documentation of concrete mixture characteristics shall be submitted for review by the licensed design professional before the mixture is used and before making
+changes to mixtures already in use. Evidence of the ability
+of the proposed mixture to comply with the fresh and
+hardened concrete mixture requirements in the construc- tion documents shall be included in the documentation.
+The evidence shall include records of consecutive strength tests, as defined in 26.12.1.1, of the same concrete mixture
+used in previous projects or the results of laboratory trial batches of the proposed mixture.
+
+[COMMENTARY] R26.4.4.1(b) If.’ < 5000 psi and test data are not avail- able, concrete mixture proportions should be established to
+produce a sufficiently high average strength such that the likelihood that the concrete would not meet the strength acceptance criteria would be acceptably low. Guidance on an appropriate average strength is provided in ACI 214R. The
+purpose of this provision is to allow construction to continue
+when there is an unexpected interruption in concrete supply
+and there is not sufficient time for testing and evaluation. It also applies for a small project where the cost of trial mixture data is not justified.
+
+[CODE] (b) If field or laboratory test data are not available, and f,'
+< 5000 psi, concrete proportions shall be based on other experience or information, if approved by the licensed design professional. If f,' > 5000 psi, test data docu-
+menting the characteristics of the proposed mixtures are required.
+
+[COMMENTARY] R26.4.4.1(c) It is sometimes necessary or beneficial to adjust concrete mixtures during the course of a project. Conditions that could result in mixture adjustments include
+
+[CODE] (c) It shall be permitted to modify mixtures during the course of the Work. Before using the modified mixture,
+evidence acceptable to the licensed design professional
+
+[COMMENTARY] ci}
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

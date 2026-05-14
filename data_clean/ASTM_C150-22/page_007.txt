@@ -1,0 +1,40 @@
+[DOCUMENT: ASTM_C150-22]
+[PAGE: 7/9]
+[LAYOUT: continuous]
+============================================================
+All c150/C150M - 22
+sat?
+Note A2.2—For verification of limestone content of cement, the purchaser must analyze for CO, content and make a correction for the content of CaCO, in the limestone in order for the data to be comparable to the manufacturer’s report. A2.3 Portland cements that do not contain limestone can contain baseline levels of CO, inherent in manufacture, for example, due to carbonation. This baseline CO, content is included as part of any calculated limestone content.
+
+Notre A2.1—For example, where the determined CO, content in the finished cement = 1.5 % and the CO, content of the limestone = 43 %
+(CaCO, in limestone = 98 %), then:
+2 x 100 = 3.5 % limestone content in cement
+A2.2 This specification requires that the limestone to be
+used must contain a minimum of 70 % CaCO3. The manufac- turer shall include the CaCO, content of the limestone on the
+manufacturer’s report. Calculate the CaCO, content of the
+limestone as follows: % CaCO, = 2.274 x % CO).
+APPENDIX
+(Nonmandatory Information)
+X1. MANUFACTURER’S CERTIFICATION (MILL TEST REPORT)
+
+mally performed on cements meeting Specification C150/
+C150M. Purchaser reporting requirements should govern if different from normal reporting by the manufacturer or from those recommended here. X1.5 Cements may be shipped prior to later-age test data
+being available. In such cases, the test value may be left blank. Alternatively, the manufacturer can generally provide esti-
+mates based on historical production data. The report should indicate if such estimates are provided. X1.6 In reporting limits from the tables in Specification
+C150/C150M on the Mill Test Report, only those limits specifically applicable should be listed. In some cases, Speci- fication C150/C150M table limits are superceded by other provisions. X1.7 When limestone or inorganic processing additions or
+both are used in the cement, additional data are reported by the
+manufacturer. An example additional data report is shown in Fig. X1.2.
+
+X1.1 To provide uniformity for reporting the results of tests
+performed on cements under this specification, as required by
+Section 15 of Specification C150/C150M entitled “Manufac- turer’s Certification,” an example Mill Test Report is shown in Fig. X1.1. X1.2 The identity information given should unambiguously identify the cement production represented by the Mill Test
+Report and may vary depending upon the manufacturer’s
+designation and purchaser’s requirements. X1.3 The Manufacturer’s Certification statement may vary
+depending upon the manufacturer’s procurement order, or legal
+requirements, but should certify that the cement shipped is
+represented by the certificate and that the cement conforms to
+applicable requirements of the specification at the time it was tested (or retested) or shipped. X1.4 The sample Mill Test Report has been developed to reflect the chemical and physical requirements of this specifi- cation and recommends reporting all analyses and tests nor-
+AH, Ng POA RAPT
+TL BRS RREAABPOA Gitte, BoA S-BUS ERO Ly LAREEES
+AR 1 emus, dole
+THEA| PARE ABREU) {Br/) ADA ARAB BOA CDPRLOMAINA OA ABT, BY) x (oBalaig’ oy) ao( Beth «, » Bax

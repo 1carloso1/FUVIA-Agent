@@ -1,0 +1,46 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 11/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 1: GENERAL
+[COMMENTARY] 25
+
+
+
+[CODE] secondary moment due to lateral deflection, in.-Ib
+factored load per unit area, lb/ft? stability index for a story radius of gyration of cross section, in.
+bend radius at the inside of a bar, in. cumulative load effect of service rain load center-to-center spacing of items, such as longi- tudinal reinforcement, transverse reinforcement, tendons, or anchors, in. center-to-center spacing of reinforcement in the i-th
+
+[COMMENTARY] a Not. & Term.
+[COMMENTARY] = reaction, lb R
+
+[CODE] Sj
+[CODE] direction adjacent to the surface of the member, in. center-to-center spacing of transverse reinforce-
+ment within the length &,, in. sample standard deviation, psi
+[CODE] Ss
+[CODE] clear distance between adjacent webs, in.
+[CODE] Sy
+[CODE] center-to-center spacing of longitudinal shear or
+[CODE] 52
+[CODE] torsional reinforcement, in. effect of service snow load 5 percent damped, spectral response acceleration
+[CODE] Sps
+[CODE] parameter at short periods determined in accor-
+dance with the general building code
+moment, shear, or axial force at connection corre- sponding to development of probable strength at intended yield locations, based on the governing
+mechanism of inelastic lateral deformation, consid- ering both gravity and earthquake effects elastic section modulus, in.*
+nominal moment, shear, axial, torsion, or bearing strength yield strength of connection, based on f, of the connected part, for moment, shear, torsion, or axial force, psi
+= wall thickness of hollow section, in. thickness of flange, in. thickness of shear lug, in. cumulative effects of service temperature, creep, shrinkage, differential settlement, and shrinkage- compensating concrete
+
+[COMMENTARY] tension force acting on a nodal zone in a strut-and- tie model, Ib (T is also used to define the cumula- tive effects of service temperature, creep, shrinkage, differential settlement, and shrinkage-compensating concrete in the load combinations defined in 5.3.6.) tensile force in general zone acting ahead of the
+[COMMENTARY] Thu rst
+[COMMENTARY] anchorage device caused by spreading of the
+anchorage force, Ib
+
+[CODE] cracking torsional moment, in.-lb
+[CODE] IAN
+GAN
+[CODE] total test load, Ib threshold torsional moment, in.-lb
+nominal torsional moment strength, in.-lb factored torsional moment at section, in.-lb strength of a member or cross section required to resist factored loads or related internal moments
+and forces in such combinations as stipulated in this Code stress corresponding to nominal two-way shear strength provided by concrete, psi
+
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

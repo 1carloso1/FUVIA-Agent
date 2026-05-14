@@ -1,0 +1,40 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 38/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+[COMMENTARY] COMMENTARY fo onical section ; C C
+iy
+
+
+[COMMENTARY] T
+[COMMENTARY] Beam ledge
+[COMMENTARY] YA vfyt
+n|
+Fig. R9.4.3.2b—Location of critical section for shear in a beam loaded near bottom.
+[COMMENTARY] |__| d 5
+[COMMENTARY] (c) (d)
+[COMMENTARY] ! ( eee
+R ea TEY
+iV, : ,
+[COMMENTARY] (e) (f)
+Fig. R9.4.3.2(c), (d), (e), (f)—Typical support conditions for locating factored shear force Vu.
+[COMMENTARY] R9.4.4 Factored torsion
+
+[CODE] 9.4.4 Factored torsion 9.4.4.1 Unless determined by a more detailed analysis, it
+shall be permitted to take the torsional loading from a slab as
+uniformly distributed along the beam. 9.4.4.2 For beams built integrally with supports, 7, at the
+support shall be permitted to be calculated at the face of support. 9.4.4.3 Sections between the face of support and a critical
+section located d from the face of support for nonprestressed
+beams or h/2 from the face of support for prestressed beams shall be permitted to be designed for T, at that critical section
+unless a concentrated torsional moment occurs within this
+distance. In that case, the critical section shall be taken at the face of the support.
+
+[COMMENTARY] R9.4.4.3 It is not uncommon for a beam to frame into one
+side of a girder near the support of the girder. In such a case,
+a concentrated shear and torsional moment are applied to the girder.
+
+[CODE] aci=
+FT
+[CODE] American Concrete Institute — Copyrighted © Material —- www.concrete.org

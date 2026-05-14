@@ -1,0 +1,31 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 50/196]
+[LAYOUT: continuous]
+============================================================
+ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+CODE COMMENTARY
+1 M,, for reinforcement
+V / ; continuing into support u /
+— fg | M,,
+Capacity slope 7,,_)2 Demand slope (V,,)
+d M,
+La < f
+u
+(a) Positive M,, Diagram
+End anchorage oa eee J
+A
++>} Max. ty
+Note: The 1.3 factor is applicable only if the reaction confines the ends of the reinforcement
+(b) Maximum £4 at simple support
+Maximum effective embedment length limited to d or 12d, for fa\
+s yeas a {
+Lrnveamen ~ Z vax / ~ fg
+length (c) Maximum £4 for bars “a” at point of inflection
+Fig. R9.7.3.8.3—Determination of maximum bar size
+according to 9.7.3.8. 3.
+
+9.7.3.8.4 At least one-third of the negative moment rein-
+forcement at a support shall have an embedment length
+beyond the point of inflection at least the greatest of d, 12d), and ¢,,/16.
+aci® American Concrete Institute - Copyrighted © Material — www.concrete.org

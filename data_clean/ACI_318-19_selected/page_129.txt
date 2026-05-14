@@ -1,0 +1,46 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 129/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 5: EARTHQUAKE RESISTANCE 345
+
+
+
+[CODE] 18.13.4.2 For structures assigned to SDC D, E, or F, indi- vidual spread footings founded on soil defined in ASCE/SEI 7 as Site Class E or F shall be interconnected by foundation seismic ties.
+
+[COMMENTARY] R18.13.4.2 The ties between footings should have the same characteristics as the ties between pile caps in R18.13.4.1.
+[COMMENTARY] a Seismic
+
+[CODE] 18.13.4.3 Where required, foundation seismic ties shall
+have a design strength in tension and compression at least equal to 0.1Sps5 times the greater of the pile cap or column factored dead load plus factored live load unless it is demon- strated that equivalent restraint will be provided by (a), (b), (c), or (d):
+
+[COMMENTARY] R18.13.4.3 The minimum foundation seismic tie design strength requirement based on a percentage of the factored
+dead plus live load provides a minimum connection between foundation elements. Other types of restraint can be used if substantiated as equivalent to the minimum tie design strength. The required design strength for the tie beam must be at least equal to 0.1Sps times the larger force on either end
+of the tie beam, and that force is from the column or pile cap, whichever applies.
+
+[CODE] (a) Reinforced concrete beams within the slab-on-ground (b) Reinforced concrete slabs-on-ground (c) Confinement by competent rock, hard cohesive soils, or very dense granular soils (d) Other means approved by the building official
+[CODE] 18.13.4.4 For structures assigned to SDC D, E, or F, grade
+beams designed to act as horizontal foundation seismic ties
+between pile caps or footings shall have continuous longitu- dinal reinforcement that shall be developed within or beyond the supported column or anchored within the pile cap or footing at all discontinuities and shall satisfy (a) and (b):
+[CODE] (a) The smallest cross-sectional dimension of the grade
+beam shall be at least equal to the clear spacing between
+connected columns divided by 20, but need not exceed 18 in. (b) Closed tie transverse reinforcement shall be provided at a spacing not to exceed the lesser of 0.5 times the smallest orthogonal cross-sectional dimension and 12 in.
+[CODE] 18.13.5 Deep foundations
+
+[COMMENTARY] R18.13.5 Deep foundations
+
+[CODE] 18.13.5.1 This section shall apply to the following types of deep foundations
+
+[COMMENTARY] Adequate performance of piles and caissons for earth-
+quake effects requires that these provisions be met in addi- tion to other applicable standards or guidelines (refer to R1.4.7).
+
+[CODE] (a) Uncased cast-in-place concrete drilled or augered piles (b) Metal cased concrete piles (c) Concrete filled pipe piles (d) Precast concrete piles
+[CODE] 18.13.5.2 For structures assigned to SDC C, D, E, or F, piles, piers, or caissons resisting tension loads shall have continuous longitudinal reinforcement over their length to resist design tension forces.
+[CODE] 18.13.5.3 For structures assigned to SDC C, D, E, or F, the
+minimum longitudinal and transverse reinforcement required
+by 18.13.5.7 through 18.13.5.10 shall be extended over the entire unsupported length for the portion of deep founda- tion member in air or water, or in soil that is not capable of providing adequate lateral restraint to prevent buckling throughout this length.
+
+[COMMENTARY] R18.13.5.3 Minimum reinforcement lengths for both longitudinal and transverse reinforcement are based on the assumption that soil is capable of providing lateral support. For portions of the pile above ground, typically in air or water, or where soil is not capable of providing this lateral restraint, the minimum reinforced lengths should be increased, and the member should be designed as a column.
+[COMMENTARY] aci*
+A
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

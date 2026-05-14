@@ -1,0 +1,55 @@
+[DOCUMENT: ASTM_C33-13]
+[PAGE: 6/11]
+[LAYOUT: continuous]
+============================================================
+Ally ©33/¢33M - 13
+tui!
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: aggregate grading and sieve analysis requirements.]
+used as aggregate, may reduce freeze-thaw resistance, affect air void properties or degrade during handling, mixing, or placing. Crushed
+concrete may have constituents that would be susceptible to alkali-
+aggregate reactivity or sulfate attack in the new concrete or may bring sulfates, chlorides, or organic material to the new concrete in its pore structure. 10. Grading 10.1 Coarse aggregates shall conform to the requirements
+prescribed in Table 3 for the size number specified. Note 8—The ranges shown in Table 3 are by necessity very wide in
+order to accommodate nationwide conditions. For quality control of any specific operation, a producer should develop an average grading for the particular source and production facilities, and should control the produc- tion gradings within reasonable tolerances from this average. Where
+coarse aggregate size numbers 357 or 467 are used, the aggregate should
+be furnished in at least two separate sizes. 11. Deleterious Substances 11.1 Except for the provisions of 11.3, the limits given in
+Table 4 shall apply for the class of coarse aggregate designated in the purchase order or other document (see Note 9 and Note 10). If the class is not specified, the requirements for Class 3S,
+3M, or IN shall apply in the severe, moderate, and negligible
+weathering regions, respectively (see Table 4 and Fig. 1). Nott 9—The specifier of the aggregate should designate the class of
+coarse aggregate to be used in the work, based on weathering severity, abrasion, and other factors of exposure (see Table 4 and Fig. 1) . The limits for coarse aggregate corresponding to each class designation are expected to ensure satisfactory performance in concrete for the respective type and location of construction. Selecting a class with unduly restrictive limits
+may result in unnecessary cost if materials meeting those requirements are
+not locally available. Selecting a class with lenient limits may result in unsatisfactory performance and premature deterioration of the concrete.
+While concrete in different parts of a single structure may be adequately
+made with different classes of coarse aggregate, the specifier may wish to
+require the coarse aggregate for all concrete to conform to the same more restrictive class to reduce the chance of furnishing concrete with the
+wrong class of aggregate, especially on smaller projects. Norte 10—For coarse aggregate in concrete exposed to weathering, the
+map with the weathering regions shown in Fig. 1 is intended to serve only as a guide to probable weathering severity. Those undertaking construction, especially near the boundaries of weathering regions, should consult local weather bureau records for amount of winter precipitation
+and number of freeze-thaw cycles to be expected, for determining the
+weathering severity for establishing test requirements of the coarse aggregate. For construction at altitudes exceeding 1520 m [5000 ft] above sea level, the likelihood of more severe weathering than indicated by the
+map should be considered. In arid areas, severity of weathering may be less than that indicated. In either case, the definitions of weathering severity in Table 4 would govern. If there is doubt in choosing between
+two regions, select the more severe weathering region. 11.2 Coarse aggregate for use in concrete that will be subject to wetting, extended exposure to humid atmosphere, or
+contact with moist ground shall not contain any materials that are deleteriously reactive with the alkalies in the cement in an
+amount sufficient to cause excessive expansion of mortar or concrete except that if such materials are present in injurious
+amounts, the coarse aggregate is not prohibited when used with a cement containing less than 0.60 % alkalies calculated as
+sodium oxide equivalent (Na,O + 0.658K,O), if there is a satisfactory service record evaluation, or with the addition of a material that has been shown to prevent harmful expansion due to the alkali-aggregate reaction. (See Appendix X1, X1.1.2, X1.1.3)
+
+7.2. Organic Impurities: 7.2.1 Fine aggregate shall be free of injurious amounts of organic impurities. Except as herein provided, aggregates subjected to the test for organic impurities and producing a color darker than the standard shall be rejected. 7.2.2 Use of a fine aggregate failing in the test is not prohibited, provided that the discoloration is due principally to the presence of small quantities of coal, lignite, or similar discrete particles. 7.2.3 Use of a fine aggregate failing in the test is not prohibited, provided that, when tested for the effect of organic impurities on strength of mortar, the relative strength at 7 days, calculated in accordance with Test Method C87, is not less than
+95 %. 7.3 Fine aggregate for use in concrete that will be subject to wetting, extended exposure to humid atmosphere, or contact
+with moist ground shall not contain any materials that are deleteriously reactive with the alkalies in the cement in an
+amount sufficient to cause excessive expansion of mortar or concrete, except that if such materials are present in injurious
+amounts, use of the fine aggregate is not prohibited when used
+with a cement containing less than 0.60 % alkalies calculated as sodium oxide equivalent (Na,O + 0.658K,O), if there is a satisfactory service record evaluation, or with the addition of a material that has been shown to prevent harmful expansion due to the alkali-aggregate reaction. (See Appendix X1, X1.1.2, X1.1.3) 8. Soundness 8.1 Except as provided in 8.2 and 8.3, fine aggregate
+subjected to five cycles of the soundness test shall have a
+weighted average loss not greater than 10 % when sodium sulfate is used or 15 % when magnesium sulfate is used. 8.2 Fine aggregate failing to meet the requirements of 8.1 shall be regarded as meeting the requirements of this section
+provided that the supplier demonstrates to the purchaser or specifier that concrete of comparable properties, made from similar aggregate from the same source, has given satisfactory service when exposed to weathering similar to that to be
+encountered. 8.3 Fine aggregate not having a demonstrable service record
+and failing to meet the requirements of 8.1 shall be regarded as
+meeting the requirements of this section provided that the supplier demonstrates to the purchaser or specifier it gives satisfactory results in concrete subjected to freezing and
+thawing tests (see Test Method C666/C666M).
+COARSE AGGREGATE
+9. General Characteristics 9.1 Coarse aggregate shall consist of gravel, crushed gravel,
+crushed stone, air-cooled blast furnace slag, or crushed
+hydraulic-cement concrete (see Note 7), or a combination thereof, conforming to the requirements of this specification. Norse 7—Although crushed hydraulic-cement concrete has been used as
+an aggregate with reported satisfactory results, its use may require some additional precautions. Mixing water requirements may be increased
+because of the harshness of the aggregate. Partially deteriorated concrete,
+Copyright by ASTM Int'l (all rights reserved);

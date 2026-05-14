@@ -1,0 +1,37 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 82/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] 298 ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+[COMMENTARY] | N, N, \
+[COMMENTARY] Column strip All reinforcement to resist M,, to be
+placed in column strip (18.4.5.1)
+[COMMENTARY] Reinforcement to resist yMgc_ (18.4.5.2), but not less than half of reinforcement in
+column strip (18.4.5.3)
+[COMMENTARY] Note: Applies to both top and bottom reinforcement Fig. R18.4.5.2—Location of reinforcement in slabs.
+[COMMENTARY] Not less than one-fourth of top reinforcement at _
+support (18.4.5.4)
+[COMMENTARY] — - CO | |
+ry \
+[COMMENTARY] I
+[COMMENTARY] -=)
+[COMMENTARY] | —
+[COMMENTARY] \ L Not less than one-third of |
+[COMMENTARY] top reinforcement at support Top and bottom reinforcement to
+be developed (18.4.5.6 and 18.4.5.7) Column strip
+[COMMENTARY] Top and bottom reinforcement
+J to be developed Z__j.
+[COMMENTARY] L Not less than half bottom reinforcement at mid-span (18.4.5.6)
+[COMMENTARY] Middle strip
+[COMMENTARY] Fig. R18.4.5.3—Arrangement of reinforcement in slabs.
+
+[CODE] 18.4.5.8 At the critical sections for columns defined in 22.6.4.1, two-way shear stress caused by factored gravity loads without moment transfer shall not exceed 0.4ov, for nonprestressed slab-column connections and 0.5v, for
+unbonded post-tensioned slab-column connections with foc 10 each direction meeting the requirements of 8.6.2.1, where y, shall be calculated in accordance with 22.6.5. This requirement need not be satisfied if the slab-column connec- tion satisfies 18.14.5.
+
+[COMMENTARY] R18.4.5.8 The requirements apply to two-way slabs that are designated part of the seismic-force-resisting system. Nonprestressed slab-column connections in laboratory tests (Pan and Moehle 1989) exhibited reduced lateral displace-
+ment ductility when the shear stress at the column connection
+exceeded the recommended limit of 0.4ov,. Based on labo- ratory test data (Kang and Wallace 2006; Kang et al. 2007), a higher maximum factored gravity shear stress of 0.50y, is allowed for unbonded post-tensioned slab-column connec- tions with f,- in each direction meeting the requirements of 8.6.2.1. Post-tensioned slab-column connections with f,- in each direction not meeting the requirements of 8.6.2.1 can
+be designed as nonprestressed slab-column connections in accordance with 8.2.3. Slab-column connections also must
+
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

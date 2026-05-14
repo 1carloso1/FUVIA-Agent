@@ -1,0 +1,54 @@
+[DOCUMENT: ACI_211.1-22]
+[PAGE: 20/26]
+[LAYOUT: continuous]
+============================================================
+SELECTING PROPORTIONS FOR NORMAL-DENSITY AND HIGH-DENSITY CONCRETE—GUIDE (ACI PRC-211.1-22) 21
+
+Table 74—Effects of SCM types on concrete properties (Taylor et al. 2006)
+
+Property Class F fly ash Class C fly ash Slag cement Silica fume Metakaolin Workability t t t 1 U
+Heat of hydration J t L <-> L Time of setting t T t L ° Air content J J L L U Early strength i) o J t t
+Long-term strength t t t t t Permeability J a) 1 J J Chloride ingress | 1 J J J
+
+Alkali-silica reaction J i) J i) 1
+
+Sulfate resistance t i) tT T T
+
+Freezing-and-thawing resistance o> — oo - oe
+
+Drying shrinkage | i J 1 1
+
+Note: 7 Increases; | Decreases; } Increases or decreases; <> Neutral. to go up, down, stay the same, or change could go either
+way, respectively.
+
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; chloride exposure classes and chloride ion content limits; air content requirements.]
+slump and air content tolerances. Only then can it be said that the purpose of this guide has been met. Often, the requisite properties are not achieved on the first trial. When this happens, the mixture proportions are adjusted to move the performance of the mixture in the desired direc- tion. Sometimes, that adjustment works to improve one property, but causes another to become deficient. Another adjustment is then made, another trial batch is run, and so on until all the requirements have been met. Once the mixture produces desired results in the lab, it is recommended that it
+be batched at production-level amounts, using the materials,
+means, and methods to be used for the project to be sure the mixture works the same way when scaled up. Trial batching is executed following the procedures of
+ASTM C192/C192M. This standard is used for mixture proportioning, evaluation of different mixtures and materials, correlation with nondestructive tests, and research purposes. It specifies the standard conditions, equipment, and proce- dures needed to test proposed mixtures for their fresh prop- erties. Tests such as ASTM C1064/C1064M for temperature,
+ASTM C143/C143M for slump, ASTM C138/C138M for density and yield, and ASTM €231/C231M or ASTM C173/
+C173M for air content are listed among the procedures. Following proper curing procedures is very important for producing reproducible results, and for comparing with the results coming from the field. To assure reliable results, tests should be performed by an appropriately certified person. The method of the three-point curve can be used to discover the relationship between w/cm and strength for a family of mixtures with similar properties but differing in strength. Such acurve can be used for the design of mixtures within the strength range of the curve, as well as strength adjustment of the mixture if needed. Once the results of the trial batch have been gathered, Table 8 may help guide the necessary adjustments.
+
+75—Ternary systems Depending on the selected type and amount of SCM, incorporating excessive amounts of a single type of SCM (binary mixtures) may have negative side effects such as extended setting time. In such cases, a possible solution is to use a ternary mixture, which is a combination of three cementitious materials that are blended to balance fresh properties, durability, and strength. For example, depending
+on the selected amount, combining SCMs such as fly ash and silica fume may be able to offset the adverse effects of fly ash on setting time, whereas fly ash may offset the increased water demand associated with silica fume.
+76—Impact of SCMs on sustainability Cement production emits approximately 5% of global carbon dioxide and consumes 5% of global energy
+consumption (Hendriks et al. 2004). Therefore, the replace-
+ment of cement with SCMs improves sustainability by using natural pozzolans, consuming by-products, and reducing the
+demand on cement clinker production considering the direct relation between the amounts of cement clinker produced
+and the carbon dioxide generated. In addition, the increased durability achieved with SCMs reduces the need for repair
+and replacement, resulting in greater sustainability.
+CHAPTER 8—TRIAL BATCHING
+Once the properties required of a concrete have been : determined, the next step is to determine the mixture mate- - rials and proportions that will achieve those properties. ’ Those proportions can be based on previous experience or : can be developed using an assortment of design methods. Lacking those, the method recommended in this guide can : be used to establish proportions for the first trial batch. Once : those proportions have been determined, trial batches are conducted to demonstrate that the needed properties are indeed produced. This notion is fundamental to this guide.
+By whatever method the proportions are established, the trial batching should show that all the required properties are within applicable tolerances for the test. If none are given in the specification, ASTM C94/C94M gives guidance on
+
+CHAPTER 9—SAMPLE COMPUTATIONS
+9.1—Background The following four example problems will be used to demonstrate the proportioning procedure. The conditions listed in the following apply to all examples.
+
+Copyright American Concrete Institute
+
+American Concrete Institute — Copyrighted © Material — www.concrete.org aci
+~a
+, |
+
+@seismicisolation

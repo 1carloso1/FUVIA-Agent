@@ -1,0 +1,71 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 93/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 5: EARTHQUAKE RESISTANCE 309
+
+
+
+[CODE] 14-h
+8, 44 =
+[CODE] (18.7.5.3)
+[CODE] ~)
+
+[COMMENTARY] Seismic
+18
+
+[CODE] The value of s, from Eq. (18.7.5.3) shall not exceed 6 in.
+and need not be taken less than 4 in.
+
+[COMMENTARY] R18.7.5.4 The effect of helical (spiral) remnforcement and adequately configured rectilinear hoop reinforcement on
+deformation capacity of columns is well established (Sakai
+and Sheikh 1989). Expressions (a), (b), (d), and (e) in Table 18.7.5.4 have historically been used in ACI 318 to calcu- late the required confinement reinforcement to ensure that spalling of shell concrete does not result in a loss of column axial load strength. Expressions (c) and (f) were developed
+from a review of column test data (Elwood et al. 2009) and are intended to result in columns capable of sustaining a drift ratio of 0.03 with limited strength degradation. Expressions (c) and (f) are triggered for axial load greater than 0.3A,/.’,
+which corresponds approximately to the onset of compres- sion-controlled behavior for symmetrically reinforced columns. The k, term (Paultre and Légeron 2008) decreases the required confinement for columns with closely spaced, laterally supported longitudinal reinforcement because such
+columns are more effectively confined than columns with
+more widely spaced longitudinal reinforcement. The ky term increases the required confinement for columns with f.' > 10,000 psi because such columns can experience brittle failure if not well confined. Concrete strengths greater than 15,000 psi should be used with caution given the limited test data for such columns. The concrete strength used to deter-
+mine the confinement reinforcement is required to be the same as that specified in the construction documents. Expressions (a), (b), and (c) in Table 18.7.5.4 are to be satisfied in both cross-sectional directions of the rectangular core. For each direction, b, is the core dimension perpen- dicular to the tie legs that constitute A,,, as shown in Fig. R18.7.5.2. Research results indicate that high strength reinforce-
+ment can be used effectively as confinement reinforcement. Section 20.2.2.4 permits a value off,, as high as 100,000 psi to be used in Table 18.7.5.4.
+
+[CODE] 18.7.5.4 Amount of transverse reinforcement shall be in accordance with Table 18.7.5.4. The concrete strength factor ky and confinement effective- ness factor k, are calculated according to Eq. (18.7.5.4a) and (18.7.5.4b).
+[CODE] f’
+[CODE] a) k, = ——+0.6>1.0 18.7.5.4
+(@) ky = FF 000 ( a)
+[CODE] ny
+(b) k, = (18.7.5.4b)
+[CODE] n,-2
+[CODE] where n; is the number of longitudinal bars or bar bundles
+around the perimeter of a column core with rectilinear hoops that are laterally supported by the corner of hoops or by seismic hooks.
+[CODE] Table 18.7.5.4—Transverse reinforcement for
+columns of special moment frames Transverse
+reinforcement Conditions Applicable expressions
+[CODE] P, S0.3A,f' and Greater of A fi
+[CODE] g& c ch yt
+[CODE] rectilinear hoop P, > 0.3Agf:! or Greatest of Wt
+[CODE] : (a), (b), and *' > 10,000 psi P
+J P ©) 0.2k,k, —— (c)
+FA Py S0.3Agf-' and Greater of A fl
+[CODE] & c ch yt
+[CODE] ps for spiral or 0.12 fi (c) circular hoop P,,> 0.3A,f-' or Greatest fi
+[CODE] : of (d), (e),
+' > 10,000 psi P
+f P and (f) 035k,——
+[CODE] yt* “ch
+
+[COMMENTARY] R18.7.5.5 This provision is intended to provide reasonable protection to the midheight of columns outside the length {,. Observations after earthquakes have shown significant
+damage to columns in this region, and the minimum hoops or spirals required should provide more uniform strength of the column along its length.
+
+[CODE] 18.7.5.5 Beyond the length £, given in 18.7.5.1, the column shall contain spiral reinforcement satisfying 25.7.3 or hoop
+and crosstie reinforcement satisfying 25.7.2 and 25.7.4 with spacing s not exceeding the least of 6 in., 6d, of the smallest
+Grade 60 longitudinal column bar, and 5d, of the smallest
+Grade 80 longitudinal column bar, unless a greater amount
+of transverse reinforcement is required by 18.7.4.4 or 18.7.6.
+
+[COMMENTARY] R18.7.5.6 Columns supporting discontinued - stiff
+members, such as walls or trusses, may develop consider- able inelastic response. Therefore, it is required that these
+
+[CODE] 18.7.5.6 Columns supporting reactions from discontinued stiff members, such as walls, shall satisfy (a) and (b):
+
+[COMMENTARY] aci*
+_
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

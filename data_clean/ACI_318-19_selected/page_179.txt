@@ -1,0 +1,39 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 179/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 9: CONSTRUCTION 541
+
+
+[COMMENTARY] (a) Acceptable anchor installation environment (dry or saturated concrete; concrete temperature range) (b) Acceptable drilling methods (c) Required hole cleaning procedures (d) Anchor type and size range (threaded rod or rein-
+forcing bar)
+Hole cleaning is intended to ensure that drilling debris and dust do not impair bond. Depending on the Manufacturer’s Printed Installation Instructions (MPII), type of qualified anchor, and on-site conditions, hole cleaning may involve operations to remove drilling debris from the hole with
+vacuum or compressed air mechanical brushing of the hole
+wall to remove surface dust, and a final step to evacuate any
+remaining dust or debris, usually with compressed air. If
+wet core drilling is used, holes may be flushed with water
+and then dried with compressed air. Compressed air must be free of oil and moisture. For anchors installed in locations
+where the concrete is saturated (for example, outdoor loca-
+
+[CODE] of lightweight concrete, if applicable, and requirements for hole drilling and preparation.
+
+[COMMENTARY] ‘fe Construction
+a
+[COMMENTARY] tions exposed to rainfall), the resulting drilling mud must
+be removed by other means. In all cases, the procedures
+used should be clearly described by the MPII accompanying the product. If the installation procedures are not clearly described, contact the manufacturer. These printed installa- tion instructions, which also describe the limits on concrete
+temperature and the presence of water during installation as well as the procedures necessary for void-free adhesive injection and adhesive cure requirements, constitute an inte- gral part of the adhesive anchor system and are part of the
+assessment performed in accordance with ACI 355.4.
+
+[CODE] (j) Identification of adhesive anchors installed in a hori- zontal or upwardly inclined orientation to resist sustained tensile loads. (k) Identification of adhesive anchors requiring proof loading in accordance with ACI 355.4 or the inspection
+program established by the licensed design professional. (1) Specify certification required for installers of adhe- sive anchors including adhesive anchors that are installed in a horizontal or upwardly inclined orientation to resist sustained tensile loads.
+
+[COMMENTARY] R26.7.1(1) Adhesive anchors are sensitive to installation orientation. This sensitivity, combined with variability in strength of adhesive anchors subjected to sustained tensile loading, requires installation by certified installers. Certi- fication may also be appropriate for other safety-related applications. Installers can become certified through testing
+and training programs that include written and performance
+examinations as defined by the ACI Adhesive Anchor Installer Certification program (ACI CPP 680.1-17) or similar programs with equivalent requirements. The accept- ability of certification other than the ACI Adhesive Anchor Installer Certification should be determined by the Licensed
+Design Professional. In addition, installers should obtain instruction through product-specific training offered by
+manufacturers of qualified adhesive anchor systems. An equivalent certified installer program should test the
+adhesive anchor installer’s knowledge and skill by an objec- tively fair and unbiased administration and grading of a written and performance exam. Programs should reflect the
+[COMMENTARY] aci=
+A
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

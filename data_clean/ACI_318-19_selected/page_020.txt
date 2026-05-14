@@ -1,0 +1,36 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 20/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+
+[COMMENTARY] the relevant PTI or AASHTO LFRDUS bearing stress and,
+where applicable, stiffness requirements. Most commer- cially marketed multi-bearing surface anchorage devices are special anchorage devices. As provided in 25.9.3, such devices can be used only if they have been shown experi-
+mentally to be in compliance with the AASHTO require-
+ments. This demonstration of compliance will ordinarily be furnished by the device manufacturer. anchorage zone—In post-tensioned members, the portion
+of the member through which the concentrated prestressing force is transferred to the concrete and distributed more
+uniformly across the section. Its extent is equal to the largest
+dimension of the cross section. For anchorage devices located away from the end of a member, the anchorage
+zone includes the disturbed regions ahead of and behind the
+anchorage devices. Refer to Fig. R25.9.1.1b.
+
+[CODE] anchorage zone—in post-tensioned members, portion of the member through which the concentrated prestressing force is transferred to concrete and distributed more uniformly across the section; its extent is equal to the largest dimen- sion of the cross section; for anchorage devices located away
+from the end of a member, the anchorage zone includes the disturbed regions ahead of and behind the anchorage device.
+[CODE] attachment—structural assembly, external to the surface
+of the concrete, that transmits loads to or receives loads from the anchor. B-region—portion of a member in which it is reasonable to assume that strains due to flexure vary linearly through section. base of structure—level at which horizontal earthquake
+ground motions are assumed to be imparted to a building. This level does not necessarily coincide with the ground level. beam—member subjected primarily to flexure and shear,
+with or without axial force or torsion; beams in a moment
+frame that forms part of the lateral-force-resisting system are
+predominantly horizontal members; a girder is a beam. boundary element—portion along wall and diaphragm edge, including edges of openings, strengthened by longitu- dinal and transverse reinforcement. breakout strength, concrete—strength corresponding to a volume of concrete surrounding the anchor or group of
+anchors separating from the member. building official—term used to identify the Authority
+having jurisdiction or individual charged with administra- tion and enforcement of provisions of the building code. Such terms as building commissioner or building inspector are variations of the title, and the term “building official” as
+used in this Code, is intended to include those variations, as well as others that are used in the same sense. caisson—see drilled pier.
+cementitious materials—materials that have cementing value if used in grout, mortar, or concrete, including port- land cement, blended hydraulic cements, expansive cement, fly ash, raw or calcined natural pozzolan, slag cement, and silica fume, but excluding alternative cements. collector—element that acts in axial tension or compres- sion to transmit forces between a diaphragm and a vertical
+element of the lateral-force-resisting system. column—member, usually vertical or predominantly vertical, used primarily to support axial compressive load, but that can also resist moment, shear, or torsion. Columns aci>
+_
+
+[COMMENTARY] cementitious materials—Cementitious materials permitted for use in this Code are addressed in 26.4.1.1. Fly ash, raw or calcined natural pozzolan, slag cement, and silica fume are considered supplementary cementitious materials.
+
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

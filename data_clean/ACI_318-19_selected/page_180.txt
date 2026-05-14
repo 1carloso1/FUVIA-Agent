@@ -1,0 +1,37 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 180/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+[COMMENTARY] knowledge and skill required to install available commercial
+anchor systems. The effectiveness of a written exam should
+be verified through statistical analysis of the questions and answers. An equivalent program should provide a respon- sive and accurate mechanism to verify credentials, which are
+renewed on a periodic basis.
+
+[CODE] 26.7.2 Compliance requirements:
+[CODE] (a) Cast-in anchors, their attachments, and anchor reinforce- ment, shall be securely positioned in the formwork and oriented in accordance with the construction documents. Concrete shall be consolidated around anchors and anchor reinforcement using suitable means during placement. (b) Proper consolidation of concrete or grout around shear lugs shall be verified by use of base plate inspection holes. (c) Post-installed anchors shall be installed in accordance
+with the manufacturer’s instructions. Post-installed adhe- sive anchors shall be installed in accordance with the Manufacturer’s Printed Installation Instructions (MPII).
+
+[COMMENTARY] R26.7.2(c) The Manufacturer’s Printed Installation Instructions (MPII) contain information required for the proper installation of post-installed adhesive anchors. Addi- tional requirements may apply for specific cases in accor- dance with 26.7.1(f) and 26.7.1(g). For adhesive anchors, application-dependent requirements for qualification of installers and inspection requirements may apply.
+
+[CODE] (d) Post-installed anchors shall be installed by qualified installers. (e) Adhesive anchors identified in the construction docu-
+ments as installed in a horizontal or upwardly inclined orientation to resist sustained tensile loads shall be installed by certified installers.
+
+[COMMENTARY] R26.7.2(e) Many anchor performance characteristics
+depend on proper installation of the anchor. Horizontally or upwardly inclined adhesive anchors resisting sustained tension load are required to be installed by personnel certi- fied for the adhesive anchor system and installation proce- dures being used. Construction personnel can establish qualifications by becoming certified through certification programs.
+
+[CODE] (f) Adhesive anchors shall be installed in concrete having a minimum age of 21 days at time of anchor installation.
+
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: compressive strength f'c requirements.]
+[COMMENTARY] R26.7.2(f) Adhesive anchors qualified in accordance with
+ACI 355.4 are tested in concrete with compressive strengths within two ranges: 2500 to 4000 psi and 6500 to 8500 psi.
+Bond strength is, in general, not highly sensitive to concrete
+compressive strength. The design performance of adhe- sive anchors cannot be ensured by establishing a minimum concrete compressive strength at the time of installation in early-age concrete. Therefore, a minimum concrete age of 21 days at the time of adhesive anchor installation was adopted.
+
+[CODE] 26.8—Embedments 26.8.1 Design information:
+[CODE] (a) Type, size, details, and location of embedments designed by the licensed design professional. (b) Reinforcement required to be placed perpendicular to pipe embedments. (c) Specified concrete cover for pipe embedments with their fittings.
+[CODE] aci®
+_4
+[CODE] American Concrete Institute — Copyrighted © Material — www.concrete.org

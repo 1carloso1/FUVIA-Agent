@@ -1,0 +1,36 @@
+[DOCUMENT: ACI_211.1-22]
+[PAGE: 5/26]
+[LAYOUT: continuous]
+============================================================
+6 SELECTING PROPORTIONS FOR NORMAL-DENSITY AND HIGH-DENSITY CONCRETE—GUIDE (ACI PRC-211.1-22)
+
+CHAPTER 4—BACKGROUND INFORMATION
+
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; chloride exposure classes and chloride ion content limits; air content requirements; cement chemical and physical property limits; aggregate grading and sieve analysis requirements; particle size distribution limits by sieve size; chemical admixture type classification and performance requirements.]
+Large nominal maximum sizes of well-graded aggre- gates have fewer voids than smaller sizes. Hence, concretes with the larger-sized aggregates require less mortar per unit volume of concrete. Generally, the nominal maximum size of aggregate should be the largest that is economically avail- able and consistent with dimensions of the structure. In no case should the nominal maximum size exceed 1/5 of the narrowest dimension between sides of forms; 1/3 the depth of slabs; or 3/4 of the minimum clear spacing between individual reinforcing bars, bundles of bars, or preten- sioning strands (refer to ACI 318 Section 26.4.2.1(a)(5)).
+These limitations are sometimes waived if workability and methods of consolidation are such that the concrete can be placed without honeycombing or voids. In areas congested with reinforcing steel, post-tensioned ducts, or conduits, the proportioner should select a nominal maximum size of aggregate so concrete can be placed without excessive segre- gation, pockets, or voids. When high-strength concrete is desired, best results may be obtained with reduced nominal
+maximum sizes of aggregate because these produce higher strengths at a given w/cm (ACI 363R; ACI 211.4R). 4.3.3 Large aggregate sizes—In general, the largest aggre- gate size practical for the specific job should be used. Some special considerations are needed when using these larger sizes (above | in.). Less mortar per unit volume of concrete requires a reduction when proportioning water, cement, and sand for a given mixture. Because there is less paste and generally lower slumps (1 to 2 in.), admixture dosages can be signifi- cantly different to obtain the same results as a mixture with smaller aggregates. Air-entraining admixtures may require greater dosages. Entrained air may be proportioned into the mixture to increase workability. When using large aggregate with low-
+cement factors, air entrainment is not necessarily detrimental to strength. In most cases, the mixing-water requirement is reduced sufficiently to improve the w/c and to thus compen- sate for the strength-reducing effect of air entrainment. For concretes with large nominal maximum sizes of aggregate, air contents recommended for extreme exposure should be considered even though there may be little or no exposure to moisture or freezing. For some applications, aggregate sizes over 6 in. are avail- able. In the United States, projects using large aggregate sizes have been typically proportioned and placed using 3 in. nominal maximum size aggregate. 4.3.4 Bulk volume of coarse aggregate per unit volume—
+The volume of loose stone compacted to specifications of
+ASTM €29/C29M that will be taken up in the unit volume of the concrete mixture. 4.3.5 Fineness modulus—Used with the maximum aggre- gate size, the fineness modulus is used to estimate the bulk
+volume of coarse aggregate per unit volume of concrete. This value results from an ASTM C136/C1 36M sieve analysis. It is a factor obtained by progressively adding the cumulative
+sums of the percentages retained on specified sieves, then dividing that sum by 100. The sieves, halving in opening size, are 6 in. (150 mm), 3 in. (75 mm), 1-1/2 in. (37.5 mm),
+
+4.1— Trial batching Trial batching is a process that demonstrates that a concrete mixture with required properties can be produced with a given set of materials and tools by mixture propor- tioners. Shortcomings identified in the trial batches are addressed through mixture design modifications to move closer to the desired properties. The process continues until all the requirements are satisfied.
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; chloride exposure classes and chloride ion content limits; aggregate grading and sieve analysis requirements; chemical admixture type classification and performance requirements.]
+4,.2—Slump Slump is the measure of consistency of freshly mixed concrete, mortar, or stucco equal to the subsidence measured to the nearest 1/4 in. of the specimen immediately after
+removal of the slump cone (refer to ASTM C143/C143M for further information). The quantity of water per unit volume of concrete required to produce a given slump is dependent
+on the nominal maximum size, particle shape, and grading
+of the aggregates; the concrete temperature; the amount of entrained air; and use of chemical admixtures. Slump is not greatly affected by the quantity of cement or cementitious materials within normal use levels. Depending on aggregate texture and shape, mixing-water requirements may be some-
+what above or below the tabulated values, but they are suff- ciently accurate for the first estimate. The differences in water
+demand are not necessarily reflected in strength because other compensating factors may be involved. A rounded and
+an angular coarse aggregate, both well and similarly graded and of high quality, can be expected to produce concrete of approximately the same compressive strength for the same
+cement factor despite differences in water-cement ratio (w/c) or w/cm, resulting from the different mixing-water require- ments. Particle shape is not necessarily an indicator that an aggregate will be either above or below in its strength- producing capacity. Mixtures of the stiffest consistency that
+can be placed efficiently should be used. The slump values for concrete containing aggregate larger than 1-1/2 in. are based on slump tests made after removal of particles larger than 1-1/2 in. by wet screening.
+4.3—Aggregates 4.3.1 Well-graded—A well-graded aggregate has a particle-size distribution that produces maximum density— that is, minimum void space. Such an aggregate minimizes the required paste needed to fill the aggregate voids (refer to ACI 211.6T for details on optimal grading and packing density). The aggregate combinations for this guide are
+assumed to be well-graded and meet ASTM C33/C33M qualities or regionally available aggregates accepted by the local state agencies. 4.3.2, Nominal maximum aggregate size—Used for the estimation of the initial water content, the nominal maximum aggregate size is needed in conjunction with the slump. This is because, generally, the larger an aggregate is, the less water is needed to mobilize it. The nominal maximum aggregate size is the smallest sieve opening through which the entire amount of the aggregate is permitted to pass. Copyright GETS Institute
+ACI >
+American Concrete Institute — Copyrighted © Material — www.concrete.org
+@seismicisolation

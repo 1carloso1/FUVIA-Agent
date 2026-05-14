@@ -1,0 +1,36 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 9/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 1: GENERAL 23
+
+
+
+[CODE] stress in the longitudinal bars of at least 1.25f, and a strength reduction factor o of 1.0, in.-lb
+maximum moment in wall due to service loads, excluding PA effects, in.-lb factored slab moment that is resisted by the column at a joint, in.-lb factored moment at section, in.-lb
+moment at midheight of wall due to factored lateral
+and eccentric vertical loads, not including PA effects, in.-lb lesser factored end moment on a compression
+member, in.-lb
+= factored end moment on a compression member at the end at which M, acts, due to loads that cause no appreciable sidesway, calculated using a first-order elastic frame analysis, in.-lb factored end moment on compression member at the end at which M, acts, due to loads that cause appreciable sidesway, calculated using a first-order elastic frame analysis, in.-lb greater factored end moment on a compression
+member. If transverse loading occurs between
+
+[COMMENTARY] - Not. & Term.
+
+[CODE] M> =
+[CODE] supports, M) is taken as the largest moment occur- ring in member. Value of M> is always positive, in.-lb
+minimum value of M), in.-Ib
+[CODE] Md min =
+[CODE] factored end moment on compression member at the end at which M; acts, due to loads that cause no appreciable sidesway, calculated using a first-order elastic frame analysis, in.-lb factored end moment on compression member at the end at which M, acts, due to loads that cause appreciable sidesway, calculated using a first-order elastic frame analysis, in.-lb
+number of items, such as, bars, wires, monostrand
+anchorage devices, or anchors
+number of longitudinal bars around the perimeter of a column core with rectilinear hoops that are later- ally supported by the corner of hoops or by seismic hooks. A bundle of bars is counted as a single bar
+number of stories above the critical section
+
+[COMMENTARY] n, = number of threads per inch
+N ~ = tension force acting on anchor or anchor group, Ib
+
+[CODE] nominal bond strength in tension of a single adhe- sive anchor, Ib
+nominal bond strength in tension of a group of adhesive anchors, Ib basic concrete breakout strength in tension of a single anchor in cracked concrete, Ib basic bond strength in tension of a single adhesive
+anchor, lb resultant tensile force acting on the portion of the concrete cross section that is subjected to tensile stresses due to the combined effects of service loads and effective prestress, lb
+
+[COMMENTARY] American Concrete Institute — Copyrighted © Material — www.concrete.org aci y

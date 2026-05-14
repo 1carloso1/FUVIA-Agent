@@ -1,0 +1,61 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 171/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 9: CONSTRUCTION 533
+
+[CODE] (d) Concrete materials and production methods shall
+be selected so that the concrete temperature at delivery
+complies with the specified temperature limits.
+
+[COMMENTARY] R26.5.5 Concreting in hot weather
+
+[CODE] 26.5.5 Concreting in hot weather
+
+[COMMENTARY] Detailed recommendations for hot weather concreting are
+given in ACI 305R. This guide identifies the hot weather factors that affect concrete properties and construction prac- tices and recommends measures to eliminate or minimize undesirable effects. Specification requirements for concreting in hot weather are provided in ACI 301 and ACI 305.1.
+
+[CODE] 26.5.5.1 Design information:
+
+[COMMENTARY] R26.5.5.1(a) ACI 301 and ACI 305.1 limit the maximum concrete temperature to 95°F at the time of placement.
+
+[CODE] (a) Temperature limits for concrete as delivered in hot
+weather.
+[CODE] 26.5.5.2 Compliance requirements:
+
+[COMMENTARY] a Construction
+
+[CODE] (a) Concrete materials and production methods shall
+be selected so that the concrete temperature at delivery
+complies with the specified temperature limits. (b) Handling, placing, protection, and curing procedures shall limit concrete temperatures or water evaporation that could reduce strength, serviceability, and durability of the
+member or structure.
+
+[COMMENTARY] R26.5.6 Construction, contraction, and isolation joints
+
+[CODE] 26.5.6 Construction, contraction, and isolation joints
+
+[COMMENTARY] For the integrity of the structure, it is important that joints in the structure be located and constructed as required by the design. Any deviations from locations indicated in construc- tion documents should be approved by the licensed design professional. Construction or other joints should be located where they will cause the least weakness in the structure. Lateral force
+design may require additional consideration of joints during
+design.
+
+[CODE] 26.5.6.1 Design information:
+[CODE] (a) If required by the design, locations and details of construction, isolation, and contraction joints.
+
+[COMMENTARY] R26.5.6.1(b) Shear keys, intermittent shear keys, diagonal
+dowels, or shear friction may be used where force transfer is required. If shear friction at a joint interface in accor-
+dance with 22.9 is invoked in the design, include applicable construction requirements in the construction documents.
+
+[CODE] (b) Details required for transfer of shear and other forces
+through construction joints.
+
+[COMMENTARY] R26.5.6.1(c) The preparations referenced are applicable if design for shear friction is in accordance with 22.9 and for contact surfaces at construction joints for structural walls.
+
+[CODE] (c) Surface preparation, including intentional roughening
+of hardened concrete surfaces where concrete is to be
+placed against previously hardened concrete.
+
+[COMMENTARY] R26.5.6.1(d) The locations referenced are those for which design for shear friction is in accordance with 22.9.
+
+[CODE] (d) Locations where shear is transferred between as-rolled steel and concrete using headed studs or welded rein- forcing bars requiring steel to be clean and free of paint. (e) Surface preparation including intentional roughening if composite topping slabs are to be cast in place on a precast floor or roof intended to act structurally with the precast members.
+
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

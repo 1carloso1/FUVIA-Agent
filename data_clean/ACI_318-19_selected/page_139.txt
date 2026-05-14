@@ -1,0 +1,37 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 139/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] 19.2.2.1 It shall be permitted to calculate E, in accordance with (a) or (b):
+
+[COMMENTARY] R19.2.2.1 Equations in 19.2.2.1 provide an estimate of E, for general design use. Studies leading to the expression for E.. of concrete are summarized in Pauw (1960), where E, is defined as the slope of the line drawn from a stress of zero to
+45 percent of the compressive strength using the stress-strain curve of the concrete. This definition is slightly different
+than the definition in ASTM C469. ASTM C469 defines E, using 40 percent of the compressive strength. The modulus of elasticity is sensitive to a number of vari- ables including aggregate type, concrete constituents, mixture proportions, bond between paste and aggregate, and the age of the concrete. This sensitivity, coupled with the inherent vari- ability in the properties of the constituent materials and quality control exercised during construction, can result in differences
+between measured and calculated values for deflection, drift, periods of vibration, and other quantities that depend on E,. Refer to ACI 435R for more information on the use of E,, especially when used in deflection calculations. Modulus of elasticity determined by calculation using the
+Code equations has been shown to be appropriate for most applications based on many years of use. For some applica- tions, however, these equations may not provide sufficiently accurate estimates of actual values. Larger differences between
+measured and calculated values of E, have been observed for high-strength concrete (f,'/> 8000 psi), lightweight concrete,
+and for mixtures with low coarse aggregate volume, as can occur with self-consolidating concrete. Refer to ACI 363R,
+ACI 213R, and ACI 237R for more information.
+
+[CODE] (a) For values of w, between 90 and 160 lb/ft?
+[CODE] E, = w!°33 [f/ (in psi) (19.2.2. 1.a)
+[CODE] (b) For normalweight concrete
+[CODE] E,=57,000,ff’ (in psi) (19.2.2. 1.b)
+[CODE] 19,2.2.2 It shall be permitted to specify E, based upon testing of concrete mixtures to be used in the Work in accor-
+dance with (a) through (c):
+
+[COMMENTARY] R19.2.2.2 For any project, FE, used for design may be speci- fied and verified by testing. Design conditions that are sensi- tive to the value of FE, may warrant testing. Examples include applications where deflections are critical, tall buildings or similar structures for which axial deformation or lateral stiffness impact performance, and where estimation of E, is important to acceptable vibration or seismic performance. In cases where an unintended change of stiffness may have
+an adverse effect on the design, such as for some seismic applications, the licensed design professional may choose to specify a range of acceptable values of E, at a specified test age. If a range of values of Eis specified, details of a testing
+program and acceptance criteria should be provided in the construction documents. The licensed design professional may choose to specify laboratory testing of E, at multiple ages. It should be recognized that the development of FE, over time cannot be controlled with precision.
+
+[CODE] (a) Specified FE, shall be used for proportioning concrete mixtures in accordance with 26.4.3. (b) Testing to verify that the specified E. has been achieved shall be conducted, and results shall be provided with the mixture submittal. (c) Test age of measurement of EF, shall be 28 days or as indicated in the construction documents.
+[CODE] 19.2.3 Modulus of rupture
+[CODE] 19.2.3.1 Modulus of rupture, f,, for concrete shall be calculated by:
+[CODE] f= 75dq f!
+[CODE] (19.2.3.1)
+[CODE] where the value of 4 is in accordance with 19.2.4. aci®
+A
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

@@ -1,0 +1,54 @@
+[DOCUMENT: ASTM_C33-13]
+[PAGE: 10/11]
+[LAYOUT: continuous]
+============================================================
+Ally c33/C33M - 13
+
+using the 0.04 % expansion limit. This test method is consid-
+ered to be the most reliable procedure among ASTM Test
+Methods for the evaluation of aggregates for alkali-silica reaction. X1.3.6 Mitigation of Alkali-Silica Reaction—Normally if an
+aggregate is shown to be nonreactive or innocuous by produc-
+ing little or no expansion in Test Method C1260 or Test Method
+C1293, no mitigation is necessary. Similarly, if the aggregate has a long satisfactory service record with similar cementitious materials having similar or higher alkali levels, no mitigation is necessary. On the other hand, use of aggregates judged to be potentially deleteriously alkali-silica reactive should be con- sidered with the use of measures known to prevent excessive
+expansion. These include measures such as: low-alkali cement (Specification C150 with the low-alkali option); blended ce-
+ments (Specification C595 with the Table 2 optional mortar
+expansion requirement or Performance Specification C1157
+with Option R); pozzolanic materials (meeting the optional physical requirement on effectiveness in controlling alkali- silica reaction in Specification C618 or reactivity with cement alkalies in Specification C1240 for silica fume); or ground slag
+(shown to be effective in preventing excessive expansion of
+concrete due to alkali-aggregate reaction as discussed in
+Appendix X3 of Specification C989). The effectiveness of the cementitious materials or admixtures, or both, chosen to mitigate a potentially reactive aggregate should be demon- strated through tests of the individual materials, or tests of the
+proposed combination in concrete. X1.3.7 Test Method C441 (Mortar-Bar Method for Effec- tiveness of Mineral Admixtures or Ground Blast-Furnace Slag in Preventing Excessive Expansion of Concrete Due to the Alkali-Silica Reaction)—This test method evaluates cementi- tious materials in mortar bars as in Test Method C227 using highly-reactive borosilicate glass as the aggregate. Specifica- tion C618 provides a criterion for its use as applied to fly ash
+and raw or calcined natural pozzolans when sampled and tested in accordance with Test Methods C311 by comparison with a control mortar made with low-alkali cement. Specification
+C1240 provides criteria for the use of Test Method C441 to evaluate silica fume for controlling expansion. Appendix X3 to Specification C989 describes its use for ground granulated blast-furnace slag. Project specific materials can be evaluated
+by proportioning the mortars according to the Job Mixture clause. In evaluating the results of this test, it should be
+recognized that borosilicate glass is more reactive than most construction aggregates; therefore, the amount of a given
+pozzolan or ground slag necessary to control expansion with a portland cement of given alkali content may be higher than
+needed to avoid deleterious expansion with a particular con- struction aggregate. X1.3.8 Test Method C1567 (Accelerated Mortar-Bar
+Method for Determining the Potential Alkali-Silica Reactivity of Combinations of Cementitious Materials and Aggregate )—
+This test method evaluates specific combinations of aggregate
+
+with cementitious materials composed of hydraulic cement and
+pozzolans or ground granulated blast-furnace slag under stor-
+age conditions described in Test Method C1260. Because
+mortar specimens are stored in IN NaOH solution, the test may
+underestimate the effectiveness of cementitious materials that rely to a significant degree on low alkali content for mitigation. In general, expansions less than 0.10% at 16 days are considered to indicate effective control of potential ASR- related expansion of the aggregate by the specific combination
+of cementitious materials. X1.3.9 The use of Test Method C1293 to evaluate the
+mitigation of potentially reactive aggregates is discussed in X1.3.5.
+X1.4 Alkali-Carbonate Rock Reaction X1.4.1 Test Method C586 (Rock Cylinders Method for
+Alkali-Carbonate Rock Reaction)—Rocks that are capable of potentially deleterious carbonate rock reaction are relatively infrequent and seldom constitute a significant proportion of a deposit of rock being considered for use in making aggregate for concrete. Test Method C586 has been successfully used in research and in preliminary screening of aggregate sources to indicate the presence of material with a potential for deleteri-
+ous expansions when used in concrete. X1.4.2 Test Method C1105 (Concrete-Prism Method for
+Alkali-Carbonate Rock Reaction)—This test method is in- tended to evaluate specific combinations of materials in con- crete when the aggregate is regarded as susceptible to delete- rious expansion in service due to the alkali-carbonate rock reaction. The appendix to Test Method C1105 provides general
+information and references concerning the interpretation of results. A cement-aggregate combination might reasonably be classified as potentially deleteriously reactive if the average
+expansion of six concrete specimens is equal to or greater than:
+0.015 % at 3 months; 0.025 % at 6 months; or 0.030 % at 1 year. Data for later ages are preferred. X1.4.3 Mitigation of Alkali-Carbonate Rock Reaction—
+Normally, if a carbonate rock does not show the characteristic texture and composition associated with this type of reaction, or if it does not produce expansion in rock cylinders (Test
+Method C586) or concrete prisms (Test Method C1105), no
+mitigation is necessary for alkali-carbonate rock reaction. Similarly, if the aggregate has a long satisfactory service record
+with similar materials and conditions, no mitigation is neces- sary. On the other hand, use of aggregates judged to be potentially deleteriously alkali-carbonate reactive in concrete is not recommended unless it can be shown that mitigation
+methods will be effective. Pozzolans generally have not been
+found to control alkali-carbonate rock reaction. Measures
+suggested for mitigation includes: avoiding reactive carbonate rocks; selective quarrying; diluting reactive rock to less than
+20 % of the aggregate in the concrete; use of smaller maximum size; and the use of very low alkali cement.
+
+Copyright by ASTM Int'l (all rights reserved);
+10

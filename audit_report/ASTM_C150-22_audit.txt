@@ -1,0 +1,26 @@
+=================================================================
+  ASTM_C150-22
+=================================================================
+  Páginas totales         : 9
+  Páginas CODE/COMMENTARY : 0
+  Páginas vacías          : 0
+  Tablas detectadas       : 4
+  Tablas con título real  : 1
+  Tablas título genérico  : 3
+
+  ⚠️  Calidad de títulos: 25%
+
+  ÍNDICE DE TABLAS:
+  -------------------------------------------------------
+
+  ⚠️  [1] Página   1 — Normative table
+       Contexto: This table specifies: portland cement type specifications and chemical requireme...
+
+  ⚠️  [2] Página   3 — Normative table
+       Contexto: This table specifies: air content requirements; cement chemical and physical pro...
+
+  ✅ [3] Página   3 — TABLE 4 Optional Physical Requirements”
+       Contexto: This table specifies: chloride exposure classes and chloride ion content limits;...
+
+  ⚠️  [4] Página   8 — Normative table
+       Contexto: This table specifies: compressive strength f'c requirements; sulfate exposure cl...

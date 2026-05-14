@@ -1,0 +1,51 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 111/196]
+[LAYOUT: continuous]
+============================================================
+PART 5: EARTHQUAKE RESISTANCE 327
+CODE COMMENTARY
+
+(k) Horizontal reinforcement in the wall web shall extend Thus, the horizontal bars provided for shear reinforcement to within 6 in. of the end of the wall. Reinforcement shall must be developed within the confined core of the boundary
+be anchored to develop f, within the confined core of the element and extended as close to the end ofthe wallas cover .,
+boundary element using standard hooks or heads. Where requirements and proximity of other reinforcement permit. < the confined boundary element has sufficient length to The requirement that the horizontal web reinforcement be &
+develop the horizontal web reinforcement, and A,f,/s of anchored within the confined core of the boundary element a the horizontal web reinforcement does not exceed A f};/s and extended to within 6 in. from the end of the wall applies
+of the boundary element transverse reinforcement parallel to all horizontal bars whether straight, hooked, or headed, as
+
+to the horizontal web reinforcement, it shall be permitted illustrated in Fig. R18.10.6.4¢c.
+
+to terminate the horizontal web reinforcement without a The requirements in 18.10.2.4 apply to the minimum standard hook or head. longitudinal reinforcement in the ends of walls, including
+
+those with special boundary elements.
+
+Perimeter hoop 7 Supplemental crossties 7 A” Longitudinal web reinforcement
+
+| py /
+[ / s _ |— Through web
+
+J il crosstie
+b| b, le = = = , / Pal
+. “|
+| i}le es er ie
+
+oe
+
+(4S 2b, Horizontal web—|
+
+reinforcement, Ay
+
+(a) Perimeter hoop with supplemental 135-degree crossties and 135-degree crossties supporting distributed web longitudinal reinforcement
+Hoop Overlap
+Supplemental crossties at least min. of /| (6 in. and 2b/3)
+Hoop IT ! | a a a, CT
+»|| |e ; J J ] j_|\
+
+' Hoop #2 AW Longitudinal web reinforcement
+_ (4 2b _ Horizontal web \C through web
+crosstie
+ly <2Be reinforcement, Ay
+
+{be
+(b) Overlapping hoops with supplemental 135-degree crossties and 135-degree crossties supporting distributed web longitudinal reinforcement
+Fig. R18.10.6.4a—Configurations of boundary transverse reinforcement and web crossties.
+
+American Concrete Institute — Copyrighted © Material — www.concrete.org aci a

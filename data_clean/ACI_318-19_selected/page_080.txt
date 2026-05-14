@@ -1,0 +1,30 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 80/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] 18.4.4.7.4 V,, of the joint shall be in accordance with 18.8.4.3.
+[CODE] 18.4.5 Two-way slabs without beams
+
+[COMMENTARY] R18.4.5 7Zwo-way slabs without beams
+
+[CODE] 18.4.5.1 Factored slab moment at the support including earthquake effects, FE, shall be calculated for load combina- tions given in Eq. (5.3.le) and (5.3.1g). Reinforcement to resist M,, shall be placed within the column strip defined in 8.4.1.5.
+
+[COMMENTARY] Section 18.4.5 applies to two-way slabs without beams,
+such as flat plates. Using load combinations of Eq. (5.3.1e) and (5.3.1g) may result in moments requiring top and bottom reinforcement at the supports. The moment M,, refers, for a given design load combi- nation with E acting in one horizontal direction, to that portion of the factored slab moment that is balanced by the supporting members at a joint. It is not necessarily equal to the total design moment at the support for a load combination including earthquake effect. In accordance with 8.4.2.2.3, only a fraction of the moment M,, is assigned to the slab effective width. For edge and corner connections, flexural reinforcement perpendicular to the edge is not considered fully effective unless it is placed within the effective slab
+width (ACI 352.1R; Pan and Moehle 1989). Refer to Fig. R18.4.5.1. Application of the provisions of 18.4.5 is illustrated in Fig. R18.4.5.2 and R18.4.5.3.
+
+[CODE] 18.4.5.2 Reinforcement placed within the effective width given in 8.4.2.2.3 shall be designed to resist ypM,,. Effec- tive slab width for exterior and corner connections shall not extend beyond the column face a distance greater than c¢,;
+measured perpendicular to the slab span.
+[CODE] 18.4.5.3 At least one-half of the reinforcement in the
+column strip at the support shall be placed within the effec- tive slab width given in 8.4.2.2.3.
+[CODE] 18.4.5.4 At least one-fourth of the top reinforcement at the support in the column strip shall be continuous throughout the span.
+[CODE] 18.4.5.5 Continuous bottom reinforcement in the column strip shall be at least one-third of the top reinforcement at the support in the column strip.
+[CODE] 18.4.5.6 At least one-half of all bottom middle strip rein-
+forcement and all bottom column strip reinforcement at
+midspan shall be continuous and shall develop f, at the face of columns, capitals, brackets, or walls.
+[CODE] 18.4.5.7 At discontinuous edges of the slab, all top and
+bottom reinforcement at the support shall be developed at the face of columns, capitals, brackets, or walls.
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

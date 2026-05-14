@@ -1,0 +1,33 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 22/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+[COMMENTARY] nonprestressed concrete are integrated to avoid overlapping
+and conflicting provisions. concrete, reinforced—Includes members satisfying the requirements for nonprestressed and prestressed concrete.
+
+[CODE] concrete, reinforced—structural concrete reinforced with at least the minimum amounts of nonprestressed reinforce- ment, prestressed reinforcement, or both, as specified in this
+Code. concrete, sand-lightweight—lightweight — concrete containing only normalweight fine aggregate that conforms to ASTM C33 and lightweight coarse aggregate that
+conforms to ASTM C330.
+
+[COMMENTARY] concrete, sand-lightweight—By Code terminology, sand-lightweight concrete is lightweight concrete with all of the fine aggregate replaced by sand. This definition may not be in agreement with usage by some material suppliers or contractors where the majority, but not all, of the light-
+weight fines are replaced by sand. For proper application of the Code provisions, the replacement limits should be stated,
+with interpolation if partial sand replacement is used.
+
+[CODE] concrete, steel fiber-reinforced—concrete containing a prescribed amount of dispersed, randomly oriented, discon- tinuous deformed steel fibers. concrete-filled pipe piles—steel pipe with a closed
+end that is driven for its full length in contact with the surrounding soil, or a steel pipe with an open end that is driven for its full length and the soil cleaned out; for both installation procedures, the pipe is subsequently filled with
+reinforcement and concrete. concrete strength, specified compressive, (f,')—
+compressive strength of concrete used in design and evalu- ated in accordance with provisions of this Code, psi; wher- ever the quantity f,' is under a radical sign, the square root of numerical value only is intended, and the result has units
+of psi. connection—tegion of a structure that joins two or more
+members; a connection also refers to a region that joins
+members of which one or more is precast. connection, ductile—connection between one or more precast elements that experiences yielding as a result of the earthquake design displacements. connection, strong—connection between one or more precast elements that remains elastic while adjoining
+members experience yielding as a result of earthquake design displacements. construction documents—written and graphic documents
+and specifications prepared or assembled for describing the location, design, materials, and physical characteristics of the elements of a project necessary for obtaining a building
+permit and construction of the project. contraction joint—formed, sawed, or tooled groove in a concrete structure to create a weakened plane and regu- late the location of cracking resulting from the dimensional
+change of different parts of the structure. cover, specified concrete—distance between the outer-
+most surface of embedded reinforcement and the closest outer surface of the concrete. crosstie—a continuous reinforcing bar having a seismic
+hook at one end and a hook not less than 90 degrees with at least a 6d, extension at the other end. The hooks shall
+engage peripheral longitudinal bars. The 90-degree hooks aci>
+A
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

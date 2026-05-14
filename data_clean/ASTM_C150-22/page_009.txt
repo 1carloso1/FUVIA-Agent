@@ -1,0 +1,60 @@
+[DOCUMENT: ASTM_C150-22]
+[PAGE: 9/9]
+[LAYOUT: continuous]
+============================================================
+All c150/C150M - 22
+seri? ABC Portland Cement Company
+Qualitytown, N.J.
+
+Plant: Example Cement Type II Date: March 9, 20xx
+
+Production Period March 2, 20xx — March 8, 20xx
+Additional Data
+Limestone Inorganic Processing Addition Data
+Type --- Ground, granulated blast furnace slag
+Amount (%) 3.5 3.0
+SiOz (%) 12.9 33.1
+
+AlzOz3 (%) 3.0 10.9
+FesO3 (%) 1.0 1.1
+CaO (%) 43.5 44.4
+SOz (%) 0.6 0.2
+Base Cement Phase Composition
+CaS (%) 63
+CoS (%) 11
+CoA (%) 5
+C,AF(%) 11
+We certify that the above described data represents the materials used in the cement manufactured during the production period indicated.
+Signature: Title:
+
+FIG. X1.2 Example Additional Data Report
+
+SUMMARY OF CHANGES
+
+Committee C01 has identified the location of selected changes to this standard since the last issue
+(C150/C150M — 21) that may impact the use of this standard. (Approved July 1, 2022.)
+
+(1) Removed references to Test Method C151/C151M from 2.1, Table 3, 9.1.4, and Fig. X1.1.
+
+Committee C01 has identified the location of selected changes to this standard since the last issue
+(C150/C150M — 20) that may impact the use of this standard. (Approved July 15, 2021.)
+
+(1) Revised 1.1.1. (2) Revised A1.6.1 and A1.6.2.
+
+ASTM International takes no position respecting the validity of any patent rights asserted in connection with any item mentioned in this standard. Users of this standard are expressly advised that determination of the validity of any such patent rights, and the risk
+of infringement of such rights, are entirely their own responsibility.
+This standard is subject to revision at any time by the responsible technical committee and must be reviewed every five years and if not revised, either reapproved or withdrawn. Your comments are invited either for revision of this standard or for additional standards
+and should be addressed to ASTM International Headquarters. Your comments will receive careful consideration at a meeting of the
+responsible technical committee, which you may attend. If you feel that your comments have not received a fair hearing you should
+make your views known to the ASTM Committee on Standards, at the address shown below.
+This standard is copyrighted by ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428-2959,
+United States. Individual reprints (single or multiple copies) of this standard may be obtained by contacting ASTM at the above
+address or at 610-832-9585 (phone), 610-832-9555 (fax), or service@astm.org (e-mail); or through the ASTM website
+(www.asim.org). Permission rights to photocopy the standard may also be secured from the Copyright Clearance Center, 222
+Rosewood Drive, Danvers, MA 01923, Tel: (978) 646-2600; http://www.copyright.com/
+
+At, Ug POA APABMTATL| BRS RREARRPOA @viQdveon By, BOAREEB-ERTA
+HIRO | LRA
+AR 1 ARM, MOPAR
+THRU. PARRA ABER UD §Bu) Kay AB zo COBLosaina a ABT, B) o(nabpatarg
+co) 20¢, Bu) « ~ Bax

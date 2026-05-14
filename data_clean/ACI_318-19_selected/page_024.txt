@@ -1,0 +1,24 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 24/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] effective depth of section—distance measured from
+extreme compression fiber to centroid of longitudinal tension reinforcement. effective embedment depth—overall depth through
+which the anchor transfers force to or from the surrounding concrete; effective embedment depth will normally be the
+depth of the concrete failure surface in tension applications; for cast-in headed anchor bolts and headed studs, the effec- tive embedment depth is measured from the bearing contact surface of the head. effective prestress—stress remaining in prestressed rein-
+forcement after losses in 20.3.2.6 have occurred. effective stiffness—stiffness of a structural member accounting for cracking, creep, and other nonlinear effects. embedments—items embedded in concrete, excluding reinforcement as defined in Chapter 20 and anchors as defined in Chapter 17. Reinforcement or anchors welded, bolted or otherwise connected to the embedded item to develop the strength of the assembly, are considered to be part of the embedment. embedments, pipe—embedded pipes, conduits, and sleeves. embedment length—length of embedded reinforcement provided beyonda critical section. equilibrium density—density of lightweight concrete determined in accordance with ASTM C567. expansion sleeve—outer part of an expansion anchor that is forced outward by the center part, either by applied torque or impact, to bear against the sides of the predrilled hole. See also anchor, expansion. extreme tension reinforcement—layer of prestressed or nonprestressed reinforcement that is the farthest from the
+extreme compression fiber. finite element analysis—a numerical modeling technique in which a structure is divided into a number of discrete elements for analysis. five percent fractile—statistical term meaning 90 percent confidence that there is 95 percent probability of the actual strength exceeding the nominal strength.
+
+[COMMENTARY] effective embedment depth—Effective embedment depths for a variety of anchor types are shown in Fig. R2.1. For post-installed mechanical anchors, the value hy is obtained from the ACI 355.2 product evaluation report provided by the manufacturer.
+[COMMENTARY] five percent fractile—The determination of the coefficient Kos associated with the 5 percent fractile, x — Koss, depends on the number of tests, n, used to calculate the sample mean, x, and sample standard deviation, s,. Values of Kos range, for example, from 1.645 for 2 = 0, to 2.010 for m = 40, and 2.568 for n = 10. With this definition of the 5 percent fractile, the nominal strength in Chapter 17 is the same as the charac- teristic strength in ACI 355.2 and ACI 355.4.
+
+[CODE] foundation seismic ties—elements used to sufficiently interconnect foundations to act as a unit. Elements may consist of grade beams, slabs-on-ground, or beams within a slab-on-ground. headed deformed bars—deformed bars with heads attached at one or both ends.
+
+[COMMENTARY] headed deformed bars—The bearing area of a headed
+deformed bar is, for the most part, perpendicular to the bar axis. In contrast, the bearing area of the head of headed stud reinforcement is a nonplanar spatial surface of revolu- tion, as shown in Fig. R20.4.1. The two types of reinforce-
+ment differ in other ways. The shanks of headed studs are smooth, not deformed as with headed deformed bars. The
+
+[CODE] American Concrete Institute — Copyrighted © Material — www.concrete.org

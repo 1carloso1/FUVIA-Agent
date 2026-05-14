@@ -1,0 +1,56 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 106/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] 322 ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] Co 2Fu,i = Vy
+
+[COMMENTARY] —— Moments from load combination, M, \ m=" Amplified moments, Q,M,
+
+[CODE] Vics GS
+a Vecs \
+
+[COMMENTARY] Mp, cs
+0. =
+“Macs
+
+[CODE] Mucs
+H.-= of Vues
+a Critical JY SE
+Section (CS ——
+
+[COMMENTARY] Mu,cs Mpr.cs
+[COMMENTARY] Vics Vecs (c) Shear
+
+[CODE] (a) Lateral _—(b) Wall forces elevation
+
+[COMMENTARY] (d) Moment
+[COMMENTARY] Fig, R18.10.3.1—Determination of shear demandfor walls with hy/ty = 2.0 (Moehle et al 2011).
+
+[CODE] 18.10.4 Shear strength | 18.10.4.1 V,, shall be calculated by:
+
+[COMMENTARY] R18.10.4 Shear strength
+[COMMENTARY] Equation (18.10.4.1) recognizes the higher shear strength
+of walls with high shear-to-moment ratios (Hirosawa 1977; Joint ACI-ASCE Committee 326 1962; Barda et al. 1977).
+The nominal shear strength is given in terms of the gross area of the section resisting shear, A,,. For a rectangular section without openings, the term A,, refers to the gross area of the cross section rather than to the product of the width and the effective depth. A vertical wall segment refers to a part of a wall bounded horizontally by openings or by an opening and an edge. For an isolated wall or a vertical wall segment, p; refers to hori- zontal reinforcement and p; refers to vertical reinforcement. The ratio h,,/¢,, may refer to overall dimensions of a wall, or of a segment of the wall bounded by two openings, or an opening and an edge. The intent of 18.10.4.2 is to make certain that any segment of a wall is not assigned a unit strength greater than that for the entire wall. However, a wall segment with a ratio of h,,/f,, higher than that of the entire wall should
+be proportioned for the unit strength associated with the ratio h,/£,, based on the dimensions for that segment. To restrain the inclined cracks effectively, reinforcement included in p, and p; should be appropriately distributed along the length and height of the wall (refer to 18.10.4.3). Chord reinforcement provided near wall edges in concentrated
+amounts for resisting bending moment is not to be included in determining p; and p;. Within practical limits, shear reinforce-
+ment distribution should be uniform and at a small spacing. If the factored shear force at a given level in a structure is resisted by several walls or several vertical wall segments of a perforated wall, the average unit shear strength assumed
+for the total available cross-sectional area is limited to 8 Vf! with the additional requirement that the unit shear strength assigned to any single vertical wall segment does not exceed 10./f.’. The upper limit of strength to be assigned to any
+
+[CODE] | V, = (Al
+f’ +P, fy) Ay (18.10.4.1)
+[CODE] where: a, =3 for h/t, <1.5 a, = 2 for h,/t,, => 2.0 It shall be permitted to linearly interpolate the value of a, between 3 and 2 for 1.5 <h,/f,, < 2.0.
+[CODE] 18.10.4.2 In 18.10.4.1, the value of ratio h,,/f,, used to calculate V,, for segments of a wall shall be the greater of the ratios for the entire wall and the segment of wall considered.
+[CODE] 18.10.4.3 Walls shall have distributed shear reinforcement in two orthogonal directions in the plane of the wall. If h,/£, does not exceed 2.0, reinforcement ratio p; shall be at least the reinforcement ratio py.
+[CODE] 18.10.4.4 For all vertical wall segments sharing a common
+lateral force, V, shall not be taken greater than s/f! Avy.
+For any one of the individual vertical wall segments, V,, shall
+not be taken greater than 10 Vf Acy, Where A,, is the area of concrete section of the individual vertical wall segment considered.
+[CODE] 18.10.4.5 For horizontal wall segments and coupling
+beams, V,, shall not be taken greater than 10 Vf! Acys Where
+Ac, is the area of concrete section of a horizontal wall segment or coupling beam.
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org
+[CODE] \

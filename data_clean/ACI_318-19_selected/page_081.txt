@@ -1,0 +1,29 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 81/196]
+[LAYOUT: continuous]
+============================================================
+PART 5: EARTHQUAKE RESISTANCE 297
+CODE COMMENTARY
+Via, thickness = h F
+|
+a Seismic
+Column J 15h ¢;
+Effective c
+width 2
+15h<¢; ]
+Yield line + \
+Cc
+Cy
+= Direction of moment => (a) Edge connection
+“| 7
+Co j t © e Effective width
+1.5h< c =
+Yield line- i VA
+Edge— Ct
+Cy ~
+= Direction of moment =>
+(b) Corner connection
+Fig. R18.4.5.1—Effective width for reinforcement place- ment in edge and corner connections.
+Q. ws
+American Concrete Institute — Copyrighted © Material — www.concrete.org
+Q \

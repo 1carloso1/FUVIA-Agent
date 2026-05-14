@@ -1,0 +1,45 @@
+[DOCUMENT: ACI_211.4R-08]
+[PAGE: 6/23]
+[LAYOUT: continuous]
+============================================================
+SELECTING PROPORTIONS FOR HIGH-STRENGTH CONCRETE
+211.4R-7
+Table 6.1—Recommended slump for concrete with
+and without HRWRA
+
+that, when completed, provide a mixture meeting work- ability, w/cm, strength, and durability requirements based on the combined properties of the individually selected and proportioned components. In the development of a high- strength concrete mixture, obtaining the optimum proportions is based on a series of trial batches having different proportions
+and cementitious material contents.
+
+Concrete made using HRWRA®
+Slump before adding HRWRA | 1 to 2 in.
+Concrete made without HRWRA
+Slump | 2 to 4 in.
+“Adjust slump to that desired in the field through the addition of HRWRA.
+
+5.2—Water-cementitious material ratio Because most high-strength concrete mixtures contain other cementitious materials, a w/cm should be considered in place of the traditional w/c. The w/cm, like the w/c, should be calculated on a mass basis. The mass of water in an HRWRA should be included in the w/cm. The relationship between w/cm and compressive strength,
+which has been identified in normal-strength concrete, is valid for high-strength concrete as well. The use of chemical admixtures and other cementitious materials has been
+proven generally essential to producing placeable concrete with a low w/cm; see Table 6.5.
+
+(Berry and Malhotra 1980). The ability of fly ash to aid in achieving high ultimate strengths has made it a very important ingredient in the production of high-strength concrete.
+6.2—Concrete mixture proportioning 6.2.1 Purpose—Proper proportioning is required for all materials used. Because the performance of high-strength concrete is highly dependent on the properties of its individual components, the proportioning procedure is meant to produce mixture proportions based on the performance of adjusted laboratory and field trial batches. This procedure further ensures that the properties and characteristics of the materials used in the trial mixtures are adequate to achieve the desired concrete compressive strength. Guidelines for the selection of materials for producing high-strength concrete are provided in ACI 363.2R. The project specifications should be reviewed before starting the proportioning of high-strength concrete mixtures. The review will establish the design criteria for specified strengths, the age when strengths are to be attained,
+and other testing acceptance criteria. 6.2.2. Introduction—Because fly ash properties vary
+depending on the source, type, and class, the most effective
+method to establish proper mixture strength and performance for a specific application using fly ash in the concrete mixture is a trial batch program (ACI 211.1). 6.2.3 Mixture proportioning procedure—Completion of the following steps will result in a set of high-strength concrete laboratory trial proportions. These proportions will then provide the basis for field testing concrete batches from
+which the optimum mixture proportions may be chosen. 6.2.3.1 Step 1: Select slump and required concrete
+strength—Recommended values for concrete slump are given in Table 6.1. Although high-strength concrete with HRWRA has been produced successfully without a measurable initial slump, an initial starting slump of 1 to 2 in. before adding
+HRWRA is recommended. This will ensure an adequate
+amount of water is available for mixing and hydration and allows the HRWRA to be effective. Slump values after addi- tion of HRWRA of at least 2 in. are recommended because concrete with a slump less than 2 in. is difficult to consolidate. For high-strength concrete made without HRWRA, a
+recommended slump range of 2 to 4 in. may be chosen according to the type of work to be done. A minimum value of 2 in. of slump is recommended for concrete without HRWRA. HRWRA dosage should be adequate for both the anticipated contribution to strength and the desired workability. Slump after adding HRWRA should be enough for proper placement
+and consolidation, but not so much as to cause segregation.
+
+[TABLE: Table 6.1. Although high-strength concrete with HRWRA has be]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits.]
+5.3—Workability For the purpose of this guide, workability is that property of freshly mixed concrete that determines the ease with
+which it can be properly mixed, placed, consolidated, and finished without segregation. 5.3.1 Slump—lIn general, high-strength concrete should be placed at the lowest slump that can be properly handled and consolidated in the field. High-strength concrete is
+commonly placed at slumps in excess of 7 in. with HRWRAs without segregation. Placement conditions, pumping require- ments, reinforcement spacing, and form details should be considered before development of concrete mixtures. Because of high coarse aggregate and cementitious material contents and low w/cm, high-strength concrete can be difficult to place. Flowing concrete with slumps in excess of 8 in. that incorporate HRWRAs are very effective in filling the voids
+between closely-spaced reinforcement.
+CHAPTER 6—HIGH-STRENGTH CONCRETE
+MIXTURE PROPORTIONING USING FLY ASH
+6.1—Fundamental relationship When concrete containing fly ash is properly cured, fly ash reaction products partially fill in the spaces, originally occupied
+by mixing water, that are not filled by the hydration products of the cement, thus lowering the concrete permeability to water and aggressive chemicals (Manmohan and Mehta 1981). 6.1.1 Materials selection—Fly ash is normally used at 15 to 35% by mass of total cementitious material. Class C fly ashes often exhibit a higher rate of reaction at early ages than Class F fly ashes. 6.1.2 Special consideration—When concrete is kept moist, the continued pozzolanic activity of fly ash provides strength gain at later ages after the rate of strength gain of portland cement has slowed. Concrete containing fly ash
+may achieve higher strengths at later ages than concrete without fly ash. This strength gain will continue with time as long as moisture is available and will result in higher later- age strength than can be achieved by using additional cement

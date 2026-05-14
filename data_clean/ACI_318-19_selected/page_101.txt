@@ -1,0 +1,52 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 101/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 5: EARTHQUAKE RESISTANCE 317
+
+
+
+[CODE] (a) ACI 374.1 (b) Details and materials used in the test specimens shall
+be representative of those used in the structure (c) The design procedure used to proportion the test speci-
+mens shall define the mechanism by which the frame resists gravity and earthquake effects, and shall establish acceptance values for sustaining that mechanism. Portions of the mechanism that deviate from Code requirements shall be contained in the test specimens and shall be tested to determine upper bounds for acceptance values.
+
+[COMMENTARY] ACI 374.1 defines a protocol for establishing a design proce- dure, validated by analysis and laboratory tests, for such frames. The design procedure should identify the load path
+[COMMENTARY] Seismic
+18
+[COMMENTARY] or mechanism by which the frame resists gravity and earth-
+quake effects. The tests should be configured to investigate critical behaviors, and the measured quantities should estab- lish upper-bound acceptance values for components of the load path, which may be in terms of limiting stresses, forces, strains, or other quantities. The design procedure used for the structure should not deviate from that used to design the test specimens, and acceptance values should not exceed values that were demonstrated by the tests to be acceptable. Materials
+and components used in the structure should be similar to those
+used in the tests. Deviations may be acceptable if the licensed design professional can demonstrate that those deviations do not adversely affect the behavior of the framing system. ACI 550.3 defines design requirements for one type of special precast concrete moment frame for use in accordance
+with 18.9.2.3.
+
+[CODE] 18.10—Special structural walls 18.10.1 Scope
+
+[COMMENTARY] R18.10—Special structural walls R18.10.1 Scope
+
+[CODE] 18.10.1.1 This section shall apply to special structural walls, including ductile coupled walls, and all components
+of special structural walls including coupling beams and wall piers forming part of the seismic-force-resisting system.
+
+[COMMENTARY] This section contains requirements for the dimensions
+and details of special structural walls and all components including coupling beams and wall piers. Wall piers are defined in Chapter 2. Design provisions for vertical wall
+segments depend on the aspect ratio of the wall segment in the plane of the wall (1,/£,,), and the aspect ratio of the horizontal cross section (¢,,/b,), and generally follow the descriptions in Table R18.10.1. The limiting aspect ratios for wall piers are based on engineering judgment. It is intended that flexural yielding of the vertical reinforcement in the pier should limit shear demand on the pier.
+
+[CODE] 18.10.1.2 Special structural walls constructed using precast concrete shall be in accordance with 18.11 in addi- tion to 18.10.
+
+[COMMENTARY] Table R18.10.1—Governing design provisions for
+vertical wall segments!!! Clear height Length of vertical wall segment/wall thickness of vertical wall (f,,/by) segment/length of vertical wall (E,/by) >
+segment, (1,,/,,) (£,/b,) < 2.5 2.5 < (¢,/b,) < 6.0 6.0 h,/£,, < 2.0 Wall Wall Wall
+[COMMENTARY] Wall pier Wall pier required
+[COMMENTARY] . to satisfy specified
+required to .
+satisfy specified column design
+hyley = 2.0 ¥ SP . requirements Wall
+column design .
+[COMMENTARY] . or alternative
+requirements; requirements; refer
+refer to 18.10.8.1 to 18.1081
+[COMMENTARY] [n,, is the clear height, £,, is the horizontal length, and b,, is the width of the web of the wall segment.
+
+[CODE] 18.10.2 Reinforcement
+
+[COMMENTARY] R18.10.2 Reinforcement
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

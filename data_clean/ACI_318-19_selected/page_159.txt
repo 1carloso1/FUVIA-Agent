@@ -1,0 +1,49 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 159/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 9: CONSTRUCTION 521
+
+
+
+[CODE] (4) Maximum w/cm applicable to most restrictive assigned durability exposure class from 19.3.2.1.
+
+[COMMENTARY] R26.4.2.1(a)(4) In accordance with Table 19.3.2.1, the w/cm is based on all cementitious and supplementary cementitious materials in the concrete mixture. The w/em of concrete
+made with alternative cements may not reflect the strength
+and durability characteristics of the concrete made with portland cement and supplementary cementitious materials permitted in Table 26.4.1.1.1(a). As noted in R26.4.1.1.1(b), it is imperative that testing be conducted to determine the
+performance of concrete made with alternative cements and to develop appropriate project specification.
+
+[CODE] (5) Nominal maximum size of coarse aggregate not to
+exceed the least of (1), (11), and (111): (i) one-fifth the narrowest dimension between sides of forms (11) one-third the depth of slabs (ii1) three-fourths the minimum specified clear spacing between individual reinforcing bars or wires, bundles of bars, prestressed reinforcement, individual tendons, bundled tendons, or ducts
+
+[COMMENTARY] R26.4.2.1(a)(5) The size limitations on aggregates are provided to facilitate placement of concrete around the reinforcement without honeycombing due to blockage by closely-spaced reinforcement. It is the intent of the Code that the licensed design professional select the appropriate
+nominal maximum size aggregate and include this value in the construction documents for each concrete mixture.
+Because maximum aggregate size can impact concrete prop-
+[COMMENTARY] -) Construction
+[COMMENTARY] erties such as shrinkage, and also the cost of concrete, the largest aggregate size consistent with the requirements of 26.4.2.1 should be permitted. Increasing aggregate size will
+only decrease shrinkage if there is a concurrent reduction in paste volume.
+
+[CODE] These limitations shall not apply if, in the judgment
+of the licensed design professional, workability and
+methods of consolidation are such that concrete can be placed without honeycombs or voids.
+[CODE] (6) Applicable air content for Exposure Category F y
+from 19.3.3.1 or 19.3.3.3.
+
+[COMMENTARY] R26.4.2.1(a)(6) ASTM C94 and ASTM C685 include a tolerance for air content as delivered of +1.5 percentage points. This same tolerance is acceptable for shotcrete.
+
+[CODE] (7) For members assigned to Exposure Class F3, indicate that concrete mixtures shall meet the limits on supple-
+mentary cementitious materials in Table 26.4.2.2(b). (8) For members assigned to Exposure Class $1, $2, or S3, indicate that mineral fillers derived from carbonate aggregate are prohibited unless approved by the licensed design professional.
+
+[TABLE: Table 26.4.2.2(b). (8) For members assigned to Exposure Class $1]
+[TABLE_CONTEXT: This table specifies: sulfate exposure classes; chloride exposure classes and chloride ion content limits; chemical admixture type classification and performance requirements.]
+[COMMENTARY] R26.4.2.1(a)(8) If concrete members are assigned to
+Exposure Class S1, $2, or S3, the use of mineral fillers derived from carbonate aggregate in concrete mixtures can result in a form of sulfate attack. Information is provided in
+ACI 201.2R. ASTM C1797 Type C mineral fillers that are derived from noncarbonate quarried stone can be used in concrete exposed to sulfates. If the quantity of Type A, B, or
+C mineral filler derived from carbonate aggregate proposed for use is such that the total calctum carbonate content from
+cement and mineral filler is equal to or less than 15 percent
+by mass of the cementitious materials, then sulfate resis- tance can be evaluated by ASTM C1012 to comply with the
+expansion criteria in Table 26.4.2.2(c).
+
+[CODE] (9) Applicable cementitious materials for Exposure Category S from 19.3.2.1. (10) For members assigned to Exposure Category S, indicate if alternative combinations of cementitious materials qualified in accordance with 26.4.2.2(c) are permitted. (11) Members in which calcium chloride is prohibited because of assignment to Exposure Class 82 or S3.
+
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

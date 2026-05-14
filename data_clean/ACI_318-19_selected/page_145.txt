@@ -1,0 +1,23 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 145/196]
+[LAYOUT: continuous]
+============================================================
+362
+ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+CODE
+COMMENTARY
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; compressive strength f'c requirements; freezing and thawing exposure classes; sulfate exposure classes; water exposure classes; chloride exposure classes and chloride ion content limits; portland cement type specifications and chemical requirements; cement chemical and physical property limits.]
+0.45 and a minimum f,’ of 4500 psi because the requirement for Exposure Class $2 is more restrictive than the require-
+ment for Exposure Class W1. Exposure Classes F1, F2, and F3: In addition to
+complying with a maximum w/cm limit and a minimum J-', concrete for members subject to freezing-and-thawing exposures is required to be air entrained in accordance with 19.3.3.1. Members assigned to Exposure Class F3 are addi- tionally required to comply with the limitations on the quan- tity of pozzolans and slag cement in the composition of the cementitious materials as given in 26.4.2.2(b). The requirements for plain concrete members in Exposure Class F3 are less restrictive because of the reduced likeli-
+hood of problems caused by reinforcement corrosion. The licensed design professional should consider the details of the minimal reinforcement to be included in plain concrete
+members to ensure that the less restrictive requirements are appropriate for the specific project. Exposure Classes $1, $2, and S3: Table 19.3.2.1 lists the appropriate types of cement and the maximum w/cm
+and minimum f,’ for various sulfate exposure conditions. In selecting cement for sulfate resistance, the principal consid- eration is its tricalcium aluminate (C3A) content. The use of fly ash (ASTM C618, Class F), natural pozzo- lans (ASTM C618, Class N), silica fume (ASTM C1240), or slag cement (ASTM C989) has been shown to improve the sulfate resistance of concrete (Li and Roy 1986; ACI
+233R; ACI 234R). Therefore, Footnote [7] to Table 19.3.2.1 provides a performance option to determine the appropriate
+amounts of these materials to use in combination with the specific cement types listed. ASTM C1012 is permitted to
+be used to evaluate the sulfate resistance of mixtures using combinations of cementitious materials in accordance with 26.4.2.2(c). Some ASTM C595 and ASTM C1157 blended cements can meet the testing requirements of 26.4.2.2.(c) without addition of pozzolans or slag cement to the blended cement as manufactured. Note that sulfate-resisting cement will not increase resis- tance of concrete to some chemically aggressive solutions— for example, sulfuric acid. The construction documents should explicitly cover such cases. In addition to the proper selection of cementitious mate- rials, other requirements for durable concrete exposed to water-soluble sulfates are essential, such as w/em, strength, consolidation, uniformity, cover of reinforcement, and moist curing to develop the potential properties of the concrete. Exposure Class $1: ASTM C150 Type II cement is limited to amaximum C;A content of 8 percent and is acceptable for use in Exposure Class $1. Blended cements under ASTM
+C595 with the MS designation, which indicates the cement meets requirements for moderate sulfate resistance, are also appropriate for use. Under ASTM C1157, the appropriate designation for moderate sulfate exposure is Type MS.
+
+American Concrete Institute —- Copyrighted © Material — www.concrete.org

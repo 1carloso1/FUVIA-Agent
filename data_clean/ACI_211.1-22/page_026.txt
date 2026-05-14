@@ -1,0 +1,71 @@
+[DOCUMENT: ACI_211.1-22]
+[PAGE: 26/26]
+[LAYOUT: continuous]
+============================================================
+SELECTING PROPORTIONS FOR NORMAL-DENSITY AND HIGH-DENSITY CONCRETE—GUIDE (ACI PRC-211.1-22) 27
+
+strength and resistance to chloride penetrability) will lead to a lower paste volume. 25% paste volume in | yd? of concrete is 25% x 27.00 ft?
+= 6.75 ft’, which will be the new paste volume. The new cement weight is calculated as follows
+
+9.4.3 Step 3: Calculate the new mixture proportions—
+The proportions for the next trial batch are shown in the following: Weight, per yd*
+Cement: 604 Ib Fine aggregate: 1517 lb Coarse aggregate: 1600 Ib Water: 300 Ib Total weight: 4021 Ib Density: 148.9 Ib/ft?
+
+(PV x 62.4 x (1-%SCM))
+Cement =
+(1=%SCM) %SCM)
+| wiem +
+3.15 SCM
+pp
+Inserting the appropriate values, the new cement weight is
+determined as shown in the following (6.75 x 62.4x (1—50%))
+Cement = 1 50%) 50% = 288 lb
+
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; compressive strength f'c requirements; exposure class requirements for concrete durability; freezing and thawing exposure classes; chloride exposure classes and chloride ion content limits.]
+9.5—Example 4: Mixture proportioning using
+target paste volume The paste volume (PV) is defined as the sum of volumes of the cementitious materials and water expressed as a percent
+of the total concrete volume. A lower paste volume can lead to lower concrete shrinkage, lower concrete temperature due to lower heat of hydration, lower materials cost, and lower
+carbon footprint of concrete. AASHTO PP 8&4 lists a paste
+volume of 25% as one of the approaches to reduce unwanted slab warping and cracking due to shrinkage (if cracking is a concern). 9.5.1 Step 1: Calculate paste volume—A concrete mixture has been designed for concrete piles exposed to aggressive
+seawater in Florida. The exposure class for the concrete is FO, C2, Sl, and WI. According to Tables 4.7.3a through 4.7.3d, the concrete needs to have a w/cm of 0.40 and
+have a minimum compressive strength of 5000 psi. Due to the desired resistance to chloride penetration, a mixture containing slag cement at 50% replacement level (by weight) is used. The following mixture, which has been found to attain the strength, resistance to chloride penetration, and workability levels, is designed. Cement = 350 Ib/yd? with a specific gravity of 3.15 Slag cement = 350 lb/yd? with a specific gravity of 2.90
+Total cementitious materials content = 350 lb/yd? + 350 Ib/
+yd? = 700 lb/yd? Water = 280 lb/yd?
+w/cm = 280 lb/yd?/700 Ib/yd? = 0.40
+Coarse aggregate = 1800 lb/yd? with a specific gravity of 2.80 Fine aggregate = 1200 lb/yd* with a specific gravity of 2.60 Fine-to-coarse aggregate ratio is 40%/60%
+The percent paste volume of the above mixture is shown in the following: Cement = 350 Ib/(3.15 x 62.4 lb/ft?) = 1.78 ft Slag cement = 350 Ib/(2.90 x 62.4 lb/ft?) = 1.93 ft
+Water = 280 Ib/(1 x 62.4 lb/ft?) = 4.49 ft
+Total paste volume = 8.20 ft?
+Percent paste volume = 8.20 ft?/27.00 ft? = 30.4% 9.5.2 Step 2: Adjust mixture constituents to achieve the target paste volume of 25%--Because the mixture already attains the target strength and resistance to chloride pene- tration, it was decided to maintain the same w/cm of 0.40
+and 50% replacement level of slag cement. A lower water content along with the target w/cm (for attaining target
+
+[o4o+ =). 9
+3.15 2.9
+0 M f0)
+Slag = Cement x %SC _ 288 x 50% — 988 Ib
+(L—%SCM) (1—50%)
+Therefore, total cementitious material content is calcu- lated as 288 lb + 288 lb = 576 lb. Because the w/cm is kept constant as 0.40, water content is calculated as 0.40 x 576 = 230 lb. 9.5.3 Step 3: Calculate the new paste volume for verification New paste volume
+(230 1b/62.4 lb/ft? + 288 1b/3.15/62.4 lb/ft? + 288 Ib/2.90/62.4 lb/ft’) = 6.75 ft New percent paste volume
+6.75 ft?/27.00 ft? = 25%
+Reduction in paste volume compared to original mixture
+(8.20 ft? — 6.75 ft’) = 1.45 f°
+This reduction will need an increase in total aggregate
+volume to produce the cubic yard. Dividing this aggregate
+volume by the fine-to-coarse aggregate ratio of 40%/60% yields the following adjustments
+Increase in coarse aggregate = 60% x 1.45 ft? x 2.80 x
+62.4 lb/ft? = 152 lb
+Increase in fine aggregate = 40% * 1.45 ft? x 2.60
+62.4 lb/ft? = 94 Ib
+9.5.4 Step 4: Calculate the new mixture proportions
+Cement = 288 Ib Slag cement = 288 Ib
+Water = 230 Ib
+Coarse aggregate = (1800 Ib + 152 1b) = 1952 Ib Fine aggregate = (1200 lb + 94 Ib) = 1294 Ib
+Because the new mixing-water content is 230 lb, which is 18% lower than before (280 lb), the mixture should be designed with a high-range water-reducing admixture
+
+Copyright American Concrete Institute
+
+(aci>
+American Concrete Institute — Copyrighted © Material — www.concrete.org
+
+@seismicisolation

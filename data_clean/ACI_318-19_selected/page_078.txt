@@ -1,0 +1,42 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 78/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] the unsupported length due to reverse curvature bending.
+Column flexural strength shall be calculated for the factored axial force, consistent with the direction of the lateral forces considered, resulting in the highest flexural strength (b) The maximum shear obtained from factored load
+combinations that include E, with ©,E substituted for E
+
+[COMMENTARY] ture bending, both clockwise and counterclockwise. Figure
+R18.4.2 demonstrates only one of the two options that are to be considered for every column. The factored axial force P,, should be chosen to develop the largest moment strength of the column within the range of design axial forces. Provision 18.4.3.1(b) for columns is similar to 18.4.2.3(b) for beams except it bases V,, on load combinations including the earth-
+quake effect E, with E increased by the overstrength factor
+Q, rather than the factor 2.0. In ASCE/SEI 7, Q, = 3.0 for intermediate moment frames. The higher factor for columns relative to beams is because of greater concerns about shear failures in columns. Transverse reinforcement at the ends of columns is required to be spirals or hoops. The amount of transverse reinforcement at the ends must satisfy both 18.4.3.1 and 18.4.3.2. Note that hoops require seismic hooks at both ends. The maximum spacing allowed for hoops is intended to inhibit or delay buckling of longitudinal reinforcement. Discontinuous structural walls and other stiff members
+can impose large axial forces on supporting columns during earthquakes. The required transverse reinforcement in 18.4.3.6 is to improve column toughness under anticipated
+demands. The factored axial compressive force related to earthquake effect should include the factor Q, if required by the general building code.
+
+[CODE] 18.4.3.2 Columns shall be spirally reinforced in accor-
+dance with Chapter 10 or shall be in accordance with 18.4.3.3 through 18.4.3.5. Provision 18.4.3.6 shall apply to all columns supporting discontinuous stiff members.
+[CODE] 18.4.3.3 At both ends of the column, hoops shall be provided at spacing s, over a length f, measured from the joint face. Spacing s, shall not exceed the least of (a) through (c):
+[CODE] (a) For Grade 60, the smaller of 8d, of the smallest longi- tudinal bar enclosed and 8 in. (b) For Grade 80, the smaller of 6d, of the smallest longi- tudinal bar enclosed and 6 in. (c) One-half of the smallest cross-sectional dimension of the column
+[CODE] Length £, shall not be less than the longest of (d), (e), and (f):
+[CODE] (d) One-sixth of the clear span of the column (e) Maximum cross-sectional dimension of the column (f) 18 in.
+[CODE] 18.4.3.4 The first hoop shall be located not more than s,/2 from the joint face.
+[CODE] 18.4.3.5 Outside of length f,, spacing of transverse rein-
+forcement shall be in accordance with 10.7.6.5.2.
+[CODE] 18.4.3.6 Columns supporting reactions from discontin-
+uous stiff members, such as walls, shall be provided with transverse reinforcement at the spacing s, in accordance with 18.4.3.3 over the full height beneath the level at which the discontinuity occurs if the portion of factored axial compres- sive force in these members related to earthquake effects exceeds A,f-'/10. If design forces have been magnified to account for the overstrength of the vertical elements of the seismic-force-resisting system, the limit of A,f.'/10 shall be increased to A,f,'/4. Transverse reinforcement shall extend
+above and below the column in accordance with 18.7.5.6(b).
+[CODE] 18.4.4 Joints
+
+[COMMENTARY] R18.4.4 Joints
+
+[CODE] 18.4.4.1 Beam-column joints shall satisfy the detailing require-
+ments of 15.3.1.2, 15.3.1.3, and 18.4.4.2 through 18.4.4.5.
+[CODE] 18.4.4.2 If a beam framing into the joint and generating joint shear has depth exceeding twice the column depth, aci*
+A
+
+[COMMENTARY] R18.4.4.2 For joints in which the beam depth is signifi- cantly greater than the column depth, a diagonal strut between
+
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

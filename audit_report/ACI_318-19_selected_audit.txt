@@ -1,0 +1,83 @@
+=================================================================
+  ACI_318-19_selected
+=================================================================
+  Páginas totales         : 196
+  Páginas CODE/COMMENTARY : 166
+  Páginas vacías          : 0
+  Tablas detectadas       : 23
+  Tablas con título real  : 9
+  Tablas título genérico  : 14
+
+  ⚠️  Calidad de títulos: 39%
+
+  ÍNDICE DE TABLAS:
+  -------------------------------------------------------
+
+  ⚠️  [1] Página  21 — Normative table
+       Contexto: This table specifies: chemical admixture type classification and performance req...
+
+  ⚠️  [2] Página  63 — Normative table
+       Contexto: This table specifies: normative requirements for construction materials.
+
+  ⚠️  [3] Página  67 — Normative table
+       Contexto: This table specifies: normative requirements for construction materials.
+
+  ⚠️  [4] Página 131 — Normative table
+       Contexto: This table specifies: particle size distribution limits by sieve size.
+
+  ✅ [5] Página 131 — Table 18.7.5.4 Item (e) 18.7.5.4 Item (e).
+       Contexto: This table specifies: particle size distribution limits by sieve size.
+
+  ⚠️  [6] Página 132 — Normative table
+       Contexto: This table specifies: particle size distribution limits by sieve size.
+
+  ⚠️  [7] Página 138 — Normative table
+       Contexto: This table specifies: compressive strength f'c requirements.
+
+  ⚠️  [8] Página 142 — Normative table
+       Contexto: This table specifies: exposure class requirements for concrete durability; freez...
+
+  ✅ [9] Página 144 — Table 19.3.1.1, concrete mixtures shall conform to the most rest
+       Contexto: This table specifies: maximum water-cementitious materials ratio w/cm limits; ex...
+
+  ⚠️  [10] Página 145 — Normative table
+       Contexto: This table specifies: maximum water-cementitious materials ratio w/cm limits; co...
+
+  ✅ [11] Página 146 — Table 19.3.1.1, even though it generally contains
+       Contexto: This table specifies: maximum water-cementitious materials ratio w/cm limits; ex...
+
+  ⚠️  [12] Página 147 — Normative table
+       Contexto: This table specifies: maximum water-cementitious materials ratio w/cm limits; ch...
+
+  ✅ [13] Página 149 — Table 19.3.2.1—Requirements for concrete by exposure class
+       Contexto: This table specifies: compressive strength f'c requirements; exposure class requ...
+
+  ✅ [14] Página 149 — Table 19.3.3.1 for concrete or Table 19.3.3.3 for shotcrete 26.4
+       Contexto: This table specifies: sulfate exposure classes.
+
+  ⚠️  [15] Página 149 — Normative table
+       Contexto: This table specifies: maximum water-cementitious materials ratio w/cm limits; co...
+
+  ⚠️  [16] Página 149 — Normative table
+       Contexto: This table specifies: sulfate exposure classes; chloride exposure classes and ch...
+
+  ✅ [17] Página 150 — Table 19.3.3.1.
+       Contexto: This table specifies: freezing and thawing exposure classes; air content require...
+
+  ✅ [18] Página 150 — Table 19.3.3.3.
+       Contexto: This table specifies: air content requirements; chemical admixture type classifi...
+
+  ✅ [19] Página 151 — Table 19.3.3.1 and 19.3.3.3 by 1.0 percentage point is permitted
+       Contexto: This table specifies: maximum water-cementitious materials ratio w/cm limits; co...
+
+  ✅ [20] Página 159 — Table 26.4.2.2(b). (8) For members assigned to Exposure Class $1
+       Contexto: This table specifies: sulfate exposure classes; chloride exposure classes and ch...
+
+  ⚠️  [21] Página 177 — Normative table
+       Contexto: This table specifies: normative requirements for construction materials.
+
+  ⚠️  [22] Página 180 — Normative table
+       Contexto: This table specifies: compressive strength f'c requirements.
+
+  ⚠️  [23] Página 184 — Normative table
+       Contexto: This table specifies: compressive strength f'c requirements.

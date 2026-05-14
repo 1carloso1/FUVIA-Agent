@@ -1,0 +1,45 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 191/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 9: CONSTRUCTION 553
+
+
+[COMMENTARY] R26.12.6.1(a) If the strength of field-cured cylinders does
+not conform to 26.5.3.2(e), steps need to be taken to improve the curing. If supplemental in-place tests confirm a possible deficiency in strength of concrete in the structure, core tests
+may be required to evaluate structural adequacy.
+
+[CODE] (a) If any strength test of standard-cured cylinders falls
+below f.’ by more than the limit allowed for acceptance, or if tests of field-cured cylinders indicate deficiencies in protection and curing, steps shall be taken to ensure that structural adequacy of the structure is not jeopardized.
+[CODE] (b) If the likelihood of low-strength concrete is confirmed
+and calculations indicate that structural adequacy is signif- icantly reduced, tests of cores drilled from the area in ques- tion in accordance with ASTM C42 shall be permitted. In such cases, three cores shall be taken for each strength test that falls below f,’ by more than the limit allowed for acceptance. (c) The licensed design professional or the building offi- cial shall be permitted to modify details of core tests as stated in ASTM C42.
+
+[COMMENTARY] R26.12.6.1(c) Some default requirements in ASTM C42 are permitted to be altered by the “specifier of the tests,” who is defined in ASTM C42 as “the individual responsible for analysis or review and acceptance of core test results.” For the purposes of ACI 318, the “specifier of the tests” is the
+[COMMENTARY] >) Construction
+[COMMENTARY] licensed design professional or the building official.
+[COMMENTARY] R26.12.6.1(d) The use of a water-cooled core barrel or a water-cooled saw for end trimming results in a core with a
+moisture gradient between the exterior surface and the inte- rior. This gradient lowers the apparent compressive strength
+of the core (Bartlett and MacGregor 1994). The requirement
+of at least 5 days between the time of last being wetted and
+time of testing provides time for the moisture gradient to
+be reduced. If a water-cooled saw is used for end trimming, the conditioning period begins when sawing is completed.
+The maximum time of 7 days between coring and testing is intended to ensure timely testing of cores if strength of concrete is in question. If end trimming with a water-cooled
+saw is necessary, it should be done within 2 days of drilling the core to meet the time limits established by the testing criterion. Research (Bartlett and MacGregor 1994) has also shown that other moisture conditioning procedures, such as soaking or air drying, affect measured core strengths and result in conditions that are not representative of the in-place concrete. Therefore, to provide reproducible moisture conditions that are representative of in-place conditions, a standard mois- ture conditioning procedure that permits dissipation of mois- ture gradients is prescribed for cores. ASTM C42 permits the specifier of the tests to modify the default duration of
+moisture conditioning before testing. The specifier of the tests, however, must be aware of the potential reduction in strength if cores are tested before moisture gradients are
+allowed to dissipate.
+
+[CODE] (d) Cores shall be obtained, moisture-conditioned by storage in watertight bags or containers, transported to the testing agency, and tested in accordance with ASTM
+C42. Cores shall be tested between 5 days after last being
+wetted and 7 days after coring unless otherwise approved
+by the licensed design professional or building official.
+
+[COMMENTARY] R26.12.6.1(e) An average core strength of 85 percent of the specified strength is realistic (Bloem 1968). It is not realistic, however, to expect the average core strength to
+be equal to f.', because of differences in the size of speci-
+mens, conditions of obtaining specimens, degree of consoli- dation, and curing conditions. The acceptance criteria for
+
+[CODE] (e) Concrete in an area represented by core tests shall be
+considered structurally adequate if (1) and (2) are satisfied: (1) The average of three cores is equal to at least 85 percent off.’. (2) No single core is less than 75 percent off.’.
+
+[COMMENTARY] aci=
+—
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

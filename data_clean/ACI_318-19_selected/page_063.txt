@@ -1,0 +1,43 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 63/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+
+[COMMENTARY] R10.6—Reinforcement limits R10.6.1 Minimum and maximum longitudinal reinforcement
+
+[CODE] 10.6—Reinforcement limits 10.6.1 Minimum and maximum longitudinal reinforcement
+
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: normative requirements for construction materials.]
+[COMMENTARY] R10.6.1.1 Limits are provided for both the minimum and
+maximum longitudinal reinforcement ratios. Minimum _reinforcement—Reinforcement is necessary to provide resistance to bending, which may exist regard- less of analytical results, and to reduce the effects of creep
+and shrinkage of the concrete under sustained compressive stresses. Creep and shrinkage tend to transfer load from the concrete to the reinforcement, and the resultant increase in
+reinforcement stress becomes greater as the reinforcement ratio decreases. Therefore, a minimum limit is placed on the
+reinforcement ratio to prevent reinforcement from yielding
+under sustained service loads (Richart 1933). Maximum reinforcement—The amount of longitudinal reinforcement is limited to ensure that concrete can be effectively consolidated around the bars and to ensure that
+columns designed according to the Code are similar to the test specimens by which the Code was calibrated. The 0.08 limit applies at all sections, including splice regions, and
+can also be considered a practical maximum for longitu- dinal reinforcement in terms of economy and requirements for placing. Longitudinal reinforcement in columns should usually not exceed 4 percent if the column bars are required to be lap spliced, as the lap splice zone will have twice as
+much reinforcement if all lap splices occur at the same location.
+
+[CODE] 10.6.1.1 For nonprestressed columns and for prestressed
+columns with average fj. < 225 psi, area of longitudinal reinforcement shall be at least 0.01A, but shall not exceed 0.08A,.
+
+[COMMENTARY] R10.6.2 Minimum shear reinforcement
+
+[CODE] 10.6.2 Minimum shear reinforcement
+
+[COMMENTARY] R10.6.2.1 The basis for the minimum shear reinforcement is the same for columns and beams. Refer to R9.6.3 for more information.
+
+[CODE] 10.6.2.1 A minimum area of shear reinforcement, A,min, shall be provided in all regions where V,, > 0.50V..
+[CODE] 10.6.2.2 If shear reinforcement is required, A, min shall be the greater of (a) and (b): (a) 0.75 [R=
+[CODE] (b) 5025
+
+[COMMENTARY] R10.7—Reinforcement detailing
+
+[CODE] 10.7—Reinforcement detailing 10.7.1 General
+[CODE] 10.7.1.1 Concrete cover for reinforcement shall be in accordance with 20.5.1.
+[CODE] 10.7.1.2 Development lengths of deformed and prestressed reinforcement shall be in accordance with 25.4.
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

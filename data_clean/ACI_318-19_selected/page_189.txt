@@ -1,0 +1,39 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 189/196]
+[LAYOUT: continuous]
+============================================================
+PART 9: CONSTRUCTION 551
+CODE COMMENTARY
+(d) Other changes in mixture proportions; (e) Reduction in delivery time; (f) Closer control of air content; (g) Improvement in the quality of the testing, including strict compliance with ASTM C172, ASTM C31, and
+ASTM C39.
+Such changes in operating procedures or small changes in cementitious materials content or water content should
+not require a formal resubmission of mixture proportions;
+however, changes in sources of cement, aggregates, or
+admixtures should be accompanied by evidence submitted to the licensed design professional that the concrete strength will be improved.
+
+(c) Requirements of 26.12.6 for investigating strength
+
+tests shall apply if the requirements of 26.12.3.1(a)(2) are
+not met.
+<
+=
+26.12.4 Acceptance criteria for shotcrete R26.12.4 Acceptance criteria for shotcrete 3 pan
+26.12.4.1 Compliance requirements: z —)
+(a) Specimens for acceptance tests shall be in accordance R26.12.4.1(a) Cores taken from shotcrete test panels, v
+with (1) and (2): made in accordance with ASTM C1140, typically have € (1) Test panels shall be prepared in the same orientation length-to-diameter ratios less than 1.75. Therefore the core J
+and by the same nozzle operator placing shotcrete. strengths used for comparison with the acceptance criteria (2) Cores shall be obtained, conditioned, and tested in are the values after correction for the length to diameter ratio
+accordance with ASTM C1604. in accordance with ASTM C1604.
+
+(b) Strength of a shotcrete mixture shall be acceptable if (1) and (2) are satisfied: (1) Every arithmetic average of the strengths from three consecutive test panels equals or exceeds f,'. (2) The average compressive strength of three cores
+from a single test panel is not less than 0.85/,’ with no core having a strength less than 0.75/,’. (c) If either of the requirements of 26.12.4.1(b) are not satisfied, steps shall be taken to increase the average of
+subsequent strength results. (d) Requirements for investigating low strength-test results shall apply if the requirements of 26.12.6.1(b)(2) are not met.
+
+26.12.5 Acceptance criteria for density of lightweight R26.12.5 Acceptance criteria for density of lightweight
+concrete concrete
+
+26.12.5.1 Compliance requirements:
+(a) Frequency of sampling for determining fresh density shall be according to 26.12.2. (b) Sampling of lightweight concrete for determining fresh density shall be at the point of delivery in accordance with
+ASTM C172. (c) Fresh density of lightweight concrete shall be deter-
+mined in accordance with ASTM C138.
+
+American Concrete Institute - Copyrighted © Material — www.concrete.org aci }

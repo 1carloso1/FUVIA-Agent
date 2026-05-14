@@ -1,0 +1,29 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 25/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 1: GENERAL 39
+
+
+[COMMENTARY] minimum net bearing area of the head of a headed deformed
+[COMMENTARY] Term.
+[COMMENTARY] bar is permitted to be as small as four times the bar area. In contrast, the minimum stud head area is not specified in terms of the bearing area, but by the total head area which
+must be at least 10 times the area of the shank.
+[COMMENTARY] 3 a Not.
+
+[CODE] headed bolt—cast-in steel anchor that develops its tensile strength from the mechanical interlock provided by either a
+head or nut at the embedded end of the anchor. headed stud—a steel anchor conforming to the require-
+ments of AWS D1.1 and affixed to a plate or similar steel attachment by the stud arc welding process before casting; also referred to as a welded headed stud. headed shear stud reinforcement—reinforcement consisting of individual headed studs or groups of studs, with anchorage provided by a head at each end, or by a head at one end and a common base rail consisting of a steel plate or shape at the other end. hooked bolt—cast-in anchor anchored mainly by bearing of the 90-degree bend (L-bolt) or 180-degree bend (J-bolt) against the concrete, at its embedded end, and having a
+minimum e; equal to 3d,. hoop—closed tie or continuously wound tie, made up of
+one or several reinforcement elements, each having seismic
+hooks at both ends. A closed tie shall not be made up of interlocking headed deformed bars. See 25.7.4. inspection—observation, verification, and required docu- mentation of the materials, installation, fabrication, erection, or placement of components and connections to determine compli- ance with construction documents and referenced standards. inspection, continuous—the full-time observation, veri- fication, and required documentation of work in the area
+where the work is being performed. inspection, periodic—the part-time or intermittent obser- vation, verification, and required documentation of work in the area where the work is being performed. isolation joint—separation between adjoining parts of a concrete structure, usually a vertical plane at a designed location such as to interfere least with performance of the structure, yet such as to allow relative movement in three directions and avoid formation of cracks elsewhere in the concrete, and through which all or part of the bonded rein-
+forcement is interrupted. jacking force—in prestressed concrete, temporary force exerted by a device that introduces tension into prestressing reinforcement. joint—portion of structure common to intersecting members.
+
+[COMMENTARY] joint—The effective cross-sectional area of a joint of a special moment frame, A;, for shear strength calculations 1s
+given in 15.4.2.4. licensed design professional—May also be referred to as “registered design professional” in other documents; a licensed design professional in responsible charge of the design work is often referred to as the “engineer of record” (EOR).
+
+[CODE] licensed design professional—an individual who is licensed to practice structural design as defined by the statu- tory requirements of the professional licensing laws of the state or jurisdiction in which the project is to be constructed,
+and who is in responsible charge for all or part of the struc- tural design.
+
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

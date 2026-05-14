@@ -1,0 +1,50 @@
+[DOCUMENT: ACI_211.1-22]
+[PAGE: 25/26]
+[LAYOUT: continuous]
+============================================================
+26 SELECTING PROPORTIONS FOR NORMAL-DENSITY AND HIGH-DENSITY CONCRETE—GUIDE (ACI PRC-211.1-22)
+
+Table 9.3.8—Constituent weights Mixture constituents Ib/yd* lb/ft?
+
+[TABLE: Table 9.3.8—Constituent weights Mixture constituents Ib/yd* l]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; compressive strength f'c requirements; aggregate physical property limits.]
+the strength of a concrete mixture is by using the cementi- tious efficiency factor. It can be used to either increase or decrease the strength of a mixture by several hundred psi.
+Because strength is affected by w/cm, when the cementitious efficiency factor is used to adjust the strength of a mixture, it is important to ensure the w/cm is not kept the same to see an impact on the strength. This can be achieved by keeping the water content the same while adjusting the cementitious material content. 9.4.1 Step 1: Calculate cementitious efficiency factor—
+The use of this factor for strength adjustment will be
+demonstrated starting with the following mixture propor- tions for a cubic yard targeting 4500 psi that, when trial batched, only reached 4200 psi. In this mixture, a coarse aggregate with nominal maximum size of | in. with suitable gradation, saturated surface-dry (SSD) specific gravity of 2.73 and absorption (A%) of 0.7% was used. The fine aggre- gate having an SSD specific gravity of 2.64 and an absorp- tion (A%) of 0.6% will be used. Weight, per yd?
+Cement: 564 Ib Fine aggregate: 1550 Ib
+Coarse aggregate: 1600 Ib Water: 300 Ib Total weight: 4014 Ib
+Density: 148.7 lb/ft’
+The w/cm was calculated to be 300 Ib/564 Ib = 0.53.
+The cementitious material efficiency factor was calculated as 4200 psi/564 Ib = 7.45 psi/Ib. 9.4.2 Step 2: Adjust mixture constituents based on the desired strength gain—The slump was found to be satisfac- tory. However, because 300 psi of strength gain is needed, the w/cem was reduced by increasing the cementitious mate- rial content while keeping the water content the same. (1) The cementitious material efficiency factor is 7.45 psi/Ib. (2) The strength gain needed is 4500 psi — 4200 psi =
+300 psi. (3) The additional cementitious weight needed to be added is determined by dividing the strength increase needed by the cementitious efficiency factor: 300 psi/7.45 psi/Ib = 40 Ib. (4) The new cementitious weight is 564 lb + 40 lb = 604 Ib. (5) The water content is kept constant as 300 Ib. There- fore, the new w/cm is 300 1b/604 Ib = 0.50. (6) Because the w/cm is reduced from 0.53 to 0.50, a WRA within the manufacturer’s recommended dose is used to maintain the target slump. (7) The yield is kept constant by removing a volume of fine aggregate equal to the volume of the additional cementi- tious material. (8) The volume of additional cementitious material is
+40 1b/(3.15 x 62.4 lb/ft*) = 0.20 ft. (9) The volume of fine aggregate is reduced by 0.20 ft’.
+The corresponding fine aggregate weight is calculated as
+0.20 ft? x (2.64 x 62.4 lb/ft?) = 33 Ib. Hence, the fine aggre- gate weight is reduced by 33 Ib. (10) The new fine aggregate weight is 1550 Ib — 33 Ib =
+1517 Ib.
+
+Mixing water 201 7.44 Cement 491 18.19 Fly ash 123 4.56 Coarse aggregate (SSD) 1955 72.41 Fine aggregate (SSD) 1146 42.44 Total weight 3916 145.04 Fresh density — — Air-free density — —
+(just computed) and the SSD weight from Step 6. For coarse aggregate, free water is determined as
+1955 Ib/yd? — 1951 Ib/yd? = 4 Ib/y@?
+and for fine aggregate, free water is
+1146 Ib/yd? — 1124 Ib/yd? = 22 Ib/yd?
+The total free water is the sum of the two amounts
+4 Ib/yd? + 22 Ib/yd3 = 26 Ib/yd?
+Therefore, the water required for batching is
+227 Ib/yd? — 26 Ib/yd? = 201 Ib/yd?
+With aggregates adjusted to their current moisture condi- tion, the constituent weights are shown in Table 9.3.8. Note that after the moisture adjustments, the sum of the
+weights of the constituents per cubic yard (yd*) and per
+cubic foot (ft?) do not change from the original proportions. 9.3.9 Step 9: Post-trial batch—The trial batch produced the following results: The slump was measured to be 5.5 in. Therefore, no adjustment on the WRA dose is needed. However, the fresh
+density was measured to be 146.0 lb/ft*, and the yield was 146.0 Ib/ft® x 27.00 ft?/145.0 lb/ft? = 27.19 ft. Knowing the air-free density to be 153.4 lb/ft’, the gravimetric air content
+was computed as follows
+(153.4 —146.0)
+Air% = x 100 = 4.8%
+153.4
+The air content was 0.7% lower than the target air content of 5.5%, and the mixture over-yielded slightly. The results are generally good. A slight increase in AEA dosage will slightly increase the air content into the acceptable range
+and increase the slump slightly as well. Consider doing the next trial batch of a couple yards in a mixer of the type (for example, central-mixed, truck-mixed) to be used on the project.
+9.4—Example 3: Mixture proportioning using
+cementitious efficiency factor The cementitious efficiency factor is the compressive strength achieved divided by the amount of cementitious material used (psi/Ib). This factor is often used to compare the
+performance of different mixtures. A rational way to adjust
+Copyright Am dCi je Institute
+American Concrete Institute — Copyrighted © Material — www.concrete.org
+@seismicisolation

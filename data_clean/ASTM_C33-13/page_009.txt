@@ -1,0 +1,44 @@
+[DOCUMENT: ASTM_C33-13]
+[PAGE: 9/11]
+[LAYOUT: continuous]
+============================================================
+All c33/C33M - 13
+
+composition in which the carbonate portion consists of sub- stantial amounts of both dolomite and calcite, and the acid- insoluble residue contains a significant amount of clay. Certain purely dolomitic rocks also may produce slow expansion in concrete.
+
+mance Specification C1157 with Option R. These procedures are similar to the provisions of Test Method C441 discussed as follows for mineral admixtures and ground slag. X1.3.3 Test Method C342 (Mortar Bars Subjected to
+Changes in Moisture and Temperature)—This withdrawn test
+method was intended for research concerning the potential expansion of cement-aggregate combinations involving se- lected aggregates found in parts of Oklahoma, Kansas, Nebraska, and Iowa. Due to the specimen conditioning procedures, the expansion of mortar bars in this test method
+may not be related to alkali-silica reaction under normal- temperature conditioning. Data on the use of this test method are given in the references cited in a footnote in the test method. It is indicated that cement-aggregate combinations tested by this procedure in which expansion equals or exceeds 0.20 % at an age of 1 year may be considered unsatisfactory for use in concrete exposed to wide variations of temperature and degree of saturation with water. This test method is not
+recommended for use in regions other than previously cited. X1.3.4 Test Method C1260 (Mortar-Bar Method for Poten- tial Alkali Reactivity of Aggregate)—This test method is an accelerated screening technique developed for the detection of materials that develop deleterious expansions slowly over a long period of time. Some aggregates that perform well in the field have been shown to fail this test (6, 7). Results of this test
+method should not be used for rejection of aggregates unless it has been established using the sources of supplementary information cited in the test method that the detected expansion is actually due to alkali-silica reaction. There is good agree-
+ment in the published literature cited in the test method for the expansion limits: (/) expansions of less than 0.10 % at 16 days after casting are indicative of innocuous behavior in most cases; (2) expansions of more than 0.20 % at 16 days are indicative of potentially deleterious expansion; and (3) expan- sions between 0.10 and 0.20% at 16 days include both aggregates that are known to be innocuous and deleterious in field performance. If test results indicate expansion greater than 0.10 % at 16 days, the aggregate should be tested in accordance with Test Method C1293 unless appropriate field experience demonstrates that it does not cause deleterious
+expansion in concrete. (See X1.3.6.) X1.3.5 Test Method C1293 (Concrete Prism Method for Alkali-Silica Reactivity )—The test method evaluates the aggre- gates independently, or combinations of aggregate with cemen- titious materials composted of hydraulic cement and pozzolan or ground granulated blast-furnace slag for potential alkali- silica reaction expansion using concrete prisms. The test
+method is accelerated by using an elevated alkali content and Test Method C227 exposure conditions. The appendix to Test
+Method C1293 provides guidance on interpretation of the results. When evaluating aggregates independently, those with expansions equal to or greater than 0.04 % at one year are considered potentially deleteriously reactive. When evaluating combinations of hydraulic cement and pozzolan or ground granulated blast-furnace slag, the test is extended to two years
+
+X1.3 Alkali-Silica Reaction X1.3.1 Test Method C289 (Chemical Method)—The results
+of the test are values for the quantities of dissolved silica (S,)
+and reduction in alkalinity (R,) for each of the three test portions from the prepared aggregate test sample. Aggregates represented by plotted points (S., R,), which lie on the deleterious side of the solid curve of Fig. X1.1 of Test Method
+C289 usually should be considered potentially reactive. Three
+regions are delineated in the figure: (/) aggregates considered
+innocuous; (2) aggregates considered potentially deleterious;
+and (3) aggregates considered deleterious. Aggregates repre- sented by points lying in the potentially deleterious region
+above the dashed line in Fig. X1.1 of Test Method C289 may give relatively low expansions in mortar or concrete even
+though they are extremely reactive with alkalies. The test can
+be made quickly and can provide helpful information, except for slowly reactive rocks such as some granitic gneiss and quartzite. Also, as pointed out in the appendix to Test Method
+C289, the results may not be correct for aggregates containing
+carbonates or magnesium silicates, such as antigorite (serpentine), or constituents producing late-slow reactivity. See the appendix to Test Method C289 for a discussion of the interpretation of results and applicable references. If test results indicate deleterious or potentially deleterious character, the aggregates should be tested in accordance with Test Methods
+C227 or C1293 to verify the potential for expansion in concrete. X1.3.2 Test Method C227 (Mortar-Bar Method for Cement-
+Aggregate Combinations)—The results of this test method, when a high-alkali cement is used, furnish information on the likelihood of potentially deleterious expansion occurring. The alkali content of the portland cement should be at least 0.8 %,
+expressed as percent sodium oxide equivalent (%Na,O + 0.658
+x %K,O). Combinations of aggregate and cementitious mate- rials that have produced excessive expansions in this test
+method should be considered potentially reactive. While the line of demarcation between innocuous and potentially delete- rious combinations is not clearly defined, expansion is gener- ally considered to be excessive if it exceeds 0.05 % at 3 months or 0.10 % at 6 months. Expansions greater than 0.05 % at 3
+months should not be considered excessive when the 6-month
+expansion remains below 0.10 %. Data for the 3-month tests
+should be considered only when 6-month results are not available. The limits may not be conservative for slowly reactive aggregates. Test Method C227 is not suitable for slowly reactive aggregates, and its use for this purpose is not
+advised (3, 4). Aggregates suspected of being slowly reactive
+should be evaluated using Test Method C1260 or Test Method
+C1293. Test Method C227 is also used with a specific reactive glass aggregate to verify the mitigation effectiveness of
+blended cements meeting Specification C595, with the Table 2 optional mortar expansion requirement, and meeting Perfor-
+Copyright by ASTM Int'l (all rights reserved);

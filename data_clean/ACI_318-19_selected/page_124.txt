@@ -1,0 +1,51 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 124/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] 340 ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+
+[COMMENTARY] designed for f, of 60,000 psi even if Grade 80 reinforcement is specified.
+
+[CODE] (a) Length between the end of a collector and location at
+which transfer of load to a vertical element begins (b) Length between two vertical elements
+
+[COMMENTARY] R18.12.7.6 In documents such as the NEHRP Provi- sions (FEMA P750), ASCE/SEI 7, the 2018 IBC, and the
+Uniform Building Code (ICBO 1997), collector elements of diaphragms are designed for forces amplified by a factor
+Q, to account for the overstrength in the vertical elements
+of the seismic-force-resisting systems. The amplification factor Q, ranges between 2 and 3 for most concrete struc- tures, depending on the document selected and on the type
+of seismic-force-resisting system. In some documents, the factor can be calculated based on the maximum forces that
+can be developed by the elements of the vertical seismic- force-resisting system. Compressive stress calculated for the factored forces on a linearly elastic model based on gross section of the structural
+diaphragm is used as an index value to determine whether confining reinforcement is required. A calculated compres- sive stress of 0.2f.', or 0.5f,' for forces amplified by Q,, is assumed to indicate that integrity of the entire structure
+depends on the ability of that member to resist substan- tial compressive force under severe cyclic loading. Trans- verse reinforcement is required at such locations to provide
+confinement for the concrete and the reinforcement.
+
+[CODE] 18.12.7.6 Collector elements with compressive stresses exceeding 0.2f,' at any section shall have transverse rein-
+forcement satisfying 18.7.5.2(a) through (e) and 18.7.5.3, except the spacing limit of 18.7.5.3(a) shall be one-third of the least dimension of the collector. The amount of transverse reinforcement shall be in accordance with Table 18.12.7.6.
+The specified transverse reinforcement is permitted to be discontinued at a section where the calculated compressive stress is less than 0.15f,'. If design forces have been amplified to account for the overstrength of the vertical elements of the seismic-force- resisting system, the limit of 0.2f,' shall be increased to 0.5f.', and the limit of 0.15f,’ shall be increased to 0.4f,'.
+[CODE] Table 18.12.76—Transverse reinforcement for
+collector elements Transverse
+reinforcement Applicable expressions A,,/sb, for rectilinear 0.09 A (a) hoop fyt
+[CODE] A ,
+os -1}é (b)
+[CODE] p, for spiral or Greater ” ” circular hoop of: ,
+[CODE] 0.12 Se (c) yt
+
+[COMMENTARY] R18.12.7.7 This section is intended to reduce the possi- bility of bar buckling and provide adequate bar development conditions in the vicinity of splices and anchorage zones.
+
+[CODE] 18.12.7.7 Longitudinal reinforcement detailing for collector elements at splices and anchorage zones shall satisfy (a) or (b):
+[CODE] (a) Center-to-center spacing of at least three longitudinal bar diameters, but not less than 1-1/2 in., and concrete clear cover of at least two and one-half longitudinal bar diameters, but not less than 2 in. (b) Area of transverse reinforcement, providing A, at least
+the greater of 0.75, f/ (b,s/f,,) and 50b,s/fy, except as required in 18.12.7.6
+
+[COMMENTARY] R18.12.8 Flexural strength
+
+[CODE] 18.12.8 Flexural strength
+
+[COMMENTARY] R18.12.8.1 Flexural strength for diaphragms is calculated using the same assumptions as for walls, columns, or beams.
+The design of diaphragms for flexure and other actions uses the applicable load combinations of 5.3.1 to consider earth-
+quake forces acting concurrently with gravity or other loads. The influence of slab openings on flexural and shear strength is to be considered, including evaluating the potential critical sections created by the openings. The strut-and-tie method is potentially useful for designing diaphragms with openings.
+
+[CODE] 18.12.8.1 Diaphragms and portions of diaphragms shall
+be designed for flexure in accordance with Chapter 12. The effects of openings shall be considered.
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

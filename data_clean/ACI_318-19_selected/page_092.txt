@@ -1,0 +1,32 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 92/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] 308 ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] (d) Where rectilinear hoops or crossties are used, they shall provide lateral support to longitudinal reinforcement in accordance with 25.7.2.2 and 25.7.2.3. (e) Reinforcement shall be arranged such that the spacing h,, of longitudinal bars laterally supported by the corner of a crosstie or hoop leg shall not exceed 14 in. around the perimeter of the column. (f) Where P, > 0.3A,f.' or f,’ > 10,000 psi in columns with rectilinear hoops, every longitudinal bar or bundle of bars around the perimeter of the column core shall have lateral support provided by the corner of a hoop or by a seismic hook, and the value of h,, shall not exceed 8 in. P, shall be the largest value in compression consistent with factored load combinations including E.
+
+[COMMENTARY] longitudinal bars is important to achieving intended perfor-
+mance. Where these conditions apply, crossties with seismic
+hooks at both ends are required. The 8 in. limit on h, is also intended to improve performance under these critical condi- tions. For bundled bars, bends or hooks of hoops and cross- ties need to enclose the bundle, and longer extensions on
+hooks should be considered. Column axial load P,, should reflect factored compressive demands from both earthquake
+and gravity loads. In past editions of the Code, the requirements for transverse reinforcement in columns, walls, beam-column joints, and diagonally reinforced coupling beams referred to the same equations. In the 2014 edition of the Code, the equations and detailing requirements differ among the member types based
+on consideration of their loadings, deformations, and perfor-
+mance requirements. Additionally, h, previously referred to the distance between legs of hoops or crossties. In the 2014 edition of the Code, h, refers to the distance between longi- tudinal bars supported by those hoops or crossties.
+[COMMENTARY] Consecutive crossties engaging the same longitudinal bar have their 90-degree hooks
+on opposite sides of column
+[COMMENTARY] 6d, extension
+[COMMENTARY] [Ashe
+[COMMENTARY] \
+[COMMENTARY] Bet
+[COMMENTARY] The dimension x; from centerline to centerline of laterally supported longitudinal bars is not to exceed 14 inches. The term h, used in Eq. (18.7.5.3) is taken as the largest value of x;. Fig. R18.7.5.2—Example of transverse reinforcement in columns.
+
+[CODE] 18.7.5.3 Spacing of transverse reinforcement shall not exceed the least of (a) through (d):
+
+[COMMENTARY] R18.7.5.3 The requirement that spacing not exceed one- fourth of the minimum member dimension or 6 in. is for concrete confinement. If the maximum spacing of crossties or legs of overlapping hoops within the section is less than 14 in., then the 4 in. limit can be increased as permitted by Eq. (18.7.5.3). The spacing limit as a function of the longi- tudinal bar diameter is intended to provide adequate longitu- dinal bar restraint to control buckling after spalling.
+
+[CODE] (a) One-fourth of the minimum column dimension (b) For Grade 60, 6d, of the smallest longitudinal bar (c) For Grade 80, 5d; of the smallest longitudinal bar (d) s,, as calculated by:
+[CODE] aci®
+_
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

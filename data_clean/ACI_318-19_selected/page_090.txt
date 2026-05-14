@@ -1,0 +1,44 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 90/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] 306 ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] P,, under load combinations including earthquake effect, E, are less than A, f,'/10.
+
+[COMMENTARY] action. In the worst case of weak columns, flexural yielding
+can occur at both ends of all columns in a given story, resulting in a column failure mechanism that can lead to collapse. Connections with discontinuous columns above the connection, such as roof-level connections, are exempted if the column axial load is low, because special moment frame
+columns with low axial stress are inherently ductile and
+column yielding at such levels is unlikely to create a column failure mechanism that can lead to collapse. In 18.7.3.2, the nominal strengths of the beams and
+columns are calculated at the joint faces, and those strengths are compared directly using Eq. (18.7.3.2). The 1995 and earlier Codes required design strengths to be compared at the center of the joint, which typically produced similar results but with added calculation effort. In determining the nominal moment strength of a beam section in negative bending (top in tension), longitudinal
+reinforcement contained within an effective flange width of a top slab that acts monolithically with the beam increases the
+beam strength. French and Moehle (1991), on beam-column subassemblies under lateral loading, indicates that using the effective flange widths defined in 6.3.2 gives reasonable estimates of beam negative moment strengths of interior connections at story displacements approaching 2 percent of story height. This effective width is conservative where the slab terminates in a weak spandrel. If 18.7.3.2 cannot be satisfied at a joint, 18.7.3.3 requires that any positive contribution of the column or columns
+involved to the lateral strength and stiffness of the structure is to be ignored. Negative contributions of the column or
+columns should not be ignored. For example, ignoring the stiffness of the columns ought not to be used as a justifica- tion for reducing the design base shear. If inclusion of those
+columns in the analytical model of the building results in an increase in torsional effects, the increase should be consid- ered as required by the general building code. Furthermore, the column must be provided with transverse reinforcement to increase its resistance to shear and axial forces.
+
+[CODE] 18.7.3.2 The flexural strengths of the columns shall satisfy
+[CODE] Mic = (6/5) Mw (18.7.3.2)
+[CODE] where >YMic is sum of nominal flexural strengths of columns
+framing into the joint, evaluated at the faces of the joint.
+Column flexural strength shall be calculated for the factored axial force, consistent with the direction of the lateral forces considered, resulting in the lowest flexural strength.
+>M,,» 1s sum of nominal flexural strengths of the beams framing into the joint, evaluated at the faces of the joint. In T-beam construction, where the slab is in tension under
+moments at the face of the joint, slab reinforcement within
+an effective slab width defined in accordance with 6.3.2 shall
+be assumed to contribute to M,,, if the slab reinforcement is
+developed at the critical section for flexure. Flexural strengths shall be summed such that the column
+moments oppose the beam moments. Equation (18.7.3.2) shall be satisfied for beam moments acting in both directions in the vertical plane of the frame considered.
+[CODE] 18.7.3.3 If 18.7.3.2 is not satisfied at a joint, the lateral strength and stiffness of the columns framing into that joint shall be ignored when calculating strength and stiffness of the structure. These columns shall conform to 18.14.
+[CODE] 18.7.4 Longitudinal reinforcement
+
+[COMMENTARY] R18.7.4 Longitudinal reinforcement
+
+[CODE] 18.7.4.1 Area of longitudinal reinforcement, A,,, shall be at least 0.01A, and shall not exceed 0.06A,.
+
+[COMMENTARY] The lower limit of the area of longitudinal reinforcement is to control time-dependent deformations and to have the yield moment exceed the cracking moment. The upper limit of the area reflects concern for reinforcement congestion, load transfer from floor elements to column (especially in low-rise construction) and the development of high shear stresses. Spalling of the shell concrete, which is likely to occur near the ends of the column in frames of typical configura- tion, makes lap splices in these locations vulnerable. If lap splices are to be used at all, they should be located near the
+midheight where stress reversal is likely to be limited to a smaller stress range than at locations near the joints. Trans- verse reinforcement is required along the lap-splice length
+
+[CODE] 18.7.4.2 In columns with circular hoops, there shall be at least six longitudinal bars.
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org
+[CODE] \

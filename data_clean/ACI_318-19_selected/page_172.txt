@@ -1,0 +1,37 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 172/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] (f) For shotcrete, location of construction joints for which square joints are permitted.
+[CODE] 26.5.6.2 Compliance requirements:
+[CODE] (a) Joint locations or joint details not shown or that differ
+from those indicated in construction documents shall be submitted for review by the licensed design professional.
+
+[COMMENTARY] R26.5.6.2(a) If the licensed design professional does not designate specific joint locations, the contractor should submit joint locations for construction to the licensed design professional for review to determine that the proposed loca- tions do not impact the performance of the structure.
+
+[CODE] (b) Except for prestressed concrete, construction joints in floor and roof systems shall be located within the middle third of spans of slabs, beams, and girders unless other-
+wise approved by the licensed design professional.
+
+[COMMENTARY] R26.5.6.2(b) Tendons of continuous post-tensioned slabs and beams are usually stressed at a point along the span where the tendon profile is at or near the centroid of the concrete cross section. Therefore, interior construction joints are usually located within the end thirds of the span rather than the middle third of the span. Construction joints located within the end thirds of continuous post-tensioned slab and beam spans have a long history of satisfactory performance; therefore, 26.5.6.2(b) is not applicable to prestressed concrete.
+
+[CODE] (c) Construction joints in girders shall be offset a distance
+of at least two times the width of intersecting beams,
+measured from the face of the intersecting beam, unless otherwise approved by the licensed design professional. (d) Construction joints shall be cleaned and laitance
+removed before new concrete is placed. (e) Surface of concrete construction joints shall be inten- tionally roughened if specified. (f) Immediately before new concrete is placed, construc- tion joints shall be prewetted and standing water removed. (g) For shotcrete, construction joint surfaces shall be cut at a 45-degree angle to the finished surface, unless a square joint is designated in the construction documents. (h) For shotcrete, construction joints proposed at loca- tions not shown on the construction documents shall be submitted to the licensed design professional for approval prior to shotcrete placement.
+[CODE] 26.5.7 Construction of concrete members
+
+[COMMENTARY] R26.5.7 Construction of concrete members
+
+[CODE] 26.5.7.1 Design information:
+[CODE] (a) Details required to accommodate dimensional
+changes resulting from prestressing, creep, shrinkage, and temperature. (b) Identify if a slab-on-ground is designed as a structural
+diaphragm or part of the seismic-force-resisting system.
+
+[COMMENTARY] R26.5.7.1(b) A slab-on-ground may be designed to act as a structural diaphragm or to provide required ties between foundations. The construction documents should clearly identify any slab on ground that is a structural diaphragm,
+and state that saw cutting or joints are prohibited unless
+approved by the licensed design professional. Joints can affect the integrity of the slab and its ability to act as a struc- tural diaphragm, unless structural repairs are made. Refer also to 26.5.7.2(d).
+
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

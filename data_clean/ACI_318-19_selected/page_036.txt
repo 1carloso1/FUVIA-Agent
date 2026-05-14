@@ -1,0 +1,51 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 36/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+
+[COMMENTARY] Shear keys provide a means of transferring shear but will not
+be engaged until slippage occurs.
+[COMMENTARY] R9.3.3 Reinforcement strain limit in nonprestressed beams
+
+[CODE] 9.3.3 Reinforcement strain limit in nonprestressed beams
+
+[COMMENTARY] R9.3.3.1 The effect of this limitation is to restrict the reinforcement ratio in nonprestressed beams to mitigate brittle flexural behavior in case of an overload. This limita- tion does not apply to prestressed beams. Before the 2019
+Code, a minimum strain limit of 0.004 was specified for nonprestressed flexural members. Beginning with the 2019
+Code, this limit is revised to require that the section be tension-controlled.
+
+[CODE] 9.3.3.1 Nonprestressed beams with P, < 0.10f,'A, shall be tension controlled in accordance with Table 21.2.2.
+[CODE] 9.3.4 Stress limits in prestressed beams
+[CODE] 9.3.4.1 Prestressed beams shall be classified as Class U, T, or C in accordance with 24.5.2.
+[CODE] 9.3.4.2 Stresses in prestressed beams immediately after transfer and at service loads shall not exceed permissible stresses in 24.5.3 and 24.5.4.
+
+[COMMENTARY] R9.4—Required strength
+
+[CODE] 9.4—Required strength 9.4.1 General
+[CODE] 9.4.1.1 Required strength shall be calculated in accor-
+dance with the factored load combinations in Chapter 5.
+[CODE] 9.4.1.2 Required strength shall be calculated in accor-
+dance with the analysis procedures in Chapter 6.
+[CODE] 9.4.1.3 For prestressed beams, effects of reactions induced
+by prestressing shall be considered in accordance with 5.3.11.
+[CODE] 9.4.2 Factored moment
+[CODE] 9.4.2.1 For beams built integrally with supports, M, at the support shall be permitted to be calculated at the face of support.
+
+[COMMENTARY] R9.4.3 Factored shear
+
+[CODE] 9.4.3 Factored shear
+[CODE] 9.4.3.1 For beams built integrally with supports, V,, at the support shall be permitted to be calculated at the face of support.
+
+[COMMENTARY] R9.4.3.2 The closest inclined crack to the support of the
+beam in Fig. R9.4.3.2a will extend upward from the face of the support reaching the compression zone approximately d
+from the face of the support. If loads are applied to the top of the beam, the stirrups across this crack need only resist the shear force due to loads acting beyond d (right free body in Fig. R9.4.3.2a). The loads applied to the beam between the face of the support and the point d away from the face
+
+[CODE] 9.4.3.2 Sections between the face of support and a critical section located d from the face of support for nonprestressed
+beams and h/2 from the face of support for prestressed
+beams shall be permitted to be designed for V, at that critical section if (a) through (c) are satisfied:
+[CODE] (a) Support reaction, in direction of applied shear, intro-
+duces compression into the end region of the beam
+acly
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

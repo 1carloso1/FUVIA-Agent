@@ -1,0 +1,43 @@
+[DOCUMENT: ACI_211.4R-08]
+[PAGE: 14/23]
+[LAYOUT: continuous]
+============================================================
+SELECTING PROPORTIONS FOR HIGH-STRENGTH CONCRETE
+211.4R-15
+
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; chemical admixture type classification and performance requirements.]
+850 Ib/yd? of cementitious materials plus 5 to 15% silica
+fume by mass of cement with a w/cm as low as 0.20. 7.1.1.1 Chemical admixtures—Silica fume increases water demand and, without HRWRA, silica fume concrete mixtures can be difficult to mix, place, pump, and finish.
+ACI 211.1 and 363R recommend the use of chemical admix- tures when using silica-fume concrete. Water-reducing and set-controlling admixtures should meet the requirements of
+ASTM C494/C494M. When using silica fume in concrete mixtures, it is expected that more admixture is required for a desired slump than
+would otherwise be required in a conventional concrete mixture. The addition of the WRA or HRWRA should be
+made at the ready mixed concrete plant to batch the concrete at approximately 1 to 2 in. slump higher than required on the
+job site. This will allow the silica fume concrete to be thoroughly mixed on the way to the job site. Slump adjustment
+on site should be made using only HRWRA, provided that all
+mixing water allowed in the concrete mixture has been added during concrete batching. The dosage of air-entraining admixture needed to produce a required volume of air in concrete usually increases with increasing amounts of silica fume due to the very high surface area of silica fume (Carette and Malhotra 1983b).
+The amount of air-entraining agent needs to be verified through trial batches. Silica fume used in high-strength concrete mixtures may contain corrosion-inhibiting admixtures for protection of reinforcing steel. An example of such application is concrete
+columns in parking garages. Some corrosion-inhibiting admixtures are added to silica fume concrete in dosages up
+to 6 gal./yd?. It is important that the amount of water contrib- uted by these admixtures to the silica-fume concrete should be accounted for during the proportioning process, and should be subtracted from batch water. 7.1.1.2 Water demand—The water demand of concrete containing silica fume increases with increasing amounts of silica fume (Scali and Burke 1987; Carette and Malhotra 1983a,b). This increase is due primarily to the high surface area of the silica fume. Therefore, the amounts of mixing water recommended of Table 6.6.3 in ACI 211.1 are not applicable for silica fume concrete mixtures. The increase in water demand may be equal to the mass of the silica fume
+added (Transportation Research Board 1990). HRWRAs are
+commonly used to help achieve the desired w/cm and workability of silica fume concrete. The dosage of the
+HRWRA will depend on the amount of silica fume and the type of water-reducing admixture used (Jahren 1983). 7.1.1.3 Aggregate—The recommendations for coarse aggregate bulk volume per unit volume used in high-strength concrete containing silica fume should be according to
+
+the concrete with silica fume 1 to 2 in. Jahren 1983) above that required for conventional portland cement concrete. Silica fume use in concrete can improve both workability
+and finishability. The added cohesiveness of silica fume concrete can improve the placement-by-pumping properties of concrete, while the absence of surface bleed water allows for faster finishing and curing. The presence of silica fume by itself will not significantly
+change the rate of slump loss of a given concrete mixture.
+Because silica fume is used in conjunction with WRAs,
+HRWRAs, or both, there may be a change in slump-loss characteristics that is actually caused by the chemical admixture selected. Different chemical admixtures produce differing rates of slump loss. Trial batches using proposed project materials are recommended to establish slump-loss characteristics for a particular situation. 7.1.2 Special considerations—On average, a particle of silica fume is approximately 100 times smaller than portland
+cement (Silica Fume Association 2005). As with aggregates, decreasing particle size increases surface area and the water
+demand. Without an HRWRA, silica fume would require extra conveyance water to obtain a reasonable slump. The extra water would increase the total amount of water and the
+w/cm, reducing the concrete strength.
+7.2—Concrete mixture proportioning 7.2.1 Purpose—The purpose of this method is to deter-
+mine the appropriate and most economical materials that can be used in a trial batch that will approximate the desired concrete properties. This proportioning method provides a starting point for a concrete mixture that will be modified
+and adjusted as needed to meet the desired concrete properties. 7.2.2 Introduction—The procedure described in ACI 211.1 for proportioning normal-strength concrete may not be entirely applicable for high-strength concretes containing silica fume, low w/cm with the incorporation of normal- and high-range water-reducers, or both. These high-strength concretes most often contain one or more supplementary cementitious materials that possibly replace a significant
+amount of cement. Silica fume alters the properties and behavior of fresh and hardened concrete. As an example, a large majority of silica fume concrete mixture proportions have slump values generated mainly by the addition of WRAs.
+The use of silica fume will usually increase the water demand of the concrete proportionally to the amount of silica fume added. Therefore, the recommendations for approximating
+mixing water listed in ACI 211.1 are not applicable in silica
+fume concrete. The entire mass of the silica fume should be
+added to the mass of all other cementitious materials present to determine the w/cm. Another common approach is to start with mixture propor- tions that have been used successfully on other projects with similar requirements. Given this starting point, trial mixtures can be made in the laboratory and under field conditions to verify performance with actual project materials. Some examples of silica fume concrete mixture proportions, excerpted from the Silica Fume User’s Manual (Silica Fume Association 2005), are shown in Saisie 7.4,
+
+7.1.1.4 Workability and slump—Freshly mixed concrete containing silica fume is more cohesive and less prone to segregation than concrete without silica fume. As silica fume content increases, concrete may appear to become sticky. To maintain the same apparent workability, industry experience has shown that it is necessary to increase the initial slump of

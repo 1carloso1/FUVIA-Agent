@@ -1,0 +1,39 @@
+[DOCUMENT: ACI_211.1-22]
+[PAGE: 10/26]
+[LAYOUT: continuous]
+============================================================
+SELECTING PROPORTIONS FOR NORMAL-DENSITY AND HIGH-DENSITY CONCRETE—GUIDE (ACI PRC-211.1-22) 11
+
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; air content requirements; chemical admixture type classification and performance requirements.]
+concrete mixtures containing some HRWRA, the admixture dosage may be reduced by approximately 25% compared to mixtures containing only portland cement. Due to differences in their specific gravities, a given weight of an SCM will not occupy the same volume as an equal weight of portland cement. The specific gravity of
+blended cements will be less than that of portland cement. Thus, when using either blended cements or SCMs, the yield of the concrete mixture should be adjusted using the actual specific gravities of the materials used. Class C fly ash, normally of extremely low carbon content, usually has little or no effect on entrained air or on the air- entraining admixture dosage rate. Many Class F fly ashes may require a higher dosage of air-entraining admixture to obtain specified air contents; if carbon content is high, the dosage rate may be several times that of non-fly-ash concrete. The
+dosage required may also be quite variable. The entrained air content of concrete containing high-carbon-content fly ash
+may be difficult to obtain and maintain. Other cementitious materials may be treated the same as cement in determining the proper quantity of air-entraining admixtures per cubic yard of concrete or per 100 lb of cementitious material used. Concrete containing a proposed blend of cement, other cementitious materials, and admixtures should be tested to determine the time required for setting at various tempera- tures. The use of most SCMs generally slows the time-of- setting of the concrete, and this period may be prolonged
+by higher percentages of these materials in the cementitious blend, cold weather, and the presence of chemical admix- tures not formulated specifically for acceleration. Because of the possible adverse effects on finishing time and consequent labor costs, in some cold climates, the proportion of other cementitious materials in the blend
+may have to be reduced below the optimum amount for strength considerations. Some Class C fly ashes may affect setting time whereas some other cementitious materials may
+have little effect on setting time. Any reduction in cement content will reduce heat generation and normally prolong the setting time. When natural pozzolans, fly ash, slag cement, and silica
+fume are used in concrete, a water-cement-plus-SCM ratio or w/cm should be considered in place of the traditional w/c
+by weight. 4.7.7 Absolute volume method—lIn this procedure, the weights of water, air, cementitious materials, and coarse aggregate are determined either through specification, expe- rience, or charts. Once these values are known, the absolute
+volumes of these materials are determined using the proper specific gravities. Then those volumes are summed along with the volume percentage of air. That sum is subtracted
+from the unit volume to determine the required volume
+of fine aggregate. The volume of fine aggregate is then converted to its equivalent weight using the specific gravity
+and the weight-volume relationship. 4.7.7.1 Unit volume—The unit volume for this procedure is 1 yd°. The sum or the absolute volumes of all the concrete mixture ingredients will be the unit volume.
+
+the reference portland cement mortar at 7 and 28 days. Slag
+cement grades are 80, 100, and 120, in order of increasing strength potential. When slag cement is used in concrete with portland cement, the levels and rate of strength devel-
+opment will depend on the properties of the slag cement, the properties of the portland cement, and the relative and total
+amounts of slag cement and portland cement. Silica fume, as used in concrete, is a by-product resulting
+from the reduction of high-purity quartz with coal and wood chips in an electric arc furnace during the production of silicon metal or ferrosilicon alloys (ASTM C1240). Silica fume, which condenses from the gases escaping from the furnaces, has a very high content of amorphous silicon dioxide and consists of very fine spherical particles. Other
+names that have been used include silica dust, condensed or precompacted silica fume, and microsilica; the most appro- priate is silica fume. Methods for proportioning and evaluating concrete mixtures containing these SCMs should be based on trial batches using a range of ingredient proportions. By evalu- . ating their effect on strength, water requirement, time of : set, and other important properties, the optimum amount of : cementitious materials can be determined. In the absence of - prior information and in the interest of preparing estimated proportions for a first trial batch or a series of trial batches in : accordance with ASTM C192/C192M, the following typical - ranges are given based on the percentage of the ingredients by the total weight of SCM used in the batch for structural concrete: ¢ Class F fly ash—15 to 25% * Class C fly ash—15 to 35% ¢ Natural pozzolans—10 to 20% ¢« Slag cement—25 to 70% ¢ Silica fume—S to 10% When using SCMs, the quantity of the materials used per cubic yard of concrete may be different from that previ- ously shown. Often, certain special required properties
+such as very high strength, modulus of elasticity, or self- consolidation involve using ternary or quaternary blends using multiple SCMs. In cases where high early strengths are required, the total weight of SCM may be greater than would be needed if port- land cement were the only cementitious material. Where high early strength is not required, higher percentages of fly ash are frequently used. Often, it is found that with the use of fly ash and slag cement, the amount of mixing water required to obtain the desired slump and workability of concrete may be lower than that used in a mixture using only portland cement.
+When silica fume is used, additional mixing water is usually required than when using only portland cement. In calcu- lating the amount of chemical admixtures to dispense for a given batch of concrete, the dosage should generally be applied to the total amount of cementitious material. Under these conditions, the reduction in mixing water for conven- tional water-reducing admixtures (Types A, D, and E) should
+be at least 5%, and for high-range water-reducing admix- tures (HRWRAs), at least 12%. When slag cement is used in
+
+(aci®
+
+Copyright American Concrete Institute
+
+American Concrete Institute — Copyrighted © Material — www.concrete.org
+
+@seismicisolation

@@ -1,0 +1,66 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 173/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 9: CONSTRUCTION 535
+
+
+
+[CODE] (c) Details for construction of sloped or stepped footings
+designed to act as a unit. (d) Locations where floor system and column concrete
+placements are required to be integrated during placement in accordance with 15.5. (e) Locations where steel fiber-reinforced concrete is
+required for shear resistance in accordance with 9.6.3.1.
+[CODE] 26.5.7.2 Compliance requirements:
+
+[COMMENTARY] R26.5.7.2(a) Delay in placing concrete in members
+supported by columns and walls is necessary to minimize potential cracking at the interface of the slab and supporting
+member caused by bleeding and settlement of plastic concrete in the supporting member.
+
+[CODE] (a) Beams, girders, or slabs supported by columns or walls shall not be cast until concrete in the vertical support
+members is no longer plastic.
+
+[COMMENTARY] R26.5.7.2(b) Separate placement of slabs and beams,
+haunches, or similar elements is permitted if shown in the
+
+[CODE] (b) Beams, girders, haunches, drop panels, shear caps,
+and capitals shall be placed monolithically as part of a slab system, unless otherwise shown in construction documents.
+
+[COMMENTARY] ‘Mm Construction
+oo
+[COMMENTARY] construction documents and if provision has been made to transfer forces as required in 22.9.
+[COMMENTARY] R26.5.7.2(c) Application of the concrete placement
+procedure described in 15.5 may require the placing of
+two different concrete mixtures in the floor system. It is the responsibility of the licensed design professional to indicate in the construction documents where the higher- and lower- strength concretes are to be placed.
+
+[CODE] (c) At locations where floor system and column concrete
+placements are required to be integrated during placement,
+column concrete shall extend full depth of the floor system at least 2 ft into the floor system from face of column and
+be integrated with floor system concrete.
+
+[COMMENTARY] R26.5.7.2(d) This restriction applies to slabs identified as structural diaphragms in 26.5.7.1(b).
+
+[CODE] (d) Saw cutting or construction of joints that can affect the integrity of a slab-on-ground identified in the construction
+documents as structural diaphragms or part of the seismic- force-resisting system shall not be permitted unless specifically indicated or approved by the licensed design professional.
+
+[COMMENTARY] R26.6—Reinforcement materials and construction
+requirements R26.6.1 General
+
+[CODE] 26.6—Reinforcement materials and construction
+requirements 26.6.1 General
+[CODE] 26.6.1.1 Design information:
+
+[COMMENTARY] R26.6.1.1(a) If ASTM A615 reinforcement is used in place of ASTM A706 reinforcement in special seismic systems, the strength and minimum elongation requirements
+of 20.2.1.3 and 20.2.2.5(b) should be included.
+
+[CODE] (a) ASTM designation and grade of reinforcement, including applicable requirements for special seismic
+systems in accordance with 20.2.2.5.
+[CODE] (b) Type, size, location requirements, detailing, and
+embedment length of reinforcement. (c) Concrete cover to reinforcement.
+
+[COMMENTARY] R26.6.1.1(d) Splices should, if possible, be located away
+from points of maximum tensile stress. The lap splice requirements of 25.5.2 encourage this practice.
+
+[CODE] (d) Location and length of lap splices.
+[CODE] (e) Type and location of mechanical splices.
+
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

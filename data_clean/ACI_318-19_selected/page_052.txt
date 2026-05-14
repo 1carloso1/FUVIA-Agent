@@ -1,0 +1,36 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 52/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] 9.7.5.3 Longitudinal torsional reinforcement shall extend for a distance of at least (b, + d) beyond the point required
+by analysis.
+
+[COMMENTARY] R9.7.5.3 The distance (b, + d) beyond the point at which longitudinal torsional reinforcement is calculated to be no longer required is greater than that used for shear and flex- ural reinforcement because torsional diagonal tension cracks develop in a helical form. The same distance is required by 9.7.6.3.2 for transverse torsional reinforcement.
+
+[CODE] 9.7.5.4 Longitudinal torsional reinforcement shall be developed at the face of the support at both ends of the beam.
+
+[COMMENTARY] R9.7.5.4 Longitudinal torsional reinforcement required at a support should be adequately anchored into the support. Sufficient embedment length should be provided outside the inner face of the support to develop the needed tensile force in the bars or tendons. For bars, this may require hooks or horizontal U-shaped bars lapped with the longitudinal torsional reinforcement.
+
+[CODE] 9.7.6 Transverse reinforcement
+
+[COMMENTARY] R9.7.6 Transverse reinforcement
+
+[CODE] 9.7.6.1 General
+[CODE] 9.7.6.1.1 Transverse reinforcement shall be in accordance with this section. The most restrictive requirements shall apply.
+[CODE] 9.7.6.1.2 Details of transverse reinforcement shall be in accordance with 25.7.
+[CODE] 9.7.6.2 Shear
+
+[COMMENTARY] R9.7.6.2 Shear
+
+[CODE] 9.7.6.2.1 If required, shear reinforcement shall be provided using stirrups, hoops, or longitudinal bent bars.
+
+[COMMENTARY] R9.7.6.2.1 If a reinforced concrete beam is cast mono- lithically with a supporting beam and intersects one or both side faces of a supporting beam, the soffit of the supporting
+beam may be subject to premature failure unless additional transverse reinforcement, commonly referred to as hanger reinforcement, is provided (Mattock and Shen 1992). The hanger reinforcement (Fig. R9.7.6.2.1), placed in addition to other transverse reinforcement, is provided to transfer shear
+from the end of the supported beam. Research indicates that if the bottom of the supported beam is at or above middepth of the supporting beam or if the factored shear transferred
+from the supported beam is less than 3, f'b,d , hanger rein- forcement is not required.
+
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org
+[CODE] \

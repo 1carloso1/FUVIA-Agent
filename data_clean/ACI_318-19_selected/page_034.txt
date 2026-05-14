@@ -1,0 +1,48 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 34/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] 9.2.4.1 In T-beam construction, flange and web concrete shall be placed monolithically or made composite in accor- dance with 16.4.
+
+[COMMENTARY] R9.2.4.1 For monolithic or fully composite construction, the beam includes a portion of the slab as flanges.
+
+[CODE] 9.2.4.2 Effective flange width shall be in accordance with 6.3.2.
+[CODE] 9.2.4.3 For T-beam flanges where the primary flexural slab reinforcement is parallel to the longitudinal axis of the beam, reinforcement in the flange perpendicular to the longitudinal axis of the beam shall be in accordance with 7.5.2.3.
+
+[COMMENTARY] R9.2.4.3 Refer to R7.5.2.3.
+
+[CODE] 9.2.4.4 For torsional design according to 22.7, the over-
+hanging flange width used to calculate A,,, Ag, and p-, shall
+be in accordance with (a) and (b):
+
+[COMMENTARY] R9.2.4.4 Two examples of the section to be considered in torsional design are provided in Fig. R9.2.4.4.
+[COMMENTARY] by + 2hp < by + Shy
+[COMMENTARY] a!
+
+[CODE] (a) The overhanging flange width shall include that portion
+of slab on each side of the beam extending a distance equal to the projection of the beam above or below the slab, whichever is greater, but not greater than four times the slab thickness. (b) The overhanging flanges shall be neglected in cases
+where the parameter A,,.”/p., for solid sections or Ag”/Pep for hollow sections calculated for a beam with flanges is less than that calculated for the same beam ignoring the flanges.
+
+[COMMENTARY] by
+[COMMENTARY] hp s 4hy
+— a--| al
+[COMMENTARY] “titan
+a hp
+[COMMENTARY] Yo |
+a
+[COMMENTARY] by
+[COMMENTARY] Fig. R9.2.4.4—Examples ofthe portion ofslab to be included with the beam for torsional design.
+
+[CODE] 9.3—Design limits 9.3.1 Minimum beam depth
+
+[COMMENTARY] R9.3—Design limits R9.3.1 Minimum beam depth
+
+[CODE] 9.3.1.1 For nonprestressed beams not supporting or attached to partitions or other construction likely to be
+damaged by large deflections, overall beam depth h shall satisfy the limits in Table 9.3.1.1, unless the calculated deflection limits of 9.3.2 are satisfied.
+
+[COMMENTARY] R9.3.1.1 For application of this provision to composite concrete beams, refer to R9.3.2.2.
+
+[CODE] American Concrete Institute — Copyrighted © Material — www.concrete.org

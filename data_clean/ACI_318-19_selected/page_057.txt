@@ -1,0 +1,42 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 57/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 3: MEMBERS 151
+
+
+
+[CODE] 9.8—Nonprestressed one-way joist systems 9.8.1 General
+
+[COMMENTARY] R9.8—Nonprestressed one-way joist systems R9.8.1 General
+
+[CODE] 9.8.1.1 Nonprestressed one-way joist construction consists of a monolithic combination of regularly spaced ribs and a top slab designed to span in one direction.
+
+[COMMENTARY] The empirical limits established for nonprestressed rein- forced concrete joist floors are based on successful past performance of joist construction using standard joist
+forming systems. For prestressed joist construction, this section may be used as guide.
+
+[CODE] 9.8.1.2 Width of ribs shall be at least 4 in. at any location along the depth.
+[CODE] 9.8.1.3 Overall depth of ribs shall not exceed 3.5 times the
+minimum width.
+[CODE] 9.8.1.4 Clear spacing between ribs shall not exceed 30 in.
+
+[COMMENTARY] R9.8.1.4 A limit on the maximum spacing of ribs is required because of the provisions permitting higher shear strengths and less concrete cover for the reinforcement for these relatively small, repetitive members.
+
+[CODE] 9.8.1.5 V. shall be permitted to be taken as 1.1 times the value calculated in 22.5.
+
+[COMMENTARY] R9.8.1.5 This increase in shear strength is justified on the
+[COMMENTARY] O) Beams
+[COMMENTARY] basis of: 1) satisfactory performance of joist construction designed with higher calculated shear strengths specified in previous Codes which allowed comparable shear stresses;
+and 2) potential for redistribution of local overloads to adja- cent joists.
+
+[CODE] 9.8.1.6 For structural integrity, at least one bottom bar in each joist shall be continuous and shall be anchored to develop f, at the face of supports.
+[CODE] 9.8.1.7 Reinforcement perpendicular to the ribs shall be provided in the slab as required for flexure, considering load concentrations, and shall be at least that required for shrinkage and temperature in accordance with 24.4.
+[CODE] 9.8.1.8 One-way joist construction not satisfying the limi- tations of 9.8.1.1 through 9.8.1.4 shall be designed as slabs
+and beams.
+[CODE] 9.8.2 Joist systems with structural fillers
+[CODE] 9.8.2.1 If permanent burned clay or concrete tile fillers of material having a unit compressive strength at least equal to J.’ in the joists are used, 9.8.2.1.1 and 9.8.2.1.2 shall apply.
+[CODE] 9.8.2.1.1 Slab thickness over fillers shall be at least the greater of one-twelfth the clear distance between ribs and 1.5 in.
+[CODE] 9.8.2.1.2 For calculation of shear and negative moment strength, it shall be permitted to include the vertical shells of fillers in contact with the ribs. Other portions of fillers shall not be included in strength calculations.
+[CODE] 9.8.3 Joist systems with other fillers
+
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

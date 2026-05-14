@@ -1,0 +1,48 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 168/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] 530 ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] (j) Prior to placement of a new layer of shotcrete, rebound
+and overspray from adjacent placements shall be removed. (k) Cuttings and rebound shall not be incorporated into the Work.
+
+[COMMENTARY] R26.5.2.1(j and k) Rebound material is loose aggregate
+and cement paste that bounces off after colliding with form-
+work, reinforcement, or a hardened shotcrete surface. Overspray is the paste-rich material that separates from the stream during shotcreting and adheres to nearby rein-
+forcement and formwork. Adjacent surfaces are typically protected from overspray. Cuttings refers to shotcrete that has been applied beyond the finish face and is cut off during trimming or rod finishing. Rod finishing refers to the use of a hard-edged tool or rod to cut excess material by trimming, slicing, or scraping the
+exposed shotcrete to a true line and grade.
+
+[CODE] (1) Shotcrete surfaces intended to receive subsequent shot- crete placement shall be roughened to a full amplitude of
+approximately 1/4 in. before the shotcrete has reached final set.
+(m) Before placing additional material onto hardened shot- crete, laitance shall be removed, joints shall be cleaned,
+and the surface shall be dampened. (n) In-place fresh shotcrete that exhibits sags, sloughs, segregation, honeycombing, or sand pockets shall be
+removed and replaced.
+
+[COMMENTARY] R26.5.2.1(n) If the shotcrete sags because of improper consistency, adjacent vibration, or improper finishing, those sections should also be removed and replaced. ACI
+506.4R provides additional recommendations for repairing shotcrete.
+
+[CODE] (o) A certified shotcrete nozzle operator shall place all shotcrete.
+
+[COMMENTARY] R26.5.2.1(0) Nozzle operators become certified through testing and training programs that include written and
+performance examinations. Each shotcrete nozzle operator should be certified in accordance with the applicable ACI certification program for dry-mix or wet-mix shotcrete (both are covered by CPP 660.1-15).
+
+[CODE] (p) Ifa project-specific shotcrete mockup panel is required,
+each nozzle operator shall have demonstrated the ability to shoot an approved shotcrete mockup panel.
+[CODE] 26.5.3 Curing
+
+[COMMENTARY] R26.5.3 Curing
+
+[CODE] 26.5.3.1 Design information:
+
+[COMMENTARY] Detailed recommendations for curing concrete are given in ACI 308R. This guide presents basic principles of proper curing and describes the various methods, procedures, and materials for curing of concrete.
+
+[CODE] (a) If supplementary tests of field-cured specimens are required to verify adequacy of curing and protection, the
+number and size of test specimens and the frequency of these supplementary tests.
+[CODE] 26.5.3.2 Compliance requirements:
+[CODE] (a) Concrete, other than high-early-strength, shall be
+maintained at a temperature of at least 50°F and in a moist condition for at least the first 7 days after placement, except if accelerated curing is used. (b) High-early-strength concrete shall be maintained at a temperature of at least 50°F and in a moist condition for at
+[CODE] aci=
+_
+[CODE] American Concrete Institute —- Copyrighted © Material — www.concrete.org

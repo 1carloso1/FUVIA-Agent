@@ -1,0 +1,46 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 31/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 1: GENERAL us)
+
+
+[COMMENTARY] structural wall, intermediate precast—Requirements of
+
+[CODE] structural wall, intermediate precast—a wall complying
+with 18.5.
+
+[COMMENTARY] - Not. & Term.
+[COMMENTARY] 18.5 are intended to result in an intermediate precast struc- tural wall having minimum strength and toughness equiv- alent to that for an ordinary reinforced concrete structural
+wall of cast-in-place concrete. A precast concrete wall not satisfying the requirements of 18.5 is considered to have ductility and structural integrity less than that for an inter-
+mediate precast structural wall. structural wall, special—Requirements of 18.2.3 through 18.2.8 and 18.11 are intended to result in a special precast structural wall having minimum strength and toughness
+equivalent to that for a special reinforced concrete structural wall of cast-in-place concrete.
+
+[CODE] structural wall, special—a cast-in-place structural wall in accordance with 18.2.3 through 18.2.8 and 18.10; or a precast structural wall in accordance with 18.2.3 through 18.2.8 and 18.11.
+[CODE] strut—compression member in a strut-and-tie model representing the resultant of a parallel or a fan-shaped
+compression field. strut, boundary—strut located along the boundary of a
+member or discontinuity region.
+
+[COMMENTARY] strut, boundary—A boundary strut is intended to apply to the flexural compression zone of a beam, wall, or other
+member. Boundary struts are not subject to transverse tension
+and are therefore stronger than interior struts (Fig. R23.2.1). strut, interior—Interior struts are subject to tension, acting perpendicular to the strut in the plane of the model,
+from shear (Fig. R23.2.1).
+
+[CODE] strut, interior—strut not located along the boundary of a
+member or discontinuity region.
+[CODE] strut-and-tie model—truss model of a member or of a D-region in such a member, made up of struts and ties
+connected at nodes and capable of transferring the factored loads to the supports or to adjacent B-regions. tendon—in post-tensioned members, a tendon is a
+complete assembly consisting of anchorages, prestressing reinforcement, and sheathing with coating for unbonded applications or ducts filled with grout for bonded applications. tendon, bonded—tendon in which prestressed reinforce-
+ment is continuously bonded to the concrete through grouting
+of ducts embedded within the concrete cross section. tendon, external—a tendon external to the member concrete cross section in post-tensioned applications.
+
+[COMMENTARY] tendon, external—In new or existing post-tensioned applications, a tendon totally or partially external to the
+member concrete cross section, or inside a box section, and attached at the anchor device and deviation points.
+
+[CODE] tendon, unbonded—tendon in which prestressed rein-
+forcement is prevented from bonding to the concrete. The prestressing force is permanently transferred to the concrete at the tendon ends by the anchorages only. tension-controlled section—a cross section in which the net tensile strain in the extreme tension steel at nominal strength is greater than or equal to ¢,, + 0.003. tie—(a) reinforcing bar or wire enclosing longitudinal reinforcement; a continuously wound transverse bar or wire in the form of a circle, rectangle, or other polygonal shape
+without reentrant corners enclosing longitudinal reinforce-
+ment; see also stirrup, hoop; (b) tension element in a strut- and-tie model. transfer—act of transferring stress in prestressed rein-
+forcement from jacks or pretensioning bed to concrete member.
+
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

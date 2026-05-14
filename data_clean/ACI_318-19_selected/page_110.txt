@@ -1,0 +1,45 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 110/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] (e) The boundary element transverse reinforcement shall satisfy 18.7.5.2(a) through (d) and 18.7.5.3, except the transverse reinforcement spacing limit of 18.7.5.3(a) shall be one-third of the least dimension of the boundary element. The maximum vertical spacing of transverse reinforcement in the boundary element shall also not
+exceed that in Table 18.10.6.5(b). (f) Transverse reinforcement shall be arranged such that the spacing h, between laterally supported longitudinal bars around the perimeter of the boundary element shall not
+exceed the lesser of 14 in. and two-thirds of the boundary
+element thickness. Lateral support shall be provided by a seismic hook of a crosstie or corner of a hoop. The length of a hoop leg shall not exceed two times the boundary element thickness, and adjacent hoops shall overlap at least the lesser of 6 in. and two-thirds the boundary element thickness. (g) The amount of transverse reinforcement shall be in accordance with Table 18.10.6.4(g).
+
+[COMMENTARY] significantly reduced section, increased boundary element thickness should be considered. A value of c/f, > 3/8 is used to define a wall critical section that is not tension-controlled according to 21.2.2. A
+minimum wall thickness of 12 in. is imposed to reduce the likelihood of lateral instability of the compression zone after spalling of cover concrete. Where flanges are highly stressed in compression, the web-to-flange interface is likely to be highly stressed and
+may sustain local crushing failure unless special boundary
+element reinforcement extends into the web. Required transverse reinforcement at wall boundaries is based on column provisions. Expression (a) of Table 18.10.6.4(g) was applied to wall special boundary elements prior to the 1999 edition of this Code. It is reinstated in the
+2014 edition of this Code due to concerns that expression (b) of Table 18.10.6.4(g) by itself does not provide adequate transverse reinforcement for thin walls where concrete cover accounts for a significant portion of the wall thick- ness. For wall special boundary elements having rectangular cross section, A, and A, in expressions (a) and (c) in Table 18.10.6.4(g) are defined as Ay = f,-b and A¢r = Be1b.2, where
+dimensions are shown in Fig. R18.10.6.4b. This considers that concrete spalling is likely to occur only on the exposed faces of the confined boundary element. Tests (Thomsen
+and Wallace 2004) show that adequate performance can be achieved using vertical spacing greater than that permitted
+by 18.7.5.3(a). The limits on spacing between laterally supported longitudinal bars are intended to provide more
+uniform spacing of hoops and crossties for thin walls. Configuration requirements for boundary element trans- verse reinforcement and crossties for web longitudinal reinforcement are summarized in Fig. R18.10.6.4a. A limit is placed on the relative lengths of boundary element hoop legs because tests (Segura and Wallace 2018; Welt et al. 2017; Arteta 2015) show that a single perimeter hoop with supplemental crossties that have alternating 90-degree and 135-degree hooks are not as effective as overlapping hoops
+and crossties with seismic hooks at both ends if £;,. exceeds
+approximately 2b. These tests also show that loss of axial load-carrying capacity of a wall can occur immediately following damage to the wall boundary elements if web vertical reinforcement within the plastic hinge region is not restrained. Use of web crossties outside of boundary elements also results in a less abrupt transition in transverse reinforcement used to provide concrete confinement and restrain buckling of longitudinal reinforcement, which addresses potential increases in the neutral axis depth due to shear (diagonal compression) and uncertainties in axial load. Requirements for vertical extensions of boundary elements are summarized in Fig. R18.10.6.4c (Moehle et al. 2011). The horizontal reinforcement in a structural wall with low shear-to-moment ratio resists shear through truss action,
+with the horizontal bars acting like the stirrups in a beam.
+
+[CODE] Table 18.10.6.4(g)—Transverse reinforcement for
+special boundary elements Transverse reinforcement Applicable expressions
+[CODE] A, SL
+032 -1 f, | ®
+[CODE] Greater of
+As,/sb, for rectilinear hoop
+[CODE] 0.09 (b) ye
+[CODE] A, \fe
+04s - 7 ()
+[CODE] p; for spiral or circular hoop Greater of
+[CODE] ort (d)
+[CODE] (h) Concrete within the thickness of the floor system at the special boundary element location shall have specified compressive strength at least 0.7 times f.' of the wall. (1) For a distance above and below the critical section specified in 18.10.6.2(b), web vertical reinforcement shall
+have lateral support provided by the corner of a hoop or
+by a crosstie with seismic hooks at each end. Transverse reinforcement shall have a vertical spacing not to exceed 12 in. and diameter satisfying 25.7.2.2. (j) Where the critical section occurs at the wall base, the
+boundary element transverse reinforcement at the wall base shall extend into the support at least £4, in accordance with 18.10.2.3, of the largest longitudinal reinforcement in the special boundary element. Where the special boundary
+element terminates on a footing, mat, or pile cap, special
+boundary element transverse reinforcement shall extend at least 12 in. into the footing, mat, or pile cap, unless a greater extension is required by 18.13.2.4.
+[CODE] aci*
+_
+[CODE] American Concrete Institute — Copyrighted © Material — www.concrete.org

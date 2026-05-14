@@ -1,0 +1,54 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 122/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] 338 ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] diaphragm shear or flexural forces around openings or other discontinuities shall satisfy the requirements for collectors in 18.12.7.6 and 18.12.7.7.
+
+[COMMENTARY] discontinuities in diaphragms. Figure R18.12.3.2 shows
+an example. Such elements can be subjected to earthquake axial forces in combination with bending and shear from earthquake or gravity loads.
+[COMMENTARY] Jove
+Diaphragm
+[COMMENTARY] Diaphragm
+opening
+[COMMENTARY] Sas
+[COMMENTARY] r Os ©
+[COMMENTARY] e— Section A-A
+[COMMENTARY] Fig. R18.12.3.2—Example of diaphragm subject to the requirements of 18.12.3.2 and showing an element having confinement as required by 18.12.7.6.
+
+[CODE] 18.12.4 Cast-in-place composite topping slab diaphragms
+
+[COMMENTARY] R18.12.4 Cast-in-place composite topping slab diaphragms
+
+[CODE] 18.12.4.1 A cast-in-place composite topping slab on a precast floor or roof shall be permitted as a structural
+diaphragm, provided the cast-in-place topping slab is rein- forced and the surface of the previously hardened concrete
+on which the topping slab is placed is clean, free of laitance,
+and intentionally roughened.
+
+[COMMENTARY] R18.12.4.1 A bonded topping slab is required so that the floor or roof system can provide restraint against slab buckling. Reinforcement is required to ensure the continuity of the shear transfer across precast joints. The connection requirements are introduced to promote a complete system with necessary shear transfers.
+
+[CODE] 18.12.5 Cast-in-place noncomposite topping slab
+diaphragms
+
+[COMMENTARY] R18.12.5 Cast-in-place noncomposite topping slab
+diaphragms
+
+[CODE] 18.12.5.1 A cast-in-place noncomposite topping on a precast floor or roof shall be permitted as a structural diaphragm,
+provided the cast-in-place topping slab acting alone is designed and detailed to resist the design earthquake forces.
+
+[COMMENTARY] R18.12.5.1 Composite action between the topping slab
+and the precast floor elements is not required, provided that the topping slab is designed to resist the design earthquake forces.
+
+[CODE] 18.12.6 Minimum thickness of diaphragms
+
+[COMMENTARY] R18.12.6 Minimum thickness of diaphragms
+
+[CODE] 18.12.6.1 Concrete slabs and composite topping slabs serving as diaphragms used to transmit earthquake forces shall be at least 2 in. thick. Topping slabs placed over precast aci=
+_
+
+[COMMENTARY] R18.12.6.1 The minimum thickness of concrete
+diaphragms reflects current practice in joist and waffle systems and composite topping slabs on precast floor and
+
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

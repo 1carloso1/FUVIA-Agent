@@ -1,0 +1,40 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 8/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] development length in tension of deformed bar or
+deformed wire with a standard hook, measured
+from outside end of hook, point of tangency, toward critical section, in.
+development length in tension of headed deformed bar, measured from the bearing face of the head
+toward the critical section, in.
+= load bearing length of anchor for shear, in. straight extension at the end of a standard hook, in.
+= length of clear span measured face-to-face of supports, in. length, measured from joint face along axis of
+member, over which special transverse reinforce-
+ment must be provided, in.
+= compression lap splice length, in. tension lap splice length, in.
+= span of member under load test, taken as the shorter
+[CODE] = T
+[CODE] span for two-way slab systems, in. Span is the lesser of: (a) distance between centers of supports,
+and (b) clear distance between supports plus thick- ness h of member. Span for a cantilever shall be taken as twice the distance from face of support to cantilever end
+= transfer length of prestressed reinforcement, in. unsupported length of column or wall, in.
+= length of entire wall, or length of wall segment or wall pier considered in direction of shear force, in. length of span in direction that moments are being determined, measured center-to-center of supports, in. length of span in direction perpendicular to ¢;,
+measured center-to-center of supports, in. effect of service live load
+[CODE] ie
+s
+[CODE] effect of service roof live load
+
+[COMMENTARY] = moment acting on anchor or anchor group, in.-lb M
+
+[CODE] maximum moment in member due to service loads II at stage deflection is calculated, in.-lb factored moment amplified for the effects of
+member curvature used for design of compression
+member, in.-lb cracking moment, in.-lb
+moment causing flexural cracking at section due to externally applied loads, in.-lb
+maximum factored moment at section due to exter- nally applied loads, in.-lb
+nominal flexural strength at section, in.-lb
+nominal flexural strength of beam including slab
+where in tension, framing into joint, in.-lb
+nominal flexural strength of column framing into joint, calculated for factored axial force, consis- tent with the direction of lateral forces considered, resulting in lowest flexural strength, in.-lb probable flexural strength of members, with or without axial load, determined using the proper- ties of the member at joint faces assuming a tensile
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

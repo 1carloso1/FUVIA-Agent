@@ -1,0 +1,29 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 143/196]
+[LAYOUT: continuous]
+============================================================
+360
+ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+CODE COMMENTARY
+Table R19.3.1—Examples of structural members in Exposure Category F Exposure class Examples
+¢ Members in climates where freezing temperatures will
+not be encountered
+FO ¢ Members that are inside structures and will not be
+exposed to freezing * Foundations not exposed to freezing ¢ Members that are buried in soil below the frost line ¢ Members that will not be subject to snow and ice accumulation, such as exterior walls, beams, girders, and
+Fl slabs not in direct contact with soil
+* Foundation walls may be in this class depending upon their likelihood of being saturated ¢ Members that will be subject to snow and ice
+accumulation, such as exterior elevated slabs
+F2 ¢ Foundation or basement walls extending above grade
+that have snow and ice buildup against them ¢ Horizontal and vertical members in contact with soil ¢ Members exposed to deicing chemicals, such as horizontal members in parking structures
+F3 ¢ Foundation or basement walls extending above grade
+that can experience accumulation of snow and ice with deicing chemicals
+Exposure Category S is subdivided into four exposure classes: (a) Exposure Class SO is assigned for conditions where the water-soluble sulfate concentration in contact with concrete is low and injurious sulfate attack is not a concern. (b) Exposure Classes S1, $2, and S3 are assigned for structural concrete members in direct contact with soluble sulfates in soil or water. The severity of exposure increases
+from Exposure Class $1 to S3 based on the more critical value of measured water-soluble sulfate concentration in soil or the concentration of dissolved sulfate in water. Seawater exposure is classified as Exposure Class S1.
+Exposure Category W is subdivided into three exposure classes: (a) Members are assigned to Exposure Class WO if they are dry in service. (b) Members are assigned to Exposure Class W1 if they
+may be exposed to continuous contact with water, to intermittent sources of water, or can absorb water from surrounding soil. Members assigned to W1 do not require concrete with low permeability. (c) Members are assigned to Exposure Class W2 if they
+may be exposed to continuous contact with water, to intermittent sources of water, or can absorb water from surrounding soil, and if the penetration of water through the concrete might reduce durability or serviceability.
+Members assigned to W2 require concrete with low permeability.
+Exposure Category C is subdivided into three exposure classes:
+
+American Concrete Institute - Copyrighted © Material — www.concrete.org

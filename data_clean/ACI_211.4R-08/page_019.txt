@@ -1,0 +1,36 @@
+[DOCUMENT: ACI_211.4R-08]
+[PAGE: 19/23]
+[LAYOUT: continuous]
+============================================================
+211.4R-20
+ACI COMMITTEE REPORT
+Table 8.2—Slag cement content for specific
+applications (Grades 100 and 120 slag cement)
+
+[TABLE: Table 8.2—Slag cement content for specific]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; air content requirements.]
+8.2.3. Mixture proportioning methods—Two mixture- proportioning methods (Methods A and B) for concrete
+made with slag cement-portland cement are recommended. Both Methods A and B rely on ACI 211.1 procedures for
+most of the proportioning steps, particularly as they apply to developing the basic mixture using portland cement as the only cementitious material. All of the examples use local aggregates in their saturated surface-dry (SSD) state. The SSD relative density of the coarse aggregate is 2.72; for the fine aggregate, it is 2.63. 8.2.3.1 Method A—This method begins with historical slag cement concrete information to determine the expected increase in strength (in percent) attributed to the slag cement
+when compared with a reference portland cement mixture without slag cement. The expected strength increase attributed to the slag cement is subtracted from the required average compressive strength f,;.. ACI 211.1 is then followed to propor- tion a portland cement mixture (the basic mixture) for this lower strength level. Subsequently, the appropriate amount of portland cement is replaced with slag cement on a mass basis, and the aggregate content is adjusted to maintain yield. The steps associated with Method A are as follows: 8.2.3.1.1 Step 1—The specified compressive strength f¢ from the project specification for the class of concrete that is being proportioned should be identified, as well as mixture performance requirements such as slump, maximum w/cm, air content (if applicable), or other requirements as in Section 3.3. Also, it should be determined whether the project specification requires that a specific slag cement grade should be used, or whether a specific range in percentage of slag cement is prescribed. 8.2.3.1.2 Step 2—The required average compressive strength f.;. should be calculated according to Section 3.2. 8.2.3.1.3 Step 3—A relative compressive strength-slag
+cement content diagram relating the compressive strength to the percent of slag cement at the specified maturity or age of test should be located or developed. Refer to Fig. 8.2 or 8.3. Unless the slag cement content is specified (from Step 1), the slag cement content at the maximum-strength index point on the curve that lies within the acceptable slag cement content range as specified should be selected. In the event that the project specification does not prescribe a slag cement content range, Table 8.2 lists common slag cement contents for Grades 100 and 120 slag cements for selected specific applications. 8.2.3.1.4 Step 4—From the x-axis on the relative compressive strength (RCS) slag cement content diagram, the y-intercept that determines the maximum percent increase in compressive strength attributed to the optimum slag cements content should be located. 8.2.3.1.5 Step 5—PC is defined as the portion of the required average compressive strength which is attributed to portland cement and it should be calculated using the following equation
+
+Application Slag cement”
+Maximum high-strength More common 40 to 50% Less common 35 to 55% “Slag cement content is expressed as percent replacement of portland cement by mass.
+Note: When information demonstrates that a specific slag cement material
+provides equivalent-or-better sulfate resistance with lower slag cement content, the
+lower content may be used.
+[TABLE: Table 8.2 lists common slag cement contents for Grades 100]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; air content requirements; chemical admixture type classification and performance requirements.]
+8.2.2.2 Development of relative compressive strength: slag cement content curve—A tool useful for proportioning high-strength concrete containing slag cement is a compressive strength versus slag cement content curve. A diagram can present the effect of slag cement content on the relative 28-day
+compressive strength of the slag cement-portland cement concrete as compared with the portland-cement-only concrete.
+Where all other factors, such as w/cm, air content, material sources, and sizes, are kept equal, the compressive strength versus slag cement quantity curve is a useful tool in proportioning concrete mixtures. Similar to a three-point w/c curve, which has a long history of use in proportioning concrete where no previous experience record exists, the x-axis includes several slag cement percentages, but the compressive strength is calculated relative to a 0% slag cement, which is 100% portland cement. Figure 8.2 represents an idealized curve for a Grade 120 slag cement with an average 28-day relative compressive strength index of 130%. Figure 8.3 is an idealized curve for a Grade 100 slag cement with an average 28-day relative compressive strength index of 110%. The total cementitious materials content, by mass, should remain constant to reduce variation in the curve shape. Figures 8.2 and 8.3 are developed using local concrete materials with different grades of slag cement. The slag
+component index is the percent of compressive strength increase resulting from the slag cement dosage relative to the
+28-day compressive strength of the same mixture without slag cement. The curves in Fig. 8.2 and 8.3 demonstrate the variance in compressive strength versus slag cement dosage. Ages later than 28 days, such as 56 or 91 days, can be considered for relative compressive strength versus slag
+cement content curves. The strength of the slag cement concretes relative to the reference portland cement concrete will continue to increase after the 28-day age. The most useful relative compressive strength slag cement content curves are those derived from information using the
+same materials (especially the portland cement) and methods that will be employed on the project. The purpose of constructing a curve is to create a reliable reference of existing information, and to use the curve as a starting point for selecting the proportions for the mixture for a trial batch.
+The desired characteristics, such as a compressive strength overdesign, can be targeted as a function of the total cemen- titious material, water, and admixture combinations in the subsequent trial batches.
+
+PC,y 5: = (fe )100%/RCS
+%) (8-1)
+>psi

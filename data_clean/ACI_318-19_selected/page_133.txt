@@ -1,0 +1,47 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 133/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 5: EARTHQUAKE RESISTANCE 349
+
+
+
+[CODE] forcement, p,, in the upper 20 ft shall not be less than that calculated by Eq. (18.13.5.10.4a) or calculated from a
+more detailed analysis by Eq. (18.13.5.10.4b):
+
+[COMMENTARY] 2016), the relationship between curvature ductility demand
+on prestressed piles and overall system ductility demand
+was considered in the context of all soil profiles identified
+[COMMENTARY] © Seismic
+[COMMENTARY] in ASCE/SEI 7. It was concluded that Eq. (18.13.5.10.4b) results in adequate deformation capacity for structures assigned to SDC C. The factored axial force on a pile should
+be determined from Eq. (5.3.1c¢) and Eq. (5.3.1g) with 5.3.7
+and 5.3.8 as applicable.
+
+[CODE] 0. oe
+[CODE] (18.13.5.10.4a)
+[CODE] Sr
+[CODE] ‘ 2.3P
+oo Las 12 (18.13.5.10.4b)
+fA
+yt cs
+[CODE] and f\, shall not be taken greater than 100,000 psi. (b) A minimum of one-half of the volumetric ratio of spiral reinforcement required by Eq. (18.13.5.10.4a) or Eq. (18.13.5.10.4b) shall be provided for the remaining length of the pile.
+[CODE] 18.13.5.10.5 For structures assigned to SDC D, E, or F, precast-prestressed concrete piles shall satisfy (a) through (e) and the ductile pile region shall be defined as the length
+of pile measured from the bottom of the pile cap to the point
+of zero curvature plus 3 times the least pile dimension, but not less than 35 ft. If the total pile length in the soil is 35 ft or less, the ductile pile region shall be taken as the entire length of the pile:
+
+[COMMENTARY] R18.13.5.10.5 Observed damage from earthquakes and concerns about the accuracy of calculated pile demands have led to prescriptive requirements for confinement of poten- tial yielding regions of piles. The required confinement is intended to provide adequate ductility capacity for structures assigned to SDC D, E, and F (Sritharan et al. 2016).
+
+[CODE] (a) In the ductile pile region, the center-to-center spacing
+of spirals or hoop reinforcement shall not exceed the least of 0.2 times the least pile dimension, 6 times the diameter of the longitudinal strand, and 6 in. (b) Spiral reinforcement shall be spliced by lapping one full turn, by welding, or by the use of a mechanical splice. If spiral reinforcement is lap spliced, the ends of the spiral shall terminate in a seismic hook. Mechanical and welded splices of deformed bars shall comply with 25.5.7. (c) If the transverse reinforcement consists of spirals, or circular hoops, the volumetric ratio of transverse rein- forcement, p,, in the ductile pile region shall not be less than that calculated by Eq. (18.13.5.10.5a) or calculated
+from a more detailed analysis by Eq. (18.13.5.10.5b),
+and the required volumetric ratio shall be permitted to be obtained by providing an inner and outer spiral.
+[CODE] (18.13.5.10.5a)
+[CODE] ,
+cs
+00s La 23f, (18.13.5.10.5b)
+[A
+yt
+[CODE] and f\, shall not be taken as greater than 100,000 psi. (d) Outside of the ductile pile region, spiral or hoop rein-
+forcement shall be provided with a volumetric ratio not
+
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org aci Bw

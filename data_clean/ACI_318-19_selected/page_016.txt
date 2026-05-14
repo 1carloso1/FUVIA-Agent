@@ -1,0 +1,38 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 16/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+[CODE] 30
+
+
+[CODE] = characteristic bond stress of adhesive anchor in Tuncr uncracked concrete, psi shear lug bearing factor used to modify bearing Worg,sl = strength of shear lugs based on the influence of axial load factor used to modify development length based on concrete strength
+breakout cracking factor used to modify tensile Won = strength of anchors based on the influence of cracks in concrete pullout cracking factor used to modify pullout Wop = strength of anchors based on the influence of cracks in concrete breakout cracking factor used to modify shear Wov = strength of anchors based on the influence of cracks in concrete and presence or absence of supplemen- tary reinforcement
+breakout splitting factor used to modify tensile Wep,N = strength of post-installed anchors intended for use in uncracked concrete without supplementary reinforcement to account for the splitting tensile stresses
+bond splitting factor used to modify tensile strength
+of adhesive anchors intended for use in uncracked Wep,Na =
+[CODE] concrete without supplementary reinforcement to account for the splitting tensile stresses due to installation factor used to modify development length based on
+reinforcement coating breakout eccentricity factor used to modify tensile
+[CODE] Wee,N =
+[CODE] strength of anchors based on eccentricity of applied loads
+breakout eccentricity factor used to modify tensile
+[CODE] Wee,Na = strength of adhesive anchors based on eccentricity
+of applied loads
+= breakout eccentricity factor used to modify shear Wee, V
+[CODE] strength of anchors based on eccentricity of applied loads
+breakout edge effect factor used to modify tensile
+[CODE] WedNn —
+[CODE] strength of anchors based on proximity to edges of concrete member
+breakout edge effect factor used to modify tensile
+[CODE] Wed,Na = strength of adhesive anchors based on proximity to
+edges of concrete member
+= breakout edge effect factor used to modify shear Wed, V
+[CODE] strength of anchors based on proximity to edges of concrete member factor used to modify development length based on
+grade of reinforcement
+breakout thickness factor used to modify shear
+[CODE] Why =
+[CODE] strength of anchors located in concrete members
+with ha < 1.5¢q1 factor used to modify development length of hooked
+and headed bars based on side cover and confinement
+[CODE] Wo
+[CODE] American Concrete Institute — Copyrighted © Material — www.concrete.org

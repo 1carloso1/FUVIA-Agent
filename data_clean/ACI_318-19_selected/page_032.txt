@@ -1,0 +1,27 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 32/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] transfer length—length of embedded pretensioned rein-
+forcement required to transfer the effective prestress to the concrete. two-way construction—members designed to be capable
+of supporting loads through bending in two directions; some slabs and foundations are considered two-way construction.
+See also one-way construction. uncased cast-in-place concrete drilled or augered
+piles—piles with or without an enlarged base (bell) that are constructed by either drilling a hole in the ground, or by installing a temporary casing in the ground and cleaning out the soil, and subsequently filling the hole with reinforcement
+and concrete. wall—a vertical element designed to resist axial load, lateral load, or both, with a horizontal length-to-thickness ratio greater than 3, used to enclose or separate spaces. wall segment—portion of wall bounded by vertical or horizontal openings or edges. wall segment, horizontal—segment of a structural wall,
+bounded vertically by two openings or by an opening and
+an edge. wall segment, vertical—segment of a structural wall,
+bounded horizontally by two openings or by an opening and
+an edge; wall piers are vertical wall segments. wall pier—a vertical wall segment within a structural wall, bounded horizontally by two openings or by an
+opening and an edge, with ratio of horizontal length to wall thickness (¢,,/b,) less than or equal to 6.0, and ratio of clear height to horizontal length (1,,/f,,) greater than or equal to 2.0. water-cementitious materials ratio—ratio of mass of water, excluding that absorbed by the aggregate, to the mass of cementitious materials in a mixture, stated as a decimal. work—the entire construction or separately identifiable parts thereof that are required to be furnished under the construction documents. yield strength—specified minimum yield strength or yield point of reinforcement; yield strength or yield point shall be determined in tension according to applicable
+ASTM standards as modified by this Code.
+
+[COMMENTARY] wall segment, horizontal—A horizontal wall segment is
+shown in Fig. R18.10.4.5.
+[COMMENTARY] wall pier—Wall piers are vertical wall segments with
+dimensions and reinforcement intended to result in shear
+demand being limited by flexural yielding of the vertical reinforcement in the pier.
+
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

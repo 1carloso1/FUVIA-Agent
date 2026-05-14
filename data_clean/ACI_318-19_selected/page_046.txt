@@ -1,0 +1,38 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 46/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+[COMMENTARY] Reinforcement in tension, negative bending Skin reinforcement + |
+q | ee e\e|i
+[COMMENTARY] s
+sil? ni2| St. s
+[COMMENTARY] ile
+s
+_ | tte h
+h e |
+[COMMENTARY] s
+“Tts
+et |h/2 s
+o--
+[COMMENTARY] s
+i\9@\e@ © OT al skin reinforcement Reinforcement in tension, positive bending Fig. R9.7.2.3—Skin reinforcement for beams andjoists with h > 36 in.
+
+[CODE] 9.7.3 Flexural reinforcement in nonprestressed beams
+
+[COMMENTARY] R9.7.3 Flexural reinforcement in nonprestressed beams
+
+[CODE] 9.7.3.1 Calculated tensile or compressive force in rein-
+forcement at each section of the beam shall be developed on
+each side of that section.
+
+[COMMENTARY] R9.7.3.2 In Codes before 2014, one of the critical sections
+was defined as the location where adjacent reinforcement terminates or is bent. In the 2014 Code, this critical section is redefined as the location, “where bent or terminated tension reinforcement is no longer required to resist flexure.” Critical sections for a typical continuous beam are indi- cated with a “c” for points of maximum stress or an “x” for points where bent or terminated tension reinforcement is no longer required to resist flexure (Fig. R9.7.3.2). For
+uniform loading, the positive reinforcement extending into the support is more likely governed by the requirements of 9.7.3.8.1 or 9.7.3.8.3 than by development length measured
+from a point of maximum moment or the bar cutoff point.
+
+[CODE] 9.7.3.2 Critical locations for development of reinforce-
+ment are points of maximum stress and points along the span
+where bent or terminated tension reinforcement is no longer required to resist flexure.
+[CODE] American Concrete Institute — Copyrighted © Material — www.concrete.org

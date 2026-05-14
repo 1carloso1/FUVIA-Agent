@@ -1,0 +1,33 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 29/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 1: GENERAL 43
+
+
+
+[CODE] building code using the applicable provisions and load combinations. seismic hook—hook ona stirrup, hoop, or crosstie having a bend not less than 135 degrees, except that circular hoops shall have a bend not less than 90 degrees; hooks shall have
+an extension of at least 6d,, but not less than 3 in. The hooks shall engage the longitudinal reinforcement and the exten- sion shall project into the interior of the stirrup or hoop. shear cap—projection below the slab used to increase the slab shear strength. shear lug—a steel element welded to an attachment base plate to transfer shear to concrete by bearing. sheathing—material encasing prestressing reinforcement to prevent bonding of the prestressing reinforcement with the surrounding concrete, to provide corrosion protection,
+and to contain the corrosion-inhibiting coating. shotcrete—mortar or concrete placed pneumatically by
+high velocity projection from a nozzle onto a surface. shotcrete, dry-mix—shotcrete in which most of the
+mixing water is added to the concrete ingredients at the nozzle. shotcrete, wet-mix—shotcrete in which the concrete ingredients, including water, are mixed before introduction into the delivery hose. side-face blowout strength, concrete—strength of anchors with deep embedment and thin side-face cover such that spalling occurs on the side face around the embedded
+head without breakout occurring at the top concrete surface. slab-beam strip—in two-way prestressed slabs, the width of the floor system, including both the slab and beam if appli- cable, bounded laterally by adjacent panel centerlines for an interior slab-beam strip, or by adjacent panel centerline and slab edge for an exterior slab-beam strip. spacing, clear—least dimension between the outermost surfaces of adjacent items. span length—distance between supports. special seismic systems—structural systems that use special moment frames, special structural walls, or both. specialty engineer—a licensed design professional to whom a specific portion of the design work has been delegated. specialty insert—predesigned and prefabricated cast-in anchors specifically designed for attachment of bolted or slotted connections. spiral reinforcement—continuously wound reinforce-
+ment in the form of a cylindrical helix. steel element, brittle—element with a tensile test elonga- tion of less than 14 percent, or reduction in area of less than
+30 percent at failure. steel element, ductile—element with a tensile test elon- gation of at least 14 percent and reduction in area of at least 30 percent; steel element meeting the requirements of
+ASTM A307 shall be considered ductile; except as modified
+by for earthquake effects, deformed reinforcing bars meeting
+
+[COMMENTARY] Not. & Term.
+[COMMENTARY] sheathing—Typically, sheathing is a continuous, seam- less, high-density polyethylene material extruded directly
+on the coated prestressing reinforcement.
+[COMMENTARY] shotcrete—Terms such as gunite and sprayed concrete are
+sometimes used to refer to shotcrete.
+[COMMENTARY] specialty insert—Specialty inserts are devices often used for handling, transportation, erection, and anchoring elements; specialty inserts are not within the scope of this Code.
+[COMMENTARY] steel element, brittle—The 14 percent elongation should
+be measured over the gauge length specified in the appro- priate ASTM standard for the steel. steel element, ductile—The 14 percent elongation
+should be measured over the gauge length specified in the appropriate ASTM standard for steel. Due to concerns over fracture in cut threads, it should be verified that threaded
+deformed reinforcing bars satisfy the strength requirements
+of 25.5.7.1.
+[COMMENTARY] aci>
+IT
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

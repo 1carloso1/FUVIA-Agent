@@ -1,0 +1,54 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 76/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] 292 ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] axial force, consistent with the direction of the lateral forces considered, resulting in the highest flexural strength.
+[CODE] (b) The maximum shear obtained from design load combi- nations that include EF, with Q,E substituted for E.
+[CODE] 18.3.4 Beam-column joints shall satisfy Chapter 15 with joint shear V,, calculated on a plane at mid-height of the joint using tensile and compressive beam forces and column shear consistent with beam nominal moment strengths M,,.
+
+[COMMENTARY] R18.4—Intermediate moment frames The objective of the requirements in 18.4.2.3 and 18.4.3.1 is to reduce the risk of failure in shear in beams and columns during an earthquake. Two options are provided to deter-
+mine the factored shear force.
+
+[CODE] 18.4—Intermediate moment frames 18.4.1 Scope
+[CODE] 18.4.1.1 This section shall apply to intermediate moment frames including two-way slabs without beams forming part of the seismic-force-resisting system.
+[CODE] 18.4.2 Beams
+
+[COMMENTARY] R18.4.2 Beams
+
+[CODE] 18.4.2.1 Beams shall have at least two continuous bars at both top and bottom faces. Continuous bottom bars shall
+have area not less than one-fourth the maximum area of
+bottom bars along the span. These bars shall be anchored to develop f, in tension at the face of support.
+
+[COMMENTARY] According to 18.4.2.3(a), the factored shear force is
+determined from a free-body diagram obtained by cutting
+through the beam ends, with end moments assumed equal to the nominal moment strengths acting in reverse curva- ture bending, both clockwise and counterclockwise. Figure
+R18.4.2 demonstrates only one of the two options that are to be considered for every beam. To determine the maximum
+beam shear, it is assumed that its nominal moment strengths
+(d = 1.0 for moment) are developed simultaneously at both ends of its clear span. As indicated in Fig. R18.4.2, the shear associated with this condition [(Mye + Mnr)/€,] is added algebraically to the shear due to the factored gravity loads
+and vertical earthquake effects to obtain the design shear for the beam. For the example shown, dead load, live load, and snow load have been assumed to be uniformly distributed.
+The figure also shows that vertical earthquake effects are to
+be included, as is typically required by the general building code. For example, ASCE/SEI 7 requires vertical earthquake effects, 0.2.Sps, to be included. Provision 18.4.2.3(b) bases V, on the load combination including the earthquake effect E, which should be doubled. For example, the load combination defined by Eq. (5.3.1.e)
+would be
+
+[CODE] 18.4.2.2 The positive moment strength at the face of the joint shall be at least one-third the negative moment strength provided at that face of the joint. Neither the negative nor the positive moment strength at any section along the length of the beam shall be less than one-fifth the maximum moment strength provided at the face of either joint.
+[CODE] 18.4.2.3 oV,, shall be at least the lesser of (a) and (b):
+[CODE] (a) The sum of the shear associated with development of
+nominal moment strengths of the beam at each restrained
+end of the clear span due to reverse curvature bending and the shear calculated for factored gravity and vertical earth-
+quake loads (b) The maximum shear obtained from design load
+combinations that include FE, with E taken as twice that prescribed by the general building code
+[CODE] 18.4.2.4 At both ends of the beam, hoops shall be provided over a length of at least 24 measured from the face of the supporting member toward midspan. The first hoop shall be located not more than 2 in. from the face of the supporting
+member. Spacing of hoops shall not exceed the smallest of (a) through (d):
+
+[COMMENTARY] U=1.2D+2.0E+ 1.0L+ 0.28
+[COMMENTARY] where E is the value specified by the general building code.
+The factor of 1.0 applied to L is allowed to be reduced to 0.5 in accordance with 5.3.3. Transverse reinforcement at the ends of the beam is required to be hoops. In most cases, transverse reinforce-
+ment required by 18.4.2.3 for the design shear force will be
+more than those required by 18.4.2.4. Beams may be subjected to axial compressive force due to prestressing or applied loads. The additional requirements
+
+[CODE] (a) d/4 (b) Eight times the diameter of the smallest longitudinal bar enclosed (c) 24 times the diameter of the hoop bar aci=
+_iT
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

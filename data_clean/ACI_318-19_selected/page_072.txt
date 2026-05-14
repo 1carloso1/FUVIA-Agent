@@ -1,0 +1,28 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 72/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+[COMMENTARY] energy dissipation capacity, and deformation capacity of a
+proposed frame system equals or exceeds that provided by a comparable monolithic concrete system. ACI ITG-5.1 provides similar information for precast wall systems. The toughness requirement in 18.2.1.7 refers to the requirement to maintain structural integrity of the entire seismic-force-resisting system at lateral displacements anticipated for the maximum considered earthquake motion.
+Depending on the energy-dissipation characteristics of the structural system used, such displacements may be larger than for a monolithic reinforced concrete structure satisfying the prescriptive provisions of other parts of this Code.
+
+[CODE] 18.2.2 Analysis and proportioning of structural members
+
+[COMMENTARY] R18.2.2 Analysis andproportioning ofstructural members
+[COMMENTARY] It is assumed that the distribution of required strength to the various components of a seismic-force-resisting system will
+be determined from the analysis of a linearly elastic model of the system acted upon by the factored forces, as required by the general building code. If nonlinear response history anal- yses are to be used, base motions should be selected after a detailed study of the site conditions and local seismic history. Because the basis for earthquake-resistant design admits nonlinear response, it is necessary to investigate the stability of the seismic-force-resisting system, as well as its interaction with other structural and nonstructural members, under expected lateral displacements corresponding to maximum considered earthquake ground motion. For lateral displacement calcula- tions, assuming all the structural members to be fully cracked 1s likely to lead to better estimates of the possible diift than using uncracked stiffness for all members. The analysis assumptions described in 6.6.3.1 may be used to estimate lateral deflections of reinforced concrete building systems. The main objective of Chapter 18 is the safety of the struc- ture. The intent of 18.2.2.1 and 18.2.2.2 is to draw atten- tion to the influence of nonstructural members on structural response and to hazards from falling objects. Section 18.2.2.3 serves as an alert that the base of structure as defined in analysis may not necessarily correspond to the foun- dation or ground level. Details of columns and walls extending
+below the base of structure to the foundation are required to be consistent with those above the base of structure. In selecting member sizes for earthquake-resistant struc- tures, it is important to consider constructibility problems related to congestion of reinforcement. The design should
+be such that all reinforcement can be assembled and placed in the proper location and that concrete can be cast and consolidated properly. Using the upper limits of permitted reinforcement ratios may lead to construction problems.
+
+[CODE] 18.2.2.1 The interaction of all structural and nonstructural
+members that affect the linear and nonlinear response of the structure to earthquake motions shall be considered in the analysis.
+[CODE] 18.2.2.2 Rigid members assumed not to be a part of the seismic-force-resisting system shall be permitted provided their effect on the response of the system is considered in the structural design. Consequences of failure of structural
+and nonstructural members that are not a part of the seismic- force-resisting system shall be considered.
+[CODE] 18.2.2.3 Structural members extending below the base of structure that are required to transmit forces resulting from earthquake effects to the foundation shall comply with the requirements of Chapter 18 that are consistent with the seismic-force-resisting system above the base of structure.
+[CODE] 18.2.3 Anchoring to concrete
+[CODE] 18.2.3.1 Anchors resisting earthquake-induced forces in structures assigned to SDC C, D, E, or F shall be in accor-
+dance with 17.10. aci*
+a
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

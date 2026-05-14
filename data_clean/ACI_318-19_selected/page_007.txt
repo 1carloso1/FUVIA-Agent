@@ -1,0 +1,50 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 7/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 1: GENERAL
+[COMMENTARY] 21
+
+
+
+[CODE] height of entire wall from base to top, or clear height of wall segment or wall pier considered, in.
+= height of entire structural wall above the critical section for flexural and axial loads, in.
+maximum center-to-center spacing of longitudinal bars laterally supported by corners of crossties or
+hoop legs around the perimeter of a column or wall
+boundary element, in. effect of service load due to lateral earth pressure,
+ground water pressure, or pressure of bulk mate- rials, lb
+moment of inertia of section about centroidal axis, in.4
+moment of inertia of gross section of beam about centroidal axis, in.4
+moment of inertia of cracked section transformed to concrete, in.4 effective moment of inertia for calculation of deflection, in.*
+moment of inertia of gross concrete section about centroidal axis, neglecting reinforcement, in.*
+moment of inertia of gross section of slab about centroidal axis, in.*
+moment of inertia of reinforcement about centroidal axis of member cross section, in.* effective length factor for compression members
+= coefficient for basic concrete breakout strength in tension
+= coefficient for pryout strength concrete strength factor
+= confinement effectiveness factor
+
+[COMMENTARY] a Not. & Term.
+[COMMENTARY] torsional stiffness of member; moment per unit
+[COMMENTARY] K,
+[COMMENTARY] rotation
+
+[CODE] transverse reinforcement index, in.
+
+[COMMENTARY] coefficient associated with the 5 percent fractile
+
+[CODE] span length of beam or one-way slab; clear projec- tion of cantilever, in.
+
+[COMMENTARY] = length along which anchorage of a tie must occur, lane in.
+width of bearing, in. t,
+
+[CODE] length of boundary element from compression face of member, in. additional embedment length beyond centerline of support or point of inflection, in. length of compression member, measured center- to-center of the joints, in.
+= arc length of bar bend along centerline of bar, in. development length in tension of deformed bar,
+deformed wire, plain and deformed welded wire reinforcement, or pretensioned strand, in.
+development length in compression of deformed
+[CODE] lic
+[CODE] bars and deformed wire, in.
+debonded length of prestressed reinforcement at
+end of member, in.
+[CODE] lap
+
+[COMMENTARY] American Concrete Institute — Copyrighted © Material — www.concrete.org aci >

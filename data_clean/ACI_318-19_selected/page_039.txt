@@ -1,0 +1,50 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 39/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 3: MEMBERS 133
+
+
+
+[CODE] 9.4.4.4 It shall be permitted to reduce T,, in accordance with 22.7.3.
+[CODE] 9.5—Design strength 9.5.1 General
+
+[COMMENTARY] R9.5—Design strength R9.5.1 General
+[COMMENTARY] R9.5.1.1 The design conditions 9.5.1.1(a) through (d) list the typical forces and moments that need to be considered.
+However, the general condition oS, = U indicates that all forces and moments that are relevant for a given structure
+need to be considered.
+
+[CODE] 9.5.1.1 For each applicable factored load combination, design strength at all sections shall satisfy 6S, = U including (a) through (d). Interaction between load effects shall be considered.
+[CODE] (a) ¢M, 2M,
+(b) OV, 2 Vu (c) OT, 2 Ty
+(d) oP, > P,
+[CODE] 9.5.1.2 o shall be determined in accordance with 21.2.
+[CODE] 9.5.2 Moment
+
+[COMMENTARY] R9.5.2 Moment
+[COMMENTARY] Beams
+
+[CODE] 9.5.2.1 If P, < 0.10f,'Ag, M, shall be calculated in accor-
+dance with 22.3.
+
+[COMMENTARY] R9.5.2.2 Beams resisting significant axial forces require a consideration of the combined effects of axial forces and
+moments. These beams are not required to satisfy the provi- sions of Chapter 10, but are required to satisfy the additional requirements for ties or spirals defined in Table 22.4.2.1.
+For slender beams with significant axial loads, consider- ation should be given to slenderness effects as required for
+columns in 6.2.5.
+
+[CODE] 9.5.2.2 If P, = 0.10f.'A,, M, shall be calculated in accor- dance with 22.4.
+[CODE] 9.5.2.3. For prestressed beams, external tendons shall
+be considered as unbonded tendons in calculating flexural strength, unless the external tendons are effectively bonded to the concrete along the entire length.
+[CODE] 9.5.3 Shear
+[CODE] 9.5.3.1 V,, shall be calculated in accordance with 22.5.
+[CODE] 9.5.3.2 For composite concrete beams, horizontal shear strength V,,,, shall be calculated in accordance with 16.4.
+[CODE] 9.5.4 Torsion
+
+[COMMENTARY] R9.5.4 Torsion
+
+[CODE] 9.5.4.1 If 7, < oT, where Ty, is given in 22.7, it shall be permitted to neglect torsional effects. The minimum rein-
+forcement requirements of 9.6.4 and the detailing require-
+ments of 9.7.5 and 9.7.6.3 need not be satisfied.
+[CODE] 9.5.4.2 T,, shall be calculated in accordance with 22.7.
+
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

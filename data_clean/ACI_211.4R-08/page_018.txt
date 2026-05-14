@@ -1,0 +1,62 @@
+[DOCUMENT: ACI_211.4R-08]
+[PAGE: 18/23]
+[LAYOUT: continuous]
+============================================================
+SELECTING PROPORTIONS FOR HIGH-STRENGTH CONCRETE
+211.4R-19
+
+Table 8.1—Slag activity index requirements for
+various grades of slag cement per ASTM C989
+
+130% Grade 120 Relative 28-day iv) 7 slag cement compressive strength BZ 120%
+=
+= J @ 110% fo) + a
+E 100% (o) 4 oD
+& 90% |}
+” —_ 80% ——*| |-—
+
+Slag activity index (SAI), minimum percent Average of last five
+consecutive samples Any individual sample
+Grade 7-day index, % 80 — — 100 75 70 120 95 90
+28-day index, %
+80 75 70 100 95 90 120 115 110
+
+10 20 30 40 50 60 70 80 90 100
+Slag cement dosage, %
+Fig. 8.2—Idealized 28-day compressive strength curve for
+concrete mixtures made with portland cement and the
+indicated percent of ASTM C989, Grade 120 slag cement.
+
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: air content requirements; chemical admixture type classification and performance requirements.]
+strength (average of five samples) of a minimum of 115% of the compressive strength of the reference portland cement mixture. In the United States, Grade 120 slag cement typi- cally averages well above the specified minimum level. SAI values for Grade 120 slag cement of 130% are common, and for Grade 100 slag cement, achieving SAI levels above 110% is common as well. 8.1.1.4.2 Density and handling of slag cement—The density of a Grade 100 or 120 slag cement typically is
+between 0.102 and 0.107 Ib/in.°. Slag cement is handled, stored, and batched in the same manner as portland cement.
+When slag cement is used in amounts up to 30%, it is known to improve the transition zone of the paste-aggregate interface
+by reducing zone thickness and diminishing or eliminating preferred orientation of calcium hydroxide crystals. This
+improvement in paste-aggregate interface assists in achieving higher strength, particularly tensile strength, compared with concrete not containing slag cement. One important implication of the improved transition zone is that slag cement concrete
+may employ somewhat larger-size coarse aggregate
+compared with concrete not containing slag cement for a given strength. Because of the lower density, replacement on a mass basis results in slightly higher paste volume. 8.1.2 Special considerations—The use of slag cement in concrete usually improves workability and finishability. The presence of slag cement concrete does not adversely affect the pumpability of the concrete. Slump of slag cement concrete is as stable as the slump of portland cement concrete without slag cement. Slump loss of slag cement concrete may be more influenced by factors other than the slag cement. Among these other factors are the inherent
+slump loss tendencies of the portland cement, the impact of using combinations of chemical admixtures, and the stability of the air content in the unhardened concrete.
+
+130% Grade 100
+slag cement
+120% Slag Component Index Relative 28-day
+compressive strength
+110%
+100%
+90%
+80%
+10 20 30 40 50 60 70 80 90 100
+Slag cement dosage, %
+Fig. 8.3—Idealized 28-day compressive strength curve for
+concrete mixtures made with portland cement and the
+indicated percent of ASTM C989, Grade 100 slag cement.
+have been used successfully in high-strength concrete. Only limited information is available about the use of Grade 80 slag cement in high-strength concrete. Grade 120 and
+Grade 100 slag cement materials, which are the widely used slag cement grades in the United States, are recommended for developing high-strength concrete mixtures. For combinations of slag cement with portland cement, a 40 to 50% by mass replacement of portland cement with slag cement is usually associated with the highest 28-day strength. The concept behind first selecting the slag cement content from within the 40 to 50% range is shown in Fig. 8.2
+and 8.3. The 40 to 50% range should be investigated first, unless local information indicates that some other slag
+cement content is more likely to maximize compressive strength. For specifications with 56-day, 91-day, or later specified compressive strengths, a slag cement amount
+somewhat higher than 40 to 50% may be optimum. Some high-strength concrete will have performance requirements other than just compressive strength that will influence the optimum slag cement amount. For example, high-strength concrete used in mass concrete may need a slag
+cement amount higher than the 40 to 50% range (commonly into the 60 to 80% range) to reduce the rise in concrete temperature resulting from heat of hydration. Early-age strength may be reduced with increasing slag cement content.
+
+8.2—Concrete mixture proportioning 8.2.1 Purpose—The purpose of this section is to provide the user a guide of methods and examples to proportioning concrete mixtures using slag cement. 8.2.2 Introduction—The user is encouraged to use local materials and the performance history of concrete mixtures in developing concrete mixtures using slag cement. 8.2.2.1 Selecting initial slag cement grade and
+proportions—ASTM C989 Grades 100 and 120 slag cement

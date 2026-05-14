@@ -1,0 +1,16 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 148/196]
+[LAYOUT: continuous]
+============================================================
+PART 6: MATERIALS & DURABILITY 365
+CODE COMMENTARY
+demonstrate the beneficial effects of supplementary cementi- tious materials (SCMs) in reducing permeability and binding chlorides, thus helping to inhibit corrosion (Kosmatka and
+Wilson 2016). Because there are diminishing effects with increasing amounts of SCMs, the Code limits the mass of
+SCMs to 50 percent of the total cementitious materials that
+can be used to calculate the allowable amount of chloride
+- Concrete
+ions in concrete (Tepke et al. 2016). Additional information on the effects of chlorides on the corrosion of steel reinforcement is given in ACI 201.2R,
+which provides guidance on concrete durability, and ACI
+222R, which provides guidance on factors that impact corro- sion of metals in concrete. Requirements for the evaluation
+of chloride ion content are provided in 26.4.2.2.
+American Concrete Institute — Copyrighted © Material — www.concrete.org aci y

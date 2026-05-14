@@ -1,0 +1,28 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 56/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+[COMMENTARY] Cap tie
+[COMMENTARY] U stirrup with 135-
+degree hooks
+[COMMENTARY] Fig, R9.7.7,.1—Example of a two-piece stirrup that complies with the requirements of 9.7.7.1(c) and 9.7.7.2(b).
+[COMMENTARY] R9.7.7.2 At noncontinuous supports, the longitudinal rein-
+forcement is anchored as required by 9.7.7.4. R9.7.7.1 provides an example of a two-piece stirrup that satisfies 9.7.7.2(b).
+
+[CODE] 9.7.7.2 For other than perimeter beams, structural integ- rity reinforcement shall be in accordance with (a) or (b):
+[CODE] (a) At least one-quarter of the maximum positive moment reinforcement, but not less than two bars or strands, shall be continuous. (b) Longitudinal reinforcement shall be enclosed by closed stirrups in accordance with 25.7.1.6 or hoops along the clear span of the beam.
+
+[COMMENTARY] R9.7.7.3 In the case of walls providing vertical support, the longitudinal reinforcement should pass through or be anchored in the wall.
+
+[CODE] 9.7.7.3 Longitudinal structural integrity reinforcement shall pass through the region bounded by the longitudinal
+reinforcement of the column.
+[CODE] 9.7.7.4 Longitudinal structural integrity reinforcement at
+noncontinuous supports shall be anchored to develop f, at the face of the support.
+[CODE] 9.7.7.5 If splices are necessary in continuous structural integrity reinforcement, the reinforcement shall be spliced in accordance with (a) and (b):
+[CODE] (a) Positive moment reinforcement shall be spliced at or near the support (b) Negative moment reinforcement shall be spliced at or near midspan
+[CODE] 9.7.7.6 Splices shall be mechanical or welded in accor-
+dance with 25.5.7 or Class B tension lap splices in accor-
+dance with 25.5.2.
+[CODE] American Concrete Institute — Copyrighted © Material - www.concrete.org

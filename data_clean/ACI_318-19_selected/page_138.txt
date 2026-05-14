@@ -1,0 +1,54 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 138/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 6: MATERIALS & DURABILITY 355
+
+CHAPTER 19—CONCRETE: DESIGN AND DURABILITY REQUIREMENTS
+
+
+[CODE] 19.1—Scope 19.1.1 This chapter shall apply to concrete, including:
+[CODE] (a) Properties to be used for design (b) Durability requirements
+
+[COMMENTARY] @ Concrete
+
+[CODE] 19.1.2 This chapter shall apply to durability requirements for grout used for bonded tendons in accordance with 19.4.
+[CODE] 19.2—Concrete design properties 19.2.1 Specified compressive strength
+
+[COMMENTARY] R19.2—Concrete design properties R19.2.1 Specified compressive strength
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: compressive strength f'c requirements.]
+[COMMENTARY] Requirements for concrete mixtures are based on the philos-
+ophy that concrete should provide both adequate strength and durability. The Code defines a minimum value off,' for struc- tural concrete. There is no limit on the maximum value off,' except as required by specific Code provisions. Concrete mixtures proportioned in accordance with 26.4.3
+should achieve an average compressive strength that exceeds the value off." used in the structural design calculations. The
+amount by which the average strength of concrete exceeds f,' is based on statistical concepts. When concrete is designed to achieve a strength level greater than f,’, it ensures that the concrete strength tests will have a high probability of
+meeting the strength acceptance criteria in 26.12.3. The durability requirements prescribed in Table 19.3.2.1 are to
+be satisfied in addition to meeting the minimum f," of 19.2.1.
+Under some circumstances, durability requirements may dictate a higher f,’ than that required for structural purposes. Available test data do not include lower strength concrete
+with Grade 100 reinforcement in special structural walls (refer to R18.2.6). For design of special moment frames and special struc- tural walls used to resist earthquake forces, the Code limits the maximum /f,' of lightweight concrete to 5000 psi. This limit is imposed primarily because of a paucity of experi-
+mental and field data on the behavior of members made with lightweight concrete subjected to displacement reversals in the nonlinear range. Minimum concrete strengths are increased for special seismic systems with f, > 80,000 psi to enhance bar
+anchorage and reduce the neutral axis depth for improved performance. The Code also limits f,’ for design of anchors to concrete.
+The requirements are in 17.3.1.
+
+[CODE] 19.2.1.1 The value of f,' shall be in accordance with (a) through (d):
+[CODE] (a) Limits for f,! in Table 19.2.1.1. Limits apply to both
+normalweight and lightweight concrete. (b) Durability requirements in Table 19.3.2.1 (c) Structural strength requirements (d) f.' for lightweight concrete in special moment frames
+and special structural walls, and their foundations, shall not exceed 5000 psi, unless demonstrated by experimental
+evidence that members made with lightweight concrete provide strength and toughness equal to or exceeding those of comparable members made with normalweight concrete of the same strength.
+[CODE] Minimum
+Application So’, psi General 2500
+[CODE] Foundations for structures assigned to SDC A, B, or C 2500 Foundations for Residential and Utility use and occupancy classification with stud bearing wall construction two 2500 stories or less assigned to SDC D, E, or F Foundations for structures assigned to SDC D, E, or F other than Residential and Utility use and occupancy . . . . . 3000
+classification with stud bearing wall construction two
+[CODE] stories or less Special moment frames 3000
+[CODE] Special structural walls with Grade 60 or 80 reinforcement Special structural walls with Grade 100 reinforcement 5000
+[CODE] Precast-nonprestressed driven piles 4000
+[CODE] Drilled shafts Precast-prestressed driven piles 5000
+[CODE] 19.2.1.2 The specified compressive strength shall be used for proportioning of concrete mixtures in 26.4.3 and for testing and acceptance of concrete in 26.12.3.
+[CODE] 19.2.1.3 Unless otherwise specified, f,’ shall be based on
+28-day tests. If other than 28 days, test age for f,' shall be indicated in the construction documents.
+
+[COMMENTARY] R19.2.2 Modulus of elasticity
+
+[CODE] 19.2.2 Modulus of elasticity
+
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

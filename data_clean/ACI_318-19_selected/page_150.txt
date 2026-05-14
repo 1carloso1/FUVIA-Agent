@@ -1,0 +1,56 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 150/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 6: MATERIALS & DURABILITY 367
+
+
+
+[CODE] permitted in 19.3.3.6, air content shall conform to Table 19.3.3.1.
+
+[COMMENTARY] included in the Code, based on guidance provided for proportioning concrete mixtures in ACI] 211.1. Entrained air will not protect concrete containing coarse aggregates that
+undergo disruptive volume changes when frozen in a satu- rated condition.
+
+[TABLE: Table 19.3.3.1.]
+[TABLE_CONTEXT: This table specifies: freezing and thawing exposure classes; air content requirements.]
+[CODE] Table 19.3.3.1—Total air content for concrete
+exposed to cycles of freezing and thawing Nominal maximum Target air content, percent aggregate size, in. Fl F2 and F3
+
+[COMMENTARY] - Concrete
+
+[CODE] 3/8 6.0 75 1/2 3.5 7.0 3/4 5.0 6.0 1 4.5 6.0 1-1/2 4.5 3.5 2 4.0 5.0 3 3.5 4.5
+[CODE] 19.3.3.2 Concrete shall be sampled in accordance with
+ASTM C172, and air content shall be measured in accor-
+dance with ASTM C231 or ASTM C173.
+
+[COMMENTARY] R19.3.3.2 The sampling of fresh concrete for acceptance based on air content is usually performed as the concrete is discharged from a mixer or a transportation unit (for example, a ready mixed concrete truck) to the conveying equipment
+used to transfer the concrete to the forms. ASTM C172 primarily covers sampling of concrete as it is discharged
+from a mixer or a transportation unit, but recognizes that specifications may require sampling at other points such as discharge from a pump. Table 19.3.3.1 was developed for testing as-delivered concrete. ASTM C231 is applicable to
+normalweight concrete and ASTM C173 is applicable to
+normalweight or lightweight concrete. If the licensed design professional requires measurement of air content of fresh concrete at additional sampling loca- tions, such requirements should be stated in the construction
+documents, including the sampling protocol, test methods to be used, and the criteria for acceptance.
+
+[CODE] 19.3.3.3 Wet-mix shotcrete subject to freezing-and-
+thawing Exposure Classes F1, F2, or F3 shall be air entrained.
+Dry-mix shotcrete subject to freezing-and-thawing Expo- sure Class F3 shall be air entrained. Except as permitted in 19.3.3.6, air content shall conform to Table 19.3.3.3.
+
+[TABLE: Table 19.3.3.3.]
+[TABLE_CONTEXT: This table specifies: air content requirements; chemical admixture type classification and performance requirements.]
+[COMMENTARY] R19.3.3.3 Adding air-entraining admixtures improves freezing-and-thawing resistance of wet-mix shotcrete (ACI 506R). Having air contents before placement as specified in Table 19.3.3.3 will provide required performance in freezing
+and thawing. Air contents greater than those specified will not
+improve shotcrete performance because once adequate air content for durability is achieved, there is no further benefit.
+As in all concrete, too much in-place air will reduce strength. Dry-mix shotcrete without air entrainment has performed well in freezing-and-thawing environments with no expo- sure to saltwater or deicing salts (ACI 506R; Seegebrecht et al. 1989). For exposure to saltwater or deicing salts, air-entraining admixtures, in either a wet or dry form, can be added to dry-mix shotcrete to provide the required air content for durability in these exposures (Bertrand and
+Vezina 1994). The higher air content of wet-mix shotcrete
+sampled at the point of delivery accounts for expected air losses during shooting.
+
+[CODE] Table 19.3.3.3—Total air content for shotcrete
+exposed to cycles of freezing and thawing
+[CODE] Target air content,
+[CODE] Sampling percent
+Mixture type location F1 F2 F3 Wet-mix shotcrete Before 5.0 6.0 6.0
+[CODE] placement
+[CODE] Dry-mix shotcrete In-place | N/AU! | N/ATI 4.5 [lEntrained air is not required in dry-mix shotcrete for these exposure classes.
+
+[COMMENTARY] aci>
+I
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

@@ -1,0 +1,54 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 135/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 5: EARTHQUAKE RESISTANCE 351
+
+
+[COMMENTARY] R18.14—Members not designated as part of the
+seismic-force-resisting system This section applies only to structures assigned to SDC
+D, E, or F. For those SDCs, all structural members not
+
+[CODE] 18.14—Members not designated as part of the
+seismic-force-resisting system 18.14.1 Scope
+
+[COMMENTARY] a Seismic
+[COMMENTARY] designated as a part of the seismic-force-resisting system are required to be designed to support gravity loads and the
+load effects of vertical ground motion, while subjected to the
+design displacement. For concrete structures, the provisions
+of this section satisfy this requirement for columns, beams, slabs, and wall piers of the gravity system. Design displacement is defined in Chapter 2. Models
+used to determine design displacement of buildings should
+be chosen to produce results that conservatively bound the values expected during the design earthquake and should include, as appropriate, effects of concrete cracking, founda- tion flexibility, and deformation of floor and roof diaphragms. The provisions of 18.14 are intended to enable ductile flexural yielding of columns, beams, slabs, and wall piers
+under the design displacement, by providing sufficient
+confinement and shear strength in elements that yield.
+
+[CODE] 18.14.1.1 This section shall apply to members not desig- nated as part of the seismic-force-resisting system in struc- tures assigned to SDC D, E, and F.
+[CODE] 18.14.2 Design actions
+[CODE] 18.14.2.1 Members not designated as part of the seismic- force-resisting system shall be evaluated for gravity load
+combinations of 5.3 including the effect of vertical ground
+motion acting simultaneously with the design displacement 6,.
+[CODE] 18.14.3 Cast-in-place beams, columns, and joints
+
+[COMMENTARY] R18.14.3 Cast-in-place beams, columns, and joints
+
+[CODE] 18.14.3.1 Cast-in-place beams, columns, and joints shall be detailed in accordance with 18.14.3.2 or 18.14.3.3
+depending on the magnitude of moments and shears induced in those members when subjected to the design displacement 6,. If effects of 6, are not explicitly checked, the provisions
+of 18.14.3.3 shall be satisfied.
+
+[COMMENTARY] R18.14.3.1 Cast-in-place columns and beams are assumed to yield if the combined effects of factored gravity loads and design displacements exceed the strengths specified, or if the effects of design displacements are not calculated. Require-
+ments for transverse reinforcement and shear strength vary
+with member type and whether the member yields under the design displacement.
+
+[CODE] 18.14.3.2 Where the induced moments and shears do not
+exceed the design moment and shear strength of the frame
+member, (a) through (d) shall be satisfied:
+[CODE] (a) Beams shall satisfy 18.6.3.1. Transverse reinforce-
+ment shall be provided throughout the length of the beam at spacing not to exceed d/2. Where factored axial force
+exceeds Ay f,'/10, transverse reinforcement shall be hoops satisfying 18.7.5.2 at a spacing not to exceed the lesser of 6d, of the smallest enclosed longitudinal bar and 6 in. (b) Columns shall satisfy 18.7.4.1 and 18.7.6. Spiral rein-
+forcement satisfying 25.7.3 or hoop reinforcement satis- fying 25.7.4 shall be provided over the full length of the
+column with spacing not to exceed the lesser of 6d, of the smallest enclosed longitudinal bar and 6 in. Transverse reinforcement satisfying 18.7.5.2(a) through (e) shall be
+provided over a length ¢,, as defined in 18.7.5.1, from
+each joint face. (c) Columns with factored gravity axial forces exceeding 0.35P, shall satisfy 18.14.3.2(b) and 18.7.5.7. The minimum
+amount of transverse reinforcement provided shall be, for rectilinear hoops, one-half the greater of Table 18.7.5.4 parts (a) and (b) and, for spiral or circular hoops, one-half the greater of Table 18.7.5.4 parts (d) and (e). This transverse
+
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

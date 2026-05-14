@@ -1,0 +1,71 @@
+[DOCUMENT: ASTM_C33-13]
+[PAGE: 3/11]
+[LAYOUT: continuous]
+============================================================
+Ally c33/033M - 13
+tut?
+
+TABLE 2 Limits for Deleterious Substances in Fine Aggregate for
+
+[TABLE: TABLE 2 Limits for Deleterious Substances in Fine Aggrega]
+[TABLE_CONTEXT: This table specifies: chloride exposure classes and chloride ion content limits; cement chemical and physical property limits; aggregate grading and sieve analysis requirements.]
+6.3 Fine aggregate failing to meet these grading require-
+ments shall meet the requirements of this section provided that the supplier can demonstrate to the purchaser or specifier that concrete of the class specified, made with fine aggregate under consideration, will have relevant properties (see Note 5) at least equal to those of concrete made with the same ingredients, with the exception that the reference fine aggregate shall be selected from a source having an acceptable perfor-
+mance record in similar concrete construction. Nore 3—Manufactured fine aggregate having elevated proportions of material passing the 75-um (No. 200) sieve may need further evaluation to
+ensure that material passing the 75-um (No. 200) sieve is essentially
+composed of dust of fracture derived from the parent rock in the crushing operation, and does not contain an appreciable level of clay minerals or
+other deleterious constituents as described in Descriptive Nomenclature
+C294. Because some of the dust of fracture may occur in the clay size range, defined here as material finer than 2 um, care must be taken to
+properly differentiate these clay-sized materials from clay minerals.
+Natural fine aggregate with elevated proportions of material passing the
+75-um (No. 200) sieve may have higher potential for clay mineral content. Various means are available for characterizing these fines, such as
+petrographic analysis (Guide C295), sand equivalent determination (Test
+Method D2419), hydrometer analysis (Test Method D422), methylene
+blue adsorption determination (AASHTO T 330) and X-ray diffraction analysis. While these techniques are useful for investigative purposes, no specific limits have been established for prediction of performance of
+these materials in concrete under various intended service conditions.
+Methylene blue adsorption and hydrometer analyses are believed to be
+two relatively quick and reliable tests for characterization of material
+passing the 75-um (No. 200) sieve to determine suitability for use in concrete. Research (1,2) has indicated that manufactured fine aggregate
+with less than 4 % by mass finer than 2 um, and with methylene blue
+adsorption values less than 5 mg/g generally is suitable for use in concrete.
+Fine aggregate that exceeds these values also may be suitable for use
+provided that fresh and hardened concrete properties are shown to be acceptable. Notre 4—Fine aggregate that conforms to the grading requirements of a specification, prepared by another organization such as a state transpor- tation agency, which is in general use in the area, should be considered as
+having a satisfactory service record with regard to those concrete properties affected by grading. Nore 5—Relevant properties are those properties of the concrete that
+are important to the particular application being considered. STP 169D°
+provides a discussion of important concrete properties. 6.4 For continuing shipments of fine aggregate from a given source, the fineness modulus shall not vary more than 0.20
+from the base fineness modulus. The base fineness modulus shall be that value that is typical of the source. The purchaser or specifier has the authority to approve a change in the base fineness modulus. Note 6—The base fineness modulus should be determined from
+previous tests, or if no previous tests exist, from the average of the fineness modulus values for the first ten samples (or all preceding samples if less than ten) on the order. The proportioning of a concrete mixture may
+be dependent on the base fineness modulus of the fine aggregate to be
+used. Therefore, when it appears that the base fineness modulus is
+considerably different from the value used in the concrete mixture, a suitable adjustment in the mixture may be necessary. 7. Deleterious Substances 7.1 The amount of deleterious substances in fine aggregate shall not exceed the limits prescribed in Table 2.
+
+Concrete
+Mass Percent
+Item of Total Sample,
+max
+Clay lumps and friable particles 3.0
+Coal and lignite: Where surface appearance of concrete 0.5 is of importance All other concrete 1.0
+[TABLE: Table 2.]
+[TABLE_CONTEXT: This table specifies: aggregate grading and sieve analysis requirements; aggregate physical property limits.]
+4.3.2.3 The appropriate limit for material finer than the
+75-um (No. 200) sieve (see Table 1). If not stated, the 3.0 % limit shall apply, and 4.3.2.4 The limit that applies with regard to coal and lignite (Table 2). If not stated, the 1.0 % limit shall apply. 4.3.3 When the aggregate being described is coarse aggregate, include: 4.3.3.1 The nominal maximum size or sizes permitted,
+based on thickness of section or spacing of reinforcing bars or other criteria. In lieu of stating the nominal maximum size, the specifier shall designate an appropriate size number or numbers (see 10.1 and Table 3). Designation of a size number to indicate a nominal size shall not restrict the person responsible for selecting proportions from combining two or more gradings of
+aggregate to obtain a desired grading, provided that the
+gradings are not otherwise restricted by the project specifier
+and the nominal maximum size indicated by the size number is not exceeded, 4.3.3.2 The class designation (see 11.1 and Table 4), 4.3.3.3 Whether the restriction on reactive materials in 11.2 applies, 4.3.3.4 In the case of the sulfate soundness test (see Table 4), which salt is to be used. If none is stated, either sodium sulfate or magnesium sulfate shall be used, and 4.3.4 The person responsible for selecting the concrete proportions if other than the concrete producer. 4.3.5 Any exceptions or additions to this specification (see
+Note 1).
+FINE AGGREGATE
+5. General Characteristics 5.1 Fine aggregate shall consist of natural sand, manufac- tured sand, or a combination thereof.
+[TABLE: Table 1). If not stated, the 3.0 % limit shall apply, and]
+[TABLE_CONTEXT: This table specifies: cement chemical and physical property limits; aggregate grading and sieve analysis requirements; chemical admixture type classification and performance requirements.]
+6. Grading 6.1 Sieve Analysis—Fine aggregate, except as provided in 6.2 and 6.3 shall be graded within the limits in Table 1. Norse 2—Concrete with fine aggregate gradings near the minimums for
+percent passing the 300 um (No.50) and 150 um (No.100) sometimes have difficulties with workability, pumping or excessive bleeding. The addition
+of entrained air, additional cement, or the addition of an approved mineral
+admixture to supply the deficient fines, are methods used to alleviate such difficulties. 6.2 The fine aggregate shall have not more than 45 %
+passing any sieve and retained on the next consecutive sieve of
+those shown in 6.1, and its fineness modulus shall be not less
+than 2.3 nor more than 3.1.
+
+® Significance of Tests and Properties of Concrete and Concrete Making Materials, STP 169D, ASTM, 2006.
+
+Copyright by ASTM Int'l (all rights reserved);

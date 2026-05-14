@@ -1,0 +1,43 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 77/196]
+[LAYOUT: continuous]
+============================================================
+PART 5: EARTHQUAKE RESISTANCE 293
+CODE COMMENTARY
+
+(d) 12 in. in 18.4.2.6 are intended to provide lateral support for beam
+
+longitudinal reinforcement.
+
+18.4.2.5 Transverse reinforcement spacing shall not
+exceed d/2 throughout the length of the beam.
+18.4.2.6 In beams having factored axial compressive force exceeding A,f,'/10, transverse reinforcement required
+by 18.4.2.5 shall conform to 25.7.2.2 and either 25.7.2.3 or 25.7.2.4.
+
+ae = (1.2 + 0.2Spo)D + 1.0L + 0.28
+Mn ( 5 Mor
+r’ Nl
+Cn v
+V,
+!
+Vu ur | Beam shear
+V,= My+ Mor n Wy fn
+oe 2
+Column shear
+lu a
+\
+Mnb V.= Mrt+ Mnp
+te. = Matt Me
+u ly
+Fig. R18.4.2—Design shears for intermediate moment frames.
+
+18.4.3 Columns R18.4.3 Columns
+
+18.4.3.1 OV, shall be at least the lesser of (a) and (b): According to 18.4.3.1(a), the factored shear force is
+
+determined from a free-body diagram obtained by cutting
+
+(a) The shear associated with development of nominal through the column ends, with end moments assumed equal
+moment strengths of the column at each restrained end of to the nominal moment strengths acting in reverse curva-
+
+American Concrete Institute - Copyrighted © Material — www.concrete.org aci>

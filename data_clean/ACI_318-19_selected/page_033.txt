@@ -1,0 +1,51 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 33/196]
+[LAYOUT: continuous]
+============================================================
+PART 3: MEMBERS 127
+
+CHAPTER 9—BEAMS
+CODE
+
+COMMENTARY
+
+9.1—Scope 9.1.1 This chapter shall apply to the design of nonpre- stressed and prestressed beams, including:
+
+R9.1—Scope R9.1.1 Composite structural steel-concrete beams are not covered in this chapter. Design provisions for such
+composite beams are covered in AISC 360.
+
+(a) Composite beams of concrete elements constructed in separate placements but connected so that all elements resist loads as a unit (b) One-way joist systems in accordance with 9.8 (c) Deep beams in accordance with 9.9
+
+R9.2—General
+
+9.2—General 9.2.1 Materials
+9.2.1.1 Design properties for concrete shall be selected to
+be in accordance with Chapter 19.
+9.2.1.2 Design properties for steel retnforcement shall be selected to be in accordance with Chapter 20.
+9.2.1.3 Materials, design, and detailing requirements for
+embedments in concrete shall be in accordance with 20.6.
+9.2.2 Connection to other members
+9.2.2.1 For cast-in-place construction, beam-column and slab-column joints shall satisfy Chapter 15.
+9.2.2.2 For precast construction, connections shall satisfy the force transfer requirements of 16.2.
+9.2.3 Stability
+
+R9.2.3 Stability
+
+9.2.3.1 If a beam is not continuously laterally braced, (a)
+and (b) shall be satisfied:
+
+R9.2.3.1 Tests (Hansell and Winter 1959; Sant and Blet- zacker 1961) have shown that laterally unbraced reinforced concrete beams, even when very deep and narrow, will not fail prematurely by lateral buckling, provided the beams are loaded without lateral eccentricity that causes torsion. Laterally unbraced beams are frequently loaded eccentri- cally or with slight inclination. Stresses and deformations
+by such loading become detrimental for narrow, deep beams
+with long unsupported lengths. Lateral supports spaced closer than 50b may be required for such loading conditions.
+
+(a) Spacing of lateral bracing shall not exceed 50 times the least width of compression flange or face. (b) Spacing of lateral bracing shall take into account effects of eccentric loads.
+9.2.3.2 In prestressed beams, buckling of thin webs and flanges shall be considered. If there is intermittent contact
+between prestressed reinforcement and an oversize duct,
+member buckling between contact points shall be considered.
+
+R9.2.3.2 In post-tensioned members where the prestressed reinforcement has intermittent contact with an oversize duct, the member can buckle due to the axial prestressing force, as the member can deflect laterally while the prestressed reinforcement does not. If the prestressed reinforcement is in continuous contact with the member being prestressed or is part of an unbonded tendon with the sheathing not excessively larger than the prestressed reinforcement, the prestressing force cannot buckle the member.
+
+9.2.4 7-beam construction
+
+R9.2.4 7-beam construction
+American Concrete Institute - Copyrighted © Material — www.concrete.org

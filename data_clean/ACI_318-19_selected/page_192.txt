@@ -1,0 +1,41 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 192/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] 554 ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+
+[COMMENTARY] core strengths have been established with consideration that cores for investigating low strength-test results will typically
+be extracted at an age later than specified for f,’. For the
+purpose of satisfying 26.12.4.1(e), this Code does not intend that core strengths be adjusted for the age of the cores.
+
+[CODE] (f) Additional testing of cores extracted from locations represented by erratic core strength results shall be permitted. (g) If criteria for evaluating structural adequacy based
+on core strength results are not met, and if the structural
+adequacy remains in doubt, the responsible authority shall
+be permitted to order a strength evaluation in accordance
+with Chapter 27 for the questionable portion of the struc- ture or take other appropriate action.
+
+[COMMENTARY] R26.12.7 Acceptance of steel fiber-reinforced concrete
+
+[CODE] 26.12.7 Acceptance of steel fiber-reinforced concrete
+
+[COMMENTARY] R26.12.7.1 The performance criteria for the ASTM C1609 tests are based on results from flexural tests (Chen et al. 1995) conducted on steel fiber-reinforced concretes with fiber types and contents similar to those used in the tests of
+beams that served as the basis for 9.6.3.1. The term “residual strength” is defined in ASTM C1609
+and is related to the ability of cracked fiber-reinforced
+concrete to resist tension. The strength of 7.5 Vf? 1s consis- tent with the design modulus of rupture of the concrete
+provided by Eq. (19.2.3.1).
+
+[CODE] 26.12.7.1 Compliance requirements:
+[CODE] (a) Steel fiber-reinforced concrete used for shear resis- tance shall satisfy (1) through (3): (1) The compressive strength acceptance criteria for standard-cured specimens (2) The residual strength obtained from flexural testing in accordance with ASTM C1609 at a midspan deflec- tion of 1/300 of the span length is at least the greater of (i) and (11): (i) 90 percent of the measured first-peak strength obtained from a flexural test and (ii) 90 percent of the strength corresponding to 7.5 Vf? (3) The residual strength obtained from flexural testing in accordance with ASTM C1609 at a midspan deflec- tion of 1/150 of the span length is at least the greater of (i) and (11): (i) 75 percent of the measured first-peak strength obtained from a flexural test and (ii) 75 percent of the strength corresponding to 7.5 Vf
+
+[COMMENTARY] R26.13—Inspection R26.13.1 General
+
+[CODE] 26.13—Inspection 26.13.1 General
+
+[COMMENTARY] The quality of concrete structures depends largely on
+workmanship in construction. The best materials and design practices will not be effective unless construction is performed well. Inspection is necessary to verify that construction is in accordance with construction documents.
+Proper performance of the structure depends on construction that accurately represents the design and meets the require-
+ments of this Code. Some general building codes have incorporated inspection requirements based upon established procedures such as PCI Plant Certification.
+
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

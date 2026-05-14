@@ -1,0 +1,23 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 37/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 3: MEMBERS 131
+
+
+[COMMENTARY] are transferred directly to the support by compression in the
+web above the crack. Accordingly, the Code permits design for a maximum factored shear V,, at a distance d from the support for nonprestressed beams and at a distance h/2 for prestressed beams. In Fig. R9.4.3.2b, loads are shown acting near the bottom
+of a beam. In this case, the critical section is taken at the face of the support. Loads acting near the support should
+be transferred across the inclined crack extending upward
+from the support face. The shear force acting on the critical section should include all loads applied below the potential inclined crack. Typical support conditions where the shear force at a distance d from the support may be used include: (a) Beams supported by bearing at the bottom of the beam, such as shown in Fig. R9.4.3.2(c) (b) Beams framing monolithically into a column, as illus- trated in Fig. R9.4.3.2(d) Typical support conditions where the critical section is
+
+[CODE] (b) Loads are applied at or near the top surface of the beam (c) No concentrated load occurs between the face of support and critical section
+
+[COMMENTARY] -) Beams
+[COMMENTARY] taken at the face of support include: (a) Beams framing into a supporting member in tension, such as shown in Fig. R9.4.3.2(e). Shear within the
+connection should also be investigated and special corner reinforcement should be provided. (b) Beams for which loads are not applied at or near the top, as previously discussed and as shown in Fig. R9.4.3.2b. (c) Beams loaded such that the shear at sections between the support and a distance d from the support differs radi- cally from the shear at distance d. This commonly occurs in brackets and in beams where a concentrated load is located close to the support, as shown in Fig. R9.4.3.2(f).
+[COMMENTARY] C_y
+TM ce >|
+T | T \ yAyf vu
+=—N Critical section Rl Fig. R9.4.3.2a—Free body diagrams of the end of a beam.
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

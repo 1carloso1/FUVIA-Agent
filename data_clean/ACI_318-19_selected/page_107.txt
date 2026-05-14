@@ -1,0 +1,41 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 107/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 5: EARTHQUAKE RESISTANCE 323
+
+
+[COMMENTARY] one member is imposed to limit the degree of redistribution
+of shear force. Horizontal wall segments in 18.10.4.5 refer to wall
+[COMMENTARY] Seismic
+18
+[COMMENTARY] sections between two vertically aligned openings (refer to Fig. R18.10.4.5). It is, in effect, a vertical wall segment rotated through 90 degrees. A horizontal wall segment is also referred to as a coupling beam when the openings are aligned vertically over the building height. When designing a hori- zontal wall segment or coupling beam, p,; refers to vertical reinforcement and p; refers to horizontal reinforcement.
+[COMMENTARY] (;
+[COMMENTARY] Vertical wall segment
+[COMMENTARY] ~— Horizontal
+[COMMENTARY] wall segment
+(
+[COMMENTARY] Fig. R18.10.4.5—Wall with openings.
+
+[CODE] 18.10.4.6 The requirements of 21.2.4.1 shall not apply to walls or wall piers designed according to 18.10.6.2.
+
+[COMMENTARY] R18.10.4.6 Section 21.2.4.1 does not apply because walls designed according to 18.10.6.2 are controlled by flexural yielding, and code level shear forces have been amplified.
+
+[CODE] 18.10.5 Design for flexure and axial force
+
+[COMMENTARY] R18.10.5 Design for flexure and axial force
+
+[CODE] 18.10.5.1 Structural walls and portions of such walls subject to combined flexure and axial loads shall be designed in accordance with 22.4. Concrete and developed longitu- dinal reinforcement within effective flange widths, boundary elements, and the wall web shall be considered effective.
+The effects of openings shall be considered.
+
+[COMMENTARY] R18.10.5.1 Flexural strength of a wall or wall segment is determined according to procedures commonly used for columns. Strength should be determined considering the applied axial and lateral forces. Reinforcement concentrated in boundary elements and distributed in flanges and webs should be included in the strength calculations based on a strain compatibility analysis. The foundation supporting the wall should be designed to resist the wall boundary and web forces. For walls with openings, the influence of the opening or openings on flexural and shear strengths is to be consid- ered and a load path around the opening or openings should
+be verified. Capacity-design concepts and the strut-and-tie
+method may be useful for this purpose (Taylor et al. 1998).
+
+[CODE] 18.10.5.2 Unless a more detailed analysis is performed, effective flange widths of flanged sections shall extend from the face of the web a distance equal to the lesser of one-half the distance to an adjacent wall web and 25 percent of the total wall height above the section under consideration.
+
+[COMMENTARY] R18.10.5.2 Where wall sections intersect to form L-, T-, C-, or other cross-sectional shapes, the influence of the flange on the behavior of the wall should be considered by selecting appropriate flange widths. Tests (Wallace 1996)
+show that effective flange width increases with increasing drift level and the effectiveness of a flange in compression differs from that for a flange in tension. The value used for the effective compression flange width has little effect on
+[COMMENTARY] (aci¥
+_a
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

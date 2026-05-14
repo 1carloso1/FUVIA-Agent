@@ -1,0 +1,46 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 169/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 9: CONSTRUCTION 531
+
+
+
+[CODE] least the first 3 days after placement, except if accelerated curing is used. (c) Accelerated curing to accelerate strength gain and
+reduce time of curing is permitted using high-pressure steam, steam at atmospheric pressure, heat and moisture, or other process acceptable to the licensed design profes- sional. If accelerated curing is used, (1) and (2) shall apply: (1) Compressive strength at the load stage considered shall be at least the strength required at that load stage. (2) Accelerated curing shall not impair the durability of the concrete.
+
+[COMMENTARY] R26.5.3.2(c) This section applies whenever an accelerated curing method is used, whether for precast or cast-in-place elements. EB-001.15, and PCI MNL 116, and PCI MNL 117
+provide general information on accelerated curing. Acceler- ated curing procedures require careful attention to obtain
+uniform and satisfactory results. Preventing moisture loss during the curing is essential. The compressive strength of accelerated-cured concrete is not as high at later ages as that of nominally identical concrete continuously cured under moist conditions at
+moderate temperatures. Also, the modulus of elasticity, E,,
+of accelerated-cured specimens may vary from that of speci-
+mens moist-cured at normal temperatures.
+[COMMENTARY] R26.5.3.2(d) Strengths of cylinders cured under field conditions may be required to evaluate the adequacy of
+
+[CODE] (d) If required by the building official or licensed design professional, test results for cylinders made and cured in
+accordance with (1) and (2) shall be provided in addition to test results for standard-cured cylinders. (1) At least two 6 x 12 in. or at least three 4 x 8 in. cylin- ders to be field cured shall be molded at the same time
+and from the same samples as standard-cured cylinders. (2) Field-cured cylinders shall be cured in accordance with the field curing procedure of ASTM C31 and tested in accordance with ASTM C39.
+
+[COMMENTARY] oa Construction
+[COMMENTARY] curing and protection of concrete in the structure. The Code provides a specific criterion in 26.5.3.2(e) for determining the adequacy of curing and protection afforded to the structure. For a valid comparison, field-cured cylin- ders and companion standard-cured cylinders need to be
+made from the same sample. Field-cured cylinders are to be cured, as nearly as possible, under the same conditions as the structure. The field-cured cylinders should not be treated
+more favorably than the structural members they represent. In evaluating test results of field-cured cylinders, it should
+be recognized that even if cylinders are protected in the same
+manner as the structure, they may not experience the same temperature history as the concrete in the structure. This different temperature history occurs because heat of hydra- tion may be dissipated differently in a cylinder compared
+with the structural member.
+[COMMENTARY] R26.5.3.2(e) Research (Bloem 1968) has shown that the strength of cylinders protected and cured to simulate
+good field practice should be at least about 85 percent of standard-cured cylinders if both are tested at the age desig-
+nated for f.’. Thus, a value of 85 percent has been set as a rational basis for determining the adequacy of field curing.
+The comparison is made between the measured strengths
+of companion field-cured and standard-cured cylinders, not
+between the strength of field-cured cylinders and the value
+off.’. Test results for the field-cured cylinders are considered satisfactory, however, if the strength of field-cured cylinders
+exceeds f.’ by more than 500 psi, even though they fail to reach 85 percent of the strength of companion standard- cured cylinders. The 85 percent criterion is based on the assumption that concrete is maintained above 50°F and in a moist condition for at least the first 7 days after placement, or high-early- strength concrete is maintained above 50°F and in a moist condition for at least the first 3 days after placement.
+
+[CODE] (e) Procedures for protecting and curing concrete shall be considered adequate if (1) or (2) are satisfied: (1) Average strength of field-cured cylinders at test
+age designated for determination of f,’ is equal to or at least 85 percent of that of companion standard-cured cylinders. (2) Average strength of field-cured cylinders at test age
+exceeds f,' by more than 500 psi.
+
+[COMMENTARY] aci=
+_ IT
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

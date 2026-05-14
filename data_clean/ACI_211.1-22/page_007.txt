@@ -1,0 +1,50 @@
+[DOCUMENT: ACI_211.1-22]
+[PAGE: 7/26]
+[LAYOUT: continuous]
+============================================================
+8 SELECTING PROPORTIONS FOR NORMAL-DENSITY AND HIGH-DENSITY CONCRETE—GUIDE (ACI PRC-211.1-22)
+
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; exposure class requirements for concrete durability; freezing and thawing exposure classes; air content requirements.]
+the applicable cases, or the w/cm required to produce the required strength needs to be considered. Finally, to account for the variability of concrete, the required average compres- sive strength, /,’, will dictate a particular w/em. The w/cm selected for the design will be the lowest value selected from
+between those required by specification, exposure class, or required average compressive strength. The relationship
+between w/cm and strength can be evaluated through w/cm curves that plot the strength produced by a particular set of ingredients as the w/cm is changed. Without such an analysis, Table 5.3.4 can be used to estimate w/cm. 4.7.2 w/cm specified by contract—When a w/cm is speci- fied by contract, it should be compared to those needed for durability and strength. If another consideration produces a lower w/cm, the specification is considered to have
+been exceeded. 4.7.3 w/cm needed for durability—The required w/cm and strength for durability is dependent on the exposure. ACI 318 Chapter 19 requires consideration of exposure to the following four categories: sulfate exposure (S), freezing-
+and-thawing exposure (F), exposure when in contact with water (W), and exposure to corrosion (C). ACI 301 Chapter 4 also adopts these four exposure categories described in
+ACI 318 Chapter 19. Table 4.7.3a shows the requirements for Exposure Cate- gory S for sulfate exposure. Table 4.7.3b shows the requirements for Exposure Cate-
+gory F for freezing-and-thawing exposure. Table 4.7.3c shows the requirements for Exposure Cate- gory W in contact with water. Table 4.7.3d shows the requirements for Exposure Cate-
+gory C for conditions requiring corrosion protection of reinforcement. 4.7.3.1 Freezing-and-thawing exposure—The freezing- and-thawing exposure class has four categories: FO, F1, F2, and F3. The FO category is not exposed to freezing-
+and-thawing conditions, and Categories F1 through F3 are
+exposed from a lesser to a greater extent. The air content for freezing-and-thawing resistance is specified in Table 4.7.3.1.
+
+When trial batches are used to establish strength rela- tionships or verify strength-producing capability of a mixture, the least favorable combination of mixing water and air content should be used. The air content should be the maximum permitted or likely to occur, and the concrete should be designed to the highest permissible slump. This will avoid developing an over-optimistic estimate of strength
+on the assumption that average, rather than extreme, condi- tions will prevail in the field. If the concrete obtained in the field has a lower slump, air content, or both, the proportions
+of ingredients should be adjusted to maintain required yield.
+For additional information on air content recommendations, refer to ACI 201.2R, 301, and 302.1R. 4.6.3 Effect on strength—For normal concrete, the addi- tion of each additional percentage point of air will reduce the strength of the concrete approximately 5% (Yurdakul et al. 2014).
+4.7—Water-cementitious materials ratio (w/cm) The water-cementitious materials ratio (w/cm) is the
+major parameter controlling concrete strength. For a given mixture of concrete materials, a specific w/cm produces a unique strength. For the same mixture, achieving a specified strength requires a particular w/cm. Although it is primarily a determinant of concrete strength, w/cm affects other important properties such as density, elastic modulus, durability, shrinkage and cracking,
+and permeability. Achieving one of these properties may call fora w/cm lower than one that might be dictated by strength. Once the w/cm is chosen, it is used to determine the weight of cementitious materials if the quantity of water is known, or vice versa. 4.7.1 w/cm selection—The selection of w/cm is made based on the strength required. However, there are several possibilities and more than one w/cm may be indicated, and an orderly consideration is needed. First, w/cm may be spec- ified in contract documents. Next, the environmental condi- tions should be examined. ACI 318 Chapter 19 lists several exposure categories, with multiple classes, each calling for a particular strength and w/cm. The lowest w/cm for any of
+Table 4.73a—Requirements for concrete by Exposure Category S for sulfate exposure (ACI 301-20
+Table 4.2.2.6(b))
+
+Maximum Required cementitious materials'—types Calcium chloride
+
+[TABLE: Table 4.73a—Requirements for concrete by Exposure Category S]
+[TABLE_CONTEXT: This table specifies: compressive strength f'c requirements; exposure class requirements for concrete durability; sulfate exposure classes; chloride exposure classes and chloride ion content limits; portland cement type specifications and chemical requirements; chemical admixture type classification and performance requirements.]
+Exposure class wiem* Minimum
+f.”, psi |ASTM C150/C150M ASTM C595/CS595M ASTM C1157/C1157M admixture SO NA 2500 NA NA NA No restriction Sl 0.50 4000 1s Types with (MS) designation MS No restriction S2 0.45 4500 vs Types with (HS) designation HS Not permitted Gerona 0.45 4500 V plus pozzolan or Types with (HS) designation HS plus pozzolan or Not permitted
+
+S3 slag cement! plus pozzolan or slag cement! slag cement!
+
+Option 2 0.40 5000 Ve Types with (HS) designation HS Not permitted
+
+[TABLE: Table 4.73a—Requirements for concrete by Exposure Category S]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; sulfate exposure classes; portland cement type specifications and chemical requirements; cement chemical and physical property limits.]
+*The maximum w/cm limits do not apply to lightweight concrete. Alternative combinations of cementitious materials of those listed in this table are acceptable if tested for sulfate resistance and meeting the criteria in Table 4.2.2.6(b)1. *For seawater exposure, other types of portland cements with tricalcium aluminate (C3A) contents up to 10% are acceptable if the w/cm does not exceed 0.40. Other available types of cement, such as Type III or Type I, are acceptable in Exposure Classes $1 or S2 ifthe C3A contents are less than 8% or 5%, respectively.
+
+'The amount of the specific source of the pozzolan or slag cement to be used shall be at least the amount determined by test or service record to improve sulfate resistance when used in concrete containing Type V cement. Alternatively, the amount of the specific source of the pozzolan or slag used shall not be less than the amount tested in accordance with
+ASTM C1012/C1012M and meeting the requirements of Table 4.2.2.6(b)1. *If Type V cement is used as the sole cementitious material, the optional sulfate resistance requirement of 0.040% maximum expansion in ASTM C150/C150M is applicable.
+
+Copyright Am dci je Institute
+American Concrete Institute — Copyrighted © Material — www.concrete.org
+@seismicisolation

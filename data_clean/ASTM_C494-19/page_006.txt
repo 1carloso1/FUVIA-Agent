@@ -1,0 +1,61 @@
+[DOCUMENT: ASTM_C494-19]
+[PAGE: 6/15]
+[LAYOUT: continuous]
+============================================================
+All cag4/cag4m - 19
+suri
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: chloride exposure classes and chloride ion content limits; air content requirements; chemical admixture type classification and performance requirements; admixture water reduction and setting time effects.]
+of total aggregate, or both, while maintaining the yield and
+slump in the required ranges. 12.2 Adding Admixture to Test Concrete—Except for a Type
+S admixture, add the admixture in the manner recommended
+by the manufacturer and in the amount necessary to comply
+with the applicable requirements of the specifications for water reduction or time of setting, or both. If desired by the person or
+agency for whom the tests are being performed, the admixture is allowed to be added in an amount such as to produce a specific time of setting of the concrete mixture within the limits
+of the applicable provisions of this specification. A Type S
+admixture shall be tested at a dosage within the range recom-
+mended by the manufacturer for field use. 12.2.1 Non-Air-Entrained Concrete—If the admixture is to
+be tested for use only in non-air-entrained concrete, the average air contents of the test concrete and the reference concrete shall
+not exceed 3.5 %, and the difference between the average air contents of the two categories shall not exceed 1.0 percentage point. If necessary, the air-entraining admixture shall be added to the reference concrete to obtain an air content within 1
+percentage point of the test concrete. Tests for resistance to cyclic freezing and thawing shall not be made. 12.2.2 Air-Entrained Concrete—If the admixture is to be tested for use in air-entrained concrete that will be exposed to freezing and thawing while wet, the air content of the reference concrete and test concrete shall be 6.0 + 1.0 %. The difference
+between the average air content from the batches of the reference concrete and the average air content from the batches
+of the test concrete shall not exceed 0.5 percentage points. Air contents of individual pairs of batches of test and reference
+concretes are not required to fall within the 0.5 % requirement. Tests for resistance to cyclic freezing and thawing shall be
+conducted in accordance with Test Method C666/C666M,
+Procedure A. 13. Mixing 13.1 Machine mix the concrete in accordance with Practice
+C192/C192M. 14. Tests and Properties of Freshly Mixed Concrete 14.1 Samples of freshly mixed concrete from at least three separate batches for each category of concrete shall be tested in
+accordance with the methods described in 14.2 — 14.5. 14.2 Slump—Test Method C143/C143M. 14.3 Air Content—Test Method C231/C231M. 14.4 Density of Fresh Concrete—Test Method C138/
+C138M. 14.5 Time of Setting—Test Method C403/C403M, except that the temperature of each of the ingredients of the concrete
+mixtures, just before mixing, and the temperature at which the time-of-setting specimens are stored during the test period shall
+be 23.0 + 2.0 °C [73.5 + 3.5 °F]. Compare the average of the results from the specimens of the test concrete with the average
+of the results from the specimens of the reference concrete. 14.6 Water Content: 14.6.1 Report the water-cement ratio of the concrete, com-
+puted to the nearest 0.001, as follows: Determine the net mass
+
+reference concrete and at least three batches of each test
+concrete being evaluated. If reference concrete and companion test concrete batches are made the same day, it is permitted to
+use the same reference concrete to evaluate more than one test concrete. The quantity of coarse aggregate for one set of tests shall be sufficient to make all batches of concrete and provide
+a sample for performing a sieve analysis. 11.2.4.1 Obtain tared containers, one for each batch of concrete to be made and one for the sieve analysis sample. One Or more spare containers are recommended in case a concrete
+batch has to be discarded. Prepare coarse aggregate for a set as follows: Fill tared containers so that each batch will contain similar particle grading. Accomplish this by taking scoopfuls
+from the stockpile and placing them successively into each container until all containers have their required mass. See the
+Appendix of Practice D75/D75M, Sampling from Stockpiles,
+and the Manual of Aggregate and Concrete Testing for guid-
+ance on procedures to mitigate segregation. 11.2.5 Verification of Grading—Test the coarse aggregate
+samples representing each set in accordance with Test Method
+C136/C136M. Discard any set for which the sample does not
+comply with size 57 requirements of Specification C33/C33M. Norte 7—The results required for demonstrating compliance under this specification depend on the uniformity of the aggregate samples prepared
+and used. 11.3 Air-Entraining Admixture—The air-entraining admix- ture used in the concrete mixtures specified in Section 12 shall
+conform to Specification C260/C260M. 11.4 Preparation and Batching—Prepare and weigh all materials in accordance with Practice C192/C192M. 12. Proportioning of Concrete Mixtures 12.1 Proportions—Concrete shall be proportioned using
+ACI 211.1 to conform to the requirements described in 12.1.1
+— 12.1.4. After evaluation of the trial mixtures, aggregate proportions shall be adjusted as needed to obtain workable,
+cohesive mixtures with the correct yield to obtain the required cement contents. 12.1.1 The cement content of each batch, based on actual
+yield, shall be 307 + 3 kg/m? [517 + 5 lb/yd’]. The average
+cement content of the batches of test concrete shall be within
+3 kg/m? [5 lb/yd*] of the average cement content of the batches
+of reference concrete. 12.1.2 For the first trial mixture, refer to the table on volume
+of coarse aggregate per unit volume of concrete in ACI 211.1 for guidance on the amount of coarse aggregate to use, given a
+nominal maximum size of 25.0 mm [1 in.] and the fineness
+modulus of the fine aggregate being used. 12.1.3 For the non-air-entrained mixtures, the air content
+used in calculating the proportions shall be 1.5 %. For the air-entrained mixtures, the air content used for this purpose shall be 5.5 %. 12.1.4 Adjust the water content to obtain a slump of 90 + 15 mm [3% = Y% in.]. The workability of the concrete mixture shall be suitable for consolidation by hand rodding and the
+concrete mixture shall have the minimum water content possible. Achieve these conditions by final adjustments in the
+proportion of fine aggregate to total aggregate or in the amount
+Copyright by ASTM Int'l (all rights reserved); Wed Sep 2 00:11:37 EDT 2020 6 Downloaded/printed by Indian Inst of Tech Chennai (Indian Inst of Tech Chennai) pursuant to License Agreement. No further reproductions authorized.

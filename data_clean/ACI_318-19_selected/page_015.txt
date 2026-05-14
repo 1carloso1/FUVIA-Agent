@@ -1,0 +1,57 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 15/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 1: GENERAL
+[COMMENTARY] 29
+
+
+
+[CODE] net tensile strain in extreme layer of longitu-
+
+[COMMENTARY] © Not. & Term.
+
+[CODE] E;
+[CODE] dinal tension reinforcement at nominal strength, excluding strains due to effective prestress, creep, shrinkage, and temperature value of net tensile strain in the extreme layer of
+[CODE] Ep
+[CODE] longitudinal tension reinforcement used to define a compression-controlled section angle between axis of strut, compression diagonal, or compression field and the tension chord of the
+members modification factor to reflect the reduced mechan- ical properties of lightweight concrete relative to
+normalweight concrete of the same compressive strength
+
+[COMMENTARY] = in most cases, the reduction in mechanical prop- erties is caused by the reduced ratio of tensile- to-compressive strength of lightweight concrete
+compared to normalweight concrete. There are instances in the Code where A is used as a modi- fier to reduce expected performance of lightweight concrete where the reduction is not related directly to tensile strength.
+
+[CODE] modification factor to reflect the reduced mechan- ical properties of lightweight concrete in certain concrete anchorage applications multiplier used for additional deflection due to long-term effects factor used to modify shear strength based on the effects of member depth, commonly referred to as the size effect factor. coefficient of friction
+time-dependent factor for sustained load ratio of A, to bd ratio of A,’ to bd ratio of area of distributed longitudinal reinforce-
+ment to gross concrete area perpendicular to that reinforcement ratio of A,, to bd,
+[CODE] Pp
+[CODE] ratio of volume of spiral reinforcement to total
+volume of core confined by the spiral, measured
+[CODE] Ps
+[CODE] out-to-out of spirals ratio of area of distributed transverse reinforce-
+ment to gross concrete area perpendicular to that
+reinforcement
+[CODE] Pp
+[CODE] ratio of tie reinforcement area to area of contact
+[CODE] Py
+[CODE] surface ratio of A, to b,d
+[CODE] Pw
+
+[COMMENTARY] exponent symbol in tensile/shear force interaction
+equation
+
+[CODE] strength reduction factor
+
+[COMMENTARY] x
+[COMMENTARY] stiffness reduction factor
+
+[CODE] by
+[CODE] strength reduction factor for moment in preten- sioned member at cross section closest to the end of the member where all strands are fully developed
+
+[COMMENTARY] wall boundary extreme fiber concrete nominal
+compressive stress, psi
+
+[CODE] characteristic bond stress of adhesive anchor in
+cracked concrete, psi
+
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

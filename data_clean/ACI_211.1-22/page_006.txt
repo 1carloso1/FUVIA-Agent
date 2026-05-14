@@ -1,0 +1,39 @@
+[DOCUMENT: ACI_211.1-22]
+[PAGE: 6/26]
+[LAYOUT: continuous]
+============================================================
+SELECTING PROPORTIONS FOR NORMAL-DENSITY AND HIGH-DENSITY CONCRETE—GUIDE (ACI PRC-211.1-22) 7
+
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: compressive strength f'c requirements; exposure class requirements for concrete durability; air content requirements; chemical admixture type classification and performance requirements.]
+4.6—Air The volume of air needs to be known because it is included in the sum ofthe volumes of the known ingredients
+when applying the absolute volume method to determine the volume of fine aggregate. Air in concrete appears in two forms: entrapped and entrained. Entrapped air bubbles are generally larger than entrained ones and irregularly shaped and dispersed. Entrained bubbles are generally smaller than 0.1 mm and are round under microscopic examination. The distribution of the bubbles measured by the spacing factor is as important as the size. Entrained air is introduced into concrete to enhance the concrete’s freezing-and-thawing resistance. It is produced with the addition to the concrete mixture of air-entraining admixtures. 4.6.1 Entrapped air—Entrapped air is the air voids in concrete that are not purposely entrained. They are larger, irregular in shape, less useful than those of entrained air, and 0.04 in. (1 mm) or larger in size. Entrapped air is seen against the sides of the form and in broken concrete as visible voids
+under aggregate particles. Table 5.3.3 approximates the amount of entrapped air to be expected in non-air-entrained concrete in the table. 4.6.2 Entrainedair—Entrained air takes the form of micro- scopic air bubbles intentionally incorporated in a cementi- tious paste during mixing, usually by use of a surface-active agent. The air bubbles are typically between 0.0004 and 0.04 in. (10 and 1000 jum) in diameter and spherical or nearly so. As important as the size of the bubbles is their dispersion throughout the cement paste. Some water-reducing admix- tures will unintentionally entrain air. Table 5.3 .3 indicates the approximate amount of entrapped
+air
+to beexpected in non-air-entrained concrete and shows the
+recommended average air content for air-entrained concrete. If air entrainment is needed or desired, the required total air content levels are given for each aggregate size, depending
+on the purpose of the entrained air and the severity of expo- sure if entrained air is needed for durability. The use of normal amounts of air entrainment in concrete with a specified strength of approximately 5000 psi may not be possible because each added percent of air lowers the
+maximum strength obtainable with a given combination of materials. In these cases, the exposure to water, deicing salts,
+and freezing temperatures should be carefully evaluated. If a member is not continually wet and will not be exposed to deicing salts, lower air-content values, such as those given in Table 5.3.3 for Fl exposure class, are appropriate even
+though the concrete is exposed to freezing-and-thawing temperatures. However, for an exposure condition where the member may be saturated prior to freezing, the use of air entrainment should not be sacrificed for strength. In certain applications, it may be found that the content of entrained air is lower than that specified, despite the use of usually satisfactory levels of air-entraining admixture. This happens occasionally—for example, when very high cement contents are involved. In such cases, the achievement of required durability may be demonstrated by satisfactory results of examination of air-void structure in the paste of the hardened concrete (Ley et al. 2012).
+
+3/4 in. (19 mm), 3/8 in. (9.5 mm), No. 4 (4.75 mm), No. 8 (2.36 mm), No. 16 (1.18 mm), No. 30 (600 mm), No. 50 (300 mm), and No. 100 (150 mm). It is an estimate of the position in the sieve stack where the average size particle is located. In other words, it is a measure of the average particle size that affects the way the voids between the coarse aggre- gate particles are filled. 4.3.6 Dry-rodded density—Used for determination of the weight of coarse aggregate after the bulk volume has been calculated, it is the weight per unit volume of oven-dry aggregate compacted by rodding as defined in ASTM C29/
+C29M. 4.3.7 Saturated surface-dry relative density (specific
+gravity)—Used for determining the absolute volume of coarse aggregate, and used to determine the weight of the fine aggregate, it is the ratio of the weight of a volume of a material (including the weight of water within the voids, but not including the voids between particles) at a stated temper- ature to the weight of an equal volume of distilled water at a stated temperature. Saturated surface-dry (SSD) specific gravities are measured using the procedures of ASTM C127 and C128 for coarse and fine aggregates, respectively.
+4.4—Water Water used in mixing concrete should conform to
+ASTM C1602/C1602M. ASTM C1602/C1602M allows the use of potable water without testing and includes methods for qualifying nonpotable sources of water with consider- ation of effects on setting time and strength. Testing frequen- cies are established to ensure continued monitoring of water quality. The standard includes optional limits for chlorides, sulfates, alkalis, and solids in mixing water that can be invoked when appropriate.
+[TABLE: Table 5.3.3 approximates the amount of entrapped air to be ex]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; chloride exposure classes and chloride ion content limits; chemical admixture type classification and performance requirements.]
+4.5—Chemical admixtures Chemical admixtures are used to modify the properties of concrete to make it more workable, durable, or economical; increase or decrease the time of set; accelerate strength gain; or control temperature gain. Chemical admixtures should be used only after an appropriate evaluation has been conducted to show that the desired effects have been accomplished in the concrete under the conditions of intended use. Water- reducing admixtures, set-controlling admixtures, or both,
+conforming to the requirements of ASTM C494/C494M,
+when used singularly or in combination with other chemical admixtures, will significantly reduce the quantity of water per unit volume of concrete. The use of some chemical admixtures, even at the same slump, will improve such qual- ities as workability, finishability, pumpability, durability,
+and compressive and flexural strength. When only used to increase slump, chemical admixtures may not improve
+any other of the properties of the concrete. ASTM C1602/
+C1602M requires liquid admixtures, used in quantities that increase the w/cm by more than 0.01, be counted as part of the mixing water.
+Copyright American Concrete Institute
+
+e a
+I , |
+American Concrete Institute — Copyrighted © Material — www.concrete.org ac
+
+@seismicisolation

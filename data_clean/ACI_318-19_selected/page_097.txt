@@ -1,0 +1,62 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 97/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 5: EARTHQUAKE RESISTANCE 313
+
+
+
+[CODE] Table 18.8.4.3—Nominal joint shear strength V,,
+
+[COMMENTARY] columns, when properly dimensioned and reinforced with longitudinal and transverse bars, provide effective confine-
+ment to the joint faces, thus delaying joint strength deteriora- tion at large deformations (Meinheit and Jirsa 1981).
+
+[CODE] Confinement
+by transverse
+[CODE] beams
+Beam in according to
+Column direction of V,, 15.2.8 V5 Ib
+[CODE] Confined 20a fA,
+Continuous or meets 15.2.7
+[CODE] Not confined ISAf7A,
+Continuous or meets 15.2.6
+[CODE] Confined 15a fA,
+[CODE] Other
+[CODE] Not confined 12a fA,
+[CODE] Confined 15a fA,
+Continuous or meets 15.2.7
+[CODE] Not confined 12af7A,
+[CODE] Other
+[CODE] Confined 12a. f’A,
+[CODE] Other
+[CODE] Not confined Sha f/A:
+[CODE] (I, shall be 0.75 for lightweight concrete and 1.0 for normalweight concrete. A; shall be calculated in accordance with 15.4.2.4.
+[CODE] 18.8.5 Development length of bars in tension
+
+[COMMENTARY] R18.8.5 Development length of bars in tension
+
+[CODE] 18.8.5.1 For bar sizes No. 3 through No. 11 terminating in a standard hook, f2, shall be calculated by Eq. (18.8.5.1), but fa, shall be at least the greater of 8d, and 6 in. for normal-
+weight concrete and at least the greater of 10d, and 7-1/2 in. for lightweight concrete.
+
+[COMMENTARY] R18.8.5.1 Minimum embedment length in tension for
+deformed bars with standard hooks is determined using Eq. (18.8.5.1), which is based on the requirements of 25.4.3.
+The embedment length of a bar with a standard hook is the distance, parallel to the bar, from the critical section (where the bar is to be developed) to a tangent drawn to the outside
+edge of the hook. The tangent is to be drawn perpendicular to the axis of the bar (refer to Table 25.3.1). Because Chapter 18 stipulates that the hook is to be
+embedded in confined concrete, the coefficients 0.7 (for concrete cover) and 0.8 (for ties) have been incorporated in the constant used in Eq. (18.8.5.1). The development length that would be derived directly from 25.4.3 is increased to reflect the effect of load reversals. Factors such as the actual stress in the remforcement being more than the yield strength
+and the effective development length not necessarily starting at the face of the joint were implicitly considered in the formulation of the expression for basic development length that has been used as the basis for Eq. (18.8.5.1). The requirement for the hook to project into the joint is to
+improve development of a diagonal compression strut across the joint. The requirement applies to beam and column bars terminated at a joint with a standard hook.
+
+[CODE] lan = fede (652.f f!) (18.8.5.1)
+[CODE] The value of 4 shall be 0.75 for concrete containing light-
+weight aggregate and 1.0 otherwise. The hook shall be located within the confined core of a
+column or of a boundary element, with the hook bent into the joint.
+
+[COMMENTARY] R18.8.5.2 The factor 1.25 is intended to represent the poten- tial increase in stresses due to inelastic response, including strain hardening that may occur in beams of special moment frames.
+
+[CODE] 18.8.5.2 For headed deformed bars satisfying 20.2.1.6,
+development in tension shall be in accordance with 25.4.4,
+by substituting a bar stress of 1.25f, for f,.
+
+[COMMENTARY] aci=
+—_
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

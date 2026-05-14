@@ -1,0 +1,36 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 144/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 6: MATERIALS & DURABILITY 361
+
+
+[COMMENTARY] (a) Exposure Class CO is assigned if exposure conditions
+do not require additional protection against the initiation
+of reinforcement corrosion. (b) Exposure Classes C1 and C2 are assigned to nonpre- stressed and prestressed concrete members, depending on
+[COMMENTARY] - Concrete
+[COMMENTARY] the degree of exposure to external sources of moisture and chlorides in service. Examples of exposures to external sources of chlorides include concrete in direct contact
+with deicing chemicals, salt, salt water, brackish water, seawater, or spray from these sources.
+
+[CODE] 19.3.2 Requirements for concrete mixtures
+
+[COMMENTARY] R19.3.2 Requirements for concrete mixtures
+
+[CODE] 19.3.2.1 Based on the exposure classes assigned from Table 19.3.1.1, concrete mixtures shall conform to the most restrictive requirements in Table 19.3.2.1.
+
+[TABLE: Table 19.3.1.1, concrete mixtures shall conform to the most rest]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; exposure class requirements for concrete durability; water exposure classes; chloride exposure classes and chloride ion content limits.]
+[COMMENTARY] Durability of concrete is impacted by the resistance of the concrete to fluid penetration. This is primarily affected
+by the w/cm and the composition of cementitious materials
+used in concrete. For a given w/cm, the use of fly ash, slag
+cement, silica fume, or a combination of these materials will typically increase the resistance of concrete to fluid penetration and thus improve concrete durability. The Code provides limits on w/em in Table 19.3.2.1 to achieve low permeability and the intended durability. ASTM C1202 can
+be used to provide an indication of concrete’s resistance to fluid penetration. Because w/em of concrete cannot be accurately verified in the field using standard test methods, strength tests are
+used as a surrogate. Representative values for minimum f,'
+have been assigned to each w/em limit in Table 19.3.2.1.
+The acceptance criteria for strength tests in 26.12 establish a basis to indicate that the maximum w/cm has not been exceeded. For this approach to be reliable, the values of f,' specified in construction documents should be consistent with the maximum w/cm. Considering the wide range of materials and concrete mixtures possible, including regional varia- tions, the minimum f," limit in Table 19.3.2.1 associated with the maximum w/cm should not be considered absolute. The average strength of concrete mixtures for a given w/em can in
+some cases be considerably higher than the average strength expected for the representative value off.’. For a given expo- sure class, the licensed design professional may choose to specify a higher value off,’ than listed in the table to obtain better consistency between the maximum w/cm and f,'. This
+improves the confidence that concrete complies with the w/em limit if the strength acceptance criteria are satisfied. As stated in the footnote to Table 19.3.2.1, maximum w/cem limits are not specified for lightweight concrete because the
+amount of mixing water that is absorbed by the lightweight aggregates makes calculation of w/em uncertain. There- fore, only a minimum /,' is specified to achieve the required durability. Table 19.3.2.1 provides the requirements for concrete on the basis of the assigned exposure classes. The most restric- tive requirements are applicable. For example, a member assigned to Exposure Class W1 and Exposure Class S82
+would require concrete to comply with a maximum w/cm of
+[COMMENTARY] ‘acl
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

@@ -1,0 +1,68 @@
+[DOCUMENT: ACI_211.1-22]
+[PAGE: 1/26]
+[LAYOUT: continuous]
+============================================================
+2 SELECTING PROPORTIONS FOR NORMAL-DENSITY AND HIGH-DENSITY CONCRETE—GUIDE (ACI PRC-211.1-22)
+
+3.9— Shrinkage, p. 5
+3.10—Modulus of elasticity, p. 5
+
+A.7—Mixtures for small jobs, p. 32
+APPENDIX B—HIGH-DENSITY CONCRETE
+MIXTURE PROPORTIONING, p. 33 B.1—General, p. 33
+B.2—-Aggregate selection, p. 33
+B.3— Adjustment in anticipation of drying, p. 33
+B.4— Adjustment for entrained air , p. 33
+B.5—Handling of high-density aggregates, p. 33
+B.6—Preplaced aggregate , p. 33
+
+CHAPTER 4—BACKGROUND INFORMATION, p. 6 4.1—Trial batching, p. 6
+4.2—Slump, p. 6
+4.3—Aggregates, p. 6 4.4— Water, p. 7
+4.5—Chemical admixtures, p. 7
+4.6—Air, p. 7 4.7—Water-cementitious materials ratio (w/em), p. 8
+
+CHAPTER 1—INTRODUCTION AND SCOPE
+
+CHAPTER 5—PROPORTION SELECTION
+PROCEDURE, p. 13 5.1—Background, p. 14 5.2—Selection process, p. 14
+5.3—Estimation of batch weights, p. 14
+
+1.1—Historical background The ability to tailor concrete properties in accordance with project requirements reflects technological develop-
+ments that have taken place, for the most part, since the early 1900s. The use of the water-cement ratio (w/c)—one of the
+key parameters of mixture proportioning—as a tool for esti- mating strength was recognized in approximately 1918. In the early 1940s, improvements in durability were achieved with the use of air entrainment. These major developments in concrete technology were augmented by the develop-
+ment of chemical admixtures to achieve special properties, counteract possible deficiencies, and improve cost effec- tiveness (ACI 212.3R). The first water-reducing admixture
+was developed in the 1920s and was patented in Europe in 1932, and then in the United States in 1939. Slowly, water-reducing admixtures came into widespread use in the 1970s and played a major role in improving workability, thereby adjusting mixture proportions. Around this time, it
+was also found that some concrete characteristics could be
+improved with the addition of certain industrial by-products,
+now called supplementary cementitious materials (SCMs).
+The use of these materials has not only improved various concrete properties, but also played a major role in contrib- uting to environmental sustainability. With the implementa- tion of these technological developments, in current prac- tice, most commercially produced concrete contains some type of chemical admixtures, SCM, or both, and their pres- ence needs to be considered while mixture proportioning.
+
+CHAPTER 6—EFFECTS OF CHEMICAL
+ADMIXTURES, p. 17 6.1—-Background, p. 17 6.2—Air-entraining admixtures, p. 18
+6.3—Water-reducing admixtures, p. 18
+CHAPTER 7—EFFECTS OF SUPPLEMENTARY
+CEMENTITIOUS MATERIALS, p. 19 7.1—Background, p. 19
+7.2—Pozzolanic versus cementitious, p. 19
+7.3—Types of supplementary cementitious materials, p. 19 7.4—Mixture proportioning with supplementary cementi- tious materials, p. 20 7.5—Ternary systems, p. 21
+7.6—Impact of SCMs on sustainability, p. 21
+CHAPTER 8—TRIAL BATCHING, p. 21
+CHAPTER 9—SAMPLE COMPUTATIONS, p. 21 9.1—Background, p. 21
+9.2—Example |: Mixture proportioning using portland
+cement only, p. 22 9.3—Example 2: Mixture proportioning of binary mixture containing fly ash, p. 24 9.4—Example 3: Mixture proportioning using cementi- tious efficiency factor, p. 26 9.5—Example 4: Mixture proportioning using target paste volume, p. 27
+
+1.2—Introduction Concrete is composed principally of aggregates, a port- land or blended cement, and water, and may contain SCMs, chemical admixtures, or both. It will contain some amount
+of entrapped air and may also contain purposely entrained air created with the use of an admixture or air-entraining cement. Chemical admixtures are frequently used to accel- erate or retard the time of setting, improve workability, or reduce water requirements (ACI 212.3R). Their use may affect strength and other concrete properties. Depending
+on the type and amount, certain SCMs such as fly ash
+(ACI 232.2R), natural pozzolans, slag cement (ACI 233R),
+and silica fume (ACI 234R) may be used in conjunction with portland or blended cement. They are added to provide specific properties such as higher strength, decreased perme- ability, resistance to the intrusion of aggressive solutions,
+
+CHAPTER 10—REFERENCES, p. 28 Authored documents, p. 29
+APPENDIX A—LABORATORY TESTS, p. 29 A.1—Need for laboratory testing, p. 29 A.2—Prequalification of materials, p. 30
+A.3—Properties of cementitious materials, p. 30
+A.4— Properties of aggregates, p. 30
+A.5—Trial batch series, p. 31
+A.6—Test methods, p.31 Copyright GETS Institute
+ACI >
+American Concrete Institute — Copyrighted © Material — www.concrete.org
+@seismicisolation

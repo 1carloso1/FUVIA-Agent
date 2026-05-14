@@ -1,0 +1,55 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 68/196]
+[LAYOUT: continuous]
+============================================================
+PART 3: MEMBERS 163
+CODE COMMENTARY
+
+10.7.6.3 Lateral support of longitudinal bars using spirals R10.7.6.3 Lateral support of longitudinal bars using spirals
+
+10.7.6.3.1 In any story, the bottom of the spiral shall be located at the top of footing or slab.
+10.7.6.3.2 In any story, the top of the spiral shall be located R10.7.6.3.2 Refer to R10.7.6.2.2. in accordance with Table 10.7.6.3.2.
+Table 10.7.6.3.2 —Spiral extension requirements at
+top of column Framing at column end Extension requirements
+Extend to the level of the lowest
+horizontal reinforcement in members
+Beams or brackets frame into all sides of the column
+supported above.
+Extend to the level of the lowest
+horizontal reinforcement in members
+Beams or brackets do not
+frame into all sides of the
+supported above.
+Additional column ties shall extend
+column above termination of spiral to bottom of
+slab, drop panel, or shear cap.
+Extend to the level at which the diameter
+Columns with capitals or width of capital is twice that of the
+
+> Columns
+
+column.
+10.7.6.4 Lateral support of offset bent longitudinal bars
+10.7.6.4.1 Where longitudinal bars are offset, horizontal
+support shall be provided by ties, hoops, spirals, or parts
+of the floor construction and shall be designed to resist 1.5
+times the horizontal component of the calculated force in the inclined portion of the offset bar.
+10.7.6.4.2 If transverse reinforcement is provided to resist
+forces that result from offset bends, ties, hoops, or spirals shall be placed not more than 6 in. from points of bend.
+10.7.6.5 Shear
+10.7.6.5.1 If required, shear reinforcement shall be
+provided using ties, hoops, or spirals.
+10.7.6.5.2 Maximum spacing of shear reinforcement shall
+be in accordance with Table 10.7.6.5.2.
+Table 10.7.6.5.2—Maximum spacing of shear
+reinforcement
+Maximum s, in.
+Nonprestressed Prestressed
+V, column column d/2 3h/4
+< 4,/ f’b,d Lesser of:
+24
+d/4 3h/8
+> 4] f/b,d Lesser of:
+12
+
+American Concrete Institute — Copyrighted © Material — www.concrete.org ACI »

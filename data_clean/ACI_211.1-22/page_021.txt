@@ -1,0 +1,56 @@
+[DOCUMENT: ACI_211.1-22]
+[PAGE: 21/26]
+[LAYOUT: continuous]
+============================================================
+22 SELECTING PROPORTIONS FOR NORMAL-DENSITY AND HIGH-DENSITY CONCRETE—GUIDE (ACI PRC-211.1-22)
+
+Table 8—Effect of additional constituents on various fresh properties (Kosmatka and Wilson 2016)
+
+Property Cement wiem Water Air Fly ash Slag cement Silica fume
+
+[TABLE: Table 8—Effect of additional constituents on various fres]
+[TABLE_CONTEXT: This table specifies: chloride exposure classes and chloride ion content limits; air content requirements; portland cement type specifications and chemical requirements.]
+Water demand t J N/A 1 L L t Workability t t t t tT ik i Air content l J l N/A t “oo 1 Bleeding and segregation J t t J | t J Finishability t t t t tT T 1 Time of setting { t t o T i) ad Heat of hydration * L J o J a t Strength t L 1 1 t t t
+Permeability | t t ° 1 L L Cracking T T t 1 L t t Note: ¢ Increases; | Decreases; | Increases or decreases; <> Neutral. (a) ASTM C150/C150M Type I portland cement will be used. Its specific gravity is assumed to be 3.15. (b) Coarse and fine aggregates in each case meet the requirements of ASTM C33/C33M.
+
+9.2.5 Step 5S: Calculate cement content—From the infor- mation developed in Steps 3 and 4, the required cement
+content is calculated as: 300 Ib/yd?/0.62 = 484 Ib/yd?. 9.2.6 Step 6: Calculate coarse aggregate content—The bulk
+volume of coarse aggregate is estimated from Table 5.3.6.
+With the fine aggregate having a fineness modulus of 2.80
+and the 1.5 in. nominal maximum size of coarse aggregate,
+the table indicates that 0.71 ft of coarse aggregate, on a dry-
+rodded basis, is a good estimate for a cubic foot of concrete.
+Because its dry-rodded density is 100 lb/ft’, each bulk cubic
+foot of coarse aggregate would weigh 0.71 ft? x 100 1b/ ft? = 71 lb. Because a cubic yard (27 ft*) is being propor- tioned, the amount will be adjusted as the following: 71 Ib/
+ft x 27 ft?/yd? = 1917 Ib/yd?. Absorption (A%) will be taken into account to convert the dry-rodded density to the corre- sponding SSD weight, as shown in the following
+
+9.2—Example 1: Mixture proportioning using
+portland cement only Concrete is required for a portion of a structure that will be below ground level in a location where it will not be
+exposed to severe weathering, constant wetting, or sulfate attack. It is in Class FO. A strength of 2500 psi at 28 days is specified. A locally available rounded coarse aggregate with a nominal maximum size of 1.5 in. is suitable. This coarse aggregate has a saturated surface-dry (SSD) specific gravity of 2.68, absorption (A%) of 0.5%, and a dry-rodded density
+of 100 lb/ft’. The fine aggregate has a fineness modulus of 2.80, an SSD specific gravity of 2.64, and an absorption
+(A%) of 0.7%. The quantities of mixture constituents per cubic yard (yd*) of concrete are determined as outlined in the following steps. 9.2.1 Step 1: Estimate slum p-—On the basis of the informa- tion in Table 5.3.1 as well as previous experience, a slump of
+3 to 4 in. will be targeted for the selected placement method. 9.2.2 Step 2: Select nominal maximum size of aggre-
+gate—The locally available rounded coarse aggregate with a nominal maximum aggregate size of 1.5 in. is used in this application. 9.2.3 Step 3: Estimate mixing-water content—Because
+the'structure is in Class FO exposure class, non-air-entrained concrete will be used. From the top portion of Table 5.3.3, the approximate amount of mixing water needed to produce a 3 to 4 in. slump in non-air-entrained concrete using 1.5 in.
+nominal maximum size aggregate is 300 lb/yd?, and the approximate amount of entrapped air 1%. 9.2.4 Step 4: Estimate w/cm—The application specifies an average 28-day compressive strength (f.’) of 2500 psi.
+For proportioning without a standard deviation, the strength overdesign for concretes with a specified strength less than
+3000 psi as required by Table 4.7.4.1 is 1000 psi. There- fore, the required average compressive strength (f,,’) for this mixture proportion becomes 3500 psi. Because no dura- bility issues are indicated, strength alone can dictate the w/cm, Based on Table 5.3.4, the w/cm estimated to produce a strength of 3500 psi in non-air-entrained concrete is inter- polated to be 0.62. Copyright GETS Institute
+acis
+
+1917 Ib/yd? x (1 + 0.5%) = 1927 Ib/yd?
+9.2.7 Step 7: Calculate fine aggregate content—Concrete consists of water, air, cement, coarse aggregate, and fine aggregate. For the cubic yard being proportioned, the weights
+of all these except the fine aggregate have been determined.
+The first step necessary to determine the weight of the fine aggregate is by first calculating the absolute volumes of each
+of the known mixture constituents. The absolute volumes are calculated through their weight-volume relationships determined by their corresponding specific gravities (rela- tive densities). The volume of the fine aggregate sought is determined by adding the total volume of all other mixture constituents subtracted from the total volume of one cubic yard. The weight of the fine aggregate is then calculated based on its weight-volume relationship using the known
+parameters—namely, its volume and specific gravity. 9.2.7.1 Absolute volume computations
+Volume of water = 300 1b/62.4 lb/ft? = 4.81 ft’
+Volume of cement = 484 Ib/(3.15 x 62.4 Ib/ft*) = 2.46 ft
+Volume of coarse aggregate = 1927 1b/(2.68 x 62.4 lb/ft°)
+= 11.52 fi? Volume of air = 1% x 27.00 ft = 0.27 ft Total volume except for fine aggregate = 19.06 ft
+Volume of fine aggregate = 27.00 ft? — 19.06 ft = 7.94 ft
+Total volume of ingredients = 27.00 ft*
+Required SSD weight of fine aggregate = 7.94 ft? x 2.64 x
+62.4 lb/ft? = 1308 Ib
+
+American Concrete Institute — Copyrighted © Material — www.concrete.org
+@seismicisolation

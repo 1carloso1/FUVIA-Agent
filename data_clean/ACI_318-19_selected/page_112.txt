@@ -1,0 +1,23 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 112/196]
+[LAYOUT: continuous]
+============================================================
+328
+ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+CODE COMMENTARY
+Horizontal web reinforcement, Ay ~ be _ - Der _ ] _
+b| bee y Ss
+A
+/ tel esxese Lf 2 fan or far | Confined
+<6 in” as appropriate core (a)
+Option with standard hooks or headed reinforcement
+Boundary element Horizontal web
+reinforcement, Ash7 reinforcement, Av
+|__| 2 gof the horizontal_
+<6 in. web reinforcement (b)
+Option with straight developed reinforcement
+Fig. R18.10.6.4b—Development of wall horizontal rein-
+forcement in confined boundary element.
+
+American Concrete Institute - Copyrighted © Material - www.concrete.org

@@ -1,0 +1,27 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 61/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] column shall not be taken greater than 1.5 in. outside the transverse reinforcement.
+[CODE] 10.3.1.4 For columns with two or more interlocking spirals, outer limits of the effective cross section shall be taken at a distance outside the spirals equal to the minimum required concrete cover.
+[CODE] 10.3.1.5 If a reduced effective area is considered according to 10.3.1.1 through 10.3.1.4, structural analysis and design of other parts of the structure that interact with the column shall be based on the actual cross section.
+[CODE] 10.4—Required strength 10.4.1 General
+
+[COMMENTARY] R10.4—Required strength
+
+[CODE] 10.4.1.1 Required strength shall be calculated in accor-
+dance with the factored load combinations in Chapter 5.
+[CODE] 10.4.1.2 Required strength shall be calculated in accor-
+dance with the analysis procedures in Chapter 6.
+[CODE] 10.4.2 Factored axial force and moment
+
+[COMMENTARY] R10.4.2 Factored axial force and moment
+
+[CODE] 10.4.2.1 P, and M, occurring simultaneously for each applicable factored load combination shall be considered.
+
+[COMMENTARY] R10.4.2.1 The critical load combinations may be difficult to discern without methodically checking each combina- tion. As illustrated in Fig. R10.4.2.1, considering only the factored load combinations associated with maximum axial force (LC1) and with maximum bending moment (LC2) does not necessarily provide a code-compliant design for other load combinations such as LC3.
+
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

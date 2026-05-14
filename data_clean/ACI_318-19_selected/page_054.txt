@@ -1,0 +1,47 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 54/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+[COMMENTARY] closed stirrups should not be made up of pairs of U-stirrups lapping one another.
+
+[CODE] 9.7.6.3.2 Transverse torsional reinforcement shall extend a distance of at least (b, + d) beyond the point required by analysis.
+
+[COMMENTARY] R9.7.6.3.2 The distance (b, + d) beyond the point at which transverse torsional reinforcement is calculated to be no longer required is greater than that used for shear and flex- ural reinforcement because torsional diagonal tension cracks develop in a helical form. The same distance is required by 9.7.5.3 for longitudinal torsional reinforcement.
+[COMMENTARY] R9.7.6.3.3 Spacing of the transverse torsional reinforce-
+ment is limited to ensure development of the torsional strength of the beam, prevent excessive loss of torsional stiffness after cracking, and control crack widths. For a square cross section, the p;/8 limitation requires stirrups at approximately d/2, which corresponds to 9.7.6.2.
+
+[CODE] 9.7.6.3.3 Spacing of transverse torsional reinforcement shall not exceed the lesser of p;,/8 and 12 in.
+[CODE] 9.7.6.3.4 For hollow sections, the distance from the centerline of the transverse torsional reinforcement to the inside face of the wall of the hollow section shall be at least 0.5A on/pn.
+
+[COMMENTARY] R9.7.6.3.4 The transverse torsional reinforcement in a
+hollow section should be located in the outer half of the wall thickness effective for torsion where the wall thickness can
+be taken as Ay;/pp.
+
+[CODE] 9.7.6.4 Lateral support of compression reinforcement
+
+[COMMENTARY] R9.7.6.4 Lateral support of compression reinforcement
+
+[CODE] 9.7.6.4.1 Transverse reinforcement shall be provided throughout the distance where longitudinal compression reinforcement is required. Lateral support of longitudinal
+compression reinforcement shall be provided by closed stir- rups or hoops in accordance with 9.7.6.4.2 through 9.7.6.4.4.
+
+[COMMENTARY] R9.7.6.4.1 Compression reinforcement in beams should
+be enclosed by transverse reinforcement to prevent buckling.
+
+[CODE] 9.7.6.4.2 Size of transverse reinforcement shall be at least (a) or (b). Deformed wire or welded wire reinforcement of equivalent area shall be permitted.
+[CODE] (a) No. 3 for longitudinal bars No. 10 and smaller (b) No. 4 for longitudinal bars No. 11 and larger and for longitudinal bundled bars
+[CODE] 9.7.6.4.3 Spacing of transverse reinforcement shall not
+exceed the least of (a) through (c):
+[CODE] (a) 16d, of longitudinal reinforcement (b) 48d, of transverse reinforcement (c) Least dimension of beam
+[CODE] 9.7.6.4.4 Longitudinal compression reinforcement shall
+be arranged such that every corner and alternate compres- sion bar shall be enclosed by the corner of the transverse reinforcement with an included angle of not more than 135 degrees, and no bar shall be farther than 6 in. clear on
+each side along the transverse reinforcement from such an enclosed bar.
+[CODE] 9.7.7 Structural integrity reinforcement in cast-in-place
+beams aci=
+A
+
+[COMMENTARY] R9.7.7 Structural integrity reinforcement in cast-in-place
+beams
+
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

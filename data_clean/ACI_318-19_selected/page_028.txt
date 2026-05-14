@@ -1,0 +1,39 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 28/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] projected area—area on the free surface of the concrete
+member that is used to represent the greater base of the
+assumed rectilinear failure surface. projected influence area—trectilinear area on the free surface of the concrete member that is used to calculate the
+bond strength of adhesive anchors. pryout strength, concrete—strength corresponding to
+formation of a concrete spall behind short, stiff anchors displaced in the direction opposite to the applied shear force. reinforcement—steel element or elements embedded in concrete and conforming to 20.2 through 20.4. Prestressed
+reinforcement in external tendons is also considered reinforcement. reinforcement, anchor—teinforcement used to transfer the design load from the anchors into the structural member.
+
+[COMMENTARY] reinforcement, anchor—Anchor reinforcement is designed and detailed specifically for the purpose of trans- ferring anchor loads from the anchors into the member. Hair- pins are generally used for this purpose (refer to 17.5.2.1(a)
+and 17.5.2.1(b)); however, other configurations that can be
+shown to effectively transfer the anchor load are acceptable.
+
+[CODE] reinforcement, bonded prestressed—pretensioned rein-
+forcement or prestressed reinforcement in a bonded tendon. reinforcement, deformed—deformed bars, welded bar mats, deformed wire, and welded wire reinforcement
+conforming to 20.2.1.3, 20.2.1.5, or 20.2.1.7, excluding plain wire.
+
+[COMMENTARY] reinforcement, deformed—Deformed reinforcement is defined as that meeting the reinforcement specifications in this Code. No other reinforcement qualifies. This definition permits accurate statement of development lengths. Bars or wire not meeting the deformation requirements or welded wire reinforcement not meeting the spacing requirements are “plain reinforcement,” for code purposes, and may be
+used only for spirals.
+
+[CODE] reinforcement, nonprestressed—bonded reinforcement that is not prestressed. reinforcement, plain—bars or wires conforming to 20.2.1.4 or 20.2.1.7 that do not conform to definition of
+deformed reinforcement. reinforcement, prestressed—prestressing reinforcement that has been tensioned to impart forces to concrete. reinforcement, prestressing—high-strength reinforce-
+ment such as strand, wire, or bar conforming to 20.3.1. reinforcement, supplementary—teinforcement that acts to restrain the potential concrete breakout but is not designed to transfer the design load from the anchors into the struc- tural member.
+
+[COMMENTARY] reinforcement, supplementary—Supplementary rein-
+forcement has a configuration and placement similar to
+anchor reinforcement but is not specifically designed to transfer loads from the anchors into the member. Stirrups, as used for shear reinforcement, may fall into this category.
+
+[CODE] reinforcement, welded deformed steel bar mat—mat
+conforming to 20.2.1.5 consisting of two layers of deformed bars at right angles to each other welded at the intersections. reinforcement, welded wire—plain or deformed wire fabricated into sheets or rolls conforming to 20.2.1.7. Seismic Design Category—classification assigned to a structure based on its occupancy category and the severity of the design earthquake ground motion at the site, as defined
+by the general building code. Also denoted by the abbrevia- tion SDC. seismic-force-resisting system—portion of the structure
+designed to resist earthquake effects required by the general aci>
+_
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

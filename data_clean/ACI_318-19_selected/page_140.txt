@@ -1,0 +1,61 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 140/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 6: MATERIALS & DURABILITY 357
+
+
+
+[CODE] 19.2.4 Lightweight concrete
+
+[COMMENTARY] R19.2.4 Lightweight concrete
+
+[CODE] 19.2.4.1 Except as required in Table 25.4.2.5, the value of 4 shall be determined using Table 19.2.4.1(a) based on the equilibrium density, w., of the concrete mixture used in design, or Table 19.2.4.1(b) based on the composition of the aggregate in the concrete mixture assumed in the design.
+
+[COMMENTARY] The modification factor 11s used to account for the reduced mechanical properties of lightweight concrete compared with
+normalweight concrete of the same compressive strength.
+For design using lightweight concrete, shear strength, fric-
+[COMMENTARY] 2 Concrete
+[COMMENTARY] tion properties, splitting resistance, bond between concrete
+and reinforcement, and development length requirements are not taken as equivalent to normalweight concrete of the
+same compressive strength. The methodology for determining % was changed in the
+2019 Code to include a new method that is based on the equilibrium density of the lightweight concrete. The new
+method allows the designer to select a value for 4 based on the equilibrium density of the lightweight concrete that is used in design. Laboratory testing on the specific mixture to be used in the structure can be accomplished if the designer desires to determine a more accurate value of 4 (Ivey and Buth 1967;
+Hanson 1961). Table 19.2.4. 11s based on data from tests (Gray- beal 2014; Greene and Graybeal 2013, 2015) of concrete made with many types of structural lightweight aggregate and having a wide range of mixture proportions that resulted in equilibrium densities over a range of 90 to 135 lb/ft’. The second method for determining 4, which is retained from the previous code, is based on the composition of aggregates. In
+most cases, local concrete and aggregate suppliers have standard lightweight concrete mixtures and can provide the volumetric fractions to determine the value of 4. In the absence of such data, it is permissible to use the lower-bound value of 4 for the type of lightweight concrete specified. This method is based on the assumption that, for equivalent compressive strength levels, the tensile strength of lightweight concrete is a fixed fraction of the tensile strength of normalweight concrete (Ivey and Buth 1967).
+The multipliers used for 1 are based on data from tests on concrete
+made with many types of structural lightweight aggregate. A previously included method to calculate 4 based on split- ting tensile strength and the corresponding value of measured compressive strength was removed from the Code in 2019. In editions of the Code prior to 2019, the upper limit on the
+equilibrium density for lightweight concrete was 115 lb/ft’.
+With the lower limit for normalweight concrete established at 135 Ib/ft’, a 20 lb/ft® range remained that was undefined. In practice, to achieve an equilibrium density in the range
+of 115 to 135 lb/ft*, the use of some amount of lightweight aggregate is required. The 2019 Code removes this unde- fined range by defining lightweight concrete as having an
+equilibrium density from 90 to 135 lb/ft’.
+
+[CODE] Table 19.2.4.1(a)—Values of 2 for lightweight
+concrete based on equilibrium density we, lb/ft h
+[CODE] < 100 0.75 (a) 100 <w, < 135 0.0075w,. < 1.0 (b) > 135 1.0 (c)
+[CODE] Table 19.2.4.1(b)—Values of 1 for lightweight
+concrete based on composition of aggregates Concrete Composition of aggregates K . . Fine: ASTM C330
+All-lightweight Coarse: ASTM C330 0.79
+[CODE] Fine: Combination of ASTM
+[CODE] Lightweight, fine
+[1]
+blend 0.75 to 0.85
+[CODE] C330 and C33 Coarse: ASTM C330
+[CODE] . . Fine: ASTM C33
+Sand-lightweight Coarse: ASTM C330 0.85
+[CODE] Fine: ASTM C33
+[CODE] Sand-lightweight,
+[2]
+coarse blend 0.85 to 1
+[CODE] Coarse: Combination of ASTM C330 and C33
+[CODE] (IL inear interpolation from 0.75 to 0.85 is permitted based on the absolute volume of normalweight fine aggregate as a fraction of the total absolute volume of fine aggregate. PlLinear interpolation from 0.85 to 1 is permitted based on the absolute volume of normalweight coarse aggregate as a fraction of the total absolute volume of aggregate.
+[CODE] 19.2.4.2 It shall be permitted to take 4 as 0.75 for light-
+weight concrete.
+[CODE] 19.2.4.3 The value of 4 shall be taken as 1.0 for normal- weight concrete.
+[CODE] 19.3—Concrete durability requirements
+
+[COMMENTARY] R19.3—Concrete durability requirements The Code addresses concrete durability on the basis of
+exposure categories and exposure classes as defined in Table 19.3.1.1. The licensed design professional assigns members in the structure to the appropriate exposure category and class. The assigned exposure classes, which are based on the severity of exposure, are used to establish the appropriate
+[COMMENTARY] aci*
+—
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

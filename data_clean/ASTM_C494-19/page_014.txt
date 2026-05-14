@@ -1,0 +1,31 @@
+[DOCUMENT: ASTM_C494-19]
+[PAGE: 14/15]
+[LAYOUT: continuous]
+============================================================
+Aly caga/cag4am - 19
+
+100
+90 Percent Transmittance 80
+70
+60
+50 —
+40
+
+4000 3500 3000 2500 2000 1500 1000 500
+Wavenumber, cm~!
+
+FIG. X3.2 Similar Spectra (Percent Transmittance) for Two Samples of Admixture Based on Naphthalene Sulfonate Condensate
+
+1.00 0.90 0.80
+_~ Initial Sample
+ee
+0.70 Absorbance 0.60 0.50 0.40 0.30 ;
+0.20 i 0.10 SE
+Is
+0.00
+
+4000 3500 3000 2500 2000 1500 1000 500
+Wavenumber, cm=!
+FIG. X3.3 Example of Different Absorption Spectra for Two Samples of Water-Reducing Admixtures
+
+Copyright by ASTM Int'l (all rights reserved); Wed Sep 2 00:11:37 EDT 2020 14 Downloaded/printed by Indian Inst of Tech Chennai (Indian Inst of Tech Chennai) pursuant to License Agreement. No further reproductions authorized.

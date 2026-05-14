@@ -1,0 +1,47 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 67/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] 10.7.6.1.2 Details of transverse reinforcement shall be in
+accordance with 25.7.2 for ties, 25.7.3 for spirals, or 25.7.4 for hoops.
+[CODE] 10.7.6.1.3 For prestressed columns with average f,. =
+225 psi, transverse ties or hoops need not satisfy the 16d,
+spacing requirement of 25.7.2.1.
+
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: normative requirements for construction materials.]
+[COMMENTARY] R10.7.6.1.4 All longitudinal bars in compression should
+be enclosed within transverse reinforcement. Where longitu- dinal bars are arranged in a circular pattern, only one circular tie per specified spacing is required. This requirement can
+be satisfied by a continuous circular tie (helix), with the
+maximum pitch being equal to the required tie spacing. It is prudent to provide a set of ties at each end of lap spliced bars, above and below end-bearing splices, and at
+minimum spacings immediately below sloping regions of offset bent bars. Precast columns with cover less than 1-1/2 in., prestressed
+columns without longitudinal bars, columns of concrete with small size coarse aggregate, wall-like columns, and other unusual columns may require special designs for transverse reinforcement.
+
+[CODE] 10.7.6.1.4 Longitudinal reinforcement shall be laterally supported using ties or hoops in accordance with 10.7.6.2 or spirals in accordance with 10.7.6.3, unless tests and struc- tural analyses demonstrate adequate strength and feasibility
+of construction.
+
+[COMMENTARY] R10.7.6.1.5 and R10.7.6.1.6 Confinement improves load transfer from the anchor bolts and mechanical couplers to the column or pedestal where concrete may crack in the vicinity of the bolts and mechanical couplers. Such cracking
+can occur due to unanticipated forces caused by temperature, restrained shrinkage, accidental impact during construction,
+and similar effects.
+
+[CODE] 10.7.6.1.5 If anchor bolts are placed in the top of a column or pedestal, the bolts shall be enclosed by transverse rein-
+forcement that also surrounds at least four longitudinal bars within the column or pedestal. The transverse reinforcement shall be distributed within 5 in. of the top of the column or pedestal and shall consist of at least two No. 4 or three No. 3 ties or hoops.
+[CODE] 10.7.6.1.6 If mechanical couplers or extended bars for
+connection to a precast element are placed in the ends of
+columns or pedestals, the mechanical couplers or extended bars shall be enclosed by transverse reinforcement. The transverse reinforcement shall be distributed within 5 in. of the ends of the column or pedestal and shall consist of at least two No. 4 or three No. 3 ties or hoops.
+
+[COMMENTARY] R10.7.6.2 Lateral support of longitudinal bars using ties or hoops
+
+[CODE] 10.7.6.2 Lateral support of longitudinal bars using ties or hoops
+[CODE] 10.7.6.2.1 In any story, the bottom tie or hoop shall be located not more than one-half the tie or hoop spacing above the top of footing or slab.
+
+[COMMENTARY] R10.7.6.2.2 For rectangular columns, beams or brackets framing into all four sides at the same elevation are consid- ered to provide restraint over a joint depth equal to that of the shallowest beam or bracket. For columns with other shapes, four beams framing into the column from two orthogonal directions are considered to provide equivalent restraint.
+
+[CODE] 10.7.6.2.2 In any story, the top tie or hoop shall be located not more than one-half the tie or hoop spacing below the lowest horizontal reinforcement in the slab, drop panel, or shear cap. If beams or brackets frame into all sides of the
+column, the top tie or hoop shall be located not more than 3 in. below the lowest horizontal reinforcement in the shal- lowest beam or bracket.
+[CODE] aci>
+a
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

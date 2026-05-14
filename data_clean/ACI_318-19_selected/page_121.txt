@@ -1,0 +1,45 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 121/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 5: EARTHQUAKE RESISTANCE 337
+
+
+
+[CODE] 18.12.1.3 Section 18.12.12 shall apply to structural trusses
+forming part of the seismic-force-resisting system in struc- tures assigned to SDC D, E, or F.
+
+[COMMENTARY] stiffness, and ductility so the building responds as intended in the design (Wyllie 1987).
+[COMMENTARY] Seismic
+18
+
+[CODE] 18.12.2 Design forces
+
+[COMMENTARY] R18.12.2 Design forces
+
+[CODE] 18.12.2.1 The earthquake design forces for diaphragms shall be obtained from the general building code using the applicable provisions and load combinations.
+
+[COMMENTARY] R18.12.2.1 In the general building code, earthquake design forces for floor and roof diaphragms typically are not calculated directly during the lateral-force analysis that provides story forces and story shears. Instead, diaphragm design forces at each level are calculated by a formula that amplifies the story forces recognizing dynamic effects
+and includes minimum and maximum limits. These forces are used with the governing load combinations to design
+diaphragms for shear and moment. For collector elements, the general building code in the
+United States specifies load combinations that amplify earthquake forces by a factor Q,. The forces amplified
+by Q, are also used for the local diaphragm shear forces resulting from the transfer of collector forces, and for local
+diaphragm flexural moments resulting from any eccentricity of collector forces. The specific requirements for earth-
+quake design forces for diaphragms and collectors depend
+on which edition of the general building code is used. The requirements may also vary according to the SDC. For most concrete buildings subjected to inelastic earth-
+quake demands, it is desirable to limit inelastic behavior of floor and roof diaphragms under the imposed earthquake forces and deformations. It is preferable for inelastic behavior to occur only in the intended locations of the vertical seismic- force-resisting system that are detailed for ductile response, such as in beam plastic hinges of special moment frames, or in flexural plastic hinges at the base of structural walls or in coupling beams. For buildings without long diaphragm spans
+between lateral-force-resisting elements, elastic diaphragm behavior is typically not difficult to achieve. For buildings
+where diaphragms could reach their flexural or shear strength before yielding occurs in the vertical seismic-force-resisting system, the licensed design professional should consider providing increased diaphragm strength. For reinforced concrete diaphragms, ASCE/SEI 7 Sections 12.10.1 and 12.10.2 provide requirements to determine design forces for reinforced concrete diaphragms. For precast concrete diaphragms in buildings assigned to SDC C, D, E, or F, the provisions of ASCE/SEI 7 Section 12.10.3 apply.
+
+[CODE] 18.12.3 Seismic load path
+
+[COMMENTARY] R18.12.3 Seismic load path
+
+[CODE] 18.12.3.1 All diaphragms and their connections shall
+be designed and detailed to provide for transfer of forces to collector elements and to the vertical elements of the seismic-force-resisting system.
+[CODE] 18.12.3.2 Elements of a structural diaphragm system that are subjected primarily to axial forces and used to transfer
+
+[COMMENTARY] R18.12.3.2 This provision applies to strut-like elements that occur around openings, diaphragm edges, or other
+[COMMENTARY] (aci¥
+IT
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

@@ -1,0 +1,63 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 85/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 5: EARTHQUAKE RESISTANCE 301
+
+
+[COMMENTARY] R18.6.3 Longitudinal reinforcement
+
+[CODE] 18.6.3 Longitudinal reinforcement
+
+[COMMENTARY] R18.6.3.1 The limiting reinforcement ratios of 0.025 and
+
+[CODE] 18.6.3.1 Beams shall have at least two continuous bars at
+both top and bottom faces. At any section, for top as well as for bottom reinforcement, the amount of reinforcement shall
+be at least that required by 9.6.1.2, and the reinforcement ratio p shall not exceed 0.025 for Grade 60 reinforcement
+and 0.02 for Grade 80 reinforcement.
+
+[COMMENTARY] - Seismic
+[COMMENTARY] 0.02 are based primarily on considerations of providing
+adequate deformation capacity, avoiding reinforcement congestion, and, indirectly, on limiting shear stresses in
+beams of typical proportions.
+
+[CODE] 18.6.3.2 Positive moment strength at joint face shall be at least one-half the negative moment strength provided at that face of the joint. Both the negative and the positive moment strength at any section along member length shall be at least one-fourth the maximum moment strength provided at face
+of either joint.
+
+[COMMENTARY] R18.6.3.3 Lap splices of reinforcement are prohibited
+along lengths where flexural yielding is anticipated because
+such splices are not reliable under conditions of cyclic loading into the inelastic range. Transverse reinforcement for lap splices at any location is mandatory because of the potential of concrete cover spalling and the need to confine the splice.
+
+[CODE] 18.6.3.3 Lap splices of deformed longitudinal reinforce-
+ment shall be permitted if hoop or spiral reinforcement is
+provided over the lap length. Spacing of the transverse rein-
+forcement enclosing the lap-spliced bars shall not exceed the lesser of d/4 and 4 in. Lap splices shall not be used in loca- tions (a) through (c):
+[CODE] (a) Within the joints (b) Within a distance of twice the beam depth from the face of the joint (c) Within a distance of twice the beam depth from crit- ical sections where flexural yielding is likely to occur as a result of lateral displacements beyond the elastic range of behavior
+[CODE] 18.6.3.4 Mechanical splices shall conform to 18.2.7 and
+welded splices shall conform to 18.2.8.
+
+[COMMENTARY] R18.6.3.5 These provisions were developed, in part, based
+on observations of building performance in earthquakes
+(ACI 423.3R). For calculating the average prestress, the least cross-sectional dimension in a beam normally is the web
+dimension, and is not intended to refer to the flange thick- ness. In a potential plastic hinge region, the limitation on strain and the requirement for unbonded tendons are intended to prevent fracture of tendons under inelastic earthquake deformation. Calculation of strain in the prestressed rein-
+forcement is required considering the anticipated inelastic
+mechanism of the structure. For prestressed reinforcement
+unbonded along the full beam span, strains generally will
+be well below the specified limit. For prestressed reinforce-
+ment with short unbonded length through or adjacent to the joint, the additional strain due to earthquake deformation is calculated as the product of the depth to the neutral axis and the sum of plastic hinge rotations at the joint, divided by the
+unbonded length. The restrictions on the flexural strength provided by the
+tendons are based on the results of analytical and experi-
+mental studies (Ishizuka and Hawkins 1987; Park and
+
+[CODE] 18.6.3.5 Unless used in a special moment frame as permitted
+by 18.9.2.3, prestressing shall satisfy (a) through (d):
+[CODE] (a) The average prestress f,, calculated for an area equal to the least cross-sectional dimension of the beam multiplied
+by the perpendicular cross-sectional dimension shall not
+exceed the lesser of 500 psi and f,'/10. (b) Prestressed reinforcement shall be unbonded in poten- tial plastic hinge regions, and the calculated strains in prestressed reinforcement under the design displacement shall be less than 0.01. (c) Prestressed reinforcement shall not contribute more than one-fourth of the positive or negative flexural strength at the critical section in a plastic hinge region and shall be
+anchored at or beyond the exterior face of the joint. (d) Anchorages of post-tensioning tendons resisting earth-
+quake-induced forces shall be capable of allowing tendons to withstand 50 cycles of loading, with prestressed rein-
+forcement forces bounded by 40 and 85 percent of the specified tensile strength of the prestressing reinforcement.
+
+[COMMENTARY] (aci¥
+_a
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

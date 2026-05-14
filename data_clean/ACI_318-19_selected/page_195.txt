@@ -1,0 +1,59 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 195/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 9: CONSTRUCTION 557
+
+
+[COMMENTARY] R26.13.2.1 A record of inspection is required in case
+questions subsequently arise concerning the performance
+or safety of the structure or members. Photographs docu-
+menting construction progress are also desirable. The general building code or other legal documents may require these records be preserved longer than two years after completion of the project.
+
+[CODE] 26.13.2.1 Inspection reports shall document inspected
+items and be developed throughout each construction Work stage. Records of the inspection shall be preserved by the
+party performing the inspection for at least 2 years after
+completion of the project.
+[CODE] 26.13.2.2 Inspection reports shall document (a) through (e):
+[CODE] (a) General progress of the Work. (b) Any significant construction loadings on completed floors, members, or walls. (c) The date and time of mixing, quantity of concrete placed, identification of mixtures used, approximate
+placement location in the structure, and results of tests for fresh and hardened concrete properties for all concrete
+mixtures used in the Work. (d) Concrete temperatures and protection given to concrete
+during placement and curing if the ambient temperature falls below 40°F or rises above 95°F.
+
+[COMMENTARY] oo Construction
+[COMMENTARY] R26.13.2.2(d) The term “ambient temperature” means the temperature of the environment to which the concrete is directly exposed. Concrete temperature as used in this section
+may be taken as the surface temperature of the concrete. Surface temperatures may be determined by placing temper- ature sensors in contact with concrete surfaces or between
+concrete surfaces and covers used for curing, such as insula- tion blankets or plastic sheeting.
+
+[CODE] (e) Placement of reinforcement and tensioning of prestressing
+reinforcement including measurement and recording of
+tendon elongation and force from a calibrated gauge.
+
+[COMMENTARY] R26.13.2.3 If ASTM A615 reinforcement is used for special seismic applications, it is important that the inspector
+review the mill certificates for compliance with the appli- cable requirements provided in the construction documents.
+
+[CODE] 26.13.2.3 For ASTM A615 deformed reinforcement
+used in special seismic systems, verify mill test reports for compliance with the construction documents.
+[CODE] 26.13.2.4 Test reports shall be verified to confirm weld- ability of reinforcement other than ASTM A706, if weld- ability is required.
+[CODE] 26.13.2.5 For post-installed expansion (torque-controlled
+and displacement-controlled), screw, and undercut anchors
+and adhesive anchors, materials, and installation proce-
+dures shall be verified for conformance with the approved
+construction documents and the manufacturer’s recom-
+mended procedures, which are the Manufacturer’s Printed Installation Instructions (MPII) in the case of adhesive
+anchors. Confirm procedures and results of proof loading
+where required in accordance with 26.7. 1(k).
+
+[COMMENTARY] R26.13.3 [tems requiring inspection
+
+[CODE] 26.13.3 [tems requiring inspection
+
+[COMMENTARY] R26.13.3.1 Table 1705 in Chapter 17 of the 2012 IBC was
+used to determine which items of Work require continuous or periodic inspection.
+
+[CODE] 26.13.3.1 Unless otherwise specified in the general building code, items shall be continuously or periodically inspected in
+accordance with 26.13.3.2 and 26.13.3.3, respectively.
+
+[COMMENTARY] aci=
+_a
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

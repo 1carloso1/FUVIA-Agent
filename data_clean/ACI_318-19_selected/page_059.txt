@@ -1,0 +1,38 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 59/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 3: MEMBERS 153
+
+[CODE] 9.9.4.2 Minimum spacing for longitudinal reinforcement shall be in accordance with 25.2.
+[CODE] 9.9.4.3 Spacing of distributed reinforcement required in 9.9.3.1 shall not exceed the lesser of d/5 and 12 in.
+
+[COMMENTARY] R9.9.4.4 In deep beams, the stress in the longitudinal rein-
+forcement is more uniform along the length than that of a
+beam or region that is not deep. High reinforcement stresses
+normally limited to the center region of a typical beam can
+extend to the supports in deep beams. Thus, the ends of
+longitudinal reinforcement may require positive anchorage in the form of standard hooks, bar heads, or other mechan- ical anchorage at supports.
+
+[CODE] 9.9.4.4 Development of tension reinforcement shall
+account for distribution of stress in reinforcement that is not directly proportional to the bending moment.
+
+[COMMENTARY] R9.9.4.5 The use of the strut-and-tie method for the design
+of deep beams illustrates that tensile forces in the bottom tie
+reinforcement need to be anchored at the face of the support.
+From this consideration, tie reinforcement should be contin-
+uous or developed at the face of the support (Rogowsky and
+MacGregor 1986).
+
+[CODE] 9.9.4.5 At simple supports, positive moment tension rein-
+forcement shall be anchored to develop f, at the face of the
+support. If a deep beam is designed using Chapter 23, the positive moment tension reinforcement shall be anchored in
+accordance with 23.8.2 and 23.8.3.
+
+[COMMENTARY] -) Beams
+
+[CODE] 9.9.4.6 At interior supports, (a) and (b) shall be satisfied: (a) Negative moment tension reinforcement shall be
+continuous with that of the adjacent spans. (b) Positive moment tension reinforcement shall be
+continuous or spliced with that of the adjacent spans.
+
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

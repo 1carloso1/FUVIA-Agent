@@ -1,0 +1,35 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 164/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] 526 ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+
+[COMMENTARY] design professional to proportion concrete mixtures. Further, this information is available in other ACI documents, such as ACI 301 and ACI 214R. Finally, the quality control proce- dures of some concrete producers allow meeting the accep- tance criteria of the Code without following the process included in previous editions of the Code.
+[COMMENTARY] R26.4.3.1(a) This section provides requirements for developing mixture proportions. The concrete is required to be workable and to meet the durability and strength requirements of the Code. The term “without segregation” is intended to provide for a cohesive mixture in which aggre- gates remain well distributed while the concrete is in its fresh state. It is recognized that some segregation in the form
+of bleeding will occur. The required workability will depend
+on reinforcement congestion, member geometry, and the
+placement and consolidation methods to be used. Construc- tion requirements of the contractor should be considered in establishing required workability of the concrete. The Code does not include provisions for especially severe exposures, such as chemical contact, high tempera- tures, temporary freezing-and-thawing conditions during construction, abrasive conditions, or other unique durability considerations pertinent to the structure. The Code also does not address aesthetic considerations such as surface finishes. If applicable, these items should be covered specifically in the construction documents. Strength test requirements for standard-cured specimens are given in 26.12.3.
+
+[CODE] (a) Concrete mixture proportions shall be established so that the concrete satisfies (1) through (4): (1) Can be placed without segregation and fully encase reinforcement. (2) Meets durability requirements given in the construc- tion documents. (3) Conforms to strength test requirements for standard- cured specimens.
+
+[COMMENTARY] R26.4.3.1(a)(4) Modulus of elasticity testing may be required for the development of concrete mixtures to verify that specified modulus of elasticity can be obtained. It is
+necessary to specify both E, and test age. Testing to verify that the specified modulus of elasticity is being attained during construction is at the discretion of the licensed design professional, including specification of acceptance criteria. Field testing may also be required by the local building official.
+
+[CODE] (4) Conforms to modulus of elasticity requirements (1)
+through (111) for mixtures requiring testing in accor-
+dance with construction documents. (1) The modulus of elasticity shall be determined as the average modulus obtained from at least three cylinders made from the same sample of concrete and tested at 28 days or at test age designated for E,. (11) Cylinders used to determine modulus of elasticity shall be made and cured in the laboratory in accor-
+dance with ASTM C192 and tested in accordance with ASTM C469. (111) Modulus of elasticity of a concrete mixture shall
+be acceptable if the measured value equals or exceeds the specified value. (b) Concrete mixture proportions shall be established in
+accordance with Article 4.2.3 of ACI 301 or by an alterna- tive method acceptable to the licensed design professional. Alternative methods shall have a probability of satisfying the strength requirements for acceptance tests of standard-
+cured specimens that meets or exceeds the probability associated with the method in Article 4.2.3 of ACI 301. If Article 4.2.3 of ACI 301 is used, the strength test records
+used for establishing and documenting concrete mixture proportions shall not be more than 24 months old.
+
+[COMMENTARY] R26.4.3.1(b) Article 4.2.3 of ACI 301 contains the statis- tical procedures for selecting the required average strength that were included previously in the Code. Alternatively, the concrete producer may provide evidence acceptable to the licensed design professional that the concrete can be propor- tioned by another method to meet the project requirements
+and the acceptance criteria of 26.12.3. The Code presumes that the probability of not meeting the acceptance criteria in 26.12.3 is not more than 1 in 100. Following the method of proportioning in ACI 301 will maintain this level of risk.
+A key factor in evaluating any proposed alternative propor-
+
+[CODE] aci>
+a
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

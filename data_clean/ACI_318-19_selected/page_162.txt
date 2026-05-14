@@ -1,0 +1,52 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 162/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] Table 26.4.2.2(b)—Limits on cementitious materials
+for concrete assigned to Exposure Class F3
+[CODE] Maximum percent of total
+[CODE] cementitious materials by
+Supplementary cementitious
+[CODE] materials mass Fly ash or natural pozzolans 25 conforming to ASTM C618
+[CODE] Slag cement conforming to ASTM 50
+[CODE] C989
+[CODE] Silica fume conforming to ASTM 10
+[CODE] C1240
+[CODE] Total of fly ash or natural pozzolans
+[CODE] vgs 35
+and silica fume
+[CODE] Total of fly ash or natural pozzolans, wae 50
+slag cement, and silica fume
+
+[COMMENTARY] R26.4.2.2(c) Mixture requirements for Exposure Cate-
+gory S are given in 19.3.2.1. ASTM C1012 may be used to evaluate the sulfate resistance of concrete mixtures using alternative combinations of cementitious materials to those listed in Table 19.3.2.1 for all classes of sulfate exposure.
+More detailed guidance on qualification of such mixtures using ASTM C1012 is given in ACI 201.2R. The expansion criteria in Table 26.4.2.2(c) for testing in accordance with
+ASTM C1012 are the same as those in ASTM C595 and
+C1157 for moderate sulfate resistance (Optional Designation
+MS) in Exposure Class $1 and for high sulfate resistance (Optional Designation HS) in Exposure Class $2 and Expo- sure Class $3 Option 2. The 18-month expansion limit only applies for Exposure Class $3, Option 1.
+
+[CODE] (c) For concrete mixtures for members identified in construction documents to be exposed to sulfate, alter- native combinations of cementitious materials to those specified in 26.4.2.1(a)(9) are permitted if tests for sulfate resistance satisfy the criteria in Table 26.4.2.2(c).
+[CODE] Table 26.4.2.2(c)—Requirements for establishing suitability of combinations of cementitious
+materials for Exposure Class S
+[CODE] Maximum length change for tests in accordance
+[CODE] with ASTM C1012, percent
+[CODE] Exposure class At6months | At12 months | At 18 months Sl 0.10 No requirement | No requirement S2 0.05 0.1011 No requirement Option 1 No No requirement 0.10
+93 requirement Option 2 0.05 0.108 No requirement (The 12-month expansion limit applies only if the measured expansion exceeds the 6-month maximum expansion limit.
+
+[COMMENTARY] R26.4.2.2(d) Documentation that the potential for AAR has been evaluated can be provided by the concrete supplier.
+ASTM C1778 provides methods and criteria for determining the reactivity of aggregates and guidance for reducing the risk of deleterious alkali-aggregate reactions in concrete.
+
+[CODE] (d) For concrete identified as being exposed to water in service, evidence shall be submitted that the concrete
+mixture complies with (1) and (2). (1) Aggregates are not alkali-silica reactive or measures to mitigate alkali-silica reactivity have been established. (2) Aggregates are not alkali-carbonate reactive. (e) Compliance with the specified chloride ion content limits shall be demonstrated by (1) or (2). (1) Calculating total chloride ion content of the concrete
+mixture on the basis of measured total chloride ion content from concrete materials and concrete mixture proportions.
+
+[COMMENTARY] R26.4.2.2(e)(1) This procedure was discussed in the
+Commentary of Code editions before ACI 318-19 and
+moved into the Code to remove ambiguity over whether it is permitted. It is common practice for total chloride ion content of a proposed concrete mixture to be evaluated by
+combining total chloride ion content of the concrete mate- rials based on the mixture proportions. Total chloride ion content of cementitious materials and mixing water can be
+determined in accordance with ASTM C114. Total chloride ion content of aggregates can be determined on an aggre- gate sample prepared as specified for concrete samples and
+
+[CODE] American Concrete Institute — Copyrighted © Material — www.concrete.org

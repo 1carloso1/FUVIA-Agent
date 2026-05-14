@@ -1,0 +1,40 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 3/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 1: GENERAL
+
+
+
+[CODE] total cross-sectional area of ties or stirrups acting as parallel tie reinforcement for headed bars, in.”
+= area of shear reinforcement within spacing s, in.” total area of reinforcement in each group of diag- onal bars in a diagonally reinforced coupling beam, 42
+in.
+= area of shear-friction reinforcement, in.” area of shear reinforcement parallel to flexural
+tension reinforcement within spacing 5s, in.”
+= minimum area of shear reinforcement within spacing s, in. projected concrete failure area of a single anchor or group of anchors, for calculation of strength in
+shear, in.”
+= projected concrete failure area of a single anchor,
+
+[COMMENTARY] a Not. & Term.
+
+[CODE] Aveo
+[CODE] for calculation of strength in shear, if not limited by corner influences, spacing, or member thickness, in.? loaded area for consideration of bearing, strut, and
+node strength, in.?
+[CODE] A\
+[CODE] area of the lower base of the largest frustum of a
+[CODE] A)
+[CODE] pyramid, cone, or tapered wedge contained wholly within the support and having its upper base equal to the loaded area. The sides of the pyramid, cone, or tapered wedge shall be sloped one vertical to two horizontal, in.” width of compression face of member, in. cross-sectional dimension of member core
+measured to the outside edges of the transverse reinforcement composing area A,,, in. effective flange width, in. perimeter of critical section for two-way shear in slabs and footings, in.
+= width of strut, in.
+= width of shear lug, in.
+= effective slab width, in.
+[CODE] b slab
+[CODE] width of that part of cross section containing the closed stirrups resisting torsion, in.
+width of cross section at contact surface being investigated for horizontal shear, in.
+web width or diameter of circular section, in.
+dimension of the critical section b, measured in the direction of the span for which moments are deter- mined, in.
+dimension of the critical section b, measured in the direction perpendicular to by, in.
+nominal bearing strength, lb factored bearing load, lb distance from extreme compression fiber to neutral axis, in. critical edge distance required to develop the basic strength as controlled by concrete breakout or bond
+of a post-installed anchor in tension in uncracked concrete without supplementary reinforcement to control splitting, in.
+
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

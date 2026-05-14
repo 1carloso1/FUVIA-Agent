@@ -1,0 +1,31 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 177/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 9: CONSTRUCTION 539
+
+
+[COMMENTARY] manganese is to be used for bars other than ASTM A706.
+A more comprehensive CE expression is given for ASTM
+A706 bars, which is identical to the CE formula presented in ASTM A706. ASTM A706 covers low-alloy steel reinforcing bars intended for applications that require controlled tensile properties, welding, or both. Weldability is accomplished in
+ASTM A706 by requiring the CE not to exceed 0.55 percent
+and controlling the chemical composition. The manufacturer is required by ASTM A706 to report the chemical analysis
+and carbon equivalent (Gustafson and Felder 1991). When
+welding reinforcing bars other than ASTM A706, the construction documents should specifically require that the mill test report include chemical analysis results to permit calculation of the carbon equivalent. It is often necessary to weld to existing reinforcing bars in a structure when no mill test report of the existing reinforce-
+ment is available. This condition is particularly common in
+[COMMENTARY] ‘f Construction
+Pe
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: normative requirements for construction materials.]
+[COMMENTARY] alterations or building expansions. AWS D1.4 states for such bars that a chemical analysis may be performed on repre- sentative bars. If the chemical composition is not known or obtained, AWS D1.4 requires a minimum preheat. For bars other than ASTM A706, the minimum preheat required is
+300°F for No. 6 bars or smaller, and 500°F for No. 7 bars or larger. The required preheat for all sizes of ASTM A706 bars is to be the temperature given in the Welding Code’s table for minimum preheat corresponding to the range of CE “over 0.45 percent to 0.55 percent.” Welding of the partic- ular bars should be performed in accordance with AWS D1.4. It should also be determined if additional precautions are necessary, based on other considerations such as stress level in the bars, consequences of failure, and heat damage to existing concrete due to welding operations. AWS D144 requires the contractor to prepare welding procedure specifications (WPSs) conforming to the require-
+ments of the Welding Code. Appendix A in AWS D1.4 contains a suggested form that shows the information required for a WPS. Welding of wire to wire, and of wire or welded wire rein-
+forcement to reinforcing bars or structural steel elements is not covered by AWS D1.4. If welding of this type is required
+on a project, the construction documents should specify requirements or performance criteria for this welding. If cold-drawn wires are to be welded, the welding proce- dures should address the potential loss of yield strength
+and ductility achieved by the cold-working process (during manufacture) when such wires are heated by welding. These potential concerns are not an issue for machine and resis- tance welding as used in the manufacture of welded plain
+and deformed wire reinforcement covered by ASTM A1064.
+
+[CODE] 26.6.4.2 Compliance requirements:
+[CODE] (a) Welding of all nonprestressed bars shall conform to the requirements of AWS D1.4. ASTM specifications for bar
+
+[COMMENTARY] American Concrete Institute — Copyrighted © Material — www.concrete.org aci y

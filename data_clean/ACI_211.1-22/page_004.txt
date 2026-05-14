@@ -1,0 +1,46 @@
+[DOCUMENT: ACI_211.1-22]
+[PAGE: 4/26]
+[LAYOUT: continuous]
+============================================================
+SELECTING PROPORTIONS FOR NORMAL-DENSITY AND HIGH-DENSITY CONCRETE—GUIDE (ACI PRC-211.1-22) 5
+
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; compressive strength f'c requirements; chemical admixture type classification and performance requirements.]
+production processes, and curing conditions, and can be expected to vary an allowable amount around a central
+mean value (ACI 214R). For instance, some highway pave-
+ment mixtures require reaching target strength in 6 hours, accomplished with high cementitious contents and multiple admixtures. In mass and high-strength concretes (8000 psi), mixtures are often proportioned to provide the design strength at an age greater than 28 days. However, such concrete may require a minimum early-age strength, such as 3 days, to provide for adequate early strength for operations such as form removal, form anchorage, or prestressing. The choice of strength or w/cm can be affected by early-strength or durability requirements.
+
+differential can lead to unacceptable cracks. Temperature control measures including a thermal differential of 35°F (19.4°C) or less should be considered to reduce the potential for such thermally induced cracking. Concrete placements, particularly when the minimum cross-sectional dimensions of a solid concrete member approach or exceed 2 to 3 ft, or
+when low w/cm are being used, may require that measures
+be taken to control the generation of heat. It is possible for concrete temperature to exceed 160°F (70°C), and if the temperature rise of the concrete is not minimized, and the heat is not dissipated at a reasonable rate, or if the concrete is subjected to a severe temperature differential (35°F [19.4°C] or more) or thermal gradient, cracking is likely to occur. Such cracking occurs at the surface of the concrete, typically first at the center of the large surfaces for concrete where restraint is primarily internal (refer to ACI 207.1R Section 4.3.5).
+Temperature control measures can include a relatively low initial placement temperature, replacement of cement with
+SCM, reduced quantities of cementitious materials, use of chemical admixtures, or circulation of chilled water. In some situations, insulation of concrete surfaces may be required to adjust for these various concrete conditions and exposures. It should be emphasized that mass concrete is not necessarily large-aggregate concrete and that concern about generation of an excessive amount of heat in concrete is not confined to
+massive dam or foundation structures.
+
+3.5—Durability Concrete is expected to have a long service life,
+and therefore durability is part of the specification for concrete construction (ACI 301), and concrete building codes (ACI 318) (refer to ACI 201.2R for further details).
+Although meeting the specified compressive strength is an essential and important characteristic of concrete, dura- bility considerations may require a lower w/cm, resulting in strength greater than specified. A low w/cm will prolong the life of concrete by reducing permeability. Resistance to weathering, particularly freezing and thawing, and to salts
+used for ice removal is greatly improved by incorporation of an entrained air system. Entrained air is used in exterior concrete where freezing occurs (ACI 201.2R). The durability of concrete exposed to seawater or sulfate-bearing soils can be enhanced with the use of sulfate-resisting cement, slag cement, silica fume, or other SCMs. In some areas, aggre- gates should be checked for alkali-aggregate reactivity (AAR). If AAR is detected, mitigating steps should be taken. Refer to ACI 201.2R, ACI 221.1R, and ASTM C1778 for
+more information on the mitigation of AAR.
+
+3.8—Permeability Low permeability is an important factor for the produc- tion of durable concrete by minimizing ingress of harmful chemicals, which is often accomplished by the addition of
+an SCM or using low w/cm. Chemical admixtures can also be used if low permeability is required (refer to ACI 212.3R for permeability-reducing admixtures). This is of particular interest concerning highway bridges needing to prevent chloride intrusion that ultimately corrodes the reinforcing steel. At the other end of the permeability scale, pervious concrete is used in areas where it is desirable to have water pass through the concrete for hydrological, environmental, or sustainability reasons. This is managed by the use of little or no fines with the help of chemical admixtures. Refer to ACI 522.1 for additional information regarding pervious concrete.
+
+3.6—Density For certain applications, concrete may be needed primarily for its density. Normal-density concrete is approximately 140 to 150 Ib/ft? (with or without air entrainment). High- density concrete is often used for counterweights on lift bridges, weights for sinking oil pipelines, a shield from radi- ation, and insulation from sound. Some applications of low- density concrete are some bridge decks and elevated floors.
+By using special aggregates, densities as high as 350 Ib/ft?
+and as low as 50 Ib/ft® can be obtained.
+
+3.9—Shrinkage Reducing shrinkage is critical to minimizing concrete cracking. Methods for reducing shrinkage include the reduc- tion of paste content, usage of shrinkage-reducing admix- tures, usage of shrinkage-compensating concrete, adequate curing, and control of water content (refer to ACI 209R
+and ACI 224R for further information). ACI 223R provides information on shrinkage-compensating concrete.
+
+3.7—Generation of heat The hydration of cement generates heat (refer to
+ACI 207.1R and ACI 301 Section 8.1.3 for more informa- tion). Therefore, in many large structural elements where a high volume of concrete is placed, heat generation should
+be considered. A major concern in proportioning mass concrete, or for any concrete element of sufficient size and shape, is the accumulation of excessive heat and consequent expansion of volume. There can be a high thermal differ- ential between the core and the relatively cool surface of the concrete element. The stresses induced by the thermal
+
+3.10—Modulus of elasticity The modulus of elasticity is sometimes of concern in appli- cations where deflections are considered, such as bridges, floors, and the sway of tall buildings.
+
+Copyright American Concrete Institute
+
+American Concrete Institute — Copyrighted © Material — www.concrete.org aci
+
+@seismicisolation

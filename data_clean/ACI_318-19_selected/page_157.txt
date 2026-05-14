@@ -1,0 +1,54 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 157/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 9: CONSTRUCTION 519
+
+
+[COMMENTARY] This Code requires explicit documentation to verify that
+concrete made with crushed hydraulic-cement concrete or
+recycled aggregate can consistently provide the mechanical properties and durability required in design. Such properties
+may have been calculated or assumed in the design process,
+but may not have been specified in contract documents. Specific criteria for approval of concrete made with recycled aggregates including crushed hydraulic-cement concrete are
+expected to be unique to each project and set of exposure conditions. The project-specific test program and accep-
+tance criteria should be established by the licensed design professional. ACI 555R provides information on issues that should be
+considered in verifying required performance.
+
+[CODE] (d) For shotcrete, the aggregate gradation shall conform to
+ASTM C1436.
+
+[COMMENTARY] R26.4.1.3 Mineral fillers
+
+[CODE] 26.4.1.3 Mineral fillers | 26.4.1.3.1 Compliance requirements: | (a) Mineral fillers shall confirm to ASTM C1797.
+
+[COMMENTARY] O) Construction
+[COMMENTARY] R26.4.1.3.1(a) Mineral fillers are finely ground products
+derived from aggregate that can be used in self-consolidating
+concrete or in any concrete mixture to improve the proper- ties of fresh and hardened concrete by optimizing particle
+packing. ASTM C1797 defines Types A and B mineral fillers derived from carbonate aggregate and Type C mineral fillers derived from quarried stone of any mineralogy. Refer to 26.4.2 for restrictions to use of carbonate-based mineral filler in concrete exposed to sulfates.
+[COMMENTARY] R26.4.1.4 Water
+
+[CODE] 26.4.1.4 Water
+
+[COMMENTARY] R26.4.1.4.1 Almost any natural water that is potable and
+has no pronounced taste or odor is satisfactory as mixing
+water for making concrete. Excessive impurities in mixing
+water may affect setting time, concrete strength, and volume stability, and may also cause efflorescence or corrosion of reinforcement. ASTM C1602 allows the use of potable water without testing and includes methods for qualifying nonpotable sources of water, such as from concrete production opera- tions, with consideration of effects on setting time and strength. Testing frequencies are established to ensure
+continued monitoring of water quality. ASTM (C1602 includes optional limits for chlorides, sulfates, alkalis, and solids in mixing water that can be
+invoked if appropriate.
+
+[CODE] 26.4.1.4.1 Compliance requirements:
+[CODE] (a) Mixing water shall confirm to ASTM C1602.
+
+[COMMENTARY] R26.4.1.5 Admixtures
+
+[CODE] 26.4.1.5 Admixtures
+[CODE] 26.4.1.5.1 Compliance requirements:
+
+[COMMENTARY] R26.4.1.5.1(a) ASTM C494 includes Type S—specific
+performance admixtures—that can be specified if perfor-
+
+[CODE] (a) Admixtures shall conform to (1) through (4):
+
+[COMMENTARY] acl}
+[COMMENTARY] American Concrete Institute - Copyrighted © Material — www.concrete.org

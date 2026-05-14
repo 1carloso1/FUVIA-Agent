@@ -1,0 +1,58 @@
+[DOCUMENT: ASTM_C33-13]
+[PAGE: 11/11]
+[LAYOUT: continuous]
+============================================================
+Af c33/¢33M - 13
+seri? REFERENCES
+
+(1) Ahn, N. and Fowler, D. W., “An Experimental Study on the Guidelines for Using Higher Contents of Aggregate Microfines in Portland Cement Concrete,” ICAR Research Report 102-1F, Interna- tional Center for Aggregates Research, University of Texas, Austin,
+TX, 2001, 435 pp. (http://www.icar.utexas.edu/publications/101_2F/ 101_2Cvr.pdf) Norvell, J.K., Stewart, J.G., Juenger, M.C.G and Fowler, D.W., “Influence of Clay and Clay-Sized Particles on Concrete Performance, *Journal of Materials in Civil Engineering, ASCE, Vol 19, No. 12,
+December 2007, pp. 1053-1059. Significance of Tests and Properties of Concrete and Concrete-
+Making Materials, Klieger, Paul and Lamond, Joseph F., Eds, ASTM
+STP 169C, 1994, 623 pages. See Chapter 31 on “Petrographic
+Evaluation of Concrete Aggregates,” by Richard C. Mielenz, Chapter
+32 on “Alkali-Silica Reactions in Concrete” by David Stark, and
+Chapter 33 on “Alkali-Carbonate Rock Reaction” by Michael A.
+Ozol. — “State-of-the-Art Report on Alkali-Aggregate Reactivity” by ACI
+Committee 221 on Aggregates, ACI 221.1R-98, American Concrete
+
+Institute, Farmington Hills, MI, 1998 , 31 pages. (5) Alkali-Aggregate Reaction in Concrete, Berube, M. A., Fournier, B., and Durand, Eds, Proceedings of the 11 International Conference, Quebec City, Canada, June 2000, 1402 pages. (Note—This confer- ence and proceedings includes information on ASR and ACR in concrete by researchers and experts from all over the world. Copies of the volume can be obtained from the International Centre for Sustainable Development of Cement and Concrete, 405 Rochester Street, Ottawa, Ontario, Canada, K1A 0G1.) Hooton, R.D., and Rogers, C.A., “Evaluation of Rapid Test Methods for Detecting Alkali-Reactive Aggregates,” Proceedings of Eighth International Conference on Alkali-Aggregate Reaction, Kyoto, 1989, pp. 439-444. Fournier, B., and Berube, M.A., “Application of the NBRI Acceler- ated Mortar Bar Test to Siliceous Carbonate Aggregates Produced in the St. Lawrence Lowlands, Part 2: Proposed Limits, Rates of Expansion, and Microstructure of Reaction Products,” Cement and Concrete Research, Vol 21, 1991, pp. 1069-1082.
+SUMMARY OF CHANGES
+
+Committee C09 has identified the location of selected changes to this specification since the last issue,
+C33/C33M — Ila, that may impact the use of this specification. (Approved January 1, 2013.)
+
+(/) Revised Table 4.
+
+Committee C09 has identified the location of selected changes to this specification since the last issue,
+C33/C33M — 11, that may impact the use of this specification. (Approved August 1, 2011.)
+
+(/) Revised 4.2.4.3 and 4.3.2.3 to reflect revised location of
+75-um (No. 200) sieve limits.
+
+(3) Revised 6.3 to add new Note 3 providing guidance on characterization of material passing the 75-um (No. 200) sieve.
+
+(2) Moved 75-um (No. 200) sieve limits and associated notes Renumbered subsequent notes.
+from Table 2 to new Table 1 and renumbered subsequent (4) Inserted additional references from new Note 3 into
+
+tables. References section.
+
+Committee C09 has identified the location of selected changes to this specification since the last issue,
+C33/C33M — 08, that may impact the use of this specification. (Approved January 1, 2011.)
+
+(1) Inserted service record provisions in 7.3 and 11.2.
+
+ASTM International takes no position respecting the validity of any patent rights asserted in connection with any item mentioned in this standard. Users of this standard are expressly advised that determination of the validity of any such patent rights, and the risk
+
+of infringement of such rights, are entirely their own responsibility.
+
+This standard is subject to revision at any time by the responsible technical committee and must be reviewed every five years and if not revised, either reapproved or withdrawn. Your comments are invited either for revision of this standard or for additional standards
+and should be addressed to ASTM International Headquarters. Your comments will receive careful consideration at a meeting of the responsible technical committee, which you may attend. If you feel that your comments have not received a fair hearing you should
+make your views known to the ASTM Committee on Standards, at the address shown below.
+This standard is copyrighted by ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428-2959,
+United States. Individual reprints (single or multiple copies) of this standard may be obtained by contacting ASTM at the above
+address or at 610-832-9585 (phone), 610-832-9555 (fax), or service@astm.org (e-mail); or through the ASTM website
+(www.asim.org). Permission rights to photocopy the standard may also be secured from the Copyright Clearance Center, 222
+Rosewood Drive, Danvers, MA 01923, Tel: (978) 646-2600; http:/www.copyright.com/
+
+Copyright by ASTM Int'l (all rights reserved); 11

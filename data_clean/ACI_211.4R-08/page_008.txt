@@ -1,0 +1,61 @@
+[DOCUMENT: ACI_211.4R-08]
+[PAGE: 8/23]
+[LAYOUT: continuous]
+============================================================
+SELECTING PROPORTIONS FOR HIGH-STRENGTH CONCRETE 211.4R-9
+
+Table 6.5—Recommended maximum w/cm for high-strength concrete
+
+wiem
+
+[TABLE: Table 6.5—Recommended maximum w/cm for high-strength concre]
+[TABLE_CONTEXT: This table specifies: particle size distribution limits by sieve size.]
+Required average Maximum-size coarse aggregate, in. compressive 3/8 1/2 3/4 1
+
+strength f/.; psi | with HRWRA| without HRWRA |with HRWRA| without HRWRA |with HRWRA| without HRWRA |with HRWRA| without HRWRA 4000 28-day 0.50 0.42 0.48 0.41 0.45 0.40 0.43 0.39
+
+56-day 0.55 0.46 0.52 0.45 0.48 0.44 0.46 0.43
+
+3000 28-day 0.44 0.35 0.42 0.34 0.40 0.33 0.38 0.33
+
+56-day 0.48 0.38 0.45 0.37 0.42 0.36 0.40 0.35
+
+9000 28-day 0.38 0.30 0.36 0.29 0.35 0.29 0.34 0.28
+
+56-day 0.42 0.33 0.39 0.32 0.37 0.31 0.36 0.30
+
+10.000 28-day 0.33 0.26 0.32 0.26 0.31 0.25 0.30 0.25 , 56-day 0.37 0.29 0.35 0.28 0.33 0.27 0.32 0.26
+
+28-day 0.30 — 0.29 _ 0.27 _ 0.27 _ 56-day 0.33 — 0.31 — 0.29 — 0.29 — 28-day 0.27 _ 0.26 — 0.25 — 0.25 — 56-day 0.30 — 0.28 — 0.27 _ 0.26 _
+
+11,000
+12,000 “fl. = L1Of. +700 psi.
+
+Table 6.6—Recommended values for fly ash replacement of portland cement
+
+[TABLE: Table 6.6—Recommended values for fly ash replacement of por]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; air content requirements.]
+of HRWRA is recommended. A comparison of the values contained in Table 6.5 permits the following conclusions: 1. For a given w/cm, the field strength of concrete is greater with the use of HRWRA than without it, and this greater strength is reached within a shorter period of time; and 2. With the use of HRWRA, a given concrete field strength can be achieved in a given period of time using less cemen- titious material than would be required when not using
+HRWRA. 6.2.3.6 Step 6: Calculate content of cementitious
+material—The mass of cementitious material required per cubic yard of concrete can be determined by dividing the
+amount of mixing water per cubic yard of concrete (Step 4)
+by the w/cm (Step 5). If the specifications include a
+maximum or minimum limit on the amount of cementitious material per cubic yard of concrete, however, this must be satisfied. Therefore, the mixture should be proportioned to contain the larger quantity of cementitious material required. 6.2.3.7 Step 7: Proportion basic mixture with no other cementitious material—One trial mixture should be made with portland cement as the only cementitious material. The following steps should be followed to complete this basic mixture proportion: 1. Cement content—For this mixture, because no other cementitious material is to be used, the mass of cement equals the mass of cementitious material calculated in Step 6; and 2. Fine aggregate content—After determining the
+masses per cubic yard of coarse aggregate, cement, water,
+and the percentage of air content, the fine aggregate content
+can be calculated to produce 27.0 ft using the absolute
+volume method. 6.2.3.8 Step 8: Proportion companion mixtures using fly
+ash—To determine optimum mixture proportions, the user needs to prepare several trial mixtures having different combinations and percentages of cementitious materials. The use of fly ash in producing high-strength concrete can result in lowered water demand, reduced concrete temperature,
+and reduced cost. Due to variations in the chemical properties
+
+Recommended replacement
+Fly ash (percent by mass) Class F 15 to 25 Class C 20 to 35
+of fly ash, however, the strength-gain characteristics of the concrete might be affected. It is therefore recommended that at least two different fly ash contents be used for the
+companion trial mixtures. The following steps should be completed for each companion trial mixture to be proportioned: 1. Fly ash type—Due to differing chemical compositions, the water-reducing and strength-gaining characteristics of fly ash will vary with the type used and its source. Therefore, these characteristics, as well as availability, should be considered when choosing the fly ash to be used; 2. Fly ash content—The amount of cement to be replaced
+by fly ash depends on the type of material to be used. The
+recommended limits for replacement are given in Table 6.6 for the two classes of fly ash. For each companion trial mixture to be designed, a replacement percentage should be
+chosen from Table 6.6; 3. Fly ash mass—Once the percentages for replacement
+have been chosen, the mass of the fly ash to be used for each
+companion trial mixture can be calculated by multiplying the total mass of cementitious materials (Step 6) by the replace-
+ment percentages previously chosen. The remaining mass of cementitious material corresponds to the mass of cement. Therefore, for each mixture, the mass of fly ash plus the mass of cement should equal the mass of cementitious materials calculated in Step 6; 4. Volume of fly ash—Due to the differences in relative density of portland cement and fly ash, the volume of cemen- titious materials per cubic yard will vary with the fly ash content, even though the mass of the cementitious material
+remains constant. Therefore, for each mixture, the volume of

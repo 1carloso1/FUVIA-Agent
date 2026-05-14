@@ -1,0 +1,26 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 118/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] need not exceed Q, times the factored shear calculated by analysis of the structure for earthquake load effects. (b) V, and distributed shear reinforcement shall satisfy 18.10.4. (c) Transverse reinforcement shall be hoops except it shall
+be permitted to use single-leg horizontal reinforcement parallel to £,, where only one curtain of distributed shear reinforcement is provided. Single-leg horizontal rein-
+forcement shall have 180-degree bends at each end that
+engage wall pier boundary longitudinal reinforcement. (d) Vertical spacing of transverse reinforcement shall not
+exceed 6 in. (e) Transverse reinforcement shall extend at least 12 in.
+above and below the clear height of the wall pier. (f) Special boundary elements shall be provided if required
+by 18.10.6.3.
+
+[COMMENTARY] response of the structural system, whether designated as part
+of the seismic-force-resisting system or not, should be consid- ered as required by 18.2.2. Wall piers having (¢,,/b,) < 2.5
+behave essentially as columns. Provision 18.10.8.1 requires that such members satisfy reinforcement and shear strength requirements of 18.7.4 through 18.7.6. Alternative provi- sions are provided for wall piers having (¢,,/b,,) > 2.5. The design shear force determined according to 18.7.6.1
+may be unrealistically large in some cases. As an alternative, 18.10.8.1(a) permits the design shear force to be determined using factored load combinations in which the earthquake effect has been amplified to account for system overstrength.
+Documents such as the NEHRP provisions (FEMA P749),
+ASCE/SEI 7, and the 2018 IBC represent the amplified earthquake effect using the factor Q,. Section 18.10.8.2 addresses wall piers at the edge of a wall. Under in-plane shear, inclined cracks can propagate into segments of the wall directly above and below the wall pier. Unless there is sufficient reinforcement in the adjacent wall segments, shear failure within the adjacent wall segments can occur. The length of embedment of the
+provided reinforcement into the adjacent wall segments should be determined considering both development length requirements and shear strength of the wall segments (refer to Fig. R18.10.8).
+
+[CODE] 18.10.8.2 For wall piers at the edge of a wall, horizontal reinforcement shall be provided in adjacent wall segments
+above and below the wall pier and be designed to transfer the design shear force from the wall pier into the adjacent wall segments.
+[CODE] American Concrete Institute —- Copyrighted © Material — www.concrete.org

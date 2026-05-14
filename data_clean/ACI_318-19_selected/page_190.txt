@@ -1,0 +1,30 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 190/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] 552 ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] (d) Unless otherwise permitted by the licensed design professional, fresh density of lightweight concrete shall be
+acceptable if within +4.0 lb/ft’ of the fresh density corre-
+sponding to the specified equilibrium density.
+
+[COMMENTARY] R26.12.5(d) The permitted tolerance for fresh concrete density for a mixture designed for the specified equilibrium density, w,, is intended to account for variations in aggregate moisture, air content, and batch quantities. The impact of the tolerance in density on the value of 4 assumed in design is
+minimal and deemed to be acceptable. The Licensed Design Professional can consider permitting a larger tolerance on fresh density to accommodate these expected variations
+when appropriate.
+
+[CODE] 26.12.6 Investigation of strength tests
+
+[COMMENTARY] R26.12.6 Investigation of strength tests
+
+[CODE] 26.12.6.1 Compliance requirements:
+
+[COMMENTARY] R26.12.6.1 Requirements are provided if strength tests
+have failed to meet the acceptance criterion of 26.12.3.1(a) (2) or if the average strengths of field-cured cylinders do not comply with 26.5.3.2(e). These requirements are appli- cable only for evaluation of in-place strength at the time of construction. Strength evaluation of existing structures is
+covered by Chapter 27. The building official should apply
+judgment as to the significance of low test results and whether they indicate need for concern. If further investi- gation is deemed necessary, such investigation may include in-place tests as described in ACI 228.1R or, in extreme cases, measuring the compressive strength of cores taken
+from the structure. In-place tests of concrete, such as probe penetration
+(ASTM C803), rebound hammer (ASTM C805), or pullout test (ASTM C900), may be useful in determining whether a portion of the structure actually contains low-strength concrete. Unless these in-place tests have been correlated with compressive strength using accepted procedures, such as described in ACI 228.1R, they are of value primarily for
+comparisons within the same structure rather than as quanti- tative estimates of strength. For cores, if required, conservative acceptance criteria are provided that should ensure structural adequacy for virtu- ally any type of construction (Bloem 1965, 1968; Malhotra 1976, 1977). Lower strength may be tolerated under many circumstances, but this is a matter of judgment on the part of the licensed design professional and building official. If the strengths of cores obtained in accordance with 26.12.6.1(d) fail to comply with 26.12.6.1(e), it may be practicable, particularly in the case of floor or roof systems, for the building official to require a strength evaluation as described in Chapter 27. Short of a strength evaluation, if time and conditions permit, an effort may be made to improve the strength of the concrete in place by supplemental wet curing. Effectiveness of supplemental curing should be verified by further strength evaluation using procedures previously discussed. The Code, as stated, concerns itself with achieving struc- tural safety, and the requirements for investigation of low strength-test results (26.12.6) are aimed at that objective. It is not the function of the Code to assign responsibility for strength deficiencies.
+
+[CODE] American Concrete Institute —- Copyrighted © Material — www.concrete.org

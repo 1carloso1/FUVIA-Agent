@@ -1,0 +1,68 @@
+[DOCUMENT: ACI_211.4R-08]
+[PAGE: 21/23]
+[LAYOUT: continuous]
+============================================================
+ACI COMMITTEE REPORT
+211.4R-22
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: normative requirements for construction materials.]
+From Table 6.4, the estimated mixing water to achieve an initial slump of 1 to 2 in., using a | in. nominal maximum
+coarse aggregate size, is 280 Ib/yd?, The bulk density of the coarse aggregate is given as 100 Ib/ft?.
+From Table 6.3, and for a nominal maximum coarse aggregate size of 1 in., the fractional volume of dry-rodded coarse aggregate per unit volume of concrete is 0.75. The coarse
+aggregate amount is calculated to be 2025 Ib/yd? as
+
+Amount of portland cement =
+683 lb/yd? — 307 Ib/yd? = 376 lb/yd°
+Total cementitious material = 683 Ib/yd? 8.3.2.1.8 Step S—Finally, the yield for first trial mixture containing slag cement is adjusted as follows:
+Trial mixture Method A
+[TABLE: Table 6.4, the estimated mixing water to achieve an initial]
+[TABLE_CONTEXT: This table specifies: air content requirements; chemical admixture type classification and performance requirements.]
+Materials Mass, Ib/yd? Relative density} Volume, ft? Portland cement 376 3.15 1.913 Slag cement 307 2.85 1.726 Gaturated surfacedry)| 2049 272 12.049 Fine aggregates 1033 2.63 6.297 Water 280 — 4.487 Anticipated entrapped 15% _ 0.405 air content Admixtures 9.2 1.2 0.123
+
+0.75(100 Ib/ft*)(27 ft?/yd*) = 2025 Ib/yd?
+The portland cement content is computed by dividing the
+estimated water by the w/cm = 280 Ib/yd?/0.41 = 683 Ib/yd?, To increase slump from 2 in. (before HRWRA) to 6 in. (after HRWRA), HRWRA will need to be added to the mixture.
+A WRA and HRWRA combination may be employed, and the
+combined volume of admixtures used should be considered. The basic concrete mixture is as follows:
+
+Subtotal = 27.00
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; compressive strength f'c requirements; chemical admixture type classification and performance requirements.]
+The mass of the fine aggregate has been adjusted from 1060 to 1033 Ib to adjust for the volume changes resulting from replacing a percentage of the portland cement with slag cement. 8.3.2.1.9 Step 9—The results of this trial mixture should be reviewed before considering if other mixtures (that is, with different w/cm) will be needed. 8.3.2.1.10 Step /0—Both the basic mixture and the slag cement trial mixture should be prepared and evaluated. 8.3.2.1.11 Step JI—No other adjustments were needed. The trial batch amounts of admixtures are reported along with all other results. Scaling up to full-size loads and seasonal variations may require further adjustments. 8.3.2.2 Example 1, Method B—For the same scenario as presented in Example 1, Method A, several portland-cement concrete mixtures without slag cement are on file that could potentially be used in developing a first trial batch for a slag
+cement concrete mixture. Steps 1 through 5 are the same as for Example 1, Method A. Abbreviated, these steps are as follows: 8.3.2.2.1 Step 1—f) = 7250 psi; maximum slump = 6 in.
+Grade 100 slag cement will be used. 8.3.2.2.2 Step 2—
+
+Materials Mass, Ib/yd? Neasity Volume, ft
+Portland cement 683 3.15 3.475 Coarse aggregate (saturated
+surface-dry) at 1% absorption 2045 2.72 12.049 Water 280 — 4.487 Anticipated entrapped air 1.5% _ 0.405
+content ie . HRWRA, oz 9.2 1.2 0.123
+Subtotal = 20.539
+Therefore, 20.5 ft? is the total materials volume without fine aggregate. Applying the absolute volume method, the volume of the fine
+aggregate is the total volume of 27.0 ft? less the combined
+volume of all other ingredients, 20.5 ft, equals 6.46 ft. The computations for the fine aggregate mass for the trial batch basic mixture are as follows: Fine aggregate volume required to yield
+27.0 ft? — 20.539 ft* = 6.461 ft*
+Mass of fine aggregate at saturated surface-dry
+
+fey = VAfe + 700 psi (3-3)
+
+6.461 x (2.63 x 62.4) = 1060 Ib
+
+fey = 1.1°7250) + 700
+
+Basic mixture Method A
+
+Sey = 8680 psi
+
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: air content requirements; chemical admixture type classification and performance requirements.]
+Materials Mass, Ib/yd? Relative density Volume, ft? Portland cement 683 3.15 3.475 Gaturated surtace-dry)] 2049 272 12.049 Fine aggregates 1060 2.63 6.461 Water 280 — 4.487 Anticipated entrapped 1.5% _ 0.405 air content Admixtures 9.2 1.2 0.123
+
+8.3.2.2.3 Step 3—From Fig 8.4, the maximum strength point lies at the 45% slag cement content. 8.3.2.2.4 Step 4—From Fig. 8.4, the maximum strength point is 114% of the strength of the mixture without slag cement. 8.3.2.2.5 Step 5—The portion of the required average compressive strength f/,., which is relegated to portland
+cement PCyysi> is PCy = (Se, J)00/[SCI %])
+psi
+
+Subtotal = 27.00
+8.3.2.1.7 Step 7—
+Amount of slag cement = 683 Ib/yd?(0.45) = 307 Ib/yd?
+
+= (8680)(100/114)

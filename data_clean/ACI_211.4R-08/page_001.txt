@@ -1,0 +1,65 @@
+[DOCUMENT: ACI_211.4R-08]
+[PAGE: 1/23]
+[LAYOUT: continuous]
+============================================================
+ACI COMMITTEE REPORT
+211.4R-2
+4.4—Silica fume
+4.5—Slag cement
+4.6—Combinations of other cementitious materials
+4.7—Mixing water
+4.8—Coarse aggregate
+4.9—Fine aggregate
+4.10—Chemical admixtures
+
+suppliers, and engineers who have been involved in projects dealing with high-strength concrete. The reader may refer to
+ACI 363R for a more complete list of publications and references available on this topic.
+CHAPTER 2—NOTATION AND DEFINITIONS
+ACI provides a comprehensive list of acceptable notation
+and definitions through an online resource, “ACI Concrete Terminology” (American Concrete Institute 2008).
+
+5. 1—Introduction 5.2—Water-cementitious material ratio
+5.3—Workability
+
+2.1—Notation
+fi = compressive strength
+tf = required average compressive strength
+2.2—Definitions cement, slag—granulated blast-furnace slag that has been finely ground and that is hydraulic cement. Note: before
+March 1, 2003, defined as: “hydraulic cement consisting mostly of an intimate and uniform blend of granulated blast- furnace slag and portland cement, hydrated lime, or both, in
+which the slag constituent is at least 70% by mass of the finished product.” fly ash—the finely divided residue that results from the
+combustion of ground or powdered coal and that is trans- ported by flue gases from the combustion zone to the particle
+removal system. materials, cementitious—cements and pozzolans used in concrete and masonry construction. pozzolan—a siliceous or siliceous and aluminous material that in itself possesses little or no cementitious value but that will, in finely divided form and in the presence of moisture, chemically react with calcium hydroxide at ordinary temper- atures to form compounds having cementitious properties; there are both natural and artificial pozzolans. silica fume—very fine noncrystalline silica produced in electric arc furnaces as a by-product of the production of elemental silicon or alloys containing silicon. strength—the ability of a material to resist strain or rupture induced by external forces. The following terms are defined herein for the purpose of clarification and used throughout this report: binary mixtures—concrete mixtures that contain two supplementary cementitious materials. high strength—specified compressive strength f{’ greater than 6000 psi. normal strength—specified compressive strength f equal to or less than 6000 psi. quad blends—concrete mixtures that contain four supple-
+mentary cementitious materials. slag index—percent of compressive strength increase resulting from the slag cement dosage relative to the 28-day compressive strength of the same mixture without slag cement. ternary mixtures—concrete mixtures that contain more than three supplementary cementitious materials.
+
+6.1— Fundamental relationship»
+6.2—Concrete mixture proportioning
+6.3—Sample calculations
+aa 7: gt x Da ey 7. |—Fundamental relationships
+7.2—Concrete mixture proportioning
+7.3—Sample calculations
+Py mete Boat ieviy ete ets porte rests oie tae
+SP PESRP REY Ge STRASEEMSS ER RSS RSLSS AOA SE So EASES PORE EASE NS TM c Oak ak ARS a oy
+Pood SHR PEERS RON SE PERRIER ES Goo ee ooo eae dk SoS SSke ch OS
+seP AS Sat ERASYSETSSS GRAS ERSMe Sah SARS ESSE TRL BS. a PPE ge
+at
+8.1—Fundamental relationships
+8.2—Concrete mixture proportioning
+8.3—Sample calculations
+2 : . mo Re TM
+S eet co Yo Say Pnwan ar =
+Ps seers MS anaes PissEaPeSysteTSS, 8. <
+& an é
+SARS ods hn
+— Referenced standards and reports -
+2Cited references
+[TABLE: Normative table]
+[TABLE_CONTEXT: This table specifies: maximum water-cementitious materials ratio w/cm limits; compressive strength f'c requirements; chloride exposure classes and chloride ion content limits; chemical admixture type classification and performance requirements.]
+CHAPTER 1—INTRODUCTION AND SCOPE
+1.1—Introduction ACI 211.1 describes methods for selecting proportions for normal-strength concrete in the range of 2000 to 6000 psi. This guide supplements ACI 211.1 by presenting several
+methods for selecting mixture proportions for high-strength concrete and for optimizing these proportions on the basis of trial batches. Usually, for high-strength concrete mixtures specially selected cementitious materials and chemical admixtures are used, and achieving a low water-cementitious material ratio (w/cm) is considered essential. Many trial mixtures are often required to generate the data necessary to identify optimum mixture proportions.
+1.2—Scope Discussion in this guide is limited to high-strength concrete produced using conventional materials and production methods. While high-strength concrete is defined in ACI 363.2R as concrete that has a specified compressive strength f/ of
+8000 psi or greater, this guide provides methods for selecting mixture proportions for f’ greater than 6000 psi. The following
+recommendations are based on accepted ACI 211.1 methods, current practice, and information from contractors, concrete
+
+CHAPTER 3—PERFORMANCE REQUIREMENTS
+3.1—Test age The selection of mixture proportions can be influenced by the age at which the strength level is required. Because most

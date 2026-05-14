@@ -1,0 +1,61 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 64/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[COMMENTARY] PART 3: MEMBERS 159
+
+[CODE] 10.7.1.3 Along development and lap splice lengths of longitudinal bars with f, = 80,000 psi, transverse reinforce-
+ment shall be provided such that K;,, shall not be smaller than 0.5d;,.
+[CODE] 10.7.1.4 Bundled bars shall be in accordance with 25.6.
+[CODE] 10.7.2 Reinforcement spacing
+[CODE] 10.7.2.1 Minimum spacing s shall be in accordance with 25.2.
+
+[COMMENTARY] R10.7.3 Longitudinal reinforcement
+
+[CODE] 10.7.3 Longitudinal reinforcement
+
+[COMMENTARY] R10.7.3.1 At least four longitudinal bars are required
+when bars are enclosed by rectangular or circular ties. For other tie shapes, one bar should be provided at each apex or corner and proper transverse reinforcement provided. For
+example, tied triangular columns require at least three longi- tudinal bars, with one at each apex of the triangular ties. For
+
+[CODE] 10.7.3.1 For nonprestressed columns and for prestressed
+columns with average f,. < 225 psi, the minimum number of longitudinal bars shall be (a), (b), or (c): (a) Three within triangular ties (b) Four within rectangular or circular ties (c) Six enclosed by spirals or for columns of special
+moment frames enclosed by circular hoops
+
+[COMMENTARY] oO Columns
+[COMMENTARY] bars enclosed by spirals, at least six bars are required. If the number of bars in a circular arrangement is less than eight, the orientation of the bars may significantly affect the
+moment strength of eccentrically loaded columns and should
+be considered in design.
+
+[CODE] 10.7.4 Offset bent longitudinal reinforcement
+[CODE] 10.7.4.1 The slope of the inclined portion of an offset
+bent longitudinal bar relative to the longitudinal axis of the
+column shall not exceed 1 in 6. Portions of bar above and
+below an offset shall be parallel to axis of column.
+[CODE] 10.7.4.2 If the column face is offset 3 in. or more, longi- tudinal bars shall not be offset bent and separate dowels, lap spliced with the longitudinal bars adjacent to the offset
+column faces, shall be provided.
+
+[COMMENTARY] R10.7.5 Splices of longitudinal reinforcement
+
+[CODE] 10.7.5 Splices of longitudinal reinforcement
+
+[COMMENTARY] R10.7.5.1 General
+
+[CODE] 10.7.5.1 General
+[CODE] 10.7.5.1.1 Lap splices, mechanical splices, butt-welded splices, and end-bearing splices shall be permitted.
+
+[COMMENTARY] R10.7.5.1.2 Frequently, the basic gravity load combina- tion will govern the design of the column itself, but a load
+combination including wind or earthquake effects may induce greater tension in some column bars. Each bar splice should
+be designed for the maximum calculated bar tensile force.
+
+[CODE] 10.7.5.1.2 Splices shall satisfy requirements for all factored load combinations.
+
+[COMMENTARY] R10.7.5.1.3 For the purpose of calculating 4 for tension lap splices in columns with offset bars, Fig. R10.7.5.1.3 illustrates the clear spacing to be used.
+
+[CODE] 10.7.5.1.3 Splices of deformed reinforcement shall be in
+accordance with 25.5 and, if applicable, shall satisfy the
+requirements of 10.7.5.2 for lap splices or 10.7.5.3 for end- bearing splices.
+
+[COMMENTARY] aci=
+I
+[COMMENTARY] American Concrete Institute - Copyrighted © Material - www.concrete.org

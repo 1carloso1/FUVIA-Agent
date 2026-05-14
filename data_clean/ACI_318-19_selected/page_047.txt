@@ -1,0 +1,46 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 47/196]
+[LAYOUT: continuous]
+============================================================
+PART 3: MEMBERS 141
+CODE COMMENTARY
+c
+x
+a Face of support /
+Moment
+Points of strength
+inflection (P.I.)) of bars a
+Moment
+strength of bars b
+Xx
+Mid-span of
+member ow
+Moment
+. Curve Y (d, 12d,
+or (,/16)
+-) Beams
+4; ~< 2 Cg _ Va 2 (dor 12d,) rEmbedment
+c x |* -_ | | otbars a> /g
+| _ NS Bars b
+— 2 lg XA
+XL Pl. — Bars a > (d or 12d,)
+y 7 2 bg -
+Section 25.4.2.1, or 9.7.3.8,
+Diameter of bars a limited by Section 9.7.3.8.3 at point of inflection
+
+or fae for compression when
+bottom bars used as
+compression reinforcement
+
+Fig. R9.7.3.2—Development offlexural reinforcement in a typical continuous beam.
+R9.7.3.3 The moment diagrams customarily used in design are approximate; some shifting of the location of maximum
+moments may occur due to changes in loading, settlement of supports, lateral loads, or other causes. A diagonal tension crack in a flexural member without stirrups may shift the location of the calculated tensile stress approximately a distance d toward a point of zero moment. If stirrups are provided, this effect is less severe, although still present to some extent. To provide for shifts in the location of maximum moments, the Code requires the extension of reinforcement a distance
+d or 12d, beyond the point at which it is calculated to be
+no longer required to resist flexure, except as noted. Cutoff points of bars to meet this requirement are illustrated in Fig. R9.7.3.2. If different bar sizes are used, the extension should be in accordance with the diameter of the bar being terminated.
+
+9.7.3.3 Reinforcement shall extend beyond the point at
+which it is no longer required to resist flexure for a distance equal to the greater of d and 12d,, except at supports of simply-supported spans and at free ends of cantilevers.
+
+aci=
+American Concrete Institute - Copyrighted © Material — www.concrete.org
+_

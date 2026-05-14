@@ -1,0 +1,27 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 196/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] 26.13.3.2 Items requiring verification and continuous inspection shall include (a) through (e): (a) Prior to placement, concrete mixture for intended location. (b) Tensioning of prestressing reinforcement and grouting
+of bonded tendons. (c) Placement of reinforcement for special moment frames, boundary elements of special structural walls, and coupling beams. (d) Welding of reinforcement for special moment frames,
+boundary elements of special structural walls, and coupling beams. (e) Post-installed anchor installation, if required as a condition of the anchor assessment or if adhesive anchors are installed in horizontal or upwardly inclined orienta- tions to resist sustained tensile loads.
+[CODE] 26.13.3.3 Items requiring verification and periodic inspec- tion shall include (a) through (j):
+[CODE] (a) Placement of reinforcement, embedments, and post- tensioning tendons. (b) Welding of reinforcement except as required in 26.13.3.2(d). (c) Curing method and duration of curing for each member. (d) Construction and removal of forms and reshoring. (e) Sequence of erection and connection of precast members.
+
+[COMMENTARY] R26.13.3.3(e) Some jurisdictions may require continuous inspection of sequence of erection and connection of precast
+members, and also may require inspection of the shoring, bracing, or other temporary measures.
+
+[CODE] (f) Verification of in-place strength of concrete before stressing post-tensioned tendons and before removal of shores and formwork from beams and structural slabs. (g) Placement of cast-in-anchors and anchor reinforce- ment, including tolerances required for location of anchor reinforcement. (h) Installation of post-installed expansion (torque- controlled and displacement-controlled) screw, and
+undercut anchors. (i) Installation of adhesive anchors, except as required in 26.13.3.2(e).
+
+[COMMENTARY] R26.13.3.3(i) Inspection requirements for adhesive anchors are different from other post-installed anchors and are derived from four sources: a) the general building code,
+which requires periodic inspection for anchors in concrete; b) the assessment and qualification of the anchor under the provisions of ACI 355.4, which may require either peri- odic inspection or continuous inspection with proof loading
+depending on the strength reduction factors assigned to the anchor; c) the requirements of 26.13.3.2(e), which mandate continuous inspection for anchors in a horizontal or upwardly inclined orientation to resist sustained tension loads; and d) the proof loading requirement of 26.13.2.5.
+
+[CODE] (j) Proof loading of anchors if required in accordance with 26.13.2.5.
+aci>
+_
+[CODE] American Concrete Institute - Copyrighted © Material — www.concrete.org

@@ -1,0 +1,48 @@
+[DOCUMENT: ACI_318-19_selected]
+[PAGE: 136/196]
+[LAYOUT: CODE/COMMENTARY]
+============================================================
+[CODE] 352 ACI 318-19: BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE
+
+
+[CODE] reinforcement shall be provided over a length f,, as defined in 18.7.5.1, from each joint face. (d) Joints shall satisfy Chapter 15.
+[CODE] 18.14.3.3 Where the induced moments or shears exceed
+oM,, or OV, of the frame member, or if induced moments or shears are not calculated, (a) through (d) shall be satisfied:
+[CODE] (a) Materials, mechanical splices, and welded splices shall satisfy the requirements for special moment frames in 18.2.5 through 18.2.8. (b) Beams shall satisfy 18.14.3.2(a) and 18.6.5. (c) Columns shall satisfy 18.7.4, 18.7.5, and 18.7.6. (d) Joints shall satisfy 18.4.4.1.
+[CODE] 18.14.4 Precast beams and columns
+
+[COMMENTARY] R18.14.4 Precast beams and columns
+[COMMENTARY] R18.14.4.1 Damage to some buildings with precast concrete gravity systems during the 1994 Northridge earth-
+quake was attributed to several factors addressed in this section. Columns should contain ties over their entire height,
+frame members not proportioned to resist earthquake forces
+should be tied together, and longer bearing lengths should
+be used to maintain integrity of the gravity system during
+ground motion. The 2 in. increase in bearing length is based
+on an assumed 4 percent story drift ratio and 50 in. beam depth, and is considered to be conservative for the ground
+motions expected for structures assigned to SDC D, E, or F. In addition to this provision, precast frame members assumed not to contribute to lateral resistance should also satisfy the requirements for cast-in-place construction addressed in 18.14.3, as applicable.
+
+[CODE] 18.14.4.1 Precast concrete frame members assumed not to contribute to lateral resistance, including their connections, shall satisfy (a) through (d):
+[CODE] (a) Requirements of 18.14.3 (b) Ties specified in 18.14.3.2(b) over the entire column height, including the depth of the beams (c) Structural integrity reinforcement, in accordance with 4.10 (d) Bearing length at the support of a beam shall be at least
+2 in. longer than determined from 16.2.6
+[CODE] 18.14.5 Slab-column connections
+
+[COMMENTARY] R18.14.5 S/ab-column connections
+[COMMENTARY] R18.14.5.1 Provisions for shear reinforcement at slab-
+column connections are intended to reduce the likelihood
+of slab punching shear failure if the design story drift ratio exceeds the value specified. No calculation of induced moments is required, based on research (Megally and Ghali 2002; Moehle 1996; Kang and
+Wallace 2006; Kang et al. 2007) that identifies the likeli-
+hood of punching shear failure considering the story drift ratio and shear stress v,, due to gravity loads and the vertical
+component of earthquake loads, without moment transfer,
+about the slab critical section. Figure R18.14.5.1 illustrates the requirement for nonprestressed and unbonded post- tensioned slab-column connections. The requirement can be satisfied by adding slab shear reinforcement, increasing slab thickness, changing the design to reduce the design story drift ratio, or a combination of these. If column capitals, drop panels, shear caps, or other
+changes in slab thickness are used, the requirements of 18.14.5 are evaluated at all potential critical sections, as required by 22.6.5.1.
+
+[CODE] 18.14.5.1 For slab-column connections of two-way slabs without beams, slab shear reinforcement satisfying the requirements of 18.14.5.3 and either 8.7.6 or 8.7.7 shall be
+provided at any slab critical section defined in 22.6.4.1 for the following conditions:
+[CODE] (a) Nonprestressed slabs where A,/h,, > 0.035 — (1/20) (Vur/v.)
+(b) Unbonded post-tensioned slabs with f,. in each direc- tion meeting the requirements of 8.6.2.1, where A,/h,,. >
+0.040 — (1/20)(¥,,/ov-,)
+[CODE] The load combinations to be evaluated for v,, shall only include those with E. The value of (A,/h,,) shall be taken as the greater of the values of the adjacent stories above and below the slab-column connection, v, shall be calculated in accor-
+dance with 22.6.5; and, for unbonded post-tensioned slabs, the value of V, shall be taken as zero when calculating ¥,.
+[CODE] aci=
+I
+[CODE] American Concrete Institute — Copyrighted © Material — www.concrete.org
