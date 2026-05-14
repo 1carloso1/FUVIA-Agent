@@ -14,6 +14,8 @@ include/
 data/
 data_cleaned/
 data_corrupted/
+data_clean/
+audit_report/
 
 # --- Base de Datos Vectorial ---
 # No se sube la DB local, se regenera con el script de ingesta
